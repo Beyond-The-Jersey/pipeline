@@ -1,8 +1,8 @@
 {
   "team": "Houston Rockets",
   "sport": "basketball",
-  "league": "NBA",
-  "country": "USA",
+  "league": "nba",
+  "country": "Unknown",
   "contact": {
     "phone": "+1 800 XXX XXXX",
     "email": "marketing@houston-rockets.com",

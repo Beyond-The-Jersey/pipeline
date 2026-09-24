@@ -1,8 +1,8 @@
 {
   "team": "Philadelphia 76ers",
   "sport": "basketball",
-  "league": "NBA",
-  "country": "USA",
+  "league": "nba",
+  "country": "Unknown",
   "contact": {
     "phone": "+1 800 XXX XXXX",
     "email": "marketing@philadelphia-76ers.com",

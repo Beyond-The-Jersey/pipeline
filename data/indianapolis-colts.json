@@ -1,0 +1,34 @@
+{
+  "team": "Indianapolis Colts",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@indianapolis-colts.com",
+    "twitter": "@indianapoliscolts",
+    "website": "https://www.indianapolis-colts.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Indianapolis Colts to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@indianapolis-colts.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@indianapoliscolts",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

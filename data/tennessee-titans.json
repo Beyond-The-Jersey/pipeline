@@ -1,0 +1,34 @@
+{
+  "team": "Tennessee Titans",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@tennessee-titans.com",
+    "twitter": "@tennesseetitans",
+    "website": "https://www.tennessee-titans.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Tennessee Titans to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@tennessee-titans.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@tennesseetitans",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

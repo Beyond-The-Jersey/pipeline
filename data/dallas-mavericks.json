@@ -1,8 +1,8 @@
 {
   "team": "Dallas Mavericks",
   "sport": "basketball",
-  "league": "NBA",
-  "country": "USA",
+  "league": "nba",
+  "country": "Unknown",
   "contact": {
     "phone": "+1 800 XXX XXXX",
     "email": "marketing@dallas-mavericks.com",

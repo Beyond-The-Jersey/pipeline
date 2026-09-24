@@ -1,0 +1,34 @@
+{
+  "team": "Denver Broncos",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@denver-broncos.com",
+    "twitter": "@denverbroncos",
+    "website": "https://www.denver-broncos.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Denver Broncos to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@denver-broncos.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@denverbroncos",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

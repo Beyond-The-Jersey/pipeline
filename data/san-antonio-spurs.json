@@ -1,8 +1,8 @@
 {
   "team": "San Antonio Spurs",
   "sport": "basketball",
-  "league": "NBA",
-  "country": "USA",
+  "league": "nba",
+  "country": "Unknown",
   "contact": {
     "phone": "+1 800 XXX XXXX",
     "email": "marketing@san-antonio-spurs.com",

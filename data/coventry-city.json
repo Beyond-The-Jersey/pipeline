@@ -1,8 +1,8 @@
 {
   "team": "Coventry City",
   "sport": "soccer",
-  "league": "Premier League",
-  "country": "England",
+  "league": "premier_league",
+  "country": "Unknown",
   "contact": {
     "phone": "+44 800 XXX XXXX",
     "email": "marketing@coventry-city.com",

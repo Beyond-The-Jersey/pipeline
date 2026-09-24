@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "checked_at": "2026-09-24T17:25:37.287449+00:00",
+  "checked_at": "2026-09-24T17:35:51.055636+00:00",
   "hr_databases": {
     "hrf": "https://hrforum.org",
     "amnesty": "https://amnesty.org",
@@ -8,6 +8,17 @@
     "bhr": "https://business-humanrights.org"
   },
   "teams": {
+    "arizona-cardinals": {
+      "team": "Arizona Cardinals",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "arsenal": {
       "team": "Arsenal",
       "verified": true,
@@ -30,8 +41,30 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "atlanta-falcons": {
+      "team": "Atlanta Falcons",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "atlanta-hawks": {
       "team": "Atlanta Hawks",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "baltimore-ravens": {
+      "team": "Baltimore Ravens",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -96,6 +129,28 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "buffalo-bills": {
+      "team": "Buffalo Bills",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "carolina-panthers": {
+      "team": "Carolina Panthers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "charlotte-hornets": {
       "team": "Charlotte Hornets",
       "verified": true,
@@ -118,8 +173,41 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "chicago-bears": {
+      "team": "Chicago Bears",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "chicago-bulls": {
       "team": "Chicago Bulls",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "cincinnati-bengals": {
+      "team": "Cincinnati Bengals",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "cleveland-browns": {
+      "team": "Cleveland Browns",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -162,6 +250,17 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "dallas-cowboys": {
+      "team": "Dallas Cowboys",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "dallas-mavericks": {
       "team": "Dallas Mavericks",
       "verified": true,
@@ -173,8 +272,30 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "denver-broncos": {
+      "team": "Denver Broncos",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "denver-nuggets": {
       "team": "Denver Nuggets",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "detroit-lions": {
+      "team": "Detroit Lions",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -228,8 +349,30 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "green-bay-packers": {
+      "team": "Green Bay Packers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "houston-rockets": {
       "team": "Houston Rockets",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "houston-texans": {
+      "team": "Houston Texans",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -261,6 +404,17 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "indianapolis-colts": {
+      "team": "Indianapolis Colts",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "ipswich-town": {
       "team": "Ipswich Town",
       "verified": true,
@@ -272,8 +426,41 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "jacksonville-jaguars": {
+      "team": "Jacksonville Jaguars",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "kansas-city-chiefs": {
+      "team": "Kansas City Chiefs",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "la-clippers": {
       "team": "LA Clippers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "las-vegas-raiders": {
+      "team": "Las Vegas Raiders",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -305,8 +492,30 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "los-angeles-chargers": {
+      "team": "Los Angeles Chargers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "los-angeles-lakers": {
       "team": "Los Angeles Lakers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "los-angeles-rams": {
+      "team": "Los Angeles Rams",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -349,6 +558,17 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "miami-dolphins": {
+      "team": "Miami Dolphins",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "miami-heat": {
       "team": "Miami Heat",
       "verified": true,
@@ -382,8 +602,63 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "minnesota-vikings": {
+      "team": "Minnesota Vikings",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "new-england-patriots": {
+      "team": "New England Patriots",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "new-orleans-pelicans": {
       "team": "New Orleans Pelicans",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "new-orleans-saints": {
+      "team": "New Orleans Saints",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "new-york-giants": {
+      "team": "New York Giants",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "new-york-jets": {
+      "team": "New York Jets",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -459,8 +734,30 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "philadelphia-eagles": {
+      "team": "Philadelphia Eagles",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "phoenix-suns": {
       "team": "Phoenix Suns",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "pittsburgh-steelers": {
+      "team": "Pittsburgh Steelers",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -503,8 +800,52 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "san-francisco-49ers": {
+      "team": "San Francisco 49ers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "seattle-seahawks": {
+      "team": "Seattle Seahawks",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "sunderland": {
       "team": "Sunderland",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "tampa-bay-buccaneers": {
+      "team": "Tampa Bay Buccaneers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "tennessee-titans": {
+      "team": "Tennessee Titans",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -547,6 +888,17 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "washington-commanders": {
+      "team": "Washington Commanders",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "washington-wizards": {
       "team": "Washington Wizards",
       "verified": true,
@@ -560,13 +912,13 @@
     }
   },
   "summary": {
-    "total_teams": 50,
-    "verified": 50,
+    "total_teams": 82,
+    "verified": 82,
     "verification_rate": 100.0,
     "total_errors": 0,
     "total_warnings": 0,
     "total_hr_flags": 0,
-    "contact_present": 50,
-    "shame_present": 50
+    "contact_present": 82,
+    "shame_present": 82
   }
 }

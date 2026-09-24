@@ -105,7 +105,7 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T17:24:56.336805+00:00"
+    "collected_at": "2026-09-24T17:33:06.655097+00:00"
   },
   "basketball_nba": {
     "sport": "basketball",
@@ -263,6 +263,174 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T17:24:57.204797+00:00"
+    "collected_at": "2026-09-24T17:33:07.290228+00:00"
+  },
+  "american_football_nfl": {
+    "sport": "american_football",
+    "league": "nfl",
+    "url": "https://www.nfl.com/teams/",
+    "teams": [
+      {
+        "name": "Arizona Cardinals",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Atlanta Falcons",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Carolina Panthers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Chicago Bears",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Dallas Cowboys",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Detroit Lions",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Green Bay Packers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Los Angeles Rams",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Minnesota Vikings",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "New Orleans Saints",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "New York Giants",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Philadelphia Eagles",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "San Francisco 49ers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Seattle Seahawks",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Tampa Bay Buccaneers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Washington Commanders",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Baltimore Ravens",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Buffalo Bills",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Cincinnati Bengals",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Cleveland Browns",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Denver Broncos",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Houston Texans",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Indianapolis Colts",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Jacksonville Jaguars",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Kansas City Chiefs",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Las Vegas Raiders",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Los Angeles Chargers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Miami Dolphins",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "New England Patriots",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "New York Jets",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Pittsburgh Steelers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Tennessee Titans",
+        "sponsors": [],
+        "website": ""
+      }
+    ],
+    "collected_at": "2026-09-24T17:33:08.187028+00:00"
   }
 }

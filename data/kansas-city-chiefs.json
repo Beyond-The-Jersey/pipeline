@@ -1,0 +1,34 @@
+{
+  "team": "Kansas City Chiefs",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@kansas-city-chiefs.com",
+    "twitter": "@kansascitychiefs",
+    "website": "https://www.kansas-city-chiefs.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Kansas City Chiefs to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@kansas-city-chiefs.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@kansascitychiefs",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

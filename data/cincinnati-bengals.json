@@ -1,0 +1,34 @@
+{
+  "team": "Cincinnati Bengals",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@cincinnati-bengals.com",
+    "twitter": "@cincinnatibengals",
+    "website": "https://www.cincinnati-bengals.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Cincinnati Bengals to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@cincinnati-bengals.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@cincinnatibengals",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

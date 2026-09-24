@@ -5,353 +5,495 @@
     {
       "name": "Arsenal",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "arsenal.json"
     },
     {
       "name": "Aston Villa",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "aston-villa.json"
     },
     {
       "name": "Bournemouth",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "bournemouth.json"
     },
     {
       "name": "Brentford",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "brentford.json"
     },
     {
       "name": "Brighton and Hove Albion",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "brighton-hove-albion.json"
     },
     {
       "name": "Chelsea",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "chelsea.json"
     },
     {
       "name": "Coventry City",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "coventry-city.json"
     },
     {
       "name": "Crystal Palace",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "crystal-palace.json"
     },
     {
       "name": "Everton",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "everton.json"
     },
     {
       "name": "Fulham",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "fulham.json"
     },
     {
       "name": "Hull City",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "hull-city.json"
     },
     {
       "name": "Ipswich Town",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "ipswich-town.json"
     },
     {
       "name": "Leeds United",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "leeds-united.json"
     },
     {
       "name": "Liverpool",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "liverpool.json"
     },
     {
       "name": "Manchester City",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "manchester-city.json"
     },
     {
       "name": "Manchester United",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "manchester-united.json"
     },
     {
       "name": "Newcastle United",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "newcastle-united.json"
     },
     {
       "name": "Nottingham Forest",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "nottingham-forest.json"
     },
     {
       "name": "Sunderland",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "sunderland.json"
     },
     {
       "name": "Tottenham Hotspur",
       "sport": "soccer",
-      "league": "Premier League",
-      "country": "England",
+      "league": "premier_league",
       "file": "tottenham-hotspur.json"
     },
     {
       "name": "Boston Celtics",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "boston-celtics.json"
     },
     {
       "name": "Brooklyn Nets",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "brooklyn-nets.json"
     },
     {
       "name": "New York Knicks",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "new-york-knicks.json"
     },
     {
       "name": "Philadelphia 76ers",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "philadelphia-76ers.json"
     },
     {
       "name": "Toronto Raptors",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "toronto-raptors.json"
     },
     {
       "name": "Chicago Bulls",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "chicago-bulls.json"
     },
     {
       "name": "Cleveland Cavaliers",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "cleveland-cavaliers.json"
     },
     {
       "name": "Detroit Pistons",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "detroit-pistons.json"
     },
     {
       "name": "Indiana Pacers",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "indiana-pacers.json"
     },
     {
       "name": "Milwaukee Bucks",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "milwaukee-bucks.json"
     },
     {
       "name": "Atlanta Hawks",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "atlanta-hawks.json"
     },
     {
       "name": "Charlotte Hornets",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "charlotte-hornets.json"
     },
     {
       "name": "Miami Heat",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "miami-heat.json"
     },
     {
       "name": "Orlando Magic",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "orlando-magic.json"
     },
     {
       "name": "Washington Wizards",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "washington-wizards.json"
     },
     {
       "name": "Denver Nuggets",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "denver-nuggets.json"
     },
     {
       "name": "Minnesota Timberwolves",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "minnesota-timberwolves.json"
     },
     {
       "name": "Oklahoma City Thunder",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "oklahoma-city-thunder.json"
     },
     {
       "name": "Portland Trail Blazers",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "portland-trail-blazers.json"
     },
     {
       "name": "Utah Jazz",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "utah-jazz.json"
     },
     {
       "name": "Golden State Warriors",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "golden-state-warriors.json"
     },
     {
       "name": "LA Clippers",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "la-clippers.json"
     },
     {
       "name": "Los Angeles Lakers",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "los-angeles-lakers.json"
     },
     {
       "name": "Phoenix Suns",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "phoenix-suns.json"
     },
     {
       "name": "Sacramento Kings",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "sacramento-kings.json"
     },
     {
       "name": "Dallas Mavericks",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "dallas-mavericks.json"
     },
     {
       "name": "Houston Rockets",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "houston-rockets.json"
     },
     {
       "name": "Memphis Grizzlies",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "memphis-grizzlies.json"
     },
     {
       "name": "New Orleans Pelicans",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "new-orleans-pelicans.json"
     },
     {
       "name": "San Antonio Spurs",
       "sport": "basketball",
-      "league": "NBA",
-      "country": "USA",
+      "league": "nba",
       "file": "san-antonio-spurs.json"
+    },
+    {
+      "name": "Arizona Cardinals",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "arizona-cardinals.json"
+    },
+    {
+      "name": "Atlanta Falcons",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "atlanta-falcons.json"
+    },
+    {
+      "name": "Carolina Panthers",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "carolina-panthers.json"
+    },
+    {
+      "name": "Chicago Bears",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "chicago-bears.json"
+    },
+    {
+      "name": "Dallas Cowboys",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "dallas-cowboys.json"
+    },
+    {
+      "name": "Detroit Lions",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "detroit-lions.json"
+    },
+    {
+      "name": "Green Bay Packers",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "green-bay-packers.json"
+    },
+    {
+      "name": "Los Angeles Rams",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "los-angeles-rams.json"
+    },
+    {
+      "name": "Minnesota Vikings",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "minnesota-vikings.json"
+    },
+    {
+      "name": "New Orleans Saints",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "new-orleans-saints.json"
+    },
+    {
+      "name": "New York Giants",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "new-york-giants.json"
+    },
+    {
+      "name": "Philadelphia Eagles",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "philadelphia-eagles.json"
+    },
+    {
+      "name": "San Francisco 49ers",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "san-francisco-49ers.json"
+    },
+    {
+      "name": "Seattle Seahawks",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "seattle-seahawks.json"
+    },
+    {
+      "name": "Tampa Bay Buccaneers",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "tampa-bay-buccaneers.json"
+    },
+    {
+      "name": "Washington Commanders",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "washington-commanders.json"
+    },
+    {
+      "name": "Baltimore Ravens",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "baltimore-ravens.json"
+    },
+    {
+      "name": "Buffalo Bills",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "buffalo-bills.json"
+    },
+    {
+      "name": "Cincinnati Bengals",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "cincinnati-bengals.json"
+    },
+    {
+      "name": "Cleveland Browns",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "cleveland-browns.json"
+    },
+    {
+      "name": "Denver Broncos",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "denver-broncos.json"
+    },
+    {
+      "name": "Houston Texans",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "houston-texans.json"
+    },
+    {
+      "name": "Indianapolis Colts",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "indianapolis-colts.json"
+    },
+    {
+      "name": "Jacksonville Jaguars",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "jacksonville-jaguars.json"
+    },
+    {
+      "name": "Kansas City Chiefs",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "kansas-city-chiefs.json"
+    },
+    {
+      "name": "Las Vegas Raiders",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "las-vegas-raiders.json"
+    },
+    {
+      "name": "Los Angeles Chargers",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "los-angeles-chargers.json"
+    },
+    {
+      "name": "Miami Dolphins",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "miami-dolphins.json"
+    },
+    {
+      "name": "New England Patriots",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "new-england-patriots.json"
+    },
+    {
+      "name": "New York Jets",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "new-york-jets.json"
+    },
+    {
+      "name": "Pittsburgh Steelers",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "pittsburgh-steelers.json"
+    },
+    {
+      "name": "Tennessee Titans",
+      "sport": "american_football",
+      "league": "nfl",
+      "file": "tennessee-titans.json"
     }
   ],
-  "total_teams": 50
+  "total_teams": 82
 }

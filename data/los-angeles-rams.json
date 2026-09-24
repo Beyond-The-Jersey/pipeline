@@ -1,0 +1,34 @@
+{
+  "team": "Los Angeles Rams",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@los-angeles-rams.com",
+    "twitter": "@losangelesrams",
+    "website": "https://www.los-angeles-rams.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Los Angeles Rams to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@los-angeles-rams.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@losangelesrams",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

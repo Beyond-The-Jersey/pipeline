@@ -1,0 +1,34 @@
+{
+  "team": "Atlanta Falcons",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@atlanta-falcons.com",
+    "twitter": "@atlantafalcons",
+    "website": "https://www.atlanta-falcons.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Atlanta Falcons to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@atlanta-falcons.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@atlantafalcons",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

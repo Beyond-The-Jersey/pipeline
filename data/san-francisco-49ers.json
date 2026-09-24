@@ -1,0 +1,34 @@
+{
+  "team": "San Francisco 49ers",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@san-francisco-49ers.com",
+    "twitter": "@sanfrancisco49ers",
+    "website": "https://www.san-francisco-49ers.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact San Francisco 49ers to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@san-francisco-49ers.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@sanfrancisco49ers",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

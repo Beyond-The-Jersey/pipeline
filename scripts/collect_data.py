@@ -20,6 +20,9 @@ OFFICIAL_SOURCES = {
     "basketball": {
         "nba": "https://www.nba.com/teams",
     },
+    "american_football": {
+        "nfl": "https://www.nfl.com/teams/",
+    },
 }
 
 # Known teams from official sources (collected via web_extract)
@@ -44,6 +47,19 @@ KNOWN_TEAMS = {
         "LA Clippers", "Los Angeles Lakers", "Phoenix Suns",
         "Sacramento Kings", "Dallas Mavericks", "Houston Rockets",
         "Memphis Grizzlies", "New Orleans Pelicans", "San Antonio Spurs"
+    ],
+    "american_football_nfl": [
+        "Arizona Cardinals", "Atlanta Falcons", "Carolina Panthers",
+        "Chicago Bears", "Dallas Cowboys", "Detroit Lions",
+        "Green Bay Packers", "Los Angeles Rams", "Minnesota Vikings",
+        "New Orleans Saints", "New York Giants", "Philadelphia Eagles",
+        "San Francisco 49ers", "Seattle Seahawks", "Tampa Bay Buccaneers",
+        "Washington Commanders", "Baltimore Ravens", "Buffalo Bills",
+        "Cincinnati Bengals", "Cleveland Browns", "Denver Broncos",
+        "Houston Texans", "Indianapolis Colts", "Jacksonville Jaguars",
+        "Kansas City Chiefs", "Las Vegas Raiders", "Los Angeles Chargers",
+        "Miami Dolphins", "New England Patriots", "New York Jets",
+        "Pittsburgh Steelers", "Tennessee Titans"
     ]
 }
 
@@ -76,6 +92,17 @@ def extract_teams_nba(content: str) -> list:
             teams.append({"name": name, "sponsors": [], "website": ""})
     return teams
 
+def extract_teams_nfl(content: str) -> list:
+    """Parse NFL teams page — rendered HTML from web_extract."""
+    teams = []
+    # Pattern from web_extract: ![TeamName](badge_url)\n\n#### TeamName\n\n[View Profile]
+    pattern = r'!\[([^\]]*)\]\([^)]+\)\s*\n+\n+\*\*([^\*]+)\*\*'
+    for match in re.finditer(pattern, content):
+        name = match.group(2).strip()
+        if name and len(name) > 2:
+            teams.append({"name": name, "sponsors": [], "website": ""})
+    return teams
+
 def collect_team_data(sport: str, league: str, url: str) -> dict:
     """Collect team data from official sport governing body site."""
     headers = {"User-Agent": "Mozilla/5.0 (compatible; BehindTheJersey/0.1)"}
@@ -101,6 +128,8 @@ def collect_team_data(sport: str, league: str, url: str) -> dict:
         teams = extract_teams_pl(content)
     elif sport == "basketball" and league == "nba":
         teams = extract_teams_nba(content)
+    elif sport == "american_football" and league == "nfl":
+        teams = extract_teams_nfl(content)
 
     # If parsing returned 0 teams, fallback to known teams
     if not teams:

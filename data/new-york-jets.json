@@ -1,0 +1,34 @@
+{
+  "team": "New York Jets",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@new-york-jets.com",
+    "twitter": "@newyorkjets",
+    "website": "https://www.new-york-jets.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact New York Jets to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@new-york-jets.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@newyorkjets",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

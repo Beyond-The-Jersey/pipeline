@@ -1,0 +1,34 @@
+{
+  "team": "Carolina Panthers",
+  "sport": "american_football",
+  "league": "nfl",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@carolina-panthers.com",
+    "twitter": "@carolinapanthers",
+    "website": "https://www.carolina-panthers.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Carolina Panthers to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@carolina-panthers.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@carolinapanthers",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}
