@@ -5,8 +5,15 @@
   "placement": "front",
   "owner": "Government of Rwanda",
   "value": "up to £20m a year",
+  "value_breakdown": {
+    "base": "£17m",
+    "bonuses": "up to £3m",
+    "currency": "GBP"
+  },
   "sources": [
-    "sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
+    "sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
+    "theathletic.com/7444895/2026/07/17/aston-villa-visit-rwanda-sponsorship/",
+    "nytimes.com/athletic/7434810/2026/07/14/aston-villa-visit-rwanda-sponsorship-deal/"
   ],
   "verified": true,
   "last_checked": "2026-09-24"

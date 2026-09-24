@@ -5,9 +5,15 @@
   "placement": "front",
   "owner": "Government of Dubai, via Investment Corporation of Dubai",
   "value": "up to £70m a season",
+  "value_breakdown": {
+    "2026_27_2027_28": "£65m per year",
+    "2028_onwards": "up to £75m per year",
+    "currency": "GBP"
+  },
   "sources": [
-    "sportspro.com/news/sponsorship-marketing/arsenal-emirates-extend-shirt-deal-to-2033/",
-    "insideworldfootball.com/2026/08/06/arsenal-announce-emirates-renewal-to-2033"
+    "sportspro.com/sponsorship-marketing/arsenal-emirates-stadium-renewal-70-million-shirt-august-2026/",
+    "sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article",
+    "threads.com/@globalafc"
   ],
   "verified": true,
   "last_checked": "2026-09-24"

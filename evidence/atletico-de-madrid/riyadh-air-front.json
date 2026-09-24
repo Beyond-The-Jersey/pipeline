@@ -5,8 +5,15 @@
   "placement": "front",
   "owner": "Saudi Arabia's Public Investment Fund, chaired by Crown Prince Mohammed bin Salman",
   "value": "€40m a season",
+  "value_breakdown": {
+    "annual": "€40m",
+    "total_deal": "€250-300m over 9 years",
+    "currency": "EUR"
+  },
   "sources": [
-    "sportspro.com/news/atletico-madrid-riyadh-air-saudi-new-shirt-sponsor/"
+    "sportspro.com/news/atletico-madrid-riyadh-air-saudi-new-shirt-sponsor/",
+    "sportcal.com/features/deal-focus-atletico-riyadh-air-deal-deepens-saudis-laliga-involvement/",
+    "riyadhair.com/en/about-us/our-story/sponsorships/atletico-de-madrid"
   ],
   "verified": true,
   "last_checked": "2026-09-24"
