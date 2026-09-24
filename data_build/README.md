@@ -1,34 +1,37 @@
-# data_build — how `Beyond-The-Jersey/data` `normalized/` is produced
+# Beyond The Jersey — data
 
-The builders live here so the data repo's `meta.generatedBy` is honest and the build
-is reproducible. Run from the `data` repo root:
+Normalised data files for the site. The site reads `normalized/` and falls back to the seed
+while `validate.py` does not print `OK`.
 
-    pip3 install requests jsonschema
-    python3 data_build/build_contacts.py     # network; writes data_build/contacts_build.json
-    python3 data_build/build_normalized.py   # writes normalized/ and runs validate.py
+## Files
 
-`build_normalized.py` starts from the website seed (`website/data/seed`) and merges the
-curated additions in `pipeline_data.py`. `build_from_seed.py` is the earlier seed-only
-builder, kept for history.
-
-Set `BTJ_SEED` and `BTJ_VALIDATE` if the website checkout is not at `/tmp/website`.
-
-## Schema rules the merge enforces
+14 files, all keyed by ASCII kebab-case ids: `clubs`, `sponsors`, `owners`, `claims`, `kits`,
+`deals`, `changes`, `dropped`, `contacts`, `sports`, `leagues`, `levels`, `tiers`, `meta`.
 
 * referential fields (`clubId`, `sponsorId`, `ownerId`, `claimIds`) hold **ids**, never names
-* ids are ASCII kebab-case; seed ids are never renamed (`afc-bournemouth` stays)
-* `source` is `{name, date, url}` of the primary document, or omitted / null while looking
-* optional fields are omitted when unknown; `null` only where the schema means it
-  (undisclosed deal value, no kit change)
+* `source` is `{name, date, url}` of the primary document, or omitted while it is being looked up
+* optional fields are omitted when unknown; `null` is only used where the schema says a value
+  is genuinely null (an undisclosed deal value, a kit with no change)
 * currencies are `GBP` / `EUR` / `USD`
-* one kit per club per season
-* Wikipedia and Wikidata are leads, never cited as the source
 
-## Verification
+## Checking
 
-`verify_issue_1.py` re-checks every bullet of `data` issue #1 against a **clean clone**:
+    python3 validate.py normalized/ --assets <website>/public
 
-    python3 verify_issue_1.py
+Must print `OK`.
 
-It expects the clone at `/tmp/verify`. Run it against the clone, not the working tree, so
-the result covers what is actually pushed.
+## Rebuilding
+
+    pip3 install requests jsonschema
+    python3 build_contacts.py      # network; writes contacts_build.json
+    python3 enrich_contacts.py     # network; adds a contact page / email to thin records
+    python3 build_normalized.py    # writes normalized/ and runs the validator
+
+Run the three in that order. `enrich_contacts.py` only touches records missing an email
+or a contact page, and `build_normalized.py` merges the hand-checked channels in
+`build_contacts.OVERRIDES` on top, so a flaky fetch can never drop a club.
+
+`build_normalized.py` starts from the website seed and merges the curated additions in
+`pipeline_data.py`. `build_from_seed.py` is the earlier seed-only builder.
+
+Set `BTJ_SEED` and `BTJ_VALIDATE` if the website checkout is not at `/tmp/website`.
