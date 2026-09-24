@@ -1,0 +1,132 @@
+{
+  "wikidata_owners": {
+    "Wrexham A.F.C.": "Rob McElhenney",
+    "Manchester United F.C.": "Manchester United Limited",
+    "Swansea City A.F.C.": "Jason Levien",
+    "Middlesbrough F.C.": "Steve Gibson",
+    "Cardiff City F.C.": "Vincent Tan",
+    "Fulham F.C.": "Shahid Khan",
+    "Aston Villa F.C.": "Wes Edens"
+  },
+  "transfermarkt": {
+    "Manchester United": {
+      "url": "https://www.transfermarkt.com/manchester-united/startseite/verein/985",
+      "content_length": 214958,
+      "found": false
+    },
+    "Arsenal": {
+      "url": "https://www.transfermarkt.com/arsenal-fc/startseite/verein/11",
+      "content_length": 206257,
+      "found": false
+    },
+    "FC Barcelona": {
+      "url": "https://www.transfermarkt.com/fc-barcelona/startseite/verein/131",
+      "content_length": 217365,
+      "found": false
+    }
+  },
+  "league_sites": {
+    "Premier League": [
+      {
+        "url": "https://www.premierleague.com/clubs",
+        "status": "has sponsor/owner data",
+        "keywords": [
+          "sponsor"
+        ],
+        "content_length": 82693
+      },
+      {
+        "url": "https://www.premierleague.com/clubs/1/Arsenal",
+        "status": "has sponsor/owner data",
+        "keywords": [
+          "sponsor"
+        ],
+        "content_length": 88310
+      }
+    ],
+    "La Liga": [
+      {
+        "url": "https://www.laliga.com/en-GB/laliga-easports/clubs",
+        "status": "has sponsor/owner data",
+        "keywords": [
+          "sponsor"
+        ],
+        "content_length": 294116
+      },
+      {
+        "url": "https://www.laliga.com/en-GB/laliga-easports/clubs/barcelona",
+        "status": "error"
+      }
+    ],
+    "Bundesliga": [
+      {
+        "url": "https://www.bundesliga.com/en/bundesliga/clubs",
+        "status": "has sponsor/owner data",
+        "keywords": [
+          "kit"
+        ],
+        "content_length": 666719
+      },
+      {
+        "url": "https://www.bundesliga.com/en/bundesliga/clubs/bayern-munich",
+        "status": "error"
+      }
+    ],
+    "NBA": [
+      {
+        "url": "https://www.nba.com/teams",
+        "status": "has sponsor/owner data",
+        "keywords": [
+          "sponsor",
+          "partnership"
+        ],
+        "content_length": 277169
+      },
+      {
+        "url": "https://www.nba.com/warriors",
+        "status": "no sponsor/owner data",
+        "keywords": [],
+        "content_length": 57279
+      }
+    ],
+    "NFL": [
+      {
+        "url": "https://www.nfl.com/teams/",
+        "status": "no sponsor/owner data",
+        "keywords": [],
+        "content_length": 280236
+      },
+      {
+        "url": "https://www.nfl.com/teams/kansas-city-chiefs/",
+        "status": "has sponsor/owner data",
+        "keywords": [
+          "owner"
+        ],
+        "content_length": 240301
+      }
+    ],
+    "MLB": [
+      {
+        "url": "https://www.mlb.com/dodgers",
+        "status": "has sponsor/owner data",
+        "keywords": [
+          "sponsor",
+          "partnership",
+          "kit"
+        ],
+        "content_length": 1487441
+      },
+      {
+        "url": "https://www.mlb.com/yankees",
+        "status": "has sponsor/owner data",
+        "keywords": [
+          "sponsor",
+          "partnership",
+          "kit"
+        ],
+        "content_length": 1533578
+      }
+    ]
+  },
+  "news_search": {}
+}
