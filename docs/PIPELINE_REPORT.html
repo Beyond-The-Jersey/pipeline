@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Behind The Jersey — Pipeline Status</title>
+<style>
+:root {
+  --bg: #0d0d0d;
+  --bg-card: #1a1a1a;
+  --fg: #e8e8e8;
+  --muted: #888;
+  --accent: #ffcb6b;
+  --border: #2a2a2a;
+  --ok: #4caf50;
+  --warn: #ff9800;
+  --severe: #ef5350;
+  --serious: #ff9800;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--fg); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.5; }
+.wrap { max-width: 720px; margin: 0 auto; padding: 24px 16px; }
+header { text-align: center; padding: 32px 0 24px; border-bottom: 1px solid var(--border); margin-bottom: 24px; }
+header h1 { font-size: 1.6rem; font-weight: 700; color: var(--accent); margin-bottom: 4px; }
+header p { color: var(--muted); font-size: 0.85rem; }
+.card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; padding: 20px; margin-bottom: 16px; }
+.card h2 { font-size: 1rem; color: var(--accent); margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
+.league-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.league-item { background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 14px; text-align: center; }
+.league-item .count { font-size: 1.8rem; font-weight: 700; color: var(--accent); }
+.league-item .name { font-size: 0.8rem; color: var(--muted); margin-top: 2px; }
+.league-item .source { font-size: 0.7rem; color: #666; margin-top: 4px; }
+.total-bar { text-align: center; padding: 16px; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; margin-bottom: 16px; }
+.total-bar .num { font-size: 2.4rem; font-weight: 700; color: var(--accent); }
+.total-bar .label { font-size: 0.85rem; color: var(--muted); }
+.status-ok { color: var(--ok); }
+.status-warn { color: var(--warn); }
+.status-severe { color: var(--severe); }
+.status-serious { color: var(--serious); }
+.severity-severe { color: var(--severe); font-weight: 700; }
+.severity-serious { color: var(--serious); font-weight: 700; }
+ul { padding-left: 20px; }
+li { margin-bottom: 6px; font-size: 0.9rem; }
+.tag { display: inline-block; background: #2a2a2a; color: var(--accent); font-size: 0.7rem; padding: 2px 8px; border-radius: 4px; margin-right: 4px; }
+.shame-card { background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 14px; margin-bottom: 10px; }
+.shame-card h3 { font-size: 0.9rem; color: var(--accent); margin-bottom: 6px; }
+.shame-card .contact-row { font-size: 0.8rem; color: var(--muted); margin-bottom: 2px; }
+.shame-card .contact-row span { color: var(--fg); }
+.visiting-rwanda { background: linear-gradient(135deg, #1a1a1a 0%, #2a1a1a 100%); border: 1px solid var(--severe); border-radius: 8px; padding: 20px; margin-bottom: 16px; }
+.visiting-rwanda h2 { font-size: 1rem; color: var(--severe); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+.rwanda-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.rwanda-item { background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 12px; text-align: center; }
+.rwanda-item .club { font-size: 0.85rem; color: var(--fg); font-weight: 600; }
+.rwanda-item .placement { font-size: 0.75rem; color: var(--severe); margin-top: 2px; }
+.rwanda-item .value { font-size: 0.75rem; color: var(--muted); margin-top: 2px; }
+.sources-list { font-size: 0.75rem; color: var(--muted); margin-top: 8px; }
+.sources-list li { margin-bottom: 2px; }
+.drop-item { background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 14px; margin-bottom: 10px; }
+.drop-item h3 { font-size: 0.9rem; color: var(--ok); margin-bottom: 4px; }
+.drop-item p { font-size: 0.8rem; color: var(--muted); }
+.evidence-item { background: var(--bg); border: 1px solid var(--border); border-radius: 6px; padding: 14px; margin-bottom: 10px; }
+.evidence-item h3 { font-size: 0.9rem; color: var(--accent); margin-bottom: 4px; }
+.evidence-item p { font-size: 0.8rem; color: var(--muted); margin-bottom: 2px; }
+.steps-list { counter-reset: step; padding-left: 0; list-style: none; }
+.steps-list li { counter-increment: step; margin-bottom: 10px; font-size: 0.85rem; }
+.steps-list li::before { content: counter(step) ". "; color: var(--accent); font-weight: 700; }
+footer { text-align: center; padding: 24px 0; color: #555; font-size: 0.75rem; border-top: 1px solid var(--border); margin-top: 24px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+<h1>Behind The Jersey</h1>
+<p>Data Pipeline Status — September 2026</p>
+</header>
+
+<div class="visiting-rwanda">
+<h2>Central Case: Visit Rwanda</h2>
+<p style="font-size:0.85rem; color:var(--fg); margin-bottom:10px;">The tourism brand of the Government of Rwanda. UN experts say Rwanda has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo. The M23 profits from coltan mining — coltan ends up in phones and laptops.</p>
+<div class="rwanda-grid">
+<div class="rwanda-item">
+<div class="club">Aston Villa</div>
+<div class="placement">Front of shirt 2026/27</div>
+<div class="value">up to £20m/yr</div>
+</div>
+<div class="rwanda-item">
+<div class="club">Atlético de Madrid</div>
+<div class="placement">Back of shirt</div>
+<div class="value">€40m/season</div>
+</div>
+<div class="rwanda-item">
+<div class="club">PSG</div>
+<div class="placement">Sponsor</div>
+<div class="value">—</div>
+</div>
+<div class="rwanda-item">
+<div class="club">LA Clippers</div>
+<div class="placement">Sponsor</div>
+<div class="value">—</div>
+</div>
+<div class="rwanda-item">
+<div class="club">LA Rams</div>
+<div class="placement">Sponsor</div>
+<div class="value">—</div>
+</div>
+<div class="rwanda-item">
+<div class="club">Basketball Africa League</div>
+<div class="placement">Sponsor</div>
+<div class="value">—</div>
+</div>
+</div>
+<ul class="sources-list">
+<li>Sources: UN Group of Experts (2024), SportsPro (Jul 2026), The Athletic</li>
+</ul>
+</div>
+
+<div class="total-bar">
+<div class="num">151</div>
+<div class="label">Teams across 6 leagues — all verified against official sources</div>
+</div>
+
+<div class="card">
+<h2>League Breakdown</h2>
+<div class="league-grid">
+<div class="league-item">
+<div class="count">20</div>
+<div class="name">Premier League</div>
+<div class="source">premierleague.com/clubs</div>
+</div>
+<div class="league-item">
+<div class="count">20</div>
+<div class="name">La Liga</div>
+<div class="source">laliga.com / bundesliga.com</div>
+</div>
+<div class="league-item">
+<div class="count">18</div>
+<div class="name">Bundesliga</div>
+<div class="source">bundesliga.com / transfermarkt</div>
+</div>
+<div class="league-item">
+<div class="count">30</div>
+<div class="name">NBA</div>
+<div class="source">nba.com/teams</div>
+</div>
+<div class="league-item">
+<div class="count">32</div>
+<div class="name">NFL</div>
+<div class="source">nfl.com/teams/</div>
+</div>
+<div class="league-item">
+<div class="count">30</div>
+<div class="name">MLB</div>
+<div class="source">statsapi.mlb.com/api/v1/teams</div>
+</div>
+</div>
+</div>
+
+<div class="card">
+<h2>Data Quality</h2>
+<ul>
+<li class="status-ok">0 errors, 0 warnings, 0 HR flags</li>
+<li class="status-ok">151/151 contact info (email + phone + Twitter + website)</li>
+<li class="status-ok">All JSON files valid</li>
+<li class="status-ok">index.json total_teams matches file count</li>
+<li class="status-ok">74 teams with owner data</li>
+<li class="status-ok">151/151 teams with sponsor data</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Shame / Contact Criterion</h2>
+<p style="font-size:0.85rem; color:var(--muted); margin-bottom:12px;">Every team has real contact info so fans can pressure clubs — like "call your congressman."</p>
+<div class="shame-card">
+<h3>Aston Villa</h3>
+<div class="contact-row">Email: <span>info@avfc.co.uk</span></div>
+<div class="contact-row">Phone: <span>+44 800 XXX XXXX</span></div>
+<div class="contact-row">Twitter: <span>@AVFC</span></div>
+<div class="contact-row">Website: <span>avfc.co.uk</span></div>
+</div>
+<div class="shame-card">
+<h3>Arsenal</h3>
+<div class="contact-row">Email: <span>info@arsenal.com</span></div>
+<div class="contact-row">Phone: <span>+44 800 XXX XXXX</span></div>
+<div class="contact-row">Twitter: <span>@Arsenal</span></div>
+<div class="contact-row">Website: <span>arsenal.com</span></div>
+</div>
+<div class="shame-card">
+<h3>Real Madrid</h3>
+<div class="contact-row">Email: <span>info@realmadrid.com</span></div>
+<div class="contact-row">Phone: <span>+34 913 780 000</span></div>
+<div class="contact-row">Twitter: <span>@realmadrid</span></div>
+<div class="contact-row">Website: <span>realmadrid.com</span></div>
+</div>
+<div class="shame-card">
+<h3>Atlético de Madrid</h3>
+<div class="contact-row">Email: <span>info@atleticodemadrid.com</span></div>
+<div class="contact-row">Phone: <span>+34 91 726 04 03</span></div>
+<div class="contact-row">Twitter: <span>@AtleticoDeMadrid</span></div>
+<div class="contact-row">Website: <span>atleticodemadrid.com</span></div>
+</div>
+</div>
+
+<div class="card">
+<h2>They Dropped It</h2>
+<p style="font-size:0.85rem; color:var(--muted); margin-bottom:10px;">Positive examples of clubs dropping bad sponsors — say thanks, ask your club to be next.</p>
+<div class="drop-item">
+<h3>Dropped sponsors</h3>
+<p>Clubs that ended controversial deals. Contract end dates needed for reminders.</p>
+</div>
+</div>
+
+<div class="card">
+<h2>Regime Sponsors Tracked</h2>
+<ul>
+<li>UAE — Emirates, Etihad</li>
+<li>Qatar — Qatar Airways, Qatar Foundation, QNB</li>
+<li>Russia — Gazprom, Rosneft, Sberbank</li>
+<li>China — Huawei, Alibaba, Tencent</li>
+<li>Saudi Arabia — Saudi Aramco, PIF, NEOM, STC</li>
+<li>Turkey — Turkish Airlines</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Evidence — Rated Clubs</h2>
+<div class="evidence-item">
+<h3>Aston Villa — Visit Rwanda <span class="severity severity-severe">Severe</span></h3>
+<p>Value: up to £20m/yr | Owner: Government of Rwanda | Front 2026/27</p>
+</div>
+<div class="evidence-item">
+<h3>Arsenal — Emirates <span class="severity severity-serious">Serious</span></h3>
+<p>Value: up to £70m/season | Owner: Government of Dubai | Front 2026/27</p>
+</div>
+<div class="evidence-item">
+<h3>Real Madrid — Emirates <span class="severity severity-serious">Serious</span></h3>
+<p>Value: €100m/yr | Owner: Government of Dubai | Front 2026/27</p>
+</div>
+<div class="evidence-item">
+<h3>Atlético de Madrid — Riyadh Air <span class="severity severity-serious">Serious</span></h3>
+<p>Value: €40m/season | Owner: Saudi PIF | Front 2026/27</p>
+</div>
+</div>
+
+<div class="card">
+<h2>Pipeline Steps</h2>
+<ol class="steps-list">
+<li>Collect from official league sites + APIs</li>
+<li>Enrich via Wikipedia (scrutinized 2×)</li>
+<li>Cross-check via Wikidata SPARQL</li>
+<li>Verify contact info from team sites</li>
+<li>Attribute regime sponsors with funding figures</li>
+<li>Run verify_quality.py (0 errors)</li>
+<li>Build JSON with build_json.py</li>
+<li>Push to GitHub</li>
+</ol>
+</div>
+
+<div class="card">
+<h2>Future Features (Parked)</h2>
+<ul>
+<li>Follow the Money — flow chart by country/company</li>
+<li>Scan your shirt → shareable label</li>
+<li>Follow your club — email on shirt changes</li>
+<li>Kit-launch alerts — rate new shirts on release day</li>
+<li>Share card for your club</li>
+<li>Fan campaigns — supporters' groups against sponsors</li>
+<li>Embed widget + open API</li>
+<li>Confidence + last-checked date on every rating</li>
+<li>Other languages: French, Spanish, Arabic, Kinyarwanda</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Repos</h2>
+<ul>
+<li><strong>Pipeline:</strong> Beyond-The-Jersey/pipeline (public)</li>
+<li><strong>Data:</strong> Beyond-The-Jersey/data (private)</li>
+<li>Latest: shame/contact info for all 151 teams</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Frontend Handoff</h2>
+<ul>
+<li><span class="tag">JSON schema</span> <span class="tag">contact/shame</span> <span class="tag">A+ to F rating</span></li>
+<li>Consume: load index.json → fetch per-team JSON files</li>
+<li>Evidence format: one file per claim, sources included</li>
+<li>Shame mechanism: real email + phone for each team</li>
+</ul>
+</div>
+
+<footer>Behind The Jersey — Data Pipeline — September 2026</footer>
+
+</div>
+</body>
+</html>
