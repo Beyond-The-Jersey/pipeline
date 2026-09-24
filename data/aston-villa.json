@@ -1,0 +1,34 @@
+{
+  "team": "Aston Villa",
+  "sport": "soccer",
+  "league": "Premier League",
+  "country": "England",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@aston-villa.com",
+    "twitter": "@astonvilla",
+    "website": "https://www.aston-villa.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Aston Villa to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@aston-villa.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@astonvilla",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

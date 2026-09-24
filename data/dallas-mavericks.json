@@ -1,0 +1,34 @@
+{
+  "team": "Dallas Mavericks",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@dallas-mavericks.com",
+    "twitter": "@dallasmavericks",
+    "website": "https://www.dallas-mavericks.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Dallas Mavericks to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@dallas-mavericks.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@dallasmavericks",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

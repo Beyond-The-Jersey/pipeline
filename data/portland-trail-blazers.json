@@ -1,0 +1,34 @@
+{
+  "team": "Portland Trail Blazers",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@portland-trail-blazers.com",
+    "twitter": "@portlandtrailblazers",
+    "website": "https://www.portland-trail-blazers.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Portland Trail Blazers to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@portland-trail-blazers.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@portlandtrailblazers",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

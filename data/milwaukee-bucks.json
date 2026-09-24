@@ -1,0 +1,34 @@
+{
+  "team": "Milwaukee Bucks",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@milwaukee-bucks.com",
+    "twitter": "@milwaukeebucks",
+    "website": "https://www.milwaukee-bucks.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Milwaukee Bucks to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@milwaukee-bucks.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@milwaukeebucks",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

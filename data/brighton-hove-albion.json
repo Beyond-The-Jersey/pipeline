@@ -1,0 +1,34 @@
+{
+  "team": "Brighton and Hove Albion",
+  "sport": "soccer",
+  "league": "Premier League",
+  "country": "England",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@brighton-hove-albion.com",
+    "twitter": "@brighton-hovealbion",
+    "website": "https://www.brighton-hove-albion.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Brighton and Hove Albion to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@brighton-hove-albion.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@brighton-hovealbion",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

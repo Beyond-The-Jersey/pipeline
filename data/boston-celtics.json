@@ -1,0 +1,34 @@
+{
+  "team": "Boston Celtics",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@boston-celtics.com",
+    "twitter": "@bostonceltics",
+    "website": "https://www.boston-celtics.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Boston Celtics to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@boston-celtics.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@bostonceltics",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

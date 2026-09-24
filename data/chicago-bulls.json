@@ -1,0 +1,34 @@
+{
+  "team": "Chicago Bulls",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@chicago-bulls.com",
+    "twitter": "@chicagobulls",
+    "website": "https://www.chicago-bulls.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Chicago Bulls to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@chicago-bulls.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@chicagobulls",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

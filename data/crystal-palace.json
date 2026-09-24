@@ -1,0 +1,34 @@
+{
+  "team": "Crystal Palace",
+  "sport": "soccer",
+  "league": "Premier League",
+  "country": "England",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@crystal-palace.com",
+    "twitter": "@crystalpalace",
+    "website": "https://www.crystal-palace.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Crystal Palace to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@crystal-palace.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@crystalpalace",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

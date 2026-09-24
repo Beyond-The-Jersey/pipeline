@@ -1,0 +1,357 @@
+{
+  "version": "0.1",
+  "last_updated": "2026-09-24",
+  "teams": [
+    {
+      "name": "Arsenal",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "arsenal.json"
+    },
+    {
+      "name": "Aston Villa",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "aston-villa.json"
+    },
+    {
+      "name": "Bournemouth",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "bournemouth.json"
+    },
+    {
+      "name": "Brentford",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "brentford.json"
+    },
+    {
+      "name": "Brighton and Hove Albion",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "brighton-hove-albion.json"
+    },
+    {
+      "name": "Chelsea",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "chelsea.json"
+    },
+    {
+      "name": "Coventry City",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "coventry-city.json"
+    },
+    {
+      "name": "Crystal Palace",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "crystal-palace.json"
+    },
+    {
+      "name": "Everton",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "everton.json"
+    },
+    {
+      "name": "Fulham",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "fulham.json"
+    },
+    {
+      "name": "Hull City",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "hull-city.json"
+    },
+    {
+      "name": "Ipswich Town",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "ipswich-town.json"
+    },
+    {
+      "name": "Leeds United",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "leeds-united.json"
+    },
+    {
+      "name": "Liverpool",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "liverpool.json"
+    },
+    {
+      "name": "Manchester City",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "manchester-city.json"
+    },
+    {
+      "name": "Manchester United",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "manchester-united.json"
+    },
+    {
+      "name": "Newcastle United",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "newcastle-united.json"
+    },
+    {
+      "name": "Nottingham Forest",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "nottingham-forest.json"
+    },
+    {
+      "name": "Sunderland",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "sunderland.json"
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "sport": "soccer",
+      "league": "Premier League",
+      "country": "England",
+      "file": "tottenham-hotspur.json"
+    },
+    {
+      "name": "Boston Celtics",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "boston-celtics.json"
+    },
+    {
+      "name": "Brooklyn Nets",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "brooklyn-nets.json"
+    },
+    {
+      "name": "New York Knicks",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "new-york-knicks.json"
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "philadelphia-76ers.json"
+    },
+    {
+      "name": "Toronto Raptors",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "toronto-raptors.json"
+    },
+    {
+      "name": "Chicago Bulls",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "chicago-bulls.json"
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "cleveland-cavaliers.json"
+    },
+    {
+      "name": "Detroit Pistons",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "detroit-pistons.json"
+    },
+    {
+      "name": "Indiana Pacers",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "indiana-pacers.json"
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "milwaukee-bucks.json"
+    },
+    {
+      "name": "Atlanta Hawks",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "atlanta-hawks.json"
+    },
+    {
+      "name": "Charlotte Hornets",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "charlotte-hornets.json"
+    },
+    {
+      "name": "Miami Heat",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "miami-heat.json"
+    },
+    {
+      "name": "Orlando Magic",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "orlando-magic.json"
+    },
+    {
+      "name": "Washington Wizards",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "washington-wizards.json"
+    },
+    {
+      "name": "Denver Nuggets",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "denver-nuggets.json"
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "minnesota-timberwolves.json"
+    },
+    {
+      "name": "Oklahoma City Thunder",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "oklahoma-city-thunder.json"
+    },
+    {
+      "name": "Portland Trail Blazers",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "portland-trail-blazers.json"
+    },
+    {
+      "name": "Utah Jazz",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "utah-jazz.json"
+    },
+    {
+      "name": "Golden State Warriors",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "golden-state-warriors.json"
+    },
+    {
+      "name": "LA Clippers",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "la-clippers.json"
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "los-angeles-lakers.json"
+    },
+    {
+      "name": "Phoenix Suns",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "phoenix-suns.json"
+    },
+    {
+      "name": "Sacramento Kings",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "sacramento-kings.json"
+    },
+    {
+      "name": "Dallas Mavericks",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "dallas-mavericks.json"
+    },
+    {
+      "name": "Houston Rockets",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "houston-rockets.json"
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "memphis-grizzlies.json"
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "new-orleans-pelicans.json"
+    },
+    {
+      "name": "San Antonio Spurs",
+      "sport": "basketball",
+      "league": "NBA",
+      "country": "USA",
+      "file": "san-antonio-spurs.json"
+    }
+  ],
+  "total_teams": 50
+}

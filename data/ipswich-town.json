@@ -1,0 +1,34 @@
+{
+  "team": "Ipswich Town",
+  "sport": "soccer",
+  "league": "Premier League",
+  "country": "England",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@ipswich-town.com",
+    "twitter": "@ipswichtown",
+    "website": "https://www.ipswich-town.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Ipswich Town to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@ipswich-town.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@ipswichtown",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

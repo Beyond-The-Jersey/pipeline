@@ -1,0 +1,34 @@
+{
+  "team": "Detroit Pistons",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@detroit-pistons.com",
+    "twitter": "@detroitpistons",
+    "website": "https://www.detroit-pistons.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Detroit Pistons to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@detroit-pistons.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@detroitpistons",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

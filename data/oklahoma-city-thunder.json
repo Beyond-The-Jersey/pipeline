@@ -1,0 +1,34 @@
+{
+  "team": "Oklahoma City Thunder",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@oklahoma-city-thunder.com",
+    "twitter": "@oklahomacitythunder",
+    "website": "https://www.oklahoma-city-thunder.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Oklahoma City Thunder to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@oklahoma-city-thunder.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@oklahomacitythunder",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

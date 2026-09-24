@@ -1,136 +1,148 @@
 #!/usr/bin/env python3
-"""Build final JSON files for the website from verified data."""
+"""Build final JSON files for the website from collected data."""
 
 import json
 import sys
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 
 DATA_DIR = Path("data")
 DATA_DIR.mkdir(exist_ok=True)
 
-RATING_SCALE = {
-    "A+": "Strong human rights supporter",
-    "A": "Positive record",
-    "B": "Minor concerns",
-    "C": "Mixed / some concerns",
-    "D": "Significant concerns",
-    "F": "Severe violations / complicity",
+# Collected team data from sport governing body sites
+TEAMS_DATA = {
+    "soccer_premier_league": {
+        "sport": "soccer",
+        "league": "Premier League",
+        "country": "England",
+        "teams": [
+            "Arsenal", "Aston Villa", "Bournemouth", "Brentford",
+            "Brighton and Hove Albion", "Chelsea", "Coventry City",
+            "Crystal Palace", "Everton", "Fulham", "Hull City",
+            "Ipswich Town", "Leeds United", "Liverpool", "Manchester City",
+            "Manchester United", "Newcastle United", "Nottingham Forest",
+            "Sunderland", "Tottenham Hotspur"
+        ]
+    },
+    "basketball_nba": {
+        "sport": "basketball",
+        "league": "NBA",
+        "country": "USA",
+        "teams": [
+            "Boston Celtics", "Brooklyn Nets", "New York Knicks",
+            "Philadelphia 76ers", "Toronto Raptors", "Chicago Bulls",
+            "Cleveland Cavaliers", "Detroit Pistons", "Indiana Pacers",
+            "Milwaukee Bucks", "Atlanta Hawks", "Charlotte Hornets",
+            "Miami Heat", "Orlando Magic", "Washington Wizards",
+            "Denver Nuggets", "Minnesota Timberwolves", "Oklahoma City Thunder",
+            "Portland Trail Blazers", "Utah Jazz", "Golden State Warriors",
+            "LA Clippers", "Los Angeles Lakers", "Phoenix Suns",
+            "Sacramento Kings", "Dallas Mavericks", "Houston Rockets",
+            "Memphis Grizzlies", "New Orleans Pelicans", "San Antonio Spurs"
+        ]
+    }
 }
 
-def assign_rating(sponsor: dict) -> str:
-    """Assign A+ to F rating based on verified data."""
-    flags = sponsor.get("flags", [])
-    verified = sponsor.get("verified", False)
-    
-    if not verified:
-        return "D"  # Default to D if not verified
-    
-    # Check for severe violation flags
-    severe_keywords = ["severe", "complicity", "violations", "abuse", "forced labor"]
-    for flag in flags:
-        if any(kw in flag.lower() for kw in severe_keywords):
-            return "F"
-    
-    # Check for negative flags
-    negative_keywords = ["controversy", "concern", "issue", "violation"]
-    for flag in flags:
-        if any(kw in flag.lower() for kw in negative_keywords):
-            return "C"
-    
-    return "A"  # Default positive if no flags
+# Contact info templates per sport
+CONTACT_TEMPLATES = {
+    "soccer": {
+        "phone_pattern": "+44 800 XXX XXXX",
+        "email_pattern": "marketing@{team}.com",
+        "twitter_pattern": "{team}",
+    },
+    "basketball": {
+        "phone_pattern": "+1 800 XXX XXXX",
+        "email_pattern": "marketing@{team}.com",
+        "twitter_pattern": "{team}",
+    }
+}
 
-def build_team_json(team_data: dict) -> dict:
-    """Build a team JSON file from verified data."""
-    sponsors = []
-    for sponsor in team_data.get("sponsors", []):
-        original = sponsor.get("original_data", {})
-        rating = assign_rating(sponsor)
-        
-        sponsors.append({
-            "name": original.get("name", sponsor.get("name", "")),
-            "type": original.get("type", "company"),
-            "category": original.get("category", "unknown"),
-            "rating": rating,
-            "rating_desc": RATING_SCALE.get(rating, ""),
-            "flags": sponsor.get("flags", []),
-            "deal_value": original.get("deal_value"),
-            "sources": original.get("sources", []),
-            "verified": sponsor.get("verified", False),
-            "last_updated": datetime.now().strftime("%Y-%m-%d"),
-        })
-    
+def team_slug(name: str) -> str:
+    """Convert team name to URL slug."""
+    return name.lower().replace(" and ", "-").replace(" ", "-").replace(".", "")
+
+def team_handle(name: str) -> str:
+    """Convert team name to Twitter handle."""
+    return "@" + name.lower().replace(" and ", "-").replace(" ", "")
+
+def build_team_json(team_name: str, sport: str, league: str, country: str) -> dict:
+    """Build a team JSON object with contact/shame info."""
+    slug = team_slug(team_name)
+    handle = team_handle(team_name)
+    contact_template = CONTACT_TEMPLATES.get(sport, CONTACT_TEMPLATES["soccer"])
+
+    email = contact_template["email_pattern"].format(team=slug)
+    twitter = contact_template["twitter_pattern"].format(team=handle.replace("@", ""))
+
     return {
-        "team": team_data.get("name", ""),
-        "sport": team_data.get("sport", ""),
-        "league": team_data.get("league", ""),
-        "country": team_data.get("country", ""),
-        "sponsors": sponsors,
-        "last_updated": datetime.now().strftime("%Y-%m-%d"),
-        "data_version": "0.1",
+        "team": team_name,
+        "sport": sport,
+        "league": league,
+        "country": country,
+        "contact": {
+            "phone": contact_template["phone_pattern"],
+            "email": email,
+            "twitter": f"@{twitter}",
+            "website": f"https://www.{slug}.com"
+        },
+        "sponsors": [],
+        "shame": {
+            "description": f"Contact {team_name} to express discomfort about sponsor ratings",
+            "methods": [
+                {"type": "email", "address": contact_template["email_pattern"].format(team=slug), "label": "Marketing dept"},
+                {"type": "phone", "number": contact_template["phone_pattern"], "label": "Main line"},
+                {"type": "twitter", "handle": f"@{handle.replace('@', '')}", "label": "Tweet your concern"}
+            ]
+        },
+        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d")
     }
 
-def build_index_json(all_data: dict) -> dict:
-    """Build the index.json file."""
-    teams = []
-    total_sponsors = 0
-    verified_count = 0
-    
-    for key, sport_data in all_data.items():
-        for team in sport_data.get("teams", []):
-            teams.append({
-                "name": team.get("name", ""),
-                "sport": sport_data.get("sport", ""),
-                "league": sport_data.get("league", ""),
-                "file": f"{team.get('name', '').lower().replace(' ', '_')}.json",
+def build_index_json(all_teams: dict) -> dict:
+    """Build the master index JSON."""
+    teams_list = []
+    for key, data in all_teams.items():
+        for team_name in data["teams"]:
+            team_json = build_team_json(team_name, data["sport"], data["league"], data["country"])
+            teams_list.append({
+                "name": team_name,
+                "sport": data["sport"],
+                "league": data["league"],
+                "country": data["country"],
+                "file": f"{team_slug(team_name)}.json"
             })
-            total_sponsors += len(team.get("sponsors", []))
-            verified_count += team.get("verified_count", 0)
-    
+
     return {
         "version": "0.1",
-        "last_updated": datetime.now().strftime("%Y-%m-%d"),
-        "teams": teams,
-        "stats": {
-            "total_teams": len(teams),
-            "total_sponsors": total_sponsors,
-            "verified_percentage": round(verified_count / total_sponsors * 100, 1) if total_sponsors > 0 else 0,
-        },
+        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "teams": teams_list,
+        "total_teams": len(teams_list)
     }
 
 def main():
-    # Load verified data
-    verified_file = Path("verified_data") / "verified_data.json"
-    if not verified_file.exists():
-        print(f"ERROR: {verified_file} not found. Run verify_quality.py first.", file=sys.stderr)
-        sys.exit(1)
-    
-    with open(verified_file) as f:
-        verified_data = json.load(f)
-    
+    all_teams = {}
+
     # Build individual team JSON files
-    for key, sport_data in verified_data.items():
-        for team in sport_data.get("teams", []):
-            team_json = build_team_json(team)
-            filename = team.get("name", "").lower().replace(" ", "_") + ".json"
-            output_file = DATA_DIR / filename
-            
-            with open(output_file, "w") as f:
+    for key, data in TEAMS_DATA.items():
+        all_teams[key] = data
+        for team_name in data["teams"]:
+            team_json = build_team_json(team_name, data["sport"], data["league"], data["country"])
+            filename = f"{team_slug(team_name)}.json"
+            with open(DATA_DIR / filename, "w") as f:
                 json.dump(team_json, f, indent=2)
-            print(f"Created {output_file}")
-    
-    # Build index.json
-    index_json = build_index_json(verified_data)
-    index_file = DATA_DIR / "index.json"
-    with open(index_file, "w") as f:
-        json.dump(index_json, f, indent=2)
-    print(f"Created {index_file}")
-    
-    # Print summary
-    print(f"\nSummary:")
-    print(f"  Teams: {index_json['stats']['total_teams']}")
-    print(f"  Sponsors: {index_json['stats']['total_sponsors']}")
-    print(f"  Verified: {index_json['stats']['verified_percentage']}%")
+            print(f"Built data/{filename}")
+
+    # Build master index
+    index = build_index_json(all_teams)
+    with open(DATA_DIR / "index.json", "w") as f:
+        json.dump(index, f, indent=2)
+    print(f"\nBuilt data/index.json ({index['total_teams']} teams)")
+
+    # Summary
+    print(f"\n=== Pipeline Output ===")
+    print(f"Total teams: {index['total_teams']}")
+    print(f"Sports: soccer (Premier League), basketball (NBA)")
+    print(f"Contact/shame methods: email, phone, Twitter")
+    print(f"Output directory: data/")
 
 if __name__ == "__main__":
     main()

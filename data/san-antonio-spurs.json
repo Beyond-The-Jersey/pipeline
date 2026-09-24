@@ -1,0 +1,34 @@
+{
+  "team": "San Antonio Spurs",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@san-antonio-spurs.com",
+    "twitter": "@sanantoniospurs",
+    "website": "https://www.san-antonio-spurs.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact San Antonio Spurs to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@san-antonio-spurs.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@sanantoniospurs",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

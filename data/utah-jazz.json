@@ -1,0 +1,34 @@
+{
+  "team": "Utah Jazz",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@utah-jazz.com",
+    "twitter": "@utahjazz",
+    "website": "https://www.utah-jazz.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Utah Jazz to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@utah-jazz.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@utahjazz",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

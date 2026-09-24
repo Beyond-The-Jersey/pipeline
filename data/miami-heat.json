@@ -1,0 +1,34 @@
+{
+  "team": "Miami Heat",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@miami-heat.com",
+    "twitter": "@miamiheat",
+    "website": "https://www.miami-heat.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Miami Heat to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@miami-heat.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@miamiheat",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

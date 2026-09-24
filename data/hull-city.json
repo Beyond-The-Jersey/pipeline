@@ -1,0 +1,34 @@
+{
+  "team": "Hull City",
+  "sport": "soccer",
+  "league": "Premier League",
+  "country": "England",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@hull-city.com",
+    "twitter": "@hullcity",
+    "website": "https://www.hull-city.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Hull City to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@hull-city.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@hullcity",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

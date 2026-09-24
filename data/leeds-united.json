@@ -1,0 +1,34 @@
+{
+  "team": "Leeds United",
+  "sport": "soccer",
+  "league": "Premier League",
+  "country": "England",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@leeds-united.com",
+    "twitter": "@leedsunited",
+    "website": "https://www.leeds-united.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Leeds United to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@leeds-united.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@leedsunited",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

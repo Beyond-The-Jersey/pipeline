@@ -1,0 +1,34 @@
+{
+  "team": "Toronto Raptors",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@toronto-raptors.com",
+    "twitter": "@torontoraptors",
+    "website": "https://www.toronto-raptors.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Toronto Raptors to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@toronto-raptors.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@torontoraptors",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

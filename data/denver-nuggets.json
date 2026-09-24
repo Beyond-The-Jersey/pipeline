@@ -1,0 +1,34 @@
+{
+  "team": "Denver Nuggets",
+  "sport": "basketball",
+  "league": "NBA",
+  "country": "USA",
+  "contact": {
+    "phone": "+1 800 XXX XXXX",
+    "email": "marketing@denver-nuggets.com",
+    "twitter": "@denvernuggets",
+    "website": "https://www.denver-nuggets.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Denver Nuggets to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@denver-nuggets.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+1 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@denvernuggets",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}
