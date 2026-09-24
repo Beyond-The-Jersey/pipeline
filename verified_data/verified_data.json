@@ -1,0 +1,471 @@
+{
+  "version": "0.1",
+  "checked_at": "2026-09-24T17:07:39.457696+00:00",
+  "hr_databases": {
+    "hrf": "https://hrforum.org",
+    "amnesty": "https://amnesty.org",
+    "hrw": "https://hrw.org",
+    "bhr": "https://business-humanrights.org"
+  },
+  "teams": {
+    "arsenal": {
+      "team": "Arsenal",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "aston-villa": {
+      "team": "Aston Villa",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "atlanta-hawks": {
+      "team": "Atlanta Hawks",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "boston-celtics": {
+      "team": "Boston Celtics",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "bournemouth": {
+      "team": "Bournemouth",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "brentford": {
+      "team": "Brentford",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "brighton-hove-albion": {
+      "team": "Brighton and Hove Albion",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "brooklyn-nets": {
+      "team": "Brooklyn Nets",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "charlotte-hornets": {
+      "team": "Charlotte Hornets",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "chelsea": {
+      "team": "Chelsea",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "chicago-bulls": {
+      "team": "Chicago Bulls",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "cleveland-cavaliers": {
+      "team": "Cleveland Cavaliers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "coventry-city": {
+      "team": "Coventry City",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "crystal-palace": {
+      "team": "Crystal Palace",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "dallas-mavericks": {
+      "team": "Dallas Mavericks",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "denver-nuggets": {
+      "team": "Denver Nuggets",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "detroit-pistons": {
+      "team": "Detroit Pistons",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "everton": {
+      "team": "Everton",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "fulham": {
+      "team": "Fulham",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "golden-state-warriors": {
+      "team": "Golden State Warriors",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "houston-rockets": {
+      "team": "Houston Rockets",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "hull-city": {
+      "team": "Hull City",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "indiana-pacers": {
+      "team": "Indiana Pacers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "ipswich-town": {
+      "team": "Ipswich Town",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "la-clippers": {
+      "team": "LA Clippers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "leeds-united": {
+      "team": "Leeds United",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "liverpool": {
+      "team": "Liverpool",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "los-angeles-lakers": {
+      "team": "Los Angeles Lakers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "manchester-city": {
+      "team": "Manchester City",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "manchester-united": {
+      "team": "Manchester United",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "memphis-grizzlies": {
+      "team": "Memphis Grizzlies",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "miami-heat": {
+      "team": "Miami Heat",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "milwaukee-bucks": {
+      "team": "Milwaukee Bucks",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "minnesota-timberwolves": {
+      "team": "Minnesota Timberwolves",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "new-orleans-pelicans": {
+      "team": "New Orleans Pelicans",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "new-york-knicks": {
+      "team": "New York Knicks",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "newcastle-united": {
+      "team": "Newcastle United",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "nottingham-forest": {
+      "team": "Nottingham Forest",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "oklahoma-city-thunder": {
+      "team": "Oklahoma City Thunder",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "orlando-magic": {
+      "team": "Orlando Magic",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "philadelphia-76ers": {
+      "team": "Philadelphia 76ers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "phoenix-suns": {
+      "team": "Phoenix Suns",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "portland-trail-blazers": {
+      "team": "Portland Trail Blazers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "sacramento-kings": {
+      "team": "Sacramento Kings",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "san-antonio-spurs": {
+      "team": "San Antonio Spurs",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "sunderland": {
+      "team": "Sunderland",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "toronto-raptors": {
+      "team": "Toronto Raptors",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "tottenham-hotspur": {
+      "team": "Tottenham Hotspur",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "utah-jazz": {
+      "team": "Utah Jazz",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    },
+    "washington-wizards": {
+      "team": "Washington Wizards",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "sponsor_issues": 0,
+      "contact_present": true,
+      "shame_present": true
+    }
+  },
+  "summary": {
+    "total_teams": 50,
+    "verified": 50,
+    "verification_rate": 100.0,
+    "total_errors": 0,
+    "total_warnings": 0,
+    "contact_present": 50,
+    "shame_present": 50
+  }
+}
