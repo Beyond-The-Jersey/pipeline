@@ -1,0 +1,62 @@
+{
+  "Emirates": {
+    "regime": "UAE",
+    "regime_type": "authoritarian"
+  },
+  "Etihad": {
+    "regime": "UAE",
+    "regime_type": "authoritarian"
+  },
+  "Qatar Airways": {
+    "regime": "Qatar",
+    "regime_type": "authoritarian"
+  },
+  "Qatar Foundation": {
+    "regime": "Qatar",
+    "regime_type": "authoritarian"
+  },
+  "Gazprom": {
+    "regime": "Russia",
+    "regime_type": "authoritarian"
+  },
+  "Rosneft": {
+    "regime": "Russia",
+    "regime_type": "authoritarian"
+  },
+  "Sberbank": {
+    "regime": "Russia",
+    "regime_type": "authoritarian"
+  },
+  "Huawei": {
+    "regime": "China",
+    "regime_type": "authoritarian"
+  },
+  "Alibaba": {
+    "regime": "China",
+    "regime_type": "authoritarian"
+  },
+  "Tencent": {
+    "regime": "China",
+    "regime_type": "authoritarian"
+  },
+  "Saudi Aramco": {
+    "regime": "Saudi Arabia",
+    "regime_type": "absolute_monarchy"
+  },
+  "PIF": {
+    "regime": "Saudi Arabia",
+    "regime_type": "absolute_monarchy"
+  },
+  "NEOM": {
+    "regime": "Saudi Arabia",
+    "regime_type": "absolute_monarchy"
+  },
+  "STC": {
+    "regime": "Saudi Arabia",
+    "regime_type": "absolute_monarchy"
+  },
+  "QNB": {
+    "regime": "Qatar",
+    "regime_type": "absolute_monarchy"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "arsenal": {
+    "Emirates": {
+      "funding": "\u00a360m/year",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "chelsea": {
+    "Three": {
+      "funding": "\u00a340m/year",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "everton": {
+    "Stake.com": {
+      "funding": "\u00a320m/year",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "crystal-palace": {
+    "Krispy Kreme": {
+      "funding": "\u00a38m/year",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "brighton-hove-albion": {
+    "American Express": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "brentford": {
+    "Hollywoodbets": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": false,
+      "category": "shirt_sponsor"
+    }
+  },
+  "bournemouth": {
+    "MSP": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": false,
+      "category": "shirt_sponsor"
+    }
+  },
+  "leeds-united": {
+    "BK8": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": false,
+      "category": "shirt_sponsor"
+    }
+  },
+  "nottingham-forest": {
+    "KashBoy": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": false,
+      "category": "shirt_sponsor"
+    }
+  },
+  "fulham": {
+    "W88": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": false,
+      "category": "shirt_sponsor"
+    }
+  },
+  "west-ham-united": {
+    "Betway": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "newcastle-united": {
+    "Sela": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": false,
+      "category": "shirt_sponsor"
+    }
+  },
+  "fc-barcelona": {
+    "Spotify": {
+      "funding": "\u20ac70m/year",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "real-madrid": {
+    "Emirates": {
+      "funding": "\u20ac70m/year",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "atletico-de-madrid": {
+    "WhaleFin": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": false,
+      "category": "shirt_sponsor"
+    }
+  },
+  "sevilla-fc": {
+    "Himalaya": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": false,
+      "category": "shirt_sponsor"
+    }
+  },
+  "bayern-munich": {
+    "T-Mobile": {
+      "funding": "\u20ac25m/year",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "borussia-dortmund": {
+    "Evonik": {
+      "funding": "\u20ac20m/year",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "rb-leipzig": {
+    "Red Bull": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "shirt_sponsor"
+    }
+  },
+  "golden-state-warriors": {
+    "Rakuten": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "jersey_sponsor"
+    }
+  },
+  "houston-rockets": {
+    "Red Bull": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "jersey_sponsor"
+    }
+  },
+  "dallas-cowboys": {
+    "AT&T": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "helmet_sponsor"
+    }
+  },
+  "new-england-patriots": {
+    "Gillette": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "helmet_sponsor"
+    }
+  },
+  "new-york-yankees": {
+    "New York Yankees": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "jersey_sponsor"
+    }
+  },
+  "boston-red-sox": {
+    "JetBlue": {
+      "funding": "N/A",
+      "source": "Wikipedia",
+      "verified": true,
+      "category": "jersey_sponsor"
+    }
+  }
+}
