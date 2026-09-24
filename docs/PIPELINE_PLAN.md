@@ -82,14 +82,34 @@ One evidence file per claim:
 }
 ```
 
-### 2.4 Rating Method
+### 2.4 Rating Method (from Beyond-The-Jersey/data#1)
 
-| Level | Criteria |
+The website defines the rating method. **We don't publish club levels** — the website derives them.
+
+| Tier | Definition |
 |---|---|
-| **Clean** | Every sponsor checked, nothing found |
-| **Spotted** | Lesser link (state-part-owned sponsor) |
-| **Stained** | Serious sponsor on front, or severe elsewhere |
-| **Soaked** | Severe sponsor on front, or two serious ones |
+| **unrated** | Not yet researched — owner chain and claims not sourced |
+| **none** | No human-rights concern found |
+| **concern** | Lesser link (state-part-owned sponsor) |
+| **serious** | Serious human-rights concern (state-owned sponsor, exec order, sanctions) |
+| **severe** | Severe concern (regime sponsor, mass executions, Khashoggi, M23 troops) |
+
+**Rules:**
+- Tiers, not grades. Don't map A–F onto tiers.
+- A sponsor stays `unrated` until owner chain and claims are sourced and reviewed
+- The website derives each club's blood level (Clean/Spotted/Stained/Soaked) from sponsors' tiers and placements
+- Never publish club levels — only the website does that
+- Wikipedia and Wikidata are leads, not sources — cite the primary document
+
+**The 8 claims the ratings rest on:**
+1. `rwanda-troops-m23` — UN Group of Experts on DR Congo, final report 2024
+2. `m23-coltan-levies` — UN Group of Experts on DR Congo, final report 2024
+3. `rubaya-smuggling` — Global Witness, June 2026
+4. `rubaya-tantalum-share` — Global Witness, June 2026
+5. `coltan-supply-chain` — Global Witness, June 2026
+6. `saudi-executions-2024` — Amnesty International, 2025
+7. `khashoggi-assessment` — US ODNI, February 2021
+8. `uae-mass-trial-2024` — Human Rights Watch, July 2024
 
 ---
 
