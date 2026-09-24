@@ -2,31 +2,45 @@
 
 ## JSON Schema
 
-### Team File (`data/manutd.json`)
+### Team File (`data/manutd.json`) — Updated
 ```json
 {
   "team": "Manchester United",
   "sport": "soccer",
   "league": "Premier League",
   "country": "England",
-  "sponsors": [
-    {
-      "name": "TeamViewer",
-      "type": "company",
-      "category": "technology",
-      "rating": "C",
-      "rating_desc": "Mixed / some concerns",
-      "flags": ["Russia operations post-2022"],
-      "deal_value": null,
-      "sources": ["https://www.manutd.com/en/information/sponsors"],
-      "verified": true,
-      "last_updated": "2026-09-22"
-    }
-  ],
+  "contact": {
+    "phone": "+44 800 ...",
+    "email": "marketing@manutd.com",
+    "twitter": "@ManUtd",
+    "website": "https://www.manutd.com"
+  },
+  "sponsors": [...],
+  "shame": {
+    "description": "Contact the team to express discomfort about sponsor ratings",
+    "methods": [
+      {"type": "email", "address": "marketing@manutd.com", "label": "Marketing dept"},
+      {"type": "phone", "number": "+44 800 ...", "label": "Main line"},
+      {"type": "twitter", "handle": "@ManUtd", "label": "Tweet your concern"}
+    ]
+  },
   "last_updated": "2026-09-22",
   "data_version": "0.1"
 }
 ```
+
+## Contact/Shame Feature
+
+For each team, include contact information so fans can pressure teams about their sponsor ratings:
+- Phone number
+- Email address
+- Twitter/social media handle
+- Website
+
+Copy-paste templates:
+- Email: "I'm concerned about [sponsor] rated [rating]. Please reconsider."
+- Phone: "Hi, I'm calling about [team]'s sponsor [name] rated [rating]"
+- Social: #BehindTheJersey #[TeamName]
 
 ### Index File (`data/index.json`)
 ```json
