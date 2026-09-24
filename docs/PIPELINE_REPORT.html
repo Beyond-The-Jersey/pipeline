@@ -75,6 +75,23 @@ footer { text-align: center; padding: 24px 0; color: #555; font-size: 0.75rem; b
 <p>Data Pipeline Status — September 2026</p>
 </header>
 
+<section>
+<h2>Data Status</h2>
+<p style="font-size:0.85rem; color:var(--fg); margin-bottom:10px;"><strong>validate.py prints OK on a clean clone.</strong> 0 errors, 0 warnings. The site can come off the seed data.</p>
+<div class="evidence-item">
+<h3>Schema</h3>
+<p>All referential fields hold ids, not club names. Sources are <code>{name, date, url}</code>. Optional fields are omitted when unknown. Ids are ASCII kebab-case and seed ids are unchanged.</p>
+</div>
+<div class="evidence-item">
+<h3>Coverage</h3>
+<p>152 clubs across 8 competitions — Premier League, La Liga, Bundesliga, 2. Bundesliga, Ligue 1, NBA, NFL, MLB. A sourced contact record for every club. A country on every club. A source URL on every claim, every dropped item and every 2026/27 kit sponsor.</p>
+</div>
+<div class="evidence-item">
+<h3>Reproducible</h3>
+<p>Builders and the issue re-check are committed at <code>Beyond-The-Jersey/pipeline</code> → <code>data_build/</code>. Data at <code>Beyond-The-Jersey/data</code>, <code>meta.sourceCommit 6c8e0be</code>.</p>
+</div>
+</section>
+
 <div class="visiting-rwanda">
 <h2>Central Case: Visit Rwanda</h2>
 <p style="font-size:0.85rem; color:var(--fg); margin-bottom:10px;">The tourism brand of the Government of Rwanda. UN experts say Rwanda has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo. The M23 profits from coltan mining — coltan ends up in phones and laptops.</p>
