@@ -1,0 +1,20 @@
+{
+  "submission_id": "f88cff26ba2c",
+  "timestamp": "2026-09-24T17:18:13.750469+00:00",
+  "validation": {
+    "valid": true,
+    "errors": [],
+    "submission_id": "f88cff26ba2c"
+  },
+  "submission": {
+    "type": "sponsor",
+    "team": "Manchester United",
+    "sponsor": "Chevrolet",
+    "sponsor_type": "company",
+    "sponsor_category": "automotive",
+    "deal_value": "$50M/year",
+    "source": "https://www.manutd.com/en/club/commerce",
+    "reporter": "demo@example.com",
+    "description": "Chevrolet is the main jersey sponsor for Manchester United"
+  }
+}
