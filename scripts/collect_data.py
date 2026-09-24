@@ -25,6 +25,9 @@ OFFICIAL_SOURCES = {
     "american_football": {
         "nfl": "https://www.nfl.com/teams/",
     },
+    "baseball": {
+        "mlb": "https://statsapi.mlb.com/api/v1/teams?sportId=1",
+    },
 }
 
 # Known teams from official sources (collected via web_extract)
@@ -78,6 +81,18 @@ KNOWN_TEAMS = {
         "Kansas City Chiefs", "Las Vegas Raiders", "Los Angeles Chargers",
         "Miami Dolphins", "New England Patriots", "New York Jets",
         "Pittsburgh Steelers", "Tennessee Titans"
+    ],
+    "baseball_mlb": [
+        "Arizona Diamondbacks", "Atlanta Braves", "Baltimore Orioles",
+        "Boston Red Sox", "Chicago Cubs", "Chicago White Sox",
+        "Cincinnati Reds", "Cleveland Guardians", "Colorado Rockies",
+        "Detroit Tigers", "Houston Astros", "Kansas City Royals",
+        "Los Angeles Angels", "Los Angeles Dodgers", "Miami Marlins",
+        "Milwaukee Brewers", "Minnesota Twins", "New York Mets",
+        "New York Yankees", "Oakland Athletics", "Philadelphia Phillies",
+        "Pittsburgh Pirates", "San Diego Padres", "San Francisco Giants",
+        "Seattle Mariners", "St. Louis Cardinals", "Tampa Bay Rays",
+        "Texas Rangers", "Toronto Blue Jays", "Washington Nationals"
     ]
 }
 
@@ -143,6 +158,20 @@ def extract_teams_bundesliga(content: str) -> list:
             teams.append({"name": name, "sponsors": [], "website": ""})
     return teams
 
+def extract_teams_mlb(content: str) -> list:
+    """Parse MLB Stats API JSON response."""
+    teams = []
+    try:
+        data = json.loads(content)
+        for team in data.get("teams", []):
+            name = team.get("name", "")
+            if name:
+                teams.append({"name": name, "sponsors": [], "website": ""})
+    except json.JSONDecodeError:
+        pass
+    return teams
+
+
 def collect_team_data(sport: str, league: str, url: str) -> dict:
     """Collect team data from official sport governing body site."""
     headers = {"User-Agent": "Mozilla/5.0 (compatible; BehindTheJersey/0.1)"}
@@ -174,6 +203,8 @@ def collect_team_data(sport: str, league: str, url: str) -> dict:
         teams = extract_teams_nba(content)
     elif sport == "american_football" and league == "nfl":
         teams = extract_teams_nfl(content)
+    elif sport == "baseball" and league == "mlb":
+        teams = extract_teams_mlb(content)
 
     # If parsing returned 0 teams, fallback to known teams
     if not teams:

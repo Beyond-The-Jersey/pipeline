@@ -1,0 +1,34 @@
+{
+  "team": "Chicago Cubs",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@chicago-cubs.com",
+    "twitter": "@chicagocubs",
+    "website": "https://www.chicago-cubs.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Chicago Cubs to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@chicago-cubs.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@chicagocubs",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

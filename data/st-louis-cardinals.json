@@ -1,0 +1,34 @@
+{
+  "team": "St. Louis Cardinals",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@st-louis-cardinals.com",
+    "twitter": "@st.louiscardinals",
+    "website": "https://www.st-louis-cardinals.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact St. Louis Cardinals to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@st-louis-cardinals.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@st.louiscardinals",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

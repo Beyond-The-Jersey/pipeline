@@ -1,0 +1,34 @@
+{
+  "team": "New York Mets",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@new-york-mets.com",
+    "twitter": "@newyorkmets",
+    "website": "https://www.new-york-mets.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact New York Mets to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@new-york-mets.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@newyorkmets",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

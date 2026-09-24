@@ -1,0 +1,34 @@
+{
+  "team": "Cincinnati Reds",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@cincinnati-reds.com",
+    "twitter": "@cincinnatireds",
+    "website": "https://www.cincinnati-reds.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Cincinnati Reds to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@cincinnati-reds.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@cincinnatireds",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

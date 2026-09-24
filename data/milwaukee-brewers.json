@@ -1,0 +1,34 @@
+{
+  "team": "Milwaukee Brewers",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@milwaukee-brewers.com",
+    "twitter": "@milwaukeebrewers",
+    "website": "https://www.milwaukee-brewers.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Milwaukee Brewers to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@milwaukee-brewers.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@milwaukeebrewers",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

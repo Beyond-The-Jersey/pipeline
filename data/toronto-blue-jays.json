@@ -1,0 +1,34 @@
+{
+  "team": "Toronto Blue Jays",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@toronto-blue-jays.com",
+    "twitter": "@torontobluejays",
+    "website": "https://www.toronto-blue-jays.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Toronto Blue Jays to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@toronto-blue-jays.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@torontobluejays",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

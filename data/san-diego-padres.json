@@ -1,0 +1,34 @@
+{
+  "team": "San Diego Padres",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@san-diego-padres.com",
+    "twitter": "@sandiegopadres",
+    "website": "https://www.san-diego-padres.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact San Diego Padres to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@san-diego-padres.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@sandiegopadres",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

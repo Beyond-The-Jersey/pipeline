@@ -1,0 +1,34 @@
+{
+  "team": "Baltimore Orioles",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@baltimore-orioles.com",
+    "twitter": "@baltimoreorioles",
+    "website": "https://www.baltimore-orioles.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Baltimore Orioles to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@baltimore-orioles.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@baltimoreorioles",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

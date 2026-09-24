@@ -721,7 +721,187 @@
       "sport": "american_football",
       "league": "nfl",
       "file": "tennessee-titans.json"
+    },
+    {
+      "name": "Athletics",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "athletics.json"
+    },
+    {
+      "name": "Pittsburgh Pirates",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "pittsburgh-pirates.json"
+    },
+    {
+      "name": "San Diego Padres",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "san-diego-padres.json"
+    },
+    {
+      "name": "Seattle Mariners",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "seattle-mariners.json"
+    },
+    {
+      "name": "San Francisco Giants",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "san-francisco-giants.json"
+    },
+    {
+      "name": "St. Louis Cardinals",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "st-louis-cardinals.json"
+    },
+    {
+      "name": "Tampa Bay Rays",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "tampa-bay-rays.json"
+    },
+    {
+      "name": "Texas Rangers",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "texas-rangers.json"
+    },
+    {
+      "name": "Toronto Blue Jays",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "toronto-blue-jays.json"
+    },
+    {
+      "name": "Minnesota Twins",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "minnesota-twins.json"
+    },
+    {
+      "name": "Philadelphia Phillies",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "philadelphia-phillies.json"
+    },
+    {
+      "name": "Atlanta Braves",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "atlanta-braves.json"
+    },
+    {
+      "name": "Chicago White Sox",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "chicago-white-sox.json"
+    },
+    {
+      "name": "Miami Marlins",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "miami-marlins.json"
+    },
+    {
+      "name": "New York Yankees",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "new-york-yankees.json"
+    },
+    {
+      "name": "Milwaukee Brewers",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "milwaukee-brewers.json"
+    },
+    {
+      "name": "Los Angeles Angels",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "los-angeles-angels.json"
+    },
+    {
+      "name": "Arizona Diamondbacks",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "arizona-diamondbacks.json"
+    },
+    {
+      "name": "Baltimore Orioles",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "baltimore-orioles.json"
+    },
+    {
+      "name": "Boston Red Sox",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "boston-red-sox.json"
+    },
+    {
+      "name": "Chicago Cubs",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "chicago-cubs.json"
+    },
+    {
+      "name": "Cincinnati Reds",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "cincinnati-reds.json"
+    },
+    {
+      "name": "Cleveland Guardians",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "cleveland-guardians.json"
+    },
+    {
+      "name": "Colorado Rockies",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "colorado-rockies.json"
+    },
+    {
+      "name": "Detroit Tigers",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "detroit-tigers.json"
+    },
+    {
+      "name": "Houston Astros",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "houston-astros.json"
+    },
+    {
+      "name": "Kansas City Royals",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "kansas-city-royals.json"
+    },
+    {
+      "name": "Los Angeles Dodgers",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "los-angeles-dodgers.json"
+    },
+    {
+      "name": "Washington Nationals",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "washington-nationals.json"
+    },
+    {
+      "name": "New York Mets",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "new-york-mets.json"
     }
   ],
-  "total_teams": 120
+  "total_teams": 150
 }

@@ -105,7 +105,7 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T18:20:50.998970+00:00"
+    "collected_at": "2026-09-24T18:27:54.907182+00:00"
   },
   "soccer_laliga_easports": {
     "sport": "soccer",
@@ -213,7 +213,7 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T18:20:54.885816+00:00"
+    "collected_at": "2026-09-24T18:27:58.820453+00:00"
   },
   "soccer_bundesliga": {
     "sport": "soccer",
@@ -311,7 +311,7 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T18:20:57.816959+00:00"
+    "collected_at": "2026-09-24T18:28:04.833363+00:00"
   },
   "basketball_nba": {
     "sport": "basketball",
@@ -469,7 +469,7 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T18:20:58.869512+00:00"
+    "collected_at": "2026-09-24T18:28:29.742764+00:00"
   },
   "american_football_nfl": {
     "sport": "american_football",
@@ -637,6 +637,164 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T18:21:01.766734+00:00"
+    "collected_at": "2026-09-24T18:28:32.885675+00:00"
+  },
+  "baseball_mlb": {
+    "sport": "baseball",
+    "league": "mlb",
+    "url": "https://statsapi.mlb.com/api/v1/teams?sportId=1",
+    "teams": [
+      {
+        "name": "Athletics",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Pittsburgh Pirates",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "San Diego Padres",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Seattle Mariners",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "San Francisco Giants",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "St. Louis Cardinals",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Tampa Bay Rays",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Texas Rangers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Toronto Blue Jays",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Minnesota Twins",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Philadelphia Phillies",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Atlanta Braves",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Chicago White Sox",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Miami Marlins",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "New York Yankees",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Milwaukee Brewers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Los Angeles Angels",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Arizona Diamondbacks",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Baltimore Orioles",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Boston Red Sox",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Chicago Cubs",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Cincinnati Reds",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Cleveland Guardians",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Colorado Rockies",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Detroit Tigers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Houston Astros",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Kansas City Royals",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Los Angeles Dodgers",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Washington Nationals",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "New York Mets",
+        "sponsors": [],
+        "website": ""
+      }
+    ],
+    "collected_at": "2026-09-24T18:28:33.774141+00:00"
   }
 }

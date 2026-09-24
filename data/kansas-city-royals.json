@@ -1,0 +1,34 @@
+{
+  "team": "Kansas City Royals",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@kansas-city-royals.com",
+    "twitter": "@kansascityroyals",
+    "website": "https://www.kansas-city-royals.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Kansas City Royals to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@kansas-city-royals.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@kansascityroyals",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

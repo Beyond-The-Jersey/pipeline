@@ -1,0 +1,34 @@
+{
+  "team": "Seattle Mariners",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@seattle-mariners.com",
+    "twitter": "@seattlemariners",
+    "website": "https://www.seattle-mariners.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Seattle Mariners to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@seattle-mariners.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@seattlemariners",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

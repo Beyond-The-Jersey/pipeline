@@ -1,0 +1,34 @@
+{
+  "team": "Tampa Bay Rays",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@tampa-bay-rays.com",
+    "twitter": "@tampabayrays",
+    "website": "https://www.tampa-bay-rays.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Tampa Bay Rays to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@tampa-bay-rays.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@tampabayrays",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

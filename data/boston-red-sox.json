@@ -1,0 +1,34 @@
+{
+  "team": "Boston Red Sox",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@boston-red-sox.com",
+    "twitter": "@bostonredsox",
+    "website": "https://www.boston-red-sox.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Boston Red Sox to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@boston-red-sox.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@bostonredsox",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

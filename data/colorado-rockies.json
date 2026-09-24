@@ -1,0 +1,34 @@
+{
+  "team": "Colorado Rockies",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@colorado-rockies.com",
+    "twitter": "@coloradorockies",
+    "website": "https://www.colorado-rockies.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Colorado Rockies to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@colorado-rockies.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@coloradorockies",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

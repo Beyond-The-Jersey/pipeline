@@ -1,0 +1,34 @@
+{
+  "team": "Philadelphia Phillies",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@philadelphia-phillies.com",
+    "twitter": "@philadelphiaphillies",
+    "website": "https://www.philadelphia-phillies.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Philadelphia Phillies to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@philadelphia-phillies.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@philadelphiaphillies",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

@@ -1,0 +1,34 @@
+{
+  "team": "Washington Nationals",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@washington-nationals.com",
+    "twitter": "@washingtonnationals",
+    "website": "https://www.washington-nationals.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Washington Nationals to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@washington-nationals.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@washingtonnationals",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}
