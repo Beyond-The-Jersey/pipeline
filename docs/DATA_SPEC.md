@@ -104,3 +104,28 @@ Copy-paste templates:
 - News articles about sponsorship deals
 - Government statements
 - Stadium protest incidents
+
+---
+
+## Pipeline Implementation
+
+### Scripts
+| Script | Purpose |
+|--------|---------|
+| `scripts/collect_data.py` | Collects team data from Wikipedia (static HTML) |
+| `scripts/verify_quality.py` | Cross-references HR databases, validates schema |
+| `scripts/build_json.py` | Compiles verified data into JSON files |
+| `scripts/run_pipeline.py` | Master workflow — runs all 3 steps |
+
+### Master Workflow
+```bash
+python3 scripts/run_pipeline.py
+```
+Runs: Collect → Verify → Build JSON
+
+### Quality Checks
+- Required fields present (team, sport, league, country, contact, shame)
+- Contact info complete (phone, email, twitter)
+- Shame methods complete (email, phone, twitter)
+- HR cross-reference against known issues database
+- 100% verification rate required for MVP
