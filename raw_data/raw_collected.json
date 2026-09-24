@@ -2,15 +2,235 @@
   "soccer_premier_league": {
     "sport": "soccer",
     "league": "premier_league",
-    "url": "https://www.premierleague.com/clubs",
+    "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
     "teams": [],
-    "collected_at": "2026-09-24T17:02:59.960273+00:00"
+    "collected_at": "2026-09-24T17:12:10.581710+00:00"
   },
   "basketball_nba": {
     "sport": "basketball",
     "league": "nba",
-    "url": "https://www.nba.com/teams",
-    "teams": [],
-    "collected_at": "2026-09-24T17:03:04.128321+00:00"
+    "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_NBA_season",
+    "teams": [
+      {
+        "name": "National Basketball Association"
+      },
+      {
+        "name": "Cooper Flagg"
+      },
+      {
+        "name": "Jalen Brunson"
+      },
+      {
+        "name": "Cade Cunningham"
+      },
+      {
+        "name": "Detroit Pistons"
+      },
+      {
+        "name": "Los Angeles Lakers"
+      },
+      {
+        "name": "Oklahoma City Thunder"
+      },
+      {
+        "name": "Denver Nuggets"
+      },
+      {
+        "name": "Victor Wembanyama"
+      },
+      {
+        "name": "San Antonio Spurs"
+      },
+      {
+        "name": "Jaylen Brown"
+      },
+      {
+        "name": "Boston Celtics"
+      },
+      {
+        "name": "Jalen Brunson"
+      },
+      {
+        "name": "New York Knicks"
+      },
+      {
+        "name": "Kevin Durant"
+      },
+      {
+        "name": "Houston Rockets"
+      },
+      {
+        "name": "Kawhi Leonard"
+      },
+      {
+        "name": "Los Angeles Clippers"
+      },
+      {
+        "name": "Donovan Mitchell"
+      },
+      {
+        "name": "Cleveland Cavaliers"
+      },
+      {
+        "name": "Tyrese Maxey"
+      },
+      {
+        "name": "Jamal Murray"
+      },
+      {
+        "name": "Denver Nuggets"
+      },
+      {
+        "name": "Jalen Johnson"
+      },
+      {
+        "name": "Atlanta Hawks"
+      },
+      {
+        "name": "Chet Holmgren"
+      },
+      {
+        "name": "Oklahoma City Thunder"
+      },
+      {
+        "name": "Jalen Duren"
+      },
+      {
+        "name": "Detroit Pistons"
+      },
+      {
+        "name": "Victor Wembanyama"
+      },
+      {
+        "name": "San Antonio Spurs"
+      },
+      {
+        "name": "Chet Holmgren"
+      },
+      {
+        "name": "Oklahoma City Thunder"
+      },
+      {
+        "name": "Ausar Thompson"
+      },
+      {
+        "name": "Detroit Pistons"
+      },
+      {
+        "name": "Rudy Gobert"
+      },
+      {
+        "name": "Minnesota Timberwolves"
+      },
+      {
+        "name": "Derrick White"
+      },
+      {
+        "name": "Boston Celtics"
+      },
+      {
+        "name": "Scottie Barnes"
+      },
+      {
+        "name": "Toronto Raptors"
+      },
+      {
+        "name": "Cason Wallace"
+      },
+      {
+        "name": "Oklahoma City Thunder"
+      },
+      {
+        "name": "Bam Adebayo"
+      },
+      {
+        "name": "Miami Heat"
+      },
+      {
+        "name": "New York Knicks"
+      },
+      {
+        "name": "Dyson Daniels"
+      },
+      {
+        "name": "Atlanta Hawks"
+      },
+      {
+        "name": "Cooper Flagg"
+      },
+      {
+        "name": "Dallas Mavericks"
+      },
+      {
+        "name": "Kon Knueppel"
+      },
+      {
+        "name": "Charlotte Hornets"
+      },
+      {
+        "name": "Dylan Harper"
+      },
+      {
+        "name": "San Antonio Spurs"
+      },
+      {
+        "name": "Cedric Coward"
+      },
+      {
+        "name": "Memphis Grizzlies"
+      },
+      {
+        "name": "Utah Jazz"
+      },
+      {
+        "name": "Jeremiah Fears"
+      },
+      {
+        "name": "New Orleans Pelicans"
+      },
+      {
+        "name": "Toronto Raptors"
+      },
+      {
+        "name": "Maxime Raynaud"
+      },
+      {
+        "name": "Sacramento Kings"
+      },
+      {
+        "name": "Derik Queen"
+      },
+      {
+        "name": "New Orleans Pelicans"
+      },
+      {
+        "name": "Bleacher Report"
+      },
+      {
+        "name": "National Basketball Association"
+      },
+      {
+        "name": "Associated Press"
+      },
+      {
+        "name": "Sports Illustrated"
+      },
+      {
+        "name": "Associated Press"
+      },
+      {
+        "name": "Associated Press"
+      },
+      {
+        "name": "Associated Press"
+      },
+      {
+        "name": "Sports Illustrated"
+      },
+      {
+        "name": "Sports Illustrated"
+      }
+    ],
+    "collected_at": "2026-09-24T17:12:13.607790+00:00"
   }
 }

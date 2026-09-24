@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collect team and sponsor data from sport governing body websites."""
+"""Collect team data from Wikipedia (static HTML, no JS rendering needed)."""
 
 import json
 import re
@@ -12,48 +12,40 @@ from urllib.error import URLError
 OUTPUT_DIR = Path("raw_data")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-SPORT_SOURCES = {
+WIKIPEDIA_SOURCES = {
     "soccer": {
-        "premier_league": "https://www.premierleague.com/clubs",
+        "premier_league": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
     },
     "basketball": {
-        "nba": "https://www.nba.com/teams",
+        "nba": "https://en.wikipedia.org/wiki/2025%E2%80%9326_NBA_season",
     },
 }
 
-def extract_teams_pl(content: str) -> list:
-    """Parse Premier League clubs page."""
+def extract_teams_wiki(content: str, sport: str) -> list:
+    """Parse Wikipedia page for team names."""
     teams = []
-    # Pattern: ![TeamName](badge_url)\n\n[TeamName](club_url)
-    pattern = r'!\[([^\]]+)\]\([^)]+\)\s*\n+\[([^\]]+)\]\(([^)]+)\)'
-    for match in re.finditer(pattern, content):
-        name = match.group(2).strip()
-        url = match.group(3).strip()
-        if name and len(name) > 2 and "clubs/" in url:
-            teams.append({"name": name, "sponsors": [], "website": ""})
-    # Deduplicate
-    seen = set()
-    unique = []
-    for t in teams:
-        if t["name"] not in seen:
-            seen.add(t["name"])
-            unique.append(t)
-    return unique
 
-def extract_teams_nba(content: str) -> list:
-    """Parse NBA teams page."""
-    teams = []
-    # Pattern: ![TeamName Logo](badge_url)\n\n[TeamName](team_url)
-    pattern = r'!\[([^\]]*)\]\([^)]+\)\s*\n+\[([^\]]+)\]\(([^)]+)\)'
-    for match in re.finditer(pattern, content):
-        name = match.group(2).strip()
-        url = match.group(3).strip()
-        if name and len(name) > 2:
-            teams.append({"name": name, "sponsors": [], "website": url})
+    if sport == "soccer":
+        # Premier League: look for [[Team Name (football)|Short Name]] patterns
+        pattern = r'\[\[([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)\s+\(football\)\|([^\]]+)\]\]'
+        for match in re.finditer(pattern, content):
+            full_name = match.group(1).strip()
+            short_name = match.group(2).strip()
+            if full_name and len(full_name) > 2:
+                teams.append({"name": full_name, "short_name": short_name})
+    elif sport == "basketball":
+        # NBA: look for [[Team Name]] patterns in division tables
+        pattern = r'\[\[([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)\]\]'
+        skip_words = {"Wikipedia", "Portal", "Sports", "Basketball", "See", "Also", "Edit"}
+        for match in re.finditer(pattern, content):
+            name = match.group(1).strip()
+            if name not in skip_words and len(name) > 2:
+                teams.append({"name": name})
+
     return teams
 
-def collect_team_sponsors(sport: str, league: str, url: str) -> dict:
-    """Scrape team and sponsor data from a sport governing body site."""
+def collect_team_data(sport: str, league: str, url: str) -> dict:
+    """Collect team data from Wikipedia."""
     headers = {"User-Agent": "Mozilla/5.0 (compatible; BehindTheJersey/0.1)"}
     try:
         req = Request(url, headers=headers)
@@ -63,11 +55,7 @@ def collect_team_sponsors(sport: str, league: str, url: str) -> dict:
         print(f"ERROR: Failed to fetch {url}: {e}", file=sys.stderr)
         return {"sport": sport, "league": league, "url": url, "teams": [], "error": str(e)}
 
-    teams = []
-    if sport == "soccer" and league == "premier_league":
-        teams = extract_teams_pl(content)
-    elif sport == "basketball" and league == "nba":
-        teams = extract_teams_nba(content)
+    teams = extract_teams_wiki(content, sport)
 
     return {
         "sport": sport,
@@ -79,10 +67,10 @@ def collect_team_sponsors(sport: str, league: str, url: str) -> dict:
 
 def main():
     all_data = {}
-    for sport, leagues in SPORT_SOURCES.items():
+    for sport, leagues in WIKIPEDIA_SOURCES.items():
         for league, url in leagues.items():
             print(f"Collecting {sport}/{league} from {url}...")
-            data = collect_team_sponsors(sport, league, url)
+            data = collect_team_data(sport, league, url)
             all_data[f"{sport}_{league}"] = data
             print(f"  Found {len(data['teams'])} teams")
             for t in data["teams"][:5]:
