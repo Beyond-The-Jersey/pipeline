@@ -1,0 +1,890 @@
+[
+  {
+    "slug": "arsenal",
+    "wiki": "Arsenal_F.C.",
+    "team": "",
+    "file": "arsenal.json"
+  },
+  {
+    "slug": "aston-villa",
+    "wiki": "Aston_Villa_F.C.",
+    "team": "",
+    "file": "aston-villa.json"
+  },
+  {
+    "slug": "bournemouth",
+    "wiki": "AFC_Bournemouth",
+    "team": "",
+    "file": "bournemouth.json"
+  },
+  {
+    "slug": "brentford",
+    "wiki": "Brentford_F.C.",
+    "team": "",
+    "file": "brentford.json"
+  },
+  {
+    "slug": "brighton-hove-albion",
+    "wiki": "Brighton_&_Hove_Albion",
+    "team": "",
+    "file": "brighton-hove-albion.json"
+  },
+  {
+    "slug": "chelsea",
+    "wiki": "Chelsea_F.C.",
+    "team": "",
+    "file": "chelsea.json"
+  },
+  {
+    "slug": "coventry-city",
+    "wiki": "Coventry_City_F.C.",
+    "team": "",
+    "file": "coventry-city.json"
+  },
+  {
+    "slug": "crystal-palace",
+    "wiki": "Crystal_Palace_F.C.",
+    "team": "",
+    "file": "crystal-palace.json"
+  },
+  {
+    "slug": "everton",
+    "wiki": "Everton_F.C.",
+    "team": "",
+    "file": "everton.json"
+  },
+  {
+    "slug": "fulham",
+    "wiki": "Fulham_F.C.",
+    "team": "",
+    "file": "fulham.json"
+  },
+  {
+    "slug": "hull-city",
+    "wiki": "Hull_City_A.F.C.",
+    "team": "",
+    "file": "hull-city.json"
+  },
+  {
+    "slug": "ipswich-town",
+    "wiki": "Ipswich_Town_F.C.",
+    "team": "",
+    "file": "ipswich-town.json"
+  },
+  {
+    "slug": "leeds-united",
+    "wiki": "Leeds_United_F.C.",
+    "team": "",
+    "file": "leeds-united.json"
+  },
+  {
+    "slug": "liverpool",
+    "wiki": "Liverpool_F.C.",
+    "team": "",
+    "file": "liverpool.json"
+  },
+  {
+    "slug": "manchester-city",
+    "wiki": "Manchester_City_F.C.",
+    "team": "",
+    "file": "manchester-city.json"
+  },
+  {
+    "slug": "manchester-united",
+    "wiki": "Manchester_United_F.C.",
+    "team": "",
+    "file": "manchester-united.json"
+  },
+  {
+    "slug": "newcastle-united",
+    "wiki": "Newcastle_United_F.C.",
+    "team": "",
+    "file": "newcastle-united.json"
+  },
+  {
+    "slug": "nottingham-forest",
+    "wiki": "Nottingham_Forest_F.C.",
+    "team": "",
+    "file": "nottingham-forest.json"
+  },
+  {
+    "slug": "sunderland",
+    "wiki": "Sunderland_A.F.C.",
+    "team": "",
+    "file": "sunderland.json"
+  },
+  {
+    "slug": "tottenham-hotspur",
+    "wiki": "Tottenham_Hotspur_F.C.",
+    "team": "",
+    "file": "tottenham-hotspur.json"
+  },
+  {
+    "slug": "athletic-club",
+    "wiki": "Athletic_Bilbao",
+    "team": "",
+    "file": "athletic-club.json"
+  },
+  {
+    "slug": "ca-osasuna",
+    "wiki": "CA_Osasuna",
+    "team": "",
+    "file": "ca-osasuna.json"
+  },
+  {
+    "slug": "celta",
+    "wiki": "RC_Celta_de_Vigo",
+    "team": "",
+    "file": "celta.json"
+  },
+  {
+    "slug": "elche-cf",
+    "wiki": "Elche_CF",
+    "team": "",
+    "file": "elche-cf.json"
+  },
+  {
+    "slug": "fc-barcelona",
+    "wiki": "FC_Barcelona",
+    "team": "",
+    "file": "fc-barcelona.json"
+  },
+  {
+    "slug": "getafe-cf",
+    "wiki": "Getafe_CF",
+    "team": "",
+    "file": "getafe-cf.json"
+  },
+  {
+    "slug": "levante-ud",
+    "wiki": "Levante_UD",
+    "team": "",
+    "file": "levante-ud.json"
+  },
+  {
+    "slug": "m\u00e1laga-cf",
+    "wiki": "M\u00e1laga_CF",
+    "team": "",
+    "file": "m\u00e1laga-cf.json"
+  },
+  {
+    "slug": "r-racing-club",
+    "wiki": "Racing_de_Santander",
+    "team": "",
+    "file": "r-racing-club.json"
+  },
+  {
+    "slug": "rayo-vallecano",
+    "wiki": "Rayo_Vallecano",
+    "team": "",
+    "file": "rayo-vallecano.json"
+  },
+  {
+    "slug": "rc-deportivo",
+    "wiki": "Deportivo_de_La_Coru\u00f1a",
+    "team": "",
+    "file": "rc-deportivo.json"
+  },
+  {
+    "slug": "rcd-espanyol-de-barcelona",
+    "wiki": "RCD_Espanyol",
+    "team": "",
+    "file": "rcd-espanyol-de-barcelona.json"
+  },
+  {
+    "slug": "real-betis",
+    "wiki": "Real_Betis",
+    "team": "",
+    "file": "real-betis.json"
+  },
+  {
+    "slug": "real-madrid",
+    "wiki": "Real_Madrid_CF",
+    "team": "",
+    "file": "real-madrid.json"
+  },
+  {
+    "slug": "real-sociedad",
+    "wiki": "Real_Sociedad",
+    "team": "",
+    "file": "real-sociedad.json"
+  },
+  {
+    "slug": "sevilla-fc",
+    "wiki": "Sevilla_FC",
+    "team": "",
+    "file": "sevilla-fc.json"
+  },
+  {
+    "slug": "valencia-cf",
+    "wiki": "Valencia_CF",
+    "team": "",
+    "file": "valencia-cf.json"
+  },
+  {
+    "slug": "villarreal-cf",
+    "wiki": "Villarreal_CF",
+    "team": "",
+    "file": "villarreal-cf.json"
+  },
+  {
+    "slug": "bayern-munich",
+    "wiki": "FC_Bayern_Munich",
+    "team": "",
+    "file": "bayern-munich.json"
+  },
+  {
+    "slug": "borussia-dortmund",
+    "wiki": "Borussia_Dortmund",
+    "team": "",
+    "file": "borussia-dortmund.json"
+  },
+  {
+    "slug": "rb-leipzig",
+    "wiki": "RB_Leipzig",
+    "team": "",
+    "file": "rb-leipzig.json"
+  },
+  {
+    "slug": "vfb-stuttgart",
+    "wiki": "VfB_Stuttgart",
+    "team": "",
+    "file": "vfb-stuttgart.json"
+  },
+  {
+    "slug": "tsg-hoffenheim",
+    "wiki": "TSG_1899_Hoffenheim",
+    "team": "",
+    "file": "tsg-hoffenheim.json"
+  },
+  {
+    "slug": "bayer-leverkusen",
+    "wiki": "Bayer_04_Leverkusen",
+    "team": "",
+    "file": "bayer-leverkusen.json"
+  },
+  {
+    "slug": "sport-club-freiburg",
+    "wiki": "SC_Freiburg",
+    "team": "",
+    "file": "sport-club-freiburg.json"
+  },
+  {
+    "slug": "eintracht-frankfurt",
+    "wiki": "Eintracht_Frankfurt",
+    "team": "",
+    "file": "eintracht-frankfurt.json"
+  },
+  {
+    "slug": "fc-augsburg",
+    "wiki": "FC_Augsburg",
+    "team": "",
+    "file": "fc-augsburg.json"
+  },
+  {
+    "slug": "1-fsv-mainz-05",
+    "wiki": "1._FSV_Mainz_05",
+    "team": "",
+    "file": "1-fsv-mainz-05.json"
+  },
+  {
+    "slug": "1-fc-union-berlin",
+    "wiki": "1._FC_Union_Berlin",
+    "team": "",
+    "file": "1-fc-union-berlin.json"
+  },
+  {
+    "slug": "borussia-m\u00f6nchengladbach",
+    "wiki": "Borussia_M\u00f6nchengladbach",
+    "team": "",
+    "file": "borussia-m\u00f6nchengladbach.json"
+  },
+  {
+    "slug": "hamburger-sv",
+    "wiki": "Hamburger_SV",
+    "team": "",
+    "file": "hamburger-sv.json"
+  },
+  {
+    "slug": "1-fc-k\u00f6ln",
+    "wiki": "1._FC_K\u00f6ln",
+    "team": "",
+    "file": "1-fc-k\u00f6ln.json"
+  },
+  {
+    "slug": "sv-werder-bremen",
+    "wiki": "SV_Werder_Bremen",
+    "team": "",
+    "file": "sv-werder-bremen.json"
+  },
+  {
+    "slug": "fc-schalke-04",
+    "wiki": "FC_Schalke_04",
+    "team": "",
+    "file": "fc-schalke-04.json"
+  },
+  {
+    "slug": "sv-elversberg",
+    "wiki": "SV_Elversberg",
+    "team": "",
+    "file": "sv-elversberg.json"
+  },
+  {
+    "slug": "sc-paderborn-07",
+    "wiki": "SC_Paderborn_07",
+    "team": "",
+    "file": "sc-paderborn-07.json"
+  },
+  {
+    "slug": "boston-celtics",
+    "wiki": "Boston_Celtics",
+    "team": "",
+    "file": "boston-celtics.json"
+  },
+  {
+    "slug": "brooklyn-nets",
+    "wiki": "Brooklyn_Nets",
+    "team": "",
+    "file": "brooklyn-nets.json"
+  },
+  {
+    "slug": "new-york-knicks",
+    "wiki": "New_York_Knicks",
+    "team": "",
+    "file": "new-york-knicks.json"
+  },
+  {
+    "slug": "philadelphia-76ers",
+    "wiki": "Philadelphia_76ers",
+    "team": "",
+    "file": "philadelphia-76ers.json"
+  },
+  {
+    "slug": "toronto-raptors",
+    "wiki": "Toronto_Raptors",
+    "team": "",
+    "file": "toronto-raptors.json"
+  },
+  {
+    "slug": "chicago-bulls",
+    "wiki": "Chicago_Bulls",
+    "team": "",
+    "file": "chicago-bulls.json"
+  },
+  {
+    "slug": "cleveland-cavaliers",
+    "wiki": "Cleveland_Cavaliers",
+    "team": "",
+    "file": "cleveland-cavaliers.json"
+  },
+  {
+    "slug": "detroit-pistons",
+    "wiki": "Detroit_Pistons",
+    "team": "",
+    "file": "detroit-pistons.json"
+  },
+  {
+    "slug": "indiana-pacers",
+    "wiki": "Indiana_Pacers",
+    "team": "",
+    "file": "indiana-pacers.json"
+  },
+  {
+    "slug": "milwaukee-bucks",
+    "wiki": "Milwaukee_Bucks",
+    "team": "",
+    "file": "milwaukee-bucks.json"
+  },
+  {
+    "slug": "atlanta-hawks",
+    "wiki": "Atlanta_Hawks",
+    "team": "",
+    "file": "atlanta-hawks.json"
+  },
+  {
+    "slug": "charlotte-hornets",
+    "wiki": "Charlotte_Hornets",
+    "team": "",
+    "file": "charlotte-hornets.json"
+  },
+  {
+    "slug": "miami-heat",
+    "wiki": "Miami_Heat",
+    "team": "",
+    "file": "miami-heat.json"
+  },
+  {
+    "slug": "orlando-magic",
+    "wiki": "Orlando_Magic",
+    "team": "",
+    "file": "orlando-magic.json"
+  },
+  {
+    "slug": "washington-wizards",
+    "wiki": "Washington_Wizards",
+    "team": "",
+    "file": "washington-wizards.json"
+  },
+  {
+    "slug": "denver-nuggets",
+    "wiki": "Denver_Nuggets",
+    "team": "",
+    "file": "denver-nuggets.json"
+  },
+  {
+    "slug": "minnesota-timberwolves",
+    "wiki": "Minnesota_Timberwolves",
+    "team": "",
+    "file": "minnesota-timberwolves.json"
+  },
+  {
+    "slug": "oklahoma-city-thunder",
+    "wiki": "Oklahoma_City_Thunder",
+    "team": "",
+    "file": "oklahoma-city-thunder.json"
+  },
+  {
+    "slug": "portland-trail-blazers",
+    "wiki": "Portland_Trail_Blazers",
+    "team": "",
+    "file": "portland-trail-blazers.json"
+  },
+  {
+    "slug": "utah-jazz",
+    "wiki": "Utah_Jazz",
+    "team": "",
+    "file": "utah-jazz.json"
+  },
+  {
+    "slug": "golden-state-warriors",
+    "wiki": "Golden_State_Warriors",
+    "team": "",
+    "file": "golden-state-warriors.json"
+  },
+  {
+    "slug": "la-clippers",
+    "wiki": "LA_Clippers",
+    "team": "",
+    "file": "la-clippers.json"
+  },
+  {
+    "slug": "los-angeles-lakers",
+    "wiki": "Los_Angeles_Lakers",
+    "team": "",
+    "file": "los-angeles-lakers.json"
+  },
+  {
+    "slug": "phoenix-suns",
+    "wiki": "Phoenix_Suns",
+    "team": "",
+    "file": "phoenix-suns.json"
+  },
+  {
+    "slug": "sacramento-kings",
+    "wiki": "Sacramento_Kings",
+    "team": "",
+    "file": "sacramento-kings.json"
+  },
+  {
+    "slug": "dallas-mavericks",
+    "wiki": "Dallas_Mavericks",
+    "team": "",
+    "file": "dallas-mavericks.json"
+  },
+  {
+    "slug": "houston-rockets",
+    "wiki": "Houston_Rockets",
+    "team": "",
+    "file": "houston-rockets.json"
+  },
+  {
+    "slug": "memphis-grizzlies",
+    "wiki": "Memphis_Grizzlies",
+    "team": "",
+    "file": "memphis-grizzlies.json"
+  },
+  {
+    "slug": "new-orleans-pelicans",
+    "wiki": "New_Orleans_Pelicans",
+    "team": "",
+    "file": "new-orleans-pelicans.json"
+  },
+  {
+    "slug": "san-antonio-spurs",
+    "wiki": "San_Antonio_Spurs",
+    "team": "",
+    "file": "san-antonio-spurs.json"
+  },
+  {
+    "slug": "arizona-cardinals",
+    "wiki": "Arizona_Cardinals",
+    "team": "",
+    "file": "arizona-cardinals.json"
+  },
+  {
+    "slug": "atlanta-falcons",
+    "wiki": "Atlanta_Falcons",
+    "team": "",
+    "file": "atlanta-falcons.json"
+  },
+  {
+    "slug": "carolina-panthers",
+    "wiki": "Carolina_Panthers",
+    "team": "",
+    "file": "carolina-panthers.json"
+  },
+  {
+    "slug": "chicago-bears",
+    "wiki": "Chicago_Bears",
+    "team": "",
+    "file": "chicago-bears.json"
+  },
+  {
+    "slug": "dallas-cowboys",
+    "wiki": "Dallas_Cowboys",
+    "team": "",
+    "file": "dallas-cowboys.json"
+  },
+  {
+    "slug": "detroit-lions",
+    "wiki": "Detroit_Lions",
+    "team": "",
+    "file": "detroit-lions.json"
+  },
+  {
+    "slug": "green-bay-packers",
+    "wiki": "Green_Bay_Packers",
+    "team": "",
+    "file": "green-bay-packers.json"
+  },
+  {
+    "slug": "los-angeles-rams",
+    "wiki": "Los_Angeles_Rams",
+    "team": "",
+    "file": "los-angeles-rams.json"
+  },
+  {
+    "slug": "minnesota-vikings",
+    "wiki": "Minnesota_Vikings",
+    "team": "",
+    "file": "minnesota-vikings.json"
+  },
+  {
+    "slug": "new-orleans-saints",
+    "wiki": "New_Orleans_Saints",
+    "team": "",
+    "file": "new-orleans-saints.json"
+  },
+  {
+    "slug": "new-york-giants",
+    "wiki": "New_York_Giants",
+    "team": "",
+    "file": "new-york-giants.json"
+  },
+  {
+    "slug": "philadelphia-eagles",
+    "wiki": "Philadelphia_Eagles",
+    "team": "",
+    "file": "philadelphia-eagles.json"
+  },
+  {
+    "slug": "san-francisco-49ers",
+    "wiki": "San_Francisco_49ers",
+    "team": "",
+    "file": "san-francisco-49ers.json"
+  },
+  {
+    "slug": "seattle-seahawks",
+    "wiki": "Seattle_Seahawks",
+    "team": "",
+    "file": "seattle-seahawks.json"
+  },
+  {
+    "slug": "tampa-bay-buccaneers",
+    "wiki": "Tampa_Bay_Buccaneers",
+    "team": "",
+    "file": "tampa-bay-buccaneers.json"
+  },
+  {
+    "slug": "washington-commanders",
+    "wiki": "Washington_Commanders",
+    "team": "",
+    "file": "washington-commanders.json"
+  },
+  {
+    "slug": "baltimore-ravens",
+    "wiki": "Baltimore_Ravens",
+    "team": "",
+    "file": "baltimore-ravens.json"
+  },
+  {
+    "slug": "buffalo-bills",
+    "wiki": "Buffalo_Bills",
+    "team": "",
+    "file": "buffalo-bills.json"
+  },
+  {
+    "slug": "cincinnati-bengals",
+    "wiki": "Cincinnati_Bengals",
+    "team": "",
+    "file": "cincinnati-bengals.json"
+  },
+  {
+    "slug": "cleveland-browns",
+    "wiki": "Cleveland_Browns",
+    "team": "",
+    "file": "cleveland-browns.json"
+  },
+  {
+    "slug": "denver-broncos",
+    "wiki": "Denver_Broncos",
+    "team": "",
+    "file": "denver-broncos.json"
+  },
+  {
+    "slug": "houston-texans",
+    "wiki": "Houston_Texans",
+    "team": "",
+    "file": "houston-texans.json"
+  },
+  {
+    "slug": "indianapolis-colts",
+    "wiki": "Indianapolis_Colts",
+    "team": "",
+    "file": "indianapolis-colts.json"
+  },
+  {
+    "slug": "jacksonville-jaguars",
+    "wiki": "Jacksonville_Jaguars",
+    "team": "",
+    "file": "jacksonville-jaguars.json"
+  },
+  {
+    "slug": "kansas-city-chiefs",
+    "wiki": "Kansas_City_Chiefs",
+    "team": "",
+    "file": "kansas-city-chiefs.json"
+  },
+  {
+    "slug": "las-vegas-raiders",
+    "wiki": "Las_Vegas_Raiders",
+    "team": "",
+    "file": "las-vegas-raiders.json"
+  },
+  {
+    "slug": "los-angeles-chargers",
+    "wiki": "Los_Angeles_Chargers",
+    "team": "",
+    "file": "los-angeles-chargers.json"
+  },
+  {
+    "slug": "miami-dolphins",
+    "wiki": "Miami_Dolphins",
+    "team": "",
+    "file": "miami-dolphins.json"
+  },
+  {
+    "slug": "new-england-patriots",
+    "wiki": "New_England_Patriots",
+    "team": "",
+    "file": "new-england-patriots.json"
+  },
+  {
+    "slug": "new-york-jets",
+    "wiki": "New_York_Jets",
+    "team": "",
+    "file": "new-york-jets.json"
+  },
+  {
+    "slug": "pittsburgh-steelers",
+    "wiki": "Pittsburgh_Steelers",
+    "team": "",
+    "file": "pittsburgh-steelers.json"
+  },
+  {
+    "slug": "tennessee-titans",
+    "wiki": "Tennessee_Titans",
+    "team": "",
+    "file": "tennessee-titans.json"
+  },
+  {
+    "slug": "athletics",
+    "wiki": "Oakland_Athletics",
+    "team": "",
+    "file": "athletics.json"
+  },
+  {
+    "slug": "pittsburgh-pirates",
+    "wiki": "Pittsburgh_Pirates",
+    "team": "",
+    "file": "pittsburgh-pirates.json"
+  },
+  {
+    "slug": "san-diego-padres",
+    "wiki": "San_Diego_Padres",
+    "team": "",
+    "file": "san-diego-padres.json"
+  },
+  {
+    "slug": "seattle-mariners",
+    "wiki": "Seattle_Mariners",
+    "team": "",
+    "file": "seattle-mariners.json"
+  },
+  {
+    "slug": "san-francisco-giants",
+    "wiki": "San_Francisco_Giants",
+    "team": "",
+    "file": "san-francisco-giants.json"
+  },
+  {
+    "slug": "st-louis-cardinals",
+    "wiki": "St._Louis_Cardinals",
+    "team": "",
+    "file": "st-louis-cardinals.json"
+  },
+  {
+    "slug": "tampa-bay-rays",
+    "wiki": "Tampa_Bay_Rays",
+    "team": "",
+    "file": "tampa-bay-rays.json"
+  },
+  {
+    "slug": "texas-rangers",
+    "wiki": "Texas_Rangers",
+    "team": "",
+    "file": "texas-rangers.json"
+  },
+  {
+    "slug": "toronto-blue-jays",
+    "wiki": "Toronto_Blue_Jays",
+    "team": "",
+    "file": "toronto-blue-jays.json"
+  },
+  {
+    "slug": "minnesota-twins",
+    "wiki": "Minnesota_Twins",
+    "team": "",
+    "file": "minnesota-twins.json"
+  },
+  {
+    "slug": "philadelphia-phillies",
+    "wiki": "Philadelphia_Phillies",
+    "team": "",
+    "file": "philadelphia-phillies.json"
+  },
+  {
+    "slug": "atlanta-braves",
+    "wiki": "Atlanta_Braves",
+    "team": "",
+    "file": "atlanta-braves.json"
+  },
+  {
+    "slug": "chicago-white-sox",
+    "wiki": "Chicago_White_Sox",
+    "team": "",
+    "file": "chicago-white-sox.json"
+  },
+  {
+    "slug": "miami-marlins",
+    "wiki": "Miami_Marlins",
+    "team": "",
+    "file": "miami-marlins.json"
+  },
+  {
+    "slug": "new-york-yankees",
+    "wiki": "New_York_Yankees",
+    "team": "",
+    "file": "new-york-yankees.json"
+  },
+  {
+    "slug": "milwaukee-brewers",
+    "wiki": "Milwaukee_Brewers",
+    "team": "",
+    "file": "milwaukee-brewers.json"
+  },
+  {
+    "slug": "los-angeles-angels",
+    "wiki": "Los_Angeles_Angels",
+    "team": "",
+    "file": "los-angeles-angels.json"
+  },
+  {
+    "slug": "arizona-diamondbacks",
+    "wiki": "Arizona_Diamondbacks",
+    "team": "",
+    "file": "arizona-diamondbacks.json"
+  },
+  {
+    "slug": "baltimore-orioles",
+    "wiki": "Baltimore_Orioles",
+    "team": "",
+    "file": "baltimore-orioles.json"
+  },
+  {
+    "slug": "boston-red-sox",
+    "wiki": "Boston_Red_Sox",
+    "team": "",
+    "file": "boston-red-sox.json"
+  },
+  {
+    "slug": "chicago-cubs",
+    "wiki": "Chicago_Cubs",
+    "team": "",
+    "file": "chicago-cubs.json"
+  },
+  {
+    "slug": "cincinnati-reds",
+    "wiki": "Cincinnati_Reds",
+    "team": "",
+    "file": "cincinnati-reds.json"
+  },
+  {
+    "slug": "cleveland-guardians",
+    "wiki": "Cleveland_Guardians",
+    "team": "",
+    "file": "cleveland-guardians.json"
+  },
+  {
+    "slug": "colorado-rockies",
+    "wiki": "Colorado_Rockies",
+    "team": "",
+    "file": "colorado-rockies.json"
+  },
+  {
+    "slug": "detroit-tigers",
+    "wiki": "Detroit_Tigers",
+    "team": "",
+    "file": "detroit-tigers.json"
+  },
+  {
+    "slug": "houston-astros",
+    "wiki": "Houston_Astros",
+    "team": "",
+    "file": "houston-astros.json"
+  },
+  {
+    "slug": "kansas-city-royals",
+    "wiki": "Kansas_City_Royals",
+    "team": "",
+    "file": "kansas-city-royals.json"
+  },
+  {
+    "slug": "los-angeles-dodgers",
+    "wiki": "Los_Angeles_Dodgers",
+    "team": "",
+    "file": "los-angeles-dodgers.json"
+  },
+  {
+    "slug": "washington-nationals",
+    "wiki": "Washington_Nationals",
+    "team": "",
+    "file": "washington-nationals.json"
+  },
+  {
+    "slug": "new-york-mets",
+    "wiki": "New_York_Mets",
+    "team": "",
+    "file": "new-york-mets.json"
+  }
+]

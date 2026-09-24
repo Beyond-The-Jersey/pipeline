@@ -1,0 +1,367 @@
+{
+  "arsenal": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "aston-villa": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "bournemouth": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "brentford": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "brighton-hove-albion": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "hull-city": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "ipswich-town": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "leeds-united": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "liverpool": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "manchester-city": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "athletic-club": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "ca-osasuna": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "celta": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "elche-cf": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "fc-barcelona": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "rcd-espanyol-de-barcelona": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "real-betis": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "real-madrid": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "real-sociedad": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "rb-leipzig": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "vfb-stuttgart": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "tsg-hoffenheim": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "bayer-leverkusen": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "sport-club-freiburg": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "hamburger-sv": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "sv-werder-bremen": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "fc-schalke-04": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "sv-elversberg": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "toronto-raptors": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "chicago-bulls": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "cleveland-cavaliers": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "detroit-pistons": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "indiana-pacers": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "washington-wizards": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "denver-nuggets": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "minnesota-timberwolves": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "oklahoma-city-thunder": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "portland-trail-blazers": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "sacramento-kings": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "dallas-mavericks": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "houston-rockets": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "memphis-grizzlies": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "new-orleans-pelicans": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "dallas-cowboys": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "detroit-lions": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "green-bay-packers": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "los-angeles-rams": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "minnesota-vikings": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "washington-commanders": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "baltimore-ravens": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "tampa-bay-buccaneers": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "cincinnati-bengals": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "buffalo-bills": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "kansas-city-chiefs": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "las-vegas-raiders": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "los-angeles-chargers": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "miami-dolphins": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "new-england-patriots": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "san-diego-padres": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "seattle-mariners": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "san-francisco-giants": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "st-louis-cardinals": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "tampa-bay-rays": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "chicago-white-sox": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "miami-marlins": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "new-york-yankees": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "milwaukee-brewers": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "los-angeles-angels": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "cleveland-guardians": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "colorado-rockies": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "detroit-tigers": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "houston-astros": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  },
+  "kansas-city-royals": {
+    "owner": null,
+    "sponsors": [],
+    "error": null
+  }
+}
