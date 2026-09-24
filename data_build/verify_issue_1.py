@@ -52,7 +52,9 @@ bad = [d["id"] for d in deals if d.get("value") and d["value"].get("currency") n
 chk("currencies are GBP/EUR/USD", not bad)
 
 # 4 changes
-chk("six seed changes restored", len([c for c in changes if c["id"] != "2026-09-17-chelsea-circle-usdc"]) == 6)
+_seed_changes = {c["id"] for c in json.load(open("/tmp/website/data/seed/changes.json"))}
+_ours = {c["id"] for c in changes}
+chk("six seed changes restored", _seed_changes <= _ours, str(sorted(_seed_changes - _ours)))
 bad = [c["id"] for c in changes if not (c.get("date") and c.get("title") and c.get("levelAfter") and c.get("source"))]
 chk("every change is dated, titled, rated and sourced", not bad, str(bad))
 
