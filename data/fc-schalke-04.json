@@ -1,0 +1,34 @@
+{
+  "team": "FC Schalke 04",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@fc-schalke-04.com",
+    "twitter": "@fcschalke04",
+    "website": "https://www.fc-schalke-04.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact FC Schalke 04 to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@fc-schalke-04.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@fcschalke04",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

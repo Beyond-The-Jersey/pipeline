@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "checked_at": "2026-09-24T17:35:51.055636+00:00",
+  "checked_at": "2026-09-24T18:21:04.301857+00:00",
   "hr_databases": {
     "hrf": "https://hrforum.org",
     "amnesty": "https://amnesty.org",
@@ -8,6 +8,39 @@
     "bhr": "https://business-humanrights.org"
   },
   "teams": {
+    "1-fc-k\u00f6ln": {
+      "team": "1. FC K\u00f6ln",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "1-fc-union-berlin": {
+      "team": "1. FC Union Berlin",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "1-fsv-mainz-05": {
+      "team": "1. FSV Mainz 05",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "arizona-cardinals": {
       "team": "Arizona Cardinals",
       "verified": true,
@@ -41,6 +74,17 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "athletic-club": {
+      "team": "Athletic Club",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "atlanta-falcons": {
       "team": "Atlanta Falcons",
       "verified": true,
@@ -63,8 +107,63 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "atl\u00e9tico-de-madrid": {
+      "team": "Atl\u00e9tico de Madrid",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "baltimore-ravens": {
       "team": "Baltimore Ravens",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "bayer-leverkusen": {
+      "team": "Bayer Leverkusen",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "bayern-munich": {
+      "team": "Bayern Munich",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "borussia-dortmund": {
+      "team": "Borussia Dortmund",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "borussia-m\u00f6nchengladbach": {
+      "team": "Borussia M\u00f6nchengladbach",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -140,8 +239,30 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "ca-osasuna": {
+      "team": "CA Osasuna",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "carolina-panthers": {
       "team": "Carolina Panthers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "celta": {
+      "team": "Celta",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -294,6 +415,17 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "deportivo-alav\u00e9s": {
+      "team": "Deportivo Alav\u00e9s",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "detroit-lions": {
       "team": "Detroit Lions",
       "verified": true,
@@ -316,6 +448,28 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "eintracht-frankfurt": {
+      "team": "Eintracht Frankfurt",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "elche-cf": {
+      "team": "Elche CF",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "everton": {
       "team": "Everton",
       "verified": true,
@@ -327,8 +481,52 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "fc-augsburg": {
+      "team": "FC Augsburg",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "fc-barcelona": {
+      "team": "FC Barcelona",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "fc-schalke-04": {
+      "team": "FC Schalke 04",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "fulham": {
       "team": "Fulham",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "getafe-cf": {
+      "team": "Getafe CF",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -351,6 +549,17 @@
     },
     "green-bay-packers": {
       "team": "Green Bay Packers",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "hamburger-sv": {
+      "team": "Hamburger SV",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -472,6 +681,17 @@
     },
     "leeds-united": {
       "team": "Leeds United",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "levante-ud": {
+      "team": "Levante UD",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -604,6 +824,17 @@
     },
     "minnesota-vikings": {
       "team": "Minnesota Vikings",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "m\u00e1laga-cf": {
+      "team": "M\u00e1laga CF",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -778,6 +1009,94 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "r-racing-club": {
+      "team": "R. Racing Club",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "rayo-vallecano": {
+      "team": "Rayo Vallecano",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "rb-leipzig": {
+      "team": "RB Leipzig",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "rc-deportivo": {
+      "team": "RC Deportivo",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "rcd-espanyol-de-barcelona": {
+      "team": "RCD Espanyol de Barcelona",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "real-betis": {
+      "team": "Real Betis",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "real-madrid": {
+      "team": "Real Madrid",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "real-sociedad": {
+      "team": "Real Sociedad",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "sacramento-kings": {
       "team": "Sacramento Kings",
       "verified": true,
@@ -811,6 +1130,17 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "sc-paderborn-07": {
+      "team": "SC Paderborn 07",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "seattle-seahawks": {
       "team": "Seattle Seahawks",
       "verified": true,
@@ -822,8 +1152,52 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "sevilla-fc": {
+      "team": "Sevilla FC",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "sport-club-freiburg": {
+      "team": "Sport-Club Freiburg",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "sunderland": {
       "team": "Sunderland",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "sv-elversberg": {
+      "team": "SV Elversberg",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "sv-werder-bremen": {
+      "team": "SV Werder Bremen",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -877,8 +1251,52 @@
       "sponsor_count": 0,
       "hr_issue_count": 0
     },
+    "tsg-hoffenheim": {
+      "team": "TSG Hoffenheim",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
     "utah-jazz": {
       "team": "Utah Jazz",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "valencia-cf": {
+      "team": "Valencia CF",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "vfb-stuttgart": {
+      "team": "VfB Stuttgart",
+      "verified": true,
+      "errors": [],
+      "warnings": [],
+      "hr_flags": [],
+      "contact_present": true,
+      "shame_present": true,
+      "sponsor_count": 0,
+      "hr_issue_count": 0
+    },
+    "villarreal-cf": {
+      "team": "Villarreal CF",
       "verified": true,
       "errors": [],
       "warnings": [],
@@ -912,13 +1330,13 @@
     }
   },
   "summary": {
-    "total_teams": 82,
-    "verified": 82,
+    "total_teams": 120,
+    "verified": 120,
     "verification_rate": 100.0,
     "total_errors": 0,
     "total_warnings": 0,
     "total_hr_flags": 0,
-    "contact_present": 82,
-    "shame_present": 82
+    "contact_present": 120,
+    "shame_present": 120
   }
 }

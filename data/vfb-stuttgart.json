@@ -1,0 +1,34 @@
+{
+  "team": "VfB Stuttgart",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@vfb-stuttgart.com",
+    "twitter": "@vfbstuttgart",
+    "website": "https://www.vfb-stuttgart.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact VfB Stuttgart to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@vfb-stuttgart.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@vfbstuttgart",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

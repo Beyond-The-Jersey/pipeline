@@ -16,6 +16,8 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 OFFICIAL_SOURCES = {
     "soccer": {
         "premier_league": "https://www.premierleague.com/clubs",
+        "laliga_easports": "https://www.laliga.com/en-GB/laliga-easports/clubs",
+        "bundesliga": "https://www.bundesliga.com/en/bundesliga/clubs",
     },
     "basketball": {
         "nba": "https://www.nba.com/teams",
@@ -35,6 +37,22 @@ KNOWN_TEAMS = {
         "Ipswich Town", "Leeds United", "Liverpool", "Manchester City",
         "Manchester United", "Newcastle United", "Nottingham Forest",
         "Sunderland", "Tottenham Hotspur"
+    ],
+    "soccer_laliga_easports": [
+        "Athletic Club", "Atlético de Madrid", "CA Osasuna", "Celta",
+        "Deportivo Alavés", "Elche CF", "FC Barcelona", "Getafe CF",
+        "Levante UD", "Málaga CF", "R. Racing Club", "Rayo Vallecano",
+        "RC Deportivo", "RCD Espanyol de Barcelona", "Real Betis",
+        "Real Madrid", "Real Sociedad", "Sevilla FC", "Valencia CF",
+        "Villarreal CF"
+    ],
+    "soccer_bundesliga": [
+        "Bayern Munich", "Borussia Dortmund", "RB Leipzig", "VfB Stuttgart",
+        "TSG Hoffenheim", "Bayer Leverkusen", "Sport-Club Freiburg",
+        "Eintracht Frankfurt", "FC Augsburg", "1. FSV Mainz 05",
+        "1. FC Union Berlin", "Borussia Mönchengladbach", "Hamburger SV",
+        "1. FC Köln", "SV Werder Bremen", "FC Schalke 04",
+        "SV Elversberg", "SC Paderborn 07"
     ],
     "basketball_nba": [
         "Boston Celtics", "Brooklyn Nets", "New York Knicks",
@@ -103,6 +121,28 @@ def extract_teams_nfl(content: str) -> list:
             teams.append({"name": name, "sponsors": [], "website": ""})
     return teams
 
+def extract_teams_laliga(content: str) -> list:
+    """Parse LaLiga clubs page — rendered HTML from web_extract."""
+    teams = []
+    # Pattern: **TeamName**\n\nFoundation YYYY
+    pattern = r'\*\*([^\*]+)\*\*\s*\n+\n+Foundation\s+\d{4}'
+    for match in re.finditer(pattern, content):
+        name = match.group(1).strip()
+        if name and len(name) > 2:
+            teams.append({"name": name, "sponsors": [], "website": ""})
+    return teams
+
+def extract_teams_bundesliga(content: str) -> list:
+    """Parse Bundesliga clubs page — rendered HTML from web_extract."""
+    teams = []
+    # Pattern: ![ClubLogo](url)\n\nClubName\n\n
+    pattern = r'!\[[^\]]*\]\([^)]+\)\s*\n+\n+([^\n]+)\n+'
+    for match in re.finditer(pattern, content):
+        name = match.group(1).strip()
+        if name and len(name) > 2:
+            teams.append({"name": name, "sponsors": [], "website": ""})
+    return teams
+
 def collect_team_data(sport: str, league: str, url: str) -> dict:
     """Collect team data from official sport governing body site."""
     headers = {"User-Agent": "Mozilla/5.0 (compatible; BehindTheJersey/0.1)"}
@@ -126,6 +166,10 @@ def collect_team_data(sport: str, league: str, url: str) -> dict:
     teams = []
     if sport == "soccer" and league == "premier_league":
         teams = extract_teams_pl(content)
+    elif sport == "soccer" and league == "laliga_easports":
+        teams = extract_teams_laliga(content)
+    elif sport == "soccer" and league == "bundesliga":
+        teams = extract_teams_bundesliga(content)
     elif sport == "basketball" and league == "nba":
         teams = extract_teams_nba(content)
     elif sport == "american_football" and league == "nfl":

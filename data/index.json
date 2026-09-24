@@ -123,6 +123,234 @@
       "file": "tottenham-hotspur.json"
     },
     {
+      "name": "Athletic Club",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "athletic-club.json"
+    },
+    {
+      "name": "Atl\u00e9tico de Madrid",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "atl\u00e9tico-de-madrid.json"
+    },
+    {
+      "name": "CA Osasuna",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "ca-osasuna.json"
+    },
+    {
+      "name": "Celta",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "celta.json"
+    },
+    {
+      "name": "Deportivo Alav\u00e9s",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "deportivo-alav\u00e9s.json"
+    },
+    {
+      "name": "Elche CF",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "elche-cf.json"
+    },
+    {
+      "name": "FC Barcelona",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "fc-barcelona.json"
+    },
+    {
+      "name": "Getafe CF",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "getafe-cf.json"
+    },
+    {
+      "name": "Levante UD",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "levante-ud.json"
+    },
+    {
+      "name": "M\u00e1laga CF",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "m\u00e1laga-cf.json"
+    },
+    {
+      "name": "R. Racing Club",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "r-racing-club.json"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "rayo-vallecano.json"
+    },
+    {
+      "name": "RC Deportivo",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "rc-deportivo.json"
+    },
+    {
+      "name": "RCD Espanyol de Barcelona",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "rcd-espanyol-de-barcelona.json"
+    },
+    {
+      "name": "Real Betis",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "real-betis.json"
+    },
+    {
+      "name": "Real Madrid",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "real-madrid.json"
+    },
+    {
+      "name": "Real Sociedad",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "real-sociedad.json"
+    },
+    {
+      "name": "Sevilla FC",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "sevilla-fc.json"
+    },
+    {
+      "name": "Valencia CF",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "valencia-cf.json"
+    },
+    {
+      "name": "Villarreal CF",
+      "sport": "soccer",
+      "league": "laliga_easports",
+      "file": "villarreal-cf.json"
+    },
+    {
+      "name": "Bayern Munich",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "bayern-munich.json"
+    },
+    {
+      "name": "Borussia Dortmund",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "borussia-dortmund.json"
+    },
+    {
+      "name": "RB Leipzig",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "rb-leipzig.json"
+    },
+    {
+      "name": "VfB Stuttgart",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "vfb-stuttgart.json"
+    },
+    {
+      "name": "TSG Hoffenheim",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "tsg-hoffenheim.json"
+    },
+    {
+      "name": "Bayer Leverkusen",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "bayer-leverkusen.json"
+    },
+    {
+      "name": "Sport-Club Freiburg",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "sport-club-freiburg.json"
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "eintracht-frankfurt.json"
+    },
+    {
+      "name": "FC Augsburg",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "fc-augsburg.json"
+    },
+    {
+      "name": "1. FSV Mainz 05",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "1-fsv-mainz-05.json"
+    },
+    {
+      "name": "1. FC Union Berlin",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "1-fc-union-berlin.json"
+    },
+    {
+      "name": "Borussia M\u00f6nchengladbach",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "borussia-m\u00f6nchengladbach.json"
+    },
+    {
+      "name": "Hamburger SV",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "hamburger-sv.json"
+    },
+    {
+      "name": "1. FC K\u00f6ln",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "1-fc-k\u00f6ln.json"
+    },
+    {
+      "name": "SV Werder Bremen",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "sv-werder-bremen.json"
+    },
+    {
+      "name": "FC Schalke 04",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "fc-schalke-04.json"
+    },
+    {
+      "name": "SV Elversberg",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "sv-elversberg.json"
+    },
+    {
+      "name": "SC Paderborn 07",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "sc-paderborn-07.json"
+    },
+    {
       "name": "Boston Celtics",
       "sport": "basketball",
       "league": "nba",
@@ -495,5 +723,5 @@
       "file": "tennessee-titans.json"
     }
   ],
-  "total_teams": 82
+  "total_teams": 120
 }

@@ -1,0 +1,34 @@
+{
+  "team": "Elche CF",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@elche-cf.com",
+    "twitter": "@elchecf",
+    "website": "https://www.elche-cf.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Elche CF to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@elche-cf.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@elchecf",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

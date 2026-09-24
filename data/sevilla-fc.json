@@ -1,0 +1,34 @@
+{
+  "team": "Sevilla FC",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@sevilla-fc.com",
+    "twitter": "@sevillafc",
+    "website": "https://www.sevilla-fc.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Sevilla FC to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@sevilla-fc.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@sevillafc",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

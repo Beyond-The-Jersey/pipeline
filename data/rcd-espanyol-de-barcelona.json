@@ -1,0 +1,34 @@
+{
+  "team": "RCD Espanyol de Barcelona",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@rcd-espanyol-de-barcelona.com",
+    "twitter": "@rcdespanyoldebarcelona",
+    "website": "https://www.rcd-espanyol-de-barcelona.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact RCD Espanyol de Barcelona to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@rcd-espanyol-de-barcelona.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@rcdespanyoldebarcelona",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

@@ -1,0 +1,34 @@
+{
+  "team": "SC Paderborn 07",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@sc-paderborn-07.com",
+    "twitter": "@scpaderborn07",
+    "website": "https://www.sc-paderborn-07.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact SC Paderborn 07 to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@sc-paderborn-07.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@scpaderborn07",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

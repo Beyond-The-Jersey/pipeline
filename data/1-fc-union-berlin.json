@@ -1,0 +1,34 @@
+{
+  "team": "1. FC Union Berlin",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@1-fc-union-berlin.com",
+    "twitter": "@1.fcunionberlin",
+    "website": "https://www.1-fc-union-berlin.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact 1. FC Union Berlin to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@1-fc-union-berlin.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@1.fcunionberlin",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

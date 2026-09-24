@@ -1,0 +1,34 @@
+{
+  "team": "FC Barcelona",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@fc-barcelona.com",
+    "twitter": "@fcbarcelona",
+    "website": "https://www.fc-barcelona.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact FC Barcelona to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@fc-barcelona.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@fcbarcelona",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

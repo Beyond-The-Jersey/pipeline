@@ -1,0 +1,34 @@
+{
+  "team": "Bayern Munich",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@bayern-munich.com",
+    "twitter": "@bayernmunich",
+    "website": "https://www.bayern-munich.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Bayern Munich to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@bayern-munich.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@bayernmunich",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

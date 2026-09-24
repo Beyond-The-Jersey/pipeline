@@ -1,0 +1,34 @@
+{
+  "team": "R. Racing Club",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@r-racing-club.com",
+    "twitter": "@r.racingclub",
+    "website": "https://www.r-racing-club.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact R. Racing Club to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@r-racing-club.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@r.racingclub",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

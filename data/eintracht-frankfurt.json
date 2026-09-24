@@ -1,0 +1,34 @@
+{
+  "team": "Eintracht Frankfurt",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@eintracht-frankfurt.com",
+    "twitter": "@eintrachtfrankfurt",
+    "website": "https://www.eintracht-frankfurt.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Eintracht Frankfurt to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@eintracht-frankfurt.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@eintrachtfrankfurt",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

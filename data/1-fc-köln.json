@@ -1,0 +1,34 @@
+{
+  "team": "1. FC K\u00f6ln",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@1-fc-k\u00f6ln.com",
+    "twitter": "@1.fck\u00f6ln",
+    "website": "https://www.1-fc-k\u00f6ln.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact 1. FC K\u00f6ln to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@1-fc-k\u00f6ln.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@1.fck\u00f6ln",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

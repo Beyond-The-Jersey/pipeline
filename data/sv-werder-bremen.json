@@ -1,0 +1,34 @@
+{
+  "team": "SV Werder Bremen",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@sv-werder-bremen.com",
+    "twitter": "@svwerderbremen",
+    "website": "https://www.sv-werder-bremen.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact SV Werder Bremen to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@sv-werder-bremen.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@svwerderbremen",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

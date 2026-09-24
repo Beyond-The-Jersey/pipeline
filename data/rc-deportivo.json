@@ -1,0 +1,34 @@
+{
+  "team": "RC Deportivo",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@rc-deportivo.com",
+    "twitter": "@rcdeportivo",
+    "website": "https://www.rc-deportivo.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact RC Deportivo to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@rc-deportivo.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@rcdeportivo",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

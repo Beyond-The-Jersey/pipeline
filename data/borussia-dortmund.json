@@ -1,0 +1,34 @@
+{
+  "team": "Borussia Dortmund",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@borussia-dortmund.com",
+    "twitter": "@borussiadortmund",
+    "website": "https://www.borussia-dortmund.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Borussia Dortmund to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@borussia-dortmund.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@borussiadortmund",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

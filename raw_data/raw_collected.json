@@ -105,7 +105,213 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T17:33:06.655097+00:00"
+    "collected_at": "2026-09-24T18:20:50.998970+00:00"
+  },
+  "soccer_laliga_easports": {
+    "sport": "soccer",
+    "league": "laliga_easports",
+    "url": "https://www.laliga.com/en-GB/laliga-easports/clubs",
+    "teams": [
+      {
+        "name": "Athletic Club",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Atl\u00e9tico de Madrid",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "CA Osasuna",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Celta",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Deportivo Alav\u00e9s",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Elche CF",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "FC Barcelona",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Getafe CF",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Levante UD",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "M\u00e1laga CF",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "R. Racing Club",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Rayo Vallecano",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "RC Deportivo",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "RCD Espanyol de Barcelona",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Real Betis",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Real Madrid",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Real Sociedad",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Sevilla FC",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Valencia CF",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Villarreal CF",
+        "sponsors": [],
+        "website": ""
+      }
+    ],
+    "collected_at": "2026-09-24T18:20:54.885816+00:00"
+  },
+  "soccer_bundesliga": {
+    "sport": "soccer",
+    "league": "bundesliga",
+    "url": "https://www.bundesliga.com/en/bundesliga/clubs",
+    "teams": [
+      {
+        "name": "Bayern Munich",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Borussia Dortmund",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "RB Leipzig",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "VfB Stuttgart",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "TSG Hoffenheim",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Sport-Club Freiburg",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Eintracht Frankfurt",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "FC Augsburg",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "1. FSV Mainz 05",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "1. FC Union Berlin",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Borussia M\u00f6nchengladbach",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "Hamburger SV",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "1. FC K\u00f6ln",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "SV Werder Bremen",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "FC Schalke 04",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "SV Elversberg",
+        "sponsors": [],
+        "website": ""
+      },
+      {
+        "name": "SC Paderborn 07",
+        "sponsors": [],
+        "website": ""
+      }
+    ],
+    "collected_at": "2026-09-24T18:20:57.816959+00:00"
   },
   "basketball_nba": {
     "sport": "basketball",
@@ -263,7 +469,7 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T17:33:07.290228+00:00"
+    "collected_at": "2026-09-24T18:20:58.869512+00:00"
   },
   "american_football_nfl": {
     "sport": "american_football",
@@ -431,6 +637,6 @@
         "website": ""
       }
     ],
-    "collected_at": "2026-09-24T17:33:08.187028+00:00"
+    "collected_at": "2026-09-24T18:21:01.766734+00:00"
   }
 }

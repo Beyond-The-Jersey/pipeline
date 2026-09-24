@@ -1,0 +1,34 @@
+{
+  "team": "Valencia CF",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@valencia-cf.com",
+    "twitter": "@valenciacf",
+    "website": "https://www.valencia-cf.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Valencia CF to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@valencia-cf.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@valenciacf",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

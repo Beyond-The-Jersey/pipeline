@@ -1,0 +1,34 @@
+{
+  "team": "CA Osasuna",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@ca-osasuna.com",
+    "twitter": "@caosasuna",
+    "website": "https://www.ca-osasuna.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact CA Osasuna to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@ca-osasuna.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@caosasuna",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

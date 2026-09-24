@@ -1,0 +1,34 @@
+{
+  "team": "Hamburger SV",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@hamburger-sv.com",
+    "twitter": "@hamburgersv",
+    "website": "https://www.hamburger-sv.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Hamburger SV to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@hamburger-sv.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@hamburgersv",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

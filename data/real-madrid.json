@@ -1,0 +1,34 @@
+{
+  "team": "Real Madrid",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@real-madrid.com",
+    "twitter": "@realmadrid",
+    "website": "https://www.real-madrid.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact Real Madrid to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@real-madrid.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@realmadrid",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

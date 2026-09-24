@@ -1,0 +1,34 @@
+{
+  "team": "M\u00e1laga CF",
+  "sport": "soccer",
+  "league": "laliga_easports",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@m\u00e1laga-cf.com",
+    "twitter": "@m\u00e1lagacf",
+    "website": "https://www.m\u00e1laga-cf.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact M\u00e1laga CF to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@m\u00e1laga-cf.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@m\u00e1lagacf",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}

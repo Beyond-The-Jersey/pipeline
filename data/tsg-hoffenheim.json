@@ -1,0 +1,34 @@
+{
+  "team": "TSG Hoffenheim",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Unknown",
+  "contact": {
+    "phone": "+44 800 XXX XXXX",
+    "email": "marketing@tsg-hoffenheim.com",
+    "twitter": "@tsghoffenheim",
+    "website": "https://www.tsg-hoffenheim.com"
+  },
+  "sponsors": [],
+  "shame": {
+    "description": "Contact TSG Hoffenheim to express discomfort about sponsor ratings",
+    "methods": [
+      {
+        "type": "email",
+        "address": "marketing@tsg-hoffenheim.com",
+        "label": "Marketing dept"
+      },
+      {
+        "type": "phone",
+        "number": "+44 800 XXX XXXX",
+        "label": "Main line"
+      },
+      {
+        "type": "twitter",
+        "handle": "@tsghoffenheim",
+        "label": "Tweet your concern"
+      }
+    ]
+  },
+  "last_updated": "2026-09-24"
+}
