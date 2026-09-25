@@ -8431,7 +8431,7 @@
      "url": "https://www.dcunited.com/tickets/contact",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Ticket office contact (the site's only Contact Us)"
    },
    {
     "type": "email",
@@ -8489,11 +8489,11 @@
     "type": "contact-form",
     "value": "https://www.fccincinnati.com/tickets/contact-us",
     "source": {
-     "name": "Club website",
+     "name": "Club website (client-rendered route: returns 404 to a non-JS client, real in a browser)",
      "url": "https://www.fccincinnati.com/tickets/contact-us",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Ticket office contact"
    },
    {
     "type": "email",
@@ -8551,11 +8551,11 @@
     "type": "contact-form",
     "value": "https://www.fcdallas.com/contact-us",
     "source": {
-     "name": "Club website",
+     "name": "Club website (client-rendered route: returns 404 to a non-JS client, real in a browser)",
      "url": "https://www.fcdallas.com/contact-us",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Customer service contact"
    },
    {
     "type": "email",
@@ -8613,11 +8613,11 @@
     "type": "contact-form",
     "value": "https://www.houstondynamofc.com/contact-us",
     "source": {
-     "name": "Club website",
+     "name": "Club website (client-rendered route: returns 404 to a non-JS client, real in a browser)",
      "url": "https://www.houstondynamofc.com/contact-us",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Club contact form"
    },
    {
     "type": "email",
@@ -8679,7 +8679,7 @@
      "url": "https://www.intermiamicf.com/tickets/member-central/contact",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Member-central form - no club-wide email or phone published"
    },
    {
     "type": "x",
@@ -8723,7 +8723,7 @@
      "url": "https://www.lagalaxy.com/club/contact",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Club contact page"
    },
    {
     "type": "email",
@@ -8785,7 +8785,7 @@
      "url": "https://www.mnufc.com/club/contact-us",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Club contact page"
    },
    {
     "type": "email",
@@ -8847,7 +8847,7 @@
      "url": "https://www.soundersfc.com/tickets/information-request",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Information request form - the club has no dedicated contact page"
    },
    {
     "type": "email",
@@ -8905,11 +8905,11 @@
     "type": "contact-form",
     "value": "https://www.sportingkc.com/contact-us",
     "source": {
-     "name": "Club website",
+     "name": "Club website (client-rendered route: returns 404 to a non-JS client, real in a browser)",
      "url": "https://www.sportingkc.com/contact-us",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Client services contact"
    },
    {
     "type": "email",
@@ -8971,7 +8971,7 @@
      "url": "https://www.torontofc.ca/tickets/members",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Ticket service - the club has no dedicated contact page"
    },
    {
     "type": "email",
@@ -9033,7 +9033,7 @@
      "url": "https://www.whitecapsfc.com/club/contact-us",
      "date": "2026-09-24"
     },
-    "label": "Contact form"
+    "label": "Club contact page"
    },
    {
     "type": "email",

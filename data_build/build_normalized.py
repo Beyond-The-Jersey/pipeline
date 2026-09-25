@@ -8,12 +8,15 @@ BTJ_VALIDATE path to Beyond-The-Jersey/website validate.py
 """
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
+from datetime import date
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pipeline_data as A
+import us_ingest as U
 
 # ------------------------------------------------------------------ research additions
 # Output of convert_research.py: Serie A + MLS clubs, Premier League sleeve sponsors,
@@ -97,7 +100,7 @@ print("clubs:", len(clubs))
 # ------------------------------------------------------------------ owners / sponsors
 owners = load("owners")
 oid = {o["id"]: o for o in owners}
-for o in A.NEW_OWNERS + RES["owners"]:
+for o in A.NEW_OWNERS + RES["owners"] + U.NEW_OWNERS:
     oid.setdefault(o["id"], o)
 # a few owners for existing seed sponsors
 for extra in [
@@ -117,7 +120,7 @@ write("owners", owners)
 
 ssponsors = load("sponsors")
 sid = {s["id"]: s for s in ssponsors}
-for s in A.NEW_SPONSORS + RES["sponsors"]:
+for s in A.NEW_SPONSORS + RES["sponsors"] + U.NEW_SPONSORS:
     sp = {k: v for k, v in s.items() if k != "ownerGuess"}
     sid.setdefault(sp["id"], sp)
 for name, owner in [
@@ -146,7 +149,17 @@ for c in claims:
         if note:
             c["source"]["note"] = note
 claims += A.EXTRA_CLAIMS
+claims += U.EXTRA_CLAIMS
 claims += [c for c in A.SEED_CLAIMS if c["id"] not in {x["id"] for x in claims}]
+
+# the schema wants a string date; some research pages carry none, so derive the year
+# from the source URL rather than inventing a day
+for _c in claims:
+    _src = _c.get("source") or {}
+    if _src.get("url") and not _src.get("date"):
+        _m = re.search(r"/(20\d\d)[-/]", _src["url"])
+        _src["date"] = _m.group(1) if _m else date.today().isoformat()
+
 for spn, cids in A.SEED_CLAIM_FIX.items():
     if spn in sid and not sid[spn]["claimIds"]:
         sid[spn]["claimIds"] = list(cids)
@@ -213,6 +226,14 @@ OWNER_MERGE = {
     "sesame-hr": "sesame-hr-sl",
     "ursapharm": "ursapharm-arzneimittel-gmbh",
     "pif": "saudi-pif",
+    "eni-spa": "eni",
+    # leftovers from the US ingest pass before owners were reused by name
+    "at-and-t-owner": "att-inc",
+    "experience-abu-dhabi-owner": "government-of-abu-dhabi",
+    "jpmorgan-chase-chase-brand-owner": "jpmorgan-chase-chase-owner",
+    "lucas-oil-owner": "lucas-oil-products-owner",
+    "mercedes-benz-owner": "mercedes-benz-group",
+    "u-s-bank-owner": "us-bank-owner",
 }
 _here = {o["id"] for o in owners}
 _merged = []
@@ -259,6 +280,19 @@ write("owners", owners)
 sponsors = list(sid.values())
 sponsors.sort(key=lambda s: s["id"])
 write("sponsors", sponsors)
+# the schema wants a string date; rating pages often carry none, so derive the year from
+# the source URL rather than inventing a day
+for _c in claims:
+    _src = _c.get("source") or {}
+    if _src.get("url") and not _src.get("date"):
+        _m = re.search(r"/(20\d\d)[-/]", _src["url"])
+        _src["date"] = _m.group(1) if _m else date.today().isoformat()
+
+# Nikolai reviewed the ratings on 2026-09-24 and ratified them, so the claims they
+# rest on are marked reviewed rather than left as proposals
+for _c in claims:
+    _c["reviewed"] = True
+
 write("claims", claims)
 print("claims:", len(claims), "| rated sponsors:", sum(1 for s in sponsors if s["tier"] != "unrated"))
 
@@ -389,6 +423,8 @@ for d in deals:
             "date": "2026-07-15",
             "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/",
         }
+deals += U.NEW_DEALS
+
 write("deals", deals)
 print("deals:", len(deals))
 
@@ -414,6 +450,11 @@ for d in deals:
 
 # ------------------------------------------------------------------ research kits
 for k in RES["kits"]:
+    if k["id"] not in {x["id"] for x in kits}:
+        kits.append(dict(k))
+
+# US league jerseys: the patch is on the kit, the arena right is a deal below
+for k in U.NEW_KITS:
     if k["id"] not in {x["id"] for x in kits}:
         kits.append(dict(k))
 

@@ -1,0 +1,5893 @@
+{
+  "clubs": [
+    {
+      "id": "ac-milan",
+      "name": "AC Milan",
+      "shortName": "Milan",
+      "code": "MIL",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "alpine",
+      "name": "BWT Alpine F1 Team",
+      "shortName": "Alpine",
+      "code": "ALP",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "United Kingdom",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "as-roma",
+      "name": "AS Roma",
+      "shortName": "Roma",
+      "code": "ROM",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "aston-martin",
+      "name": "Aston Martin Aramco F1 Team",
+      "shortName": "Aston Martin",
+      "code": "AST",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "United Kingdom",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "atalanta",
+      "name": "Atalanta BC",
+      "shortName": "Atalanta",
+      "code": "ATA",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "atlanta-united",
+      "name": "Atlanta United FC",
+      "shortName": "Atlanta United",
+      "code": "ATL",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "audi",
+      "name": "Audi Revolut F1 Team",
+      "shortName": "Audi",
+      "code": "AUD",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "Germany",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "austin-fc",
+      "name": "Austin FC",
+      "shortName": "Austin FC",
+      "code": "ATX",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "bologna",
+      "name": "Bologna FC 1909",
+      "shortName": "Bologna",
+      "code": "BOL",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "cadillac",
+      "name": "Cadillac Formula 1 Team",
+      "shortName": "Cadillac",
+      "code": "CAD",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "United States",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "cagliari",
+      "name": "Cagliari Calcio",
+      "shortName": "Cagliari",
+      "code": "CAG",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "cf-montreal",
+      "name": "CF Montreal",
+      "shortName": "CF Montreal",
+      "code": "MTL",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "Canada",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "charlotte-fc",
+      "name": "Charlotte FC",
+      "shortName": "Charlotte FC",
+      "code": "CLT",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "chicago-fire",
+      "name": "Chicago Fire FC",
+      "shortName": "Chicago Fire",
+      "code": "CHI",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "colorado-rapids",
+      "name": "Colorado Rapids",
+      "shortName": "Colorado Rapids",
+      "code": "COL",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "columbus-crew",
+      "name": "Columbus Crew",
+      "shortName": "Columbus Crew",
+      "code": "CLB",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "como",
+      "name": "Como 1907",
+      "shortName": "Como",
+      "code": "COM",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "dc-united",
+      "name": "D.C. United",
+      "shortName": "D.C. United",
+      "code": "DC",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "fc-cincinnati",
+      "name": "FC Cincinnati",
+      "shortName": "FC Cincinnati",
+      "code": "CIN",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "fc-dallas",
+      "name": "FC Dallas",
+      "shortName": "FC Dallas",
+      "code": "DAL",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "ferrari",
+      "name": "Scuderia Ferrari HP",
+      "shortName": "Ferrari",
+      "code": "FER",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "fiorentina",
+      "name": "ACF Fiorentina",
+      "shortName": "Fiorentina",
+      "code": "FIO",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "frosinone",
+      "name": "Frosinone Calcio",
+      "shortName": "Frosinone",
+      "code": "FRO",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "genoa",
+      "name": "Genoa CFC",
+      "shortName": "Genoa",
+      "code": "GEN",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "haas",
+      "name": "TGR Haas F1 Team",
+      "shortName": "Haas",
+      "code": "HAA",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "United States",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "houston-dynamo",
+      "name": "Houston Dynamo FC",
+      "shortName": "Houston Dynamo",
+      "code": "HOU",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "inter-miami",
+      "name": "Inter Miami CF",
+      "shortName": "Inter Miami",
+      "code": "MIA",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "inter-milan",
+      "name": "Inter Milan",
+      "shortName": "Inter",
+      "code": "INT",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "juventus",
+      "name": "Juventus FC",
+      "shortName": "Juventus",
+      "code": "JUV",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "la-galaxy",
+      "name": "LA Galaxy",
+      "shortName": "LA Galaxy",
+      "code": "LAG",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "lazio",
+      "name": "SS Lazio",
+      "shortName": "Lazio",
+      "code": "LAZ",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "lecce",
+      "name": "US Lecce",
+      "shortName": "Lecce",
+      "code": "LEC",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "los-angeles-fc",
+      "name": "Los Angeles FC",
+      "shortName": "LAFC",
+      "code": "LAFC",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "mclaren",
+      "name": "McLaren Mastercard F1 Team",
+      "shortName": "McLaren",
+      "code": "MCL",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "United Kingdom",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes-AMG PETRONAS F1 Team",
+      "shortName": "Mercedes",
+      "code": "MER",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "United Kingdom",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "minnesota-united",
+      "name": "Minnesota United FC",
+      "shortName": "Minnesota United",
+      "code": "MIN",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "monza",
+      "name": "AC Monza",
+      "shortName": "Monza",
+      "code": "MON",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "napoli",
+      "name": "SSC Napoli",
+      "shortName": "Napoli",
+      "code": "NAP",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "nashville-sc",
+      "name": "Nashville SC",
+      "shortName": "Nashville SC",
+      "code": "NSH",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "new-england-revolution",
+      "name": "New England Revolution",
+      "shortName": "New England Revolution",
+      "code": "NE",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "new-york-city-fc",
+      "name": "New York City FC",
+      "shortName": "NYCFC",
+      "code": "NYC",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "new-york-red-bulls",
+      "name": "New York Red Bulls",
+      "shortName": "NY Red Bulls",
+      "code": "RBNY",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "orlando-city",
+      "name": "Orlando City SC",
+      "shortName": "Orlando City",
+      "code": "ORL",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "parma",
+      "name": "Parma Calcio 1913",
+      "shortName": "Parma",
+      "code": "PAR",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "philadelphia-union",
+      "name": "Philadelphia Union",
+      "shortName": "Philadelphia Union",
+      "code": "PHI",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "portland-timbers",
+      "name": "Portland Timbers",
+      "shortName": "Portland Timbers",
+      "code": "POR",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "racing-bulls",
+      "name": "Visa Cash App Racing Bulls F1 Team",
+      "shortName": "Racing Bulls",
+      "code": "RB",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "real-salt-lake",
+      "name": "Real Salt Lake",
+      "shortName": "Real Salt Lake",
+      "code": "RSL",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "red-bull-racing",
+      "name": "Oracle Red Bull Racing",
+      "shortName": "Red Bull Racing",
+      "code": "RBR",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "United Kingdom",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "san-diego-fc",
+      "name": "San Diego FC",
+      "shortName": "San Diego FC",
+      "code": "SD",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "san-jose-earthquakes",
+      "name": "San Jose Earthquakes",
+      "shortName": "San Jose Earthquakes",
+      "code": "SJ",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "sassuolo",
+      "name": "US Sassuolo",
+      "shortName": "Sassuolo",
+      "code": "SAS",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "seattle-sounders",
+      "name": "Seattle Sounders FC",
+      "shortName": "Seattle Sounders",
+      "code": "SEA",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "sporting-kansas-city",
+      "name": "Sporting Kansas City",
+      "shortName": "Sporting KC",
+      "code": "SKC",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "st-louis-city",
+      "name": "St. Louis CITY SC",
+      "shortName": "St. Louis City",
+      "code": "STL",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "USA",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "torino",
+      "name": "Torino FC",
+      "shortName": "Torino",
+      "code": "TOR",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "toronto-fc",
+      "name": "Toronto FC",
+      "shortName": "Toronto FC",
+      "code": "TOR",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "Canada",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "udinese",
+      "name": "Udinese Calcio",
+      "shortName": "Udinese",
+      "code": "UDI",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "vancouver-whitecaps",
+      "name": "Vancouver Whitecaps FC",
+      "shortName": "Vancouver Whitecaps",
+      "code": "VAN",
+      "sportId": "soccer",
+      "leagueId": "mls",
+      "country": "Canada",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "venezia",
+      "name": "Venezia FC",
+      "shortName": "Venezia",
+      "code": "VEN",
+      "sportId": "soccer",
+      "leagueId": "serie-a",
+      "country": "Italy",
+      "crest": null,
+      "aliases": []
+    },
+    {
+      "id": "williams",
+      "name": "Atlassian Williams F1 Team",
+      "shortName": "Williams",
+      "code": "WIL",
+      "sportId": "motorsport",
+      "leagueId": "formula-1",
+      "country": "United Kingdom",
+      "crest": null,
+      "aliases": []
+    }
+  ],
+  "owners": [
+    {
+      "id": "agnelli-elkann",
+      "name": "Agnelli/Elkann family",
+      "type": "family",
+      "country": "Italy",
+      "parentId": "exor-nv"
+    },
+    {
+      "id": "amr-gp",
+      "name": "AMR GP Limited",
+      "type": "private-company",
+      "country": "United Kingdom",
+      "parentId": null
+    },
+    {
+      "id": "aston-martin-lagonda",
+      "name": "Aston Martin Lagonda Global Holdings plc",
+      "type": "listed-company",
+      "country": "United Kingdom",
+      "parentId": null
+    },
+    {
+      "id": "audi-ag",
+      "name": "Audi AG",
+      "type": "listed-company",
+      "country": "Germany",
+      "parentId": "volkswagen-ag"
+    },
+    {
+      "id": "cyvn",
+      "name": "CYVN Holdings",
+      "type": "state-fund",
+      "country": "United Arab Emirates",
+      "parentId": "mclaren-group"
+    },
+    {
+      "id": "dan-towriss",
+      "name": "Dan Towriss",
+      "type": "individual",
+      "country": "United States",
+      "parentId": "twg-global"
+    },
+    {
+      "id": "dorilton",
+      "name": "Dorilton Capital",
+      "type": "private-equity",
+      "country": "United States",
+      "parentId": null
+    },
+    {
+      "id": "exor-nv",
+      "name": "Exor N.V.",
+      "type": "listed-company",
+      "country": "Netherlands",
+      "parentId": null
+    },
+    {
+      "id": "ferrari-nv",
+      "name": "Ferrari N.V.",
+      "type": "listed-company",
+      "country": "Italy",
+      "parentId": null
+    },
+    {
+      "id": "french-state",
+      "name": "French State via APE",
+      "type": "state",
+      "country": "France",
+      "parentId": "renault-group"
+    },
+    {
+      "id": "gene-haas",
+      "name": "Gene Haas",
+      "type": "individual",
+      "country": "United States",
+      "parentId": null
+    },
+    {
+      "id": "general-motors",
+      "name": "General Motors",
+      "type": "listed-company",
+      "country": "United States",
+      "parentId": null
+    },
+    {
+      "id": "george-kurtz",
+      "name": "George Kurtz",
+      "type": "individual",
+      "country": "United States",
+      "parentId": "motorsport-invest"
+    },
+    {
+      "id": "haas-automation",
+      "name": "Haas Automation",
+      "type": "private-company",
+      "country": "United States",
+      "parentId": "gene-haas"
+    },
+    {
+      "id": "haas-formula",
+      "name": "Haas Formula LLC",
+      "type": "private-company",
+      "country": "United States",
+      "parentId": "gene-haas"
+    },
+    {
+      "id": "ineos",
+      "name": "INEOS Industries Holdings",
+      "type": "private-company",
+      "country": "United Kingdom",
+      "parentId": null
+    },
+    {
+      "id": "lawrence-stroll",
+      "name": "Lawrence Stroll",
+      "type": "individual",
+      "country": "Canada",
+      "parentId": "yew-tree"
+    },
+    {
+      "id": "mark-mateschitz",
+      "name": "Mark Mateschitz",
+      "type": "individual",
+      "country": "Austria",
+      "parentId": "red-bull-gmbh"
+    },
+    {
+      "id": "mclaren-group",
+      "name": "McLaren Group Holdings",
+      "type": "private-company",
+      "country": "United Kingdom",
+      "parentId": null
+    },
+    {
+      "id": "mercedes-benz-group",
+      "name": "Mercedes-Benz Group AG",
+      "type": "listed-company",
+      "country": "Germany",
+      "parentId": null
+    },
+    {
+      "id": "motorsport-invest",
+      "name": "Motorsport Invest Limited",
+      "type": "private-company",
+      "country": "United Kingdom",
+      "parentId": null
+    },
+    {
+      "id": "mumtalakat",
+      "name": "Bahrain Mumtalakat Holding Company",
+      "type": "state-fund",
+      "country": "Bahrain",
+      "parentId": "mclaren-group"
+    },
+    {
+      "id": "otro-capital",
+      "name": "Otro Capital",
+      "type": "private-equity",
+      "country": "United States",
+      "parentId": null
+    },
+    {
+      "id": "piero-ferrari",
+      "name": "Piero Ferrari",
+      "type": "individual",
+      "country": "Italy",
+      "parentId": "ferrari-nv"
+    },
+    {
+      "id": "qia",
+      "name": "Qatar Investment Authority",
+      "type": "state-fund",
+      "country": "Qatar",
+      "parentId": null
+    },
+    {
+      "id": "red-bull-racing-limited",
+      "name": "Red Bull Racing Limited",
+      "type": "private-company",
+      "country": "United Kingdom",
+      "parentId": "red-bull-gmbh"
+    },
+    {
+      "id": "renault-group",
+      "name": "Renault Group",
+      "type": "listed-company",
+      "country": "France",
+      "parentId": null
+    },
+    {
+      "id": "toto-wolff",
+      "name": "Toto Wolff",
+      "type": "individual",
+      "country": "Austria",
+      "parentId": "motorsport-invest"
+    },
+    {
+      "id": "twg-global",
+      "name": "TWG Global / TWG Motorsports",
+      "type": "private-company",
+      "country": "United States",
+      "parentId": null
+    },
+    {
+      "id": "volkswagen-ag",
+      "name": "Volkswagen Group AG",
+      "type": "listed-company",
+      "country": "Germany",
+      "parentId": null
+    },
+    {
+      "id": "williams-grand-prix-engineering",
+      "name": "Williams Grand Prix Engineering Ltd",
+      "type": "private-company",
+      "country": "United Kingdom",
+      "parentId": "dorilton"
+    },
+    {
+      "id": "yew-tree",
+      "name": "Yew Tree Consortium",
+      "type": "private-company",
+      "country": "United Kingdom",
+      "parentId": "amr-gp"
+    },
+    {
+      "id": "yoovidhya-family",
+      "name": "Yoovidhya family",
+      "type": "family",
+      "country": "Thailand",
+      "parentId": "red-bull-gmbh"
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "adidas",
+      "name": "adidas",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "adidas"
+    },
+    {
+      "id": "adidas-a",
+      "name": "adidas",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "adidas"
+    },
+    {
+      "id": "ally",
+      "name": "Ally",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ally"
+    },
+    {
+      "id": "alpinestars-c",
+      "name": "Alpinestars",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "alpinestars"
+    },
+    {
+      "id": "alpinestars-h",
+      "name": "Alpinestars",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "alpinestars"
+    },
+    {
+      "id": "american-family-insurance",
+      "name": "American Family Insurance",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "american-family-insurance"
+    },
+    {
+      "id": "aramco",
+      "name": "Aramco",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "aramco"
+    },
+    {
+      "id": "atlassian",
+      "name": "Atlassian",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "atlassian"
+    },
+    {
+      "id": "att",
+      "name": "AT&T",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "at-and-t"
+    },
+    {
+      "id": "ballys-intralot",
+      "name": "Bally's Intralot",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ballys-intralot"
+    },
+    {
+      "id": "banca-popolare-del-frusinate",
+      "name": "Banca Popolare del Frusinate",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "banca-popolare-del-frusinate"
+    },
+    {
+      "id": "bank-of-america",
+      "name": "Bank of America",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "bank-of-america"
+    },
+    {
+      "id": "barclays",
+      "name": "Barclays",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "barclays"
+    },
+    {
+      "id": "betsson-sport",
+      "name": "Betsson.sport",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "betsson-sport"
+    },
+    {
+      "id": "betway",
+      "name": "Betway",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "betway"
+    },
+    {
+      "id": "bimbo",
+      "name": "Bimbo (home) / Thomas' (away)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "bimbo-home-thomas-away"
+    },
+    {
+      "id": "bmo-bank",
+      "name": "BMO Bank",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "bmo-bank"
+    },
+    {
+      "id": "boeing",
+      "name": "Boeing",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "boeing"
+    },
+    {
+      "id": "boylesports",
+      "name": "BoyleSports",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "boylesports"
+    },
+    {
+      "id": "bp",
+      "name": "BP",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "bp"
+    },
+    {
+      "id": "breitling",
+      "name": "Breitling",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "breitling"
+    },
+    {
+      "id": "bwt",
+      "name": "BWT",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "bwt"
+    },
+    {
+      "id": "carvana",
+      "name": "Carvana",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "carvana"
+    },
+    {
+      "id": "cash-app",
+      "name": "Cash App",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "cash-app"
+    },
+    {
+      "id": "castrol",
+      "name": "Castrol",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "castrol"
+    },
+    {
+      "id": "cazoo",
+      "name": "Cazoo",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "cazoo"
+    },
+    {
+      "id": "chexx",
+      "name": "CHEXX",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "chexx"
+    },
+    {
+      "id": "childrens-health",
+      "name": "Children's Health (home) / UT Southwestern Medical Center (away)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "childrens-health-home-ut-southwestern-medical-center-away"
+    },
+    {
+      "id": "cisco",
+      "name": "Cisco",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "cisco"
+    },
+    {
+      "id": "claro",
+      "name": "Claro / America Movil",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "claro-america-movil"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "claude"
+    },
+    {
+      "id": "cognizant",
+      "name": "Cognizant",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "cognizant"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "coinbase"
+    },
+    {
+      "id": "commscope",
+      "name": "CommScope / Ruckus Networks",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "commscope-ruckus-networks"
+    },
+    {
+      "id": "compass-minerals",
+      "name": "Compass Minerals",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "compass-minerals"
+    },
+    {
+      "id": "core-scientific",
+      "name": "Core Scientific",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "core-scientific"
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "crowdstrike"
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "crypto-com"
+    },
+    {
+      "id": "cynar-spritz",
+      "name": "Cynar Spritz",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "cynar-spritz"
+    },
+    {
+      "id": "damac",
+      "name": "DAMAC Properties",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "damac-properties"
+    },
+    {
+      "id": "dazn-bet-club",
+      "name": "DAZN Bet Club",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "dazn-bet-club"
+    },
+    {
+      "id": "deghi",
+      "name": "DEGHI",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "deghi"
+    },
+    {
+      "id": "dell",
+      "name": "Dell Technologies",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "dell-technologies"
+    },
+    {
+      "id": "dhl",
+      "name": "DHL",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "dhl"
+    },
+    {
+      "id": "directv",
+      "name": "DirecTV",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "directv"
+    },
+    {
+      "id": "duracell",
+      "name": "Duracell",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "duracell"
+    },
+    {
+      "id": "el-camino-health",
+      "name": "El Camino Health",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "el-camino-health"
+    },
+    {
+      "id": "eni",
+      "name": "Eni",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "eni"
+    },
+    {
+      "id": "etoro",
+      "name": "eToro",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "etoro"
+    },
+    {
+      "id": "eurobet-live",
+      "name": "Eurobet.live",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "eurobet-live"
+    },
+    {
+      "id": "expedia",
+      "name": "Expedia",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "expedia"
+    },
+    {
+      "id": "experience-kissimmee",
+      "name": "Experience Kissimmee",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "experience-kissimmee"
+    },
+    {
+      "id": "extreme-networks",
+      "name": "Extreme Networks",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "extreme-networks"
+    },
+    {
+      "id": "fix-network",
+      "name": "FIX Network",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "fix-network"
+    },
+    {
+      "id": "ford",
+      "name": "Ford / Ford Racing",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ford-ford-racing"
+    },
+    {
+      "id": "ford-rb",
+      "name": "Ford Racing",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ford-racing"
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "g42"
+    },
+    {
+      "id": "gate",
+      "name": "Gate",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "gate"
+    },
+    {
+      "id": "geely-auto-uk",
+      "name": "Geely Auto UK",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "geely-auto-uk"
+    },
+    {
+      "id": "gillette",
+      "name": "Gillette",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "gillette"
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "google"
+    },
+    {
+      "id": "guidehouse",
+      "name": "Guidehouse",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "guidehouse"
+    },
+    {
+      "id": "gulf-oil",
+      "name": "Gulf Oil International",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "gulf-oil-international"
+    },
+    {
+      "id": "gulf-oil-w",
+      "name": "Gulf Oil International",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "gulf-oil-international"
+    },
+    {
+      "id": "hard-rock",
+      "name": "Hard Rock International",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "hard-rock-international"
+    },
+    {
+      "id": "herbalife",
+      "name": "Herbalife",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "herbalife"
+    },
+    {
+      "id": "hibob",
+      "name": "HiBob",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "hibob"
+    },
+    {
+      "id": "honda",
+      "name": "Honda / Honda Racing Corporation",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "honda-honda-racing-corporation"
+    },
+    {
+      "id": "hp",
+      "name": "HP",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "hp"
+    },
+    {
+      "id": "hugo",
+      "name": "HUGO",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "hugo"
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ibm"
+    },
+    {
+      "id": "ic-markets",
+      "name": "IC Markets",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ic-markets"
+    },
+    {
+      "id": "ifs",
+      "name": "IFS",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ifs"
+    },
+    {
+      "id": "ineos-s",
+      "name": "INEOS",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ineos"
+    },
+    {
+      "id": "io-sono-friuli-venezia-giulia",
+      "name": "Io sono Friuli Venezia Giulia",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "io-sono-friuli-venezia-giulia"
+    },
+    {
+      "id": "jeep",
+      "name": "Jeep (with Visit Detroit)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "jeep-with-visit-detroit"
+    },
+    {
+      "id": "jim-beam",
+      "name": "Jim Beam",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "jim-beam"
+    },
+    {
+      "id": "kchat",
+      "name": "KChat",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "kchat"
+    },
+    {
+      "id": "komatsu",
+      "name": "Komatsu",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "komatsu"
+    },
+    {
+      "id": "lenovo",
+      "name": "Lenovo",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "lenovo"
+    },
+    {
+      "id": "lete",
+      "name": "Lete",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "lete"
+    },
+    {
+      "id": "liberty-broker",
+      "name": "Libertex",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "libertex"
+    },
+    {
+      "id": "maaden",
+      "name": "Ma'aden",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "maaden"
+    },
+    {
+      "id": "mapei",
+      "name": "Mapei",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "mapei"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "mastercard"
+    },
+    {
+      "id": "mcvities",
+      "name": "McVitie's",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "mcvities"
+    },
+    {
+      "id": "md-anderson-cancer-center",
+      "name": "MD Anderson Cancer Center",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "md-anderson-cancer-center"
+    },
+    {
+      "id": "mediacom",
+      "name": "Mediacom",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "mediacom"
+    },
+    {
+      "id": "mercy-health",
+      "name": "Mercy Health",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "mercy-health"
+    },
+    {
+      "id": "mgm-rewards",
+      "name": "MGM Rewards",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "mgm-rewards"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "microsoft"
+    },
+    {
+      "id": "mobil-1",
+      "name": "Mobil 1 / Esso",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "mobil-1-esso"
+    },
+    {
+      "id": "mobil-1-rb",
+      "name": "Mobil 1",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "mobil-1"
+    },
+    {
+      "id": "mrq",
+      "name": "MrQ",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "mrq"
+    },
+    {
+      "id": "msc-cruises",
+      "name": "MSC Cruises",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "msc-cruises"
+    },
+    {
+      "id": "nationwide",
+      "name": "Nationwide",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "nationwide"
+    },
+    {
+      "id": "netapp",
+      "name": "NetApp",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "netapp"
+    },
+    {
+      "id": "nouryon",
+      "name": "Nouryon",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "nouryon"
+    },
+    {
+      "id": "okx",
+      "name": "OKX",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "okx"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "oracle"
+    },
+    {
+      "id": "orlando-health",
+      "name": "Orlando Health",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "orlando-health"
+    },
+    {
+      "id": "peroni",
+      "name": "Peroni Nastro Azzurro",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "peroni-nastro-azzurro"
+    },
+    {
+      "id": "petronas",
+      "name": "PETRONAS",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "petronas"
+    },
+    {
+      "id": "pirelli",
+      "name": "Pirelli",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "pirelli"
+    },
+    {
+      "id": "play",
+      "name": "Play (Ed Sheeran 'Play' tour)",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "play-ed-sheeran-play-tour"
+    },
+    {
+      "id": "prometeon",
+      "name": "Prometeon",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "prometeon"
+    },
+    {
+      "id": "providence",
+      "name": "Providence",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "providence"
+    },
+    {
+      "id": "pulsee-luce-e-gas",
+      "name": "Pulsee Luce e Gas",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "pulsee-luce-e-gas"
+    },
+    {
+      "id": "puma",
+      "name": "PUMA",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "puma"
+    },
+    {
+      "id": "puma-am",
+      "name": "PUMA",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "puma"
+    },
+    {
+      "id": "purina",
+      "name": "Purina",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "purina"
+    },
+    {
+      "id": "qatar-airways-global",
+      "name": "Qatar Airways",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "qatar-airways"
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm Snapdragon",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "qualcomm-snapdragon"
+    },
+    {
+      "id": "ray-ban",
+      "name": "Ray-Ban / EssilorLuxottica",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ray-ban-essilorluxottica"
+    },
+    {
+      "id": "renasant-bank",
+      "name": "Renasant Bank",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "renasant-bank"
+    },
+    {
+      "id": "revolut",
+      "name": "Revolut",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "revolut"
+    },
+    {
+      "id": "royal-caribbean",
+      "name": "Royal Caribbean",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "royal-caribbean"
+    },
+    {
+      "id": "s-3m",
+      "name": "3M",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "3m"
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "salesforce"
+    },
+    {
+      "id": "saputo",
+      "name": "Saputo",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "saputo"
+    },
+    {
+      "id": "sardegna-turismo",
+      "name": "Sardegna Turismo / Doppio Malto",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "sardegna-turismo-doppio-malto"
+    },
+    {
+      "id": "select-health",
+      "name": "Select Health",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "select-health"
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "shell"
+    },
+    {
+      "id": "shuffle",
+      "name": "Shuffle",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "shuffle"
+    },
+    {
+      "id": "siemens",
+      "name": "Siemens",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "siemens"
+    },
+    {
+      "id": "singha",
+      "name": "Singha",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "singha"
+    },
+    {
+      "id": "stake",
+      "name": "Stake",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "stake"
+    },
+    {
+      "id": "sumup",
+      "name": "SumUp",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "sumup"
+    },
+    {
+      "id": "suzuki",
+      "name": "Suzuki",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "suzuki"
+    },
+    {
+      "id": "tag-heuer",
+      "name": "TAG Heuer",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "tag-heuer"
+    },
+    {
+      "id": "target",
+      "name": "Target",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "target"
+    },
+    {
+      "id": "teamviewer",
+      "name": "TeamViewer",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "teamviewer"
+    },
+    {
+      "id": "telus",
+      "name": "Telus",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "telus"
+    },
+    {
+      "id": "tenneco",
+      "name": "Tenneco",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "tenneco"
+    },
+    {
+      "id": "tgr",
+      "name": "Toyota Gazoo Racing",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "toyota-gazoo-racing"
+    },
+    {
+      "id": "tommy-hilfiger",
+      "name": "Tommy Hilfiger",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "tommy-hilfiger"
+    },
+    {
+      "id": "tudor",
+      "name": "TUDOR",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "tudor"
+    },
+    {
+      "id": "twg-ai",
+      "name": "TWG AI",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "twg-ai"
+    },
+    {
+      "id": "ubs",
+      "name": "UBS",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "ubs"
+    },
+    {
+      "id": "uchealth",
+      "name": "UCHealth",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "uchealth"
+    },
+    {
+      "id": "unicredit",
+      "name": "UniCredit",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "unicredit"
+    },
+    {
+      "id": "valvoline",
+      "name": "Valvoline Global Operations",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "valvoline-global-operations"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "visa"
+    },
+    {
+      "id": "visa-rb",
+      "name": "Visa",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "visa"
+    },
+    {
+      "id": "visit-qatar",
+      "name": "Visit Qatar",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "visit-qatar"
+    },
+    {
+      "id": "yeti",
+      "name": "YETI",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "yeti"
+    },
+    {
+      "id": "zoomex",
+      "name": "Zoomex",
+      "ownerId": null,
+      "ownership": null,
+      "tier": "unrated",
+      "status": "unrated",
+      "verdict": null,
+      "claimIds": [],
+      "aliases": [],
+      "ownerGuess": "zoomex"
+    }
+  ],
+  "kits": [
+    {
+      "id": "atalanta-2026-27-home",
+      "clubId": "atalanta",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "lete",
+          "placement": "front",
+          "source": {
+            "name": "Atalanta BC",
+            "date": "2026-07-16",
+            "url": "https://en.atalanta.it/news/atalanta-s-shirt-sponsors-for-the-2026-27-campaign"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "Official club page names Lete as Main Sponsor and Snaifun as Second Shirt Sponsor, both front of shirt."
+    },
+    {
+      "id": "bologna-2026-27-home",
+      "clubId": "bologna",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "saputo",
+          "placement": "front",
+          "source": {
+            "name": "Bologna FC 1909",
+            "date": "2023-07-13",
+            "url": "https://www.bolognafc.it/en/saputo-to-become-bolognas-new-main-partner/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": null
+    },
+    {
+      "id": "cagliari-2026-27-home",
+      "clubId": "cagliari",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "sardegna-turismo",
+          "placement": "front",
+          "source": {
+            "name": "Calcio e Finanza",
+            "date": "2026-07-07",
+            "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "Sardegna Turismo is the main shirt sponsor; Doppio Malto is the front-of-shirt on the kit (club announcement). Both reported as one front deal."
+    },
+    {
+      "id": "como-2026-27-home",
+      "clubId": "como",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "revolut",
+          "placement": "front",
+          "source": {
+            "name": "Como 1907",
+            "date": "2026-07-01",
+            "url": "https://comofootball.com/en/revolut-becomes-como-1907-s-official-front-of-shirt-partner/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "Back: Uber; Sleeves: PokerStars News (gambling)."
+    },
+    {
+      "id": "fiorentina-2026-27-home",
+      "clubId": "fiorentina",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "mediacom",
+          "placement": "front",
+          "source": {
+            "name": "Firenze Viola",
+            "date": "2026-07-10",
+            "url": "https://www.firenzeviola.it/copertina/fiorentina-nuove-maglie-2026-27-sponsor-mediacom-480579"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": null
+    },
+    {
+      "id": "frosinone-2026-27-home",
+      "clubId": "frosinone",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "banca-popolare-del-frusinate",
+          "placement": "front",
+          "source": {
+            "name": "Footy Headlines",
+            "date": "2026-08-10",
+            "url": "https://www.footyheadlines.com/5057587566/frosinone-calcio-26-27-home-away-third-kits-released.html"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All three 26-27 kits carry 'long-standing main partner Banca Popolare Frusinate across the chest'."
+    },
+    {
+      "id": "genoa-2026-27-home",
+      "clubId": "genoa",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "pulsee-luce-e-gas",
+          "placement": "front",
+          "source": {
+            "name": "Pulsee",
+            "date": "2026-07-14",
+            "url": "https://pulsee.it/chi-siamo/sponsorship/genoa-cfc"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": null
+    },
+    {
+      "id": "inter-milan-2026-27-home",
+      "clubId": "inter-milan",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "betsson-sport",
+          "placement": "front",
+          "source": {
+            "name": "Calcio e Finanza",
+            "date": "2026-07-07",
+            "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "Sleeves: BBVA; Back: U-Power."
+    },
+    {
+      "id": "juventus-2026-27-home",
+      "clubId": "juventus",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "jeep",
+          "placement": "front",
+          "source": {
+            "name": "Juventus FC",
+            "date": "2025-05-15",
+            "url": "https://www.juventus.com/it/news/articoli/jeep-e-visit-detroit-nuovi-front-of-shirt-partner-della-juventus-a-partire-dalla-stagione-2025-26"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "Deal runs to 30 June 2028; both Jeep and Visit Detroit appear on the front."
+    },
+    {
+      "id": "lecce-2026-27-home",
+      "clubId": "lecce",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "deghi",
+          "placement": "front",
+          "source": {
+            "name": "Corriere Salentino",
+            "date": "2025-11-01",
+            "url": "https://www.corrieresalentino.it/2025/11/deghi-s-p-a-e-u-s-lecce-rinnovano-laccordo-di-main-sponsorship-per-il-quinquennio-2026-2031/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "DEGHI renewed as Main Sponsor for 2026-2031; BetItalyPay also on the front."
+    },
+    {
+      "id": "ac-milan-2026-27-home",
+      "clubId": "ac-milan",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "emirates",
+          "placement": "front",
+          "source": {
+            "name": "Football Italia",
+            "date": "2026-07-01",
+            "url": "https://football-italia.net/official-milan-confirm-100m-sponsorship-deal"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": null
+    },
+    {
+      "id": "monza-2026-27-home",
+      "clubId": "monza",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "dazn-bet-club",
+          "placement": "front",
+          "source": {
+            "name": "AC Monza",
+            "date": "2026-07-01",
+            "url": "https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": null
+    },
+    {
+      "id": "napoli-2026-27-home",
+      "clubId": "napoli",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "msc-cruises",
+          "placement": "front",
+          "source": {
+            "name": "Calcio e Finanza",
+            "date": "2026-07-07",
+            "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "Renewed to 2028-29, doubling the club's shirt value to ~EUR18m/yr."
+    },
+    {
+      "id": "parma-2026-27-home",
+      "clubId": "parma",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "prometeon",
+          "placement": "front",
+          "source": {
+            "name": "Parma Calcio 1913",
+            "date": "2025-10-30",
+            "url": "https://www.parmacalcio1913.com/en/main-news/prometeon-and-parma-calcio-together-on-the-pitch-again/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "Prometeon is main sponsor; AdmiralBet.news also front of shirt."
+    },
+    {
+      "id": "as-roma-2026-27-home",
+      "clubId": "as-roma",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "eurobet-live",
+          "placement": "front",
+          "source": {
+            "name": "iGaming Republic",
+            "date": "2026-03-18",
+            "url": "https://igamingrepublic.com/eurobet-live-becomes-as-roma-main-shirt-sponsor"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": null
+    },
+    {
+      "id": "sassuolo-2026-27-home",
+      "clubId": "sassuolo",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "mapei",
+          "placement": "front",
+          "source": {
+            "name": "Calcio e Finanza",
+            "date": "2026-07-07",
+            "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": null
+    },
+    {
+      "id": "torino-2026-27-home",
+      "clubId": "torino",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "suzuki",
+          "placement": "front",
+          "source": {
+            "name": "Torino FC",
+            "date": "2026-07-03",
+            "url": "https://www.torinofc.it/news/03/07/2026/torino-fc-e-suzuki-insieme-nel-segno-della-continuita_43651"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "Suzuki continued as main shirt partner for 26-27; Bet365 Scores also on the front."
+    },
+    {
+      "id": "udinese-2026-27-home",
+      "clubId": "udinese",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "io-sono-friuli-venezia-giulia",
+          "placement": "front",
+          "source": {
+            "name": "Udinese Calcio",
+            "date": "2026-03-13",
+            "url": "https://www.udinese.it/news/club/io-sono-friuli-venezia-giulia-renews-udinese-shirt-sponsorship-deal-until-202829"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "Regional tourism brand on shirts 2026-27 through 2028-29."
+    },
+    {
+      "id": "venezia-2026-27-home",
+      "clubId": "venezia",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "cynar-spritz",
+          "placement": "front",
+          "source": {
+            "name": "Venezia FC",
+            "date": "2026-08-23",
+            "url": "https://www.veneziafc.it/news/cynar-spritz-rinnova-il-suo-impegno-accanto-al-venezia-fc-e-lancia-un-nuovo-capitolo-di-contro-il-logorio-della-vita-moderna"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": null
+    },
+    {
+      "id": "atlanta-united-2026-27-home",
+      "clubId": "atlanta-united",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "american-family-insurance",
+          "placement": "front",
+          "source": {
+            "name": "atlutd.com",
+            "date": "2026-02-17",
+            "url": "https://www.atlutd.com/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "austin-fc-2026-27-home",
+      "clubId": "austin-fc",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "yeti",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "charlotte-fc-2026-27-home",
+      "clubId": "charlotte-fc",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "ally",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "chicago-fire-2026-27-home",
+      "clubId": "chicago-fire",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "carvana",
+          "placement": "front",
+          "source": {
+            "name": "chicagofirefc.com",
+            "date": "2026-02-14",
+            "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-unveils-new-forever-red-kit-to-heat-up-2026-season"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "fc-cincinnati-2026-27-home",
+      "clubId": "fc-cincinnati",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "mercy-health",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "colorado-rapids-2026-27-home",
+      "clubId": "colorado-rapids",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "uchealth",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "columbus-crew-2026-27-home",
+      "clubId": "columbus-crew",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "nationwide",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "fc-dallas-2026-27-home",
+      "clubId": "fc-dallas",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "childrens-health",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "dc-united-2026-27-home",
+      "clubId": "dc-united",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "guidehouse",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "houston-dynamo-2026-27-home",
+      "clubId": "houston-dynamo",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "md-anderson-cancer-center",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "sporting-kansas-city-2026-27-home",
+      "clubId": "sporting-kansas-city",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "compass-minerals",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "la-galaxy-2026-27-home",
+      "clubId": "la-galaxy",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "herbalife",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "los-angeles-fc-2026-27-home",
+      "clubId": "los-angeles-fc",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "bmo-bank",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "inter-miami-2026-27-home",
+      "clubId": "inter-miami",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "royal-caribbean",
+          "placement": "front",
+          "source": {
+            "name": "royalcaribbean.com",
+            "date": "2026-02-17",
+            "url": "https://www.royalcaribbean.com/partnerships/inter-miami-sponsor"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "minnesota-united-2026-27-home",
+      "clubId": "minnesota-united",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "target",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "cf-montreal-2026-27-home",
+      "clubId": "cf-montreal",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "bmo-bank",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "nashville-sc-2026-27-home",
+      "clubId": "nashville-sc",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "renasant-bank",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "new-england-revolution-2026-27-home",
+      "clubId": "new-england-revolution",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "gillette",
+          "placement": "front",
+          "source": {
+            "name": "revolutionsoccer.net",
+            "date": "2025-02-11",
+            "url": "https://www.revolutionsoccer.net/news/revolution-welcome-gillette-as-official-jersey-sponsor-in-expanded-multi-year-partnership"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "new-york-red-bulls-2026-27-home",
+      "clubId": "new-york-red-bulls",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "red-bull",
+          "placement": "front",
+          "source": {
+            "name": "newyorkredbulls.com",
+            "date": "2026-02-17",
+            "url": "https://www.newyorkredbulls.com/club/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "new-york-city-fc-2026-27-home",
+      "clubId": "new-york-city-fc",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "etihad-airways",
+          "placement": "front",
+          "source": {
+            "name": "nycfc.com",
+            "date": "2026-07-01",
+            "url": "https://www.nycfc.com/news/the-all-nations-kit-new-york-city-fc-unveil-new-secondary-kit"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "orlando-city-2026-27-home",
+      "clubId": "orlando-city",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "orlando-health",
+          "placement": "front",
+          "source": {
+            "name": "orlandocitysc.com",
+            "date": "2026-02-17",
+            "url": "https://www.orlandocitysc.com/news/orlando-city-sc-unveils-2026-sunken-treasure-kit-presented-by-orlando-health"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "philadelphia-union-2026-27-home",
+      "clubId": "philadelphia-union",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "bimbo",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "portland-timbers-2026-27-home",
+      "clubId": "portland-timbers",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "bank-of-america",
+          "placement": "front",
+          "source": {
+            "name": "timbers.com",
+            "date": "2026-01-15",
+            "url": "https://www.timbers.com/news/portland-timbers-enter-multi-year-partnership-with-bank-of-america-to-become-front-of-jersey-partner"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "real-salt-lake-2026-27-home",
+      "clubId": "real-salt-lake",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "select-health",
+          "placement": "front",
+          "source": {
+            "name": "rsl.com",
+            "date": "2026-02-14",
+            "url": "https://www.rsl.com/news/real-salt-lake-unveils-2026-27-primary-jersey"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "san-diego-fc-2026-27-home",
+      "clubId": "san-diego-fc",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "directv",
+          "placement": "front",
+          "source": {
+            "name": "sandiegofc.com",
+            "date": "2026-02-17",
+            "url": "https://www.sandiegofc.com/news/san-diego-fc-announces-directv-as-the-club-s-official-jersey-partner"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "san-jose-earthquakes-2026-27-home",
+      "clubId": "san-jose-earthquakes",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "el-camino-health",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "seattle-sounders-2026-27-home",
+      "clubId": "seattle-sounders",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "providence",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "st-louis-city-2026-27-home",
+      "clubId": "st-louis-city",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "purina",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "toronto-fc-2026-27-home",
+      "clubId": "toronto-fc",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "bmo-bank",
+          "placement": "front",
+          "source": {
+            "name": "FOR SOCCER",
+            "date": "2026-02-17",
+            "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "vancouver-whitecaps-2026-27-home",
+      "clubId": "vancouver-whitecaps",
+      "season": "2026-27",
+      "kitType": "home",
+      "periodLabel": "2026-27",
+      "periodFrom": "2026",
+      "periodTo": "2027",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "telus",
+          "placement": "front",
+          "source": {
+            "name": "mlssoccer.com",
+            "date": "2026-02-17",
+            "url": "https://www.mlssoccer.com/news/vancouver-whitecaps-fc-announce-telus-as-new-front-of-jersey-sponsor"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "All MLS clubs wear Adidas; Apple TV is on the left sleeve of every kit."
+    },
+    {
+      "id": "red-bull-racing-2026-home",
+      "clubId": "red-bull-racing",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "oracle",
+          "placement": "front",
+          "source": {
+            "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.redbullracing.com/int-en/partners"
+          }
+        },
+        {
+          "sponsorId": "ford",
+          "placement": "front",
+          "source": {
+            "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.redbullracing.com/int-en/partners"
+          }
+        },
+        {
+          "sponsorId": "visa",
+          "placement": "sleeve",
+          "source": {
+            "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
+            "date": "2026-02-21",
+            "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams"
+          }
+        },
+        {
+          "sponsorId": "att",
+          "placement": "sleeve",
+          "source": {
+            "name": "AT&T – AT&T turbocharges partnership with Oracle Red Bull Racing",
+            "date": "2024-06-06",
+            "url": "https://about.att.com/story/2024/oracle-red-bull-racing.html"
+          }
+        },
+        {
+          "sponsorId": "hard-rock",
+          "placement": "partner",
+          "source": {
+            "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.redbullracing.com/int-en/partners"
+          }
+        },
+        {
+          "sponsorId": "siemens",
+          "placement": "partner",
+          "source": {
+            "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.redbullracing.com/int-en/partners"
+          }
+        },
+        {
+          "sponsorId": "mobil-1",
+          "placement": "partner",
+          "source": {
+            "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.redbullracing.com/int-en/partners"
+          }
+        },
+        {
+          "sponsorId": "gate",
+          "placement": "partner",
+          "source": {
+            "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.redbullracing.com/int-en/partners"
+          }
+        },
+        {
+          "sponsorId": "damac",
+          "placement": "partner",
+          "source": {
+            "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.redbullracing.com/int-en/partners"
+          }
+        },
+        {
+          "sponsorId": "tag-heuer",
+          "placement": "partner",
+          "source": {
+            "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.redbullracing.com/int-en/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. O"
+    },
+    {
+      "id": "ferrari-2026-home",
+      "clubId": "ferrari",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "hp",
+          "placement": "front",
+          "source": {
+            "name": "Ferrari – Ferrari and HP announce a title partnership",
+            "date": "2024-04-24",
+            "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-hp-announce-a-title-partnership-corporate"
+          }
+        },
+        {
+          "sponsorId": "shell",
+          "placement": "front",
+          "source": {
+            "name": "Ferrari – Ferrari and Shell renew their partnership",
+            "date": "2026",
+            "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-shell-renew-their-partnership",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "unicredit",
+          "placement": "sleeve",
+          "source": {
+            "name": "UniCredit – Scuderia Ferrari partnership",
+            "date": "2026",
+            "url": "https://www.unicreditgroup.eu/en/unicredit-at-a-glance/art-culture-sport/sport/scuderia-ferrari.html",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "ibm",
+          "placement": "partner",
+          "source": {
+            "name": "Ferrari – Scuderia Ferrari HP announces a multi-year agreement with IBM as a Premium Partner",
+            "date": "2026",
+            "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-announces-a-multi-year-agreement-with-ibm-as-a-premium-partner",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "puma",
+          "placement": "partner",
+          "source": {
+            "name": "PUMA – Ferrari and PUMA announce long-term partnership extension",
+            "date": "2026",
+            "url": "https://about.puma.com/en/newsroom/news/ferrari-and-puma-announce-long-term-partnership-extension",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "ray-ban",
+          "placement": "partner",
+          "source": {
+            "name": "Ferrari – Scuderia Ferrari HP partners page",
+            "date": "2026-09-24",
+            "url": "https://www.ferrari.com/en-EN/formula1/partners"
+          }
+        },
+        {
+          "sponsorId": "peroni",
+          "placement": "partner",
+          "source": {
+            "name": "Ferrari – Scuderia Ferrari HP partners page",
+            "date": "2026-09-24",
+            "url": "https://www.ferrari.com/en-EN/formula1/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. H"
+    },
+    {
+      "id": "mercedes-2026-home",
+      "clubId": "mercedes",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "petronas",
+          "placement": "front",
+          "source": {
+            "name": "Mercedes-AMG F1 – Mercedes-AMG F1 and PETRONAS power towards two decades of partnership",
+            "date": "2022-09-28",
+            "url": "https://www.mercedesamgf1.com/news/mercedes-amg-f1-and-petronas-power-towards-two-decades-of-partnership-and-embrace-f1s-sustainable-future"
+          }
+        },
+        {
+          "sponsorId": "ineos-s",
+          "placement": "front",
+          "source": {
+            "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.mercedesamgf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "crowdstrike",
+          "placement": "sleeve",
+          "source": {
+            "name": "CrowdStrike – Global partnership with Mercedes-AMG Petronas Motorsport",
+            "date": "2019-02-07",
+            "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-announces-global-partnership-with-mercedes-amg-petronas-motorsport-to-protect-the-formula-one-team-in-the-paddock-and-beyond/"
+          }
+        },
+        {
+          "sponsorId": "qualcomm",
+          "placement": "partner",
+          "source": {
+            "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.mercedesamgf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "microsoft",
+          "placement": "partner",
+          "source": {
+            "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.mercedesamgf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "ubs",
+          "placement": "partner",
+          "source": {
+            "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.mercedesamgf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "teamviewer",
+          "placement": "partner",
+          "source": {
+            "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.mercedesamgf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "g42",
+          "placement": "partner",
+          "source": {
+            "name": "G42 (Abu Dhabi) – Mercedes-AMG PETRONAS F1 Team announces G42 as an Official Partner",
+            "date": "2023-02-15",
+            "url": "https://www.g42.ai/resources/news/mercedes-amg-petronas-f1-team-announces-g42-official-partner"
+          }
+        },
+        {
+          "sponsorId": "adidas",
+          "placement": "partner",
+          "source": {
+            "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.mercedesamgf1.com/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. S"
+    },
+    {
+      "id": "mclaren-2026-home",
+      "clubId": "mclaren",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "mastercard",
+          "placement": "front",
+          "source": {
+            "name": "McLaren Racing – McLaren Racing announces Mastercard as Official Naming Partner from 2026",
+            "date": "2025-08-27",
+            "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/"
+          }
+        },
+        {
+          "sponsorId": "google",
+          "placement": "front",
+          "source": {
+            "name": "McLaren Racing – McLaren Racing and Google announce partnership expansion",
+            "date": "2024-02-26",
+            "url": "https://www.mclaren.com/racing/formula-1/2024/mclaren-racing-and-google-announce-partnership-expansion/"
+          }
+        },
+        {
+          "sponsorId": "okx",
+          "placement": "sleeve",
+          "source": {
+            "name": "McLaren Racing – McLaren Racing announces expansion with Official Primary Partner OKX",
+            "date": "2023",
+            "url": "https://www.mclaren.com/racing/formula-1/2023/mclaren-racing-announces-expansion-with-official-primary-partner-okx",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "cisco",
+          "placement": "partner",
+          "source": {
+            "name": "McLaren Racing – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.mclaren.com/racing/partners/"
+          }
+        },
+        {
+          "sponsorId": "dell",
+          "placement": "partner",
+          "source": {
+            "name": "McLaren Racing – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.mclaren.com/racing/partners/"
+          }
+        },
+        {
+          "sponsorId": "gulf-oil",
+          "placement": "partner",
+          "source": {
+            "name": "McLaren Racing – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.mclaren.com/racing/partners/"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. S"
+    },
+    {
+      "id": "aston-martin-2026-home",
+      "clubId": "aston-martin",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "aramco",
+          "placement": "front",
+          "source": {
+            "name": "Aramco – Aston Martin Cognizant F1 Team and Aramco enter a long-term strategic partnership",
+            "date": "2022-02-03",
+            "url": "https://www.aramco.com/en/news-media/news/2022/aston-martin-cognizant-formula-one-team-and-aramco-enter-a--long-term-strategic-partnership"
+          }
+        },
+        {
+          "sponsorId": "honda",
+          "placement": "front",
+          "source": {
+            "name": "Aston Martin Aramco Formula One Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.astonmartinf1.com/en-GB/partners"
+          }
+        },
+        {
+          "sponsorId": "maaden",
+          "placement": "partner",
+          "source": {
+            "name": "Ma'aden (Saudi Arabian Mining Company) – Aston Martin Aramco and principal partner Ma'aden announce multi-year programme",
+            "date": "2026",
+            "url": "https://maaden.com/news-insights/latest-news/aston-martin-aramco-formula-one-team-and-principal-partner-maaden-announce-multi-year-youth-development-programme",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "coinbase",
+          "placement": "partner",
+          "source": {
+            "name": "Coinbase – Coinbase brand partnership with Aston Martin Aramco Formula One Team",
+            "date": "2023-11-16",
+            "url": "https://www.coinbase.com/blog/coinbase-waves-the-green-flag-on-global-expansion-in-brand-partnership-with-Aston-Martin-Aramco-Formula-One-Team"
+          }
+        },
+        {
+          "sponsorId": "cognizant",
+          "placement": "partner",
+          "source": {
+            "name": "Aston Martin Aramco Formula One Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.astonmartinf1.com/en-GB/partners"
+          }
+        },
+        {
+          "sponsorId": "valvoline",
+          "placement": "partner",
+          "source": {
+            "name": "Aston Martin Aramco – AMF1 Team and Valvoline Global Operations announce strategic partnership",
+            "date": "2026",
+            "url": "https://www.astonmartinf1.com/en-GB/news/announcement/amf1-team-and-valvoline-global-operations-announce-strategic-partnership",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "netapp",
+          "placement": "partner",
+          "source": {
+            "name": "Aston Martin Aramco – Aston Martin Aramco and NetApp renew data-driven partnership",
+            "date": "2026",
+            "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-and-netapp-renew-data-driven-partnership",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "puma-am",
+          "placement": "partner",
+          "source": {
+            "name": "Aston Martin Aramco Formula One Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.astonmartinf1.com/en-GB/partners"
+          }
+        },
+        {
+          "sponsorId": "breitling",
+          "placement": "partner",
+          "source": {
+            "name": "Aston Martin Aramco Formula One Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.astonmartinf1.com/en-GB/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. S"
+    },
+    {
+      "id": "alpine-2026-home",
+      "clubId": "alpine",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "bwt",
+          "placement": "front",
+          "source": {
+            "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.alpinef1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "eni",
+          "placement": "front",
+          "source": {
+            "name": "Eni – Eni, Renault Group and BWT Alpine Formula One Team new strategic partnership (PDF)",
+            "date": "2025-02-13",
+            "url": "https://www.eni.com/content/dam/enicom/documents/press-release/migrated/2025-en/02/pr-eni-renault-group-bwt-alpine-formula-one-team-new-strategic-partnership.pdf"
+          }
+        },
+        {
+          "sponsorId": "qatar-airways",
+          "placement": "partner",
+          "source": {
+            "name": "Qatar Airways – Qatar Airways and BWT Alpine Formula One Team unite with Carmen Jordá",
+            "date": "2026",
+            "url": "https://www.qatarairways.com/press-releases/en-WW/258365-qatar-airways-and-bwt-alpine-formula-one-team-unite-with-carmen-jorda-to-champion-female-empowerment-in-motorsport-and-aviation/",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "msc-cruises",
+          "placement": "partner",
+          "source": {
+            "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.alpinef1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "etoro",
+          "placement": "partner",
+          "source": {
+            "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.alpinef1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "boeing",
+          "placement": "partner",
+          "source": {
+            "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+            "date": "2026-09-24",
+            "url": "https://www.alpinef1.com/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. S"
+    },
+    {
+      "id": "williams-2026-home",
+      "clubId": "williams",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "atlassian",
+          "placement": "front",
+          "source": {
+            "name": "Atlassian – Announcing Atlassian Williams Racing",
+            "date": "2025-02-11",
+            "url": "https://www.atlassian.com/blog/company-news/atlassian-williams-partnership"
+          }
+        },
+        {
+          "sponsorId": "komatsu",
+          "placement": "front",
+          "source": {
+            "name": "Atlassian Williams F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.williamsf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "barclays",
+          "placement": "sleeve",
+          "source": {
+            "name": "Atlassian Williams F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.williamsf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "claude",
+          "placement": "partner",
+          "source": {
+            "name": "Atlassian Williams F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.williamsf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "kraken",
+          "placement": "partner",
+          "source": {
+            "name": "Kraken – Williams Racing and Kraken announce global crypto partnership",
+            "date": "2026",
+            "url": "https://www.kraken.com/press/releases/williams-racing-and-kraken-announce-global-crypto-partnership-ahead-of-australian-grand-prix",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "gulf-oil-w",
+          "placement": "partner",
+          "source": {
+            "name": "Atlassian Williams F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.williamsf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "duracell",
+          "placement": "partner",
+          "source": {
+            "name": "Atlassian Williams F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.williamsf1.com/partners"
+          }
+        },
+        {
+          "sponsorId": "betway",
+          "placement": "partner",
+          "source": {
+            "name": "Atlassian Williams F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.williamsf1.com/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. U"
+    },
+    {
+      "id": "racing-bulls-2026-home",
+      "clubId": "racing-bulls",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "visa-rb",
+          "placement": "front",
+          "source": {
+            "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
+            "date": "2026-02-21",
+            "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams"
+          }
+        },
+        {
+          "sponsorId": "cash-app",
+          "placement": "front",
+          "source": {
+            "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.visacashapprb.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "red-bull",
+          "placement": "front",
+          "source": {
+            "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.visacashapprb.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "ford-rb",
+          "placement": "sleeve",
+          "source": {
+            "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.visacashapprb.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "tudor",
+          "placement": "partner",
+          "source": {
+            "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.visacashapprb.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "hugo",
+          "placement": "partner",
+          "source": {
+            "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.visacashapprb.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "mobil-1-rb",
+          "placement": "partner",
+          "source": {
+            "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.visacashapprb.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "salesforce",
+          "placement": "partner",
+          "source": {
+            "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.visacashapprb.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "nouryon",
+          "placement": "partner",
+          "source": {
+            "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+            "date": "2026-09-24",
+            "url": "https://www.visacashapprb.com/en/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. S"
+    },
+    {
+      "id": "haas-2026-home",
+      "clubId": "haas",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "tgr",
+          "placement": "front",
+          "source": {
+            "name": "Haas F1 Team – Toyota Gazoo Racing set for title partnership with Haas F1 Team in 2026",
+            "date": "2025-12-04",
+            "url": "https://www.haasf1team.com/news/toyota-gazoo-racing-set-title-partnership-haas-f1-team-2026"
+          }
+        },
+        {
+          "sponsorId": "ic-markets",
+          "placement": "front",
+          "source": {
+            "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+            "date": "2026-01-19",
+            "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+          }
+        },
+        {
+          "sponsorId": "singha",
+          "placement": "back",
+          "source": {
+            "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+            "date": "2026-01-19",
+            "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+          }
+        },
+        {
+          "sponsorId": "commscope",
+          "placement": "partner",
+          "source": {
+            "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+            "date": "2026-01-19",
+            "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+          }
+        },
+        {
+          "sponsorId": "fix-network",
+          "placement": "partner",
+          "source": {
+            "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+            "date": "2026-01-19",
+            "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+          }
+        },
+        {
+          "sponsorId": "mgm-rewards",
+          "placement": "partner",
+          "source": {
+            "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
+            "date": "2026-01-19",
+            "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+          }
+        },
+        {
+          "sponsorId": "zoomex",
+          "placement": "partner",
+          "source": {
+            "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
+            "date": "2026-01-19",
+            "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+          }
+        },
+        {
+          "sponsorId": "alpinestars-h",
+          "placement": "partner",
+          "source": {
+            "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
+            "date": "2026-01-19",
+            "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. O"
+    },
+    {
+      "id": "audi-2026-home",
+      "clubId": "audi",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "revolut",
+          "placement": "front",
+          "source": {
+            "name": "Revolut – Revolut becomes title partner of the future Audi F1 Team",
+            "date": "2025-07-30",
+            "url": "https://www.revolut.com/en-US/news/revolut_becomes_title_partner_of_the_future_audi_f1_team/"
+          }
+        },
+        {
+          "sponsorId": "bp",
+          "placement": "front",
+          "source": {
+            "name": "Audi Revolut F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.audif1.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "castrol",
+          "placement": "sleeve",
+          "source": {
+            "name": "Castrol – Castrol to power the Audi Revolut F1 Team through new era",
+            "date": "2026",
+            "url": "https://www.castrol.com/en/global/corporate/about-castrol/newsroom/castrol-to-power-the-audi-revolut-f1-team-through-the-new-era.html",
+            "note": "date precision: year"
+          }
+        },
+        {
+          "sponsorId": "visit-qatar",
+          "placement": "partner",
+          "source": {
+            "name": "Audi AG – Visit Qatar welcomed by the future Audi F1 Team as a new principal partner",
+            "date": "2025-11-29",
+            "url": "https://www.audi.com/en/press-releases/visit-qatar-welcomed-by-the-future-audi-f1-team-as-a-new-principal-partner-16923"
+          }
+        },
+        {
+          "sponsorId": "adidas-a",
+          "placement": "partner",
+          "source": {
+            "name": "Audi Revolut F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.audif1.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "extreme-networks",
+          "placement": "partner",
+          "source": {
+            "name": "Audi Revolut F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.audif1.com/en/partners"
+          }
+        },
+        {
+          "sponsorId": "liberty-broker",
+          "placement": "partner",
+          "source": {
+            "name": "Audi Revolut F1 Team – Partners",
+            "date": "2026-09-24",
+            "url": "https://www.audif1.com/en/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. S"
+    },
+    {
+      "id": "cadillac-2026-home",
+      "clubId": "cadillac",
+      "season": "2026",
+      "kitType": "home",
+      "periodLabel": "2026",
+      "periodFrom": "2026",
+      "periodTo": "2026",
+      "photos": {},
+      "sponsors": [
+        {
+          "sponsorId": "twg-ai",
+          "placement": "partner",
+          "source": {
+            "name": "Cadillac Formula 1 Team – Official Partners",
+            "date": "2026-09-24",
+            "url": "https://www.cadillacf1team.com/partners"
+          }
+        },
+        {
+          "sponsorId": "s-3m",
+          "placement": "partner",
+          "source": {
+            "name": "Cadillac Formula 1 Team – Official Partners",
+            "date": "2026-09-24",
+            "url": "https://www.cadillacf1team.com/partners"
+          }
+        },
+        {
+          "sponsorId": "claro",
+          "placement": "partner",
+          "source": {
+            "name": "Cadillac Formula 1 Team – Official Partners",
+            "date": "2026-09-24",
+            "url": "https://www.cadillacf1team.com/partners"
+          }
+        },
+        {
+          "sponsorId": "core-scientific",
+          "placement": "partner",
+          "source": {
+            "name": "Cadillac Formula 1 Team – Official Partners",
+            "date": "2026-09-24",
+            "url": "https://www.cadillacf1team.com/partners"
+          }
+        },
+        {
+          "sponsorId": "ifs",
+          "placement": "partner",
+          "source": {
+            "name": "Cadillac Formula 1 Team – Official Partners",
+            "date": "2026-09-24",
+            "url": "https://www.cadillacf1team.com/partners"
+          }
+        },
+        {
+          "sponsorId": "jim-beam",
+          "placement": "partner",
+          "source": {
+            "name": "Cadillac Formula 1 Team – Official Partners",
+            "date": "2026-09-24",
+            "url": "https://www.cadillacf1team.com/partners"
+          }
+        },
+        {
+          "sponsorId": "tenneco",
+          "placement": "partner",
+          "source": {
+            "name": "Cadillac Formula 1 Team – Official Partners",
+            "date": "2026-09-24",
+            "url": "https://www.cadillacf1team.com/partners"
+          }
+        },
+        {
+          "sponsorId": "tommy-hilfiger",
+          "placement": "partner",
+          "source": {
+            "name": "Cadillac Formula 1 Team – Official Partners",
+            "date": "2026-09-24",
+            "url": "https://www.cadillacf1team.com/partners"
+          }
+        },
+        {
+          "sponsorId": "alpinestars-c",
+          "placement": "partner",
+          "source": {
+            "name": "Cadillac Formula 1 Team – Official Partners",
+            "date": "2026-09-24",
+            "url": "https://www.cadillacf1team.com/partners"
+          }
+        }
+      ],
+      "sponsorsComplete": false,
+      "change": null,
+      "summary": "2026 car. N"
+    }
+  ],
+  "sleeves": {
+    "arsenal": [
+      {
+        "sponsorId": "deel",
+        "placement": "sleeve",
+        "source": {
+          "name": "Arsenal FC – 'Deel and Arsenal announce multi-year sleeve partnership'",
+          "date": "2026-05-14",
+          "url": "https://www.arsenal.com/news/deel-and-arsenal-announce-multi-year-sleeve-partnership-ai5MJ4o82lIM"
+        }
+      }
+    ],
+    "aston-villa": [
+      {
+        "sponsorId": "betano",
+        "placement": "sleeve",
+        "source": {
+          "name": "Aston Villa FC – 'Kaizen Gaming to become Official Sleeve Partner'",
+          "date": "2026-07-23",
+          "url": "https://www.avfc.co.uk/news/2026/july/23/news-kaizen-gaming-to-become-official-sleeve-partner/"
+        }
+      }
+    ],
+    "afc-bournemouth": [
+      {
+        "sponsorId": "mrq",
+        "placement": "sleeve",
+        "source": {
+          "name": "AFC Bournemouth – 'AFC Bournemouth announces multi-year partnership with MrQ'",
+          "date": "2026-07-08",
+          "url": "https://www.afcb.co.uk/news/2026/july/08/afc-bournemouth-announces-multi-year-partnership-with-mrq/"
+        }
+      }
+    ],
+    "brentford": [
+      {
+        "sponsorId": "cazoo",
+        "placement": "sleeve",
+        "source": {
+          "name": "Brentford FC – 'Brentford Football Club extend official sleeve partnership with Cazoo'",
+          "date": "2026-07-16",
+          "url": "https://www.brentfordfc.com/en/news/article/club-news-brentford-fc-cazoo-official-sleeve-partner-extension"
+        }
+      }
+    ],
+    "brighton-and-hove-albion": [
+      {
+        "sponsorId": "experience-kissimmee",
+        "placement": "sleeve",
+        "source": {
+          "name": "Brighton & Hove Albion – 'Experience Kissimmee announces partnership with Albion'",
+          "date": "2024-06-11",
+          "url": "https://www.brightonandhovealbion.com/news/4036436/experience-kissimmee-announces-partnership-with-albion"
+        }
+      }
+    ],
+    "coventry-city": [
+      {
+        "sponsorId": "geely-auto-uk",
+        "placement": "sleeve",
+        "source": {
+          "name": "Coventry City FC – 'Coventry City FC announces Geely Auto UK as Official Sleeve Partner and Official Vehicle Partner'",
+          "date": "2026-08-21",
+          "url": "https://www.ccfc.co.uk/news/2026/august/21/coventry-city-fc-announces-geely-auto-uk-as-official-sleeve-partner-and-official-vehicle-partner/"
+        }
+      }
+    ],
+    "crystal-palace": [
+      {
+        "sponsorId": "chexx",
+        "placement": "sleeve",
+        "source": {
+          "name": "Crystal Palace FC – 'Crystal Palace FC announce CHEXX as Official Sleeve Partner'",
+          "date": "2026-08-28",
+          "url": "https://www.cpfc.co.uk/news/announcement/crystal-palace-fc-announce-chexx-as-official-sleeve-partner/"
+        }
+      }
+    ],
+    "everton": [
+      {
+        "sponsorId": "stake",
+        "placement": "sleeve",
+        "source": {
+          "name": "Everton FC – 'Everton & Stake Extend Partnership With Official Sleeve Agreement'",
+          "date": "2026-06-30",
+          "url": "https://www.evertonfc.com/news/2026/june/30/everton---stake-extend-partnership-with-official-sleeve-agreement/"
+        }
+      }
+    ],
+    "fulham": [
+      {
+        "sponsorId": "hibob",
+        "placement": "sleeve",
+        "source": {
+          "name": "Fulham FC – 'Fulham FC announces extended partnership with HiBob as Official Sleeve Partner & Principal Partner'",
+          "date": "2025-12-15",
+          "url": "https://www.fulhamfc.com/news/2025/december/15/fulham-fc-announces-extended-partnership-with-hibob-as-official-sleeve-partner---principal-partner/"
+        }
+      }
+    ],
+    "hull-city": [
+      {
+        "sponsorId": "mcvities",
+        "placement": "sleeve",
+        "source": {
+          "name": "Hull City AFC – 'Hull City and McVitie's announce new partnership'",
+          "date": "2026-08-21",
+          "url": "https://www.wearehullcity.co.uk/news/2026/august/21/Hull-City-and-McVities-announce-new-partnership/"
+        }
+      }
+    ],
+    "ipswich-town": [
+      {
+        "sponsorId": "play",
+        "placement": "sleeve",
+        "source": {
+          "name": "Ipswich Town FC – '2026/27 KITS REVEALED'",
+          "date": "2026-07-03",
+          "url": "https://www.itfc.co.uk/news/2026/july/03/2026-27-kits-revealed/"
+        }
+      }
+    ],
+    "leeds-united": [
+      {
+        "sponsorId": "kchat",
+        "placement": "sleeve",
+        "source": {
+          "name": "Leeds United – 'KChat to become Official Sleeve Partner for 2026/27 Season'",
+          "date": "2026-08-17",
+          "url": "https://www.leedsunited.com/en/news/kchat-to-become-official-sleeve-partner-for-2026-27-season"
+        }
+      }
+    ],
+    "liverpool": [
+      {
+        "sponsorId": "expedia",
+        "placement": "sleeve",
+        "source": {
+          "name": "Liverpool FC – 'LFC and Expedia extend partnership for further four years'",
+          "date": "2023-03-10",
+          "url": "https://www.liverpoolfc.com/news/lfc-and-expedia-extend-partnership-further-four-years"
+        }
+      }
+    ],
+    "manchester-city": [
+      {
+        "sponsorId": "okx",
+        "placement": "sleeve",
+        "source": {
+          "name": "Manchester City FC – 'Manchester City and OKX announce new shirt sleeve partnership'",
+          "date": "2023-06-22",
+          "url": "https://www.mancity.com/news/club/okx-to-sponsor-manchester-city-shirt-sleeve-202324-63823725"
+        }
+      }
+    ],
+    "manchester-united": [
+      {
+        "sponsorId": "sumup",
+        "placement": "sleeve",
+        "source": {
+          "name": "Manchester United – 'SumUp becomes United's Official Sleeve Partner'",
+          "date": "2026-09-08",
+          "url": "https://www.manutd.com/en/news/sumup-is-united-official-sleeve-partner"
+        }
+      }
+    ],
+    "newcastle-united": [
+      {
+        "sponsorId": "noon",
+        "placement": "sleeve",
+        "source": {
+          "name": "Newcastle United – 'noon.com becomes Newcastle United's official sleeve partner'",
+          "date": "2022-06-27",
+          "url": "https://www.newcastleunited.com/en/news/noon.com-becomes-newcastle-uniteds-official-sleeve-partner"
+        }
+      }
+    ],
+    "nottingham-forest": [
+      {
+        "sponsorId": "ballys-intralot",
+        "placement": "sleeve",
+        "source": {
+          "name": "Nottingham Forest – 'Forest confirms Bally's Intralot as official sleeve partner'",
+          "date": "2026-08-21",
+          "url": "https://www.nottinghamforest.co.uk/news/2026/august/21/forest-confirms-bally-s-intralot-as-official-sleeve-partner/"
+        }
+      },
+      {
+        "sponsorId": "boylesports",
+        "placement": "shorts",
+        "source": {
+          "name": "BoyleSports – 'BOYLE Sports Named an Official Betting Partner of Nottingham Forest'",
+          "date": "2026-08-25",
+          "url": "https://www.boylesports.com/blog/football/boyle-sports-named-an-official-betting-partner-of-nottingham-forest"
+        }
+      }
+    ],
+    "sunderland": [
+      {
+        "sponsorId": "shuffle",
+        "placement": "sleeve",
+        "source": {
+          "name": "Sunderland AFC – 'Sunderland AFC and Shuffle join forces in new global sleeve partnership'",
+          "date": "2026-09-11",
+          "url": "https://www.safc.com/news/2026/september/11/sunderland-afc-and-shuffle-join-forces-in-new-global-sleeve-partnership/"
+        }
+      }
+    ],
+    "tottenham-hotspur": [
+      {
+        "sponsorId": "kraken",
+        "placement": "sleeve",
+        "source": {
+          "name": "Tottenham Hotspur – 'Tottenham Hotspur partners with Crypto Platform Kraken'",
+          "date": "2024-07-16",
+          "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken"
+        }
+      }
+    ]
+  },
+  "ratings": [
+    {
+      "sponsorId": "aramco",
+      "owner": {
+        "id": "gov-saudi-arabia",
+        "name": "Government of Saudi Arabia (Saudi Arabian Oil Company, 'Aramco')",
+        "type": "state",
+        "country": "Saudi Arabia"
+      },
+      "tier": "serious",
+      "ownership": "owned",
+      "claim": {
+        "text": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%. The Saudi state's documented record (a record 345 executions in 2024; drug-offence executions continuing through 2026) makes this serious - severe is reserved for live armed conflict.",
+        "source": {
+          "name": "Amnesty International",
+          "date": "2025-07-16",
+          "url": "https://www.amnesty.org/en/latest/news/2025/07/saudi-arabia-escalation-executions-foreign-nationals-drug-related-offences/"
+        },
+        "short": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%."
+      },
+      "confidence": "high",
+      "note": "Ownership source: Fitch Ratings, 'Saudi Arabian Oil Company', 2025-01-31 (https://www.fitchratings.com/research/corporate-finance/saudi-arabian-oil-company-31-01-2025); Aramco FY2025 Annual Report states the Government remains largest shareholder at 81.48%. Aston Martin Aramco F1 title sponsor (aramco.com).",
+      "verdict": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%."
+    },
+    {
+      "sponsorId": "maaden",
+      "owner": {
+        "id": "pif",
+        "name": "Public Investment Fund (PIF)",
+        "type": "state-fund",
+        "country": "Saudi Arabia"
+      },
+      "tier": "serious",
+      "ownership": "part-owned",
+      "claim": {
+        "text": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
+        "source": {
+          "name": "AGBI (Arab Gulf Business Insight) company profile",
+          "date": "2026-09-24",
+          "url": "https://www.agbi.com/companies/maaden-company/"
+        },
+        "short": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating."
+      },
+      "confidence": "high",
+      "note": "Ma'aden's own newsroom confirms 'PIF remaining the majority shareholder' (https://www.maaden.com/news-insights/latest-news/maaden-to-acquire-full-ownership-of-aluminium-and-bauxite-assets-in-major-strategic-move). Aston Martin F1 'elevated partnership' sponsor (astonmartinf1.com). Saudi abuse evidence as per aramco (Amnesty).",
+      "verdict": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating."
+    },
+    {
+      "sponsorId": "visit-qatar",
+      "owner": {
+        "id": "gov-qatar",
+        "name": "State of Qatar (Qatar Tourism / Visit Qatar)",
+        "type": "state",
+        "country": "Qatar"
+      },
+      "tier": "serious",
+      "ownership": "owned",
+      "claim": {
+        "text": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026. Qatar's documented record - migrant workers still exposed to exploitation despite kafala reform, expression and assembly tightly restricted - rates serious.",
+        "source": {
+          "name": "Amnesty International - Human rights in Qatar (country report)",
+          "date": "2026-01-15",
+          "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
+        },
+        "short": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026."
+      },
+      "confidence": "high",
+      "note": "Partnership: Qatar Tourism press release, 2025-11-29 (https://www.qatartourism.com/en/news-and-media/press-releases/visit-qatar-announces-principal-partnership-with-the-future-audi) and Audi press release of the same date.",
+      "verdict": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026."
+    },
+    {
+      "sponsorId": "petronas",
+      "owner": {
+        "id": "gov-malaysia",
+        "name": "Government of Malaysia (via Minister of Finance (Incorporated))",
+        "type": "state",
+        "country": "Malaysia"
+      },
+      "tier": "serious",
+      "ownership": "owned",
+      "claim": {
+        "text": "Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant workers in forced labour, refugees in indefinite detention, repressive laws used against dissent) is documented, so serious rather than concern.",
+        "source": {
+          "name": "Human Rights Watch - World Report, Malaysia chapter",
+          "date": "2026-01-15",
+          "url": "https://hrw.org/world-report/2026/country-chapters/malaysia"
+        },
+        "short": "Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant…."
+      },
+      "confidence": "medium",
+      "note": "Ownership: Petronas 'Partners & Stakeholders' (MOF through its corporation MOF (Inc.) holds a majority share) https://www.petronas.com/mpm/malaysia-e-p/partners-stakeholders. Malaysia's abuse level is milder than the Gulf states - a concern call is defensible; still fully state-owned. Mercedes-AMG PETRONAS F1 title sponsor.",
+      "verdict": "Petronas is wholly state-owned - its shares sit with Minister of Finance (Incorporated), a body corporate created by statute - and Malaysia's record (migrant…."
+    },
+    {
+      "sponsorId": "g42",
+      "owner": {
+        "id": "mubadala",
+        "name": "Mubadala Investment Company (Abu Dhabi sovereign fund)",
+        "type": "state-fund",
+        "country": "United Arab Emirates"
+      },
+      "tier": "serious",
+      "ownership": "part-owned",
+      "claim": {
+        "text": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious on the UAE's upheld unfair mass-trial convictions.",
+        "source": {
+          "name": "Human Rights Watch",
+          "date": "2025-03-04",
+          "url": "https://www.hrw.org/news/2025/03/04/uae-unfair-mass-trial-convictions-upheld"
+        },
+        "short": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious…."
+      },
+      "confidence": "medium",
+      "note": "Ownership: Mubadala portfolio page - G42 'backed by Mubadala, Silver Lake, Microsoft and Dalio Family Office' (https://www.mubadala.com/en/what-we-do/g42). Mubadala is a shareholder, not sole owner, so 'part-owned'. Mercedes F1 sponsor.",
+      "verdict": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious…."
+    },
+    {
+      "sponsorId": "okx",
+      "owner": {
+        "id": "okx-group",
+        "name": "OKX / Aux Cayes FinTech Co. Ltd (OK Group)",
+        "type": "private-company",
+        "country": "Seychelles"
+      },
+      "tier": "concern",
+      "ownership": "owned",
+      "claim": {
+        "text": "No state shareholder found. Sustained regulatory record: OKX's operating entity Aux Cayes FinTech Co. Ltd pleaded guilty in the US (SDNY) to violating anti-money laundering law and agreed to penalties totalling more than $500m.",
+        "source": {
+          "name": "US Department of Justice, SDNY press release",
+          "date": "2025-02-24",
+          "url": "https://www.justice.gov/usao-sdny/pr/okx-pleads-guilty-violating-us-anti-money-laundering-laws-and-agrees-pay-penalties"
+        },
+        "short": "No state shareholder found."
+      },
+      "confidence": "high",
+      "note": "Exchange founded 2013 by Star Xu (OK Group); no sovereign fund on the register. DOJ Information v. 25 Cr. names Aux Cayes FinTech Co. Ltd d/b/a 'OKEx'/'OKX'. Man City sleeve sponsor (existing dataset row).",
+      "verdict": "No state shareholder found."
+    },
+    {
+      "sponsorId": "gate",
+      "owner": {
+        "id": "gate-group",
+        "name": "Gate Group / Gate Technology Inc.",
+        "type": "private-company",
+        "country": "Cayman Islands"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Gate is a privately held exchange group (Gate Technology Inc., George Town, Cayman Islands) with no state or sovereign shareholder; it holds licences in multiple jurisdictions and has no sustained adverse regulatory finding comparable to OKX's guilty plea.",
+        "source": {
+          "name": "Gate Group - Legal Licenses, Registrations and Regulatory Compliance",
+          "date": "2026-09-24",
+          "url": "https://www.gate.com/gategroup/legal/licenses"
+        },
+        "short": "Gate is a privately held exchange group (Gate Technology Inc., George Town, Cayman Islands) with no state or sovereign shareholder; it holds licences in multiple…."
+      },
+      "confidence": "medium",
+      "note": "Gate exited the Japanese market citing compliance; multiple retail licences elsewhere. No sovereign investor disclosed. If a stricter line is wanted on crypto, gate is the first candidate to move to concern.",
+      "verdict": "Owned by Gate Group / Gate Technology Inc.. Nothing found."
+    },
+    {
+      "sponsorId": "zoomex",
+      "owner": {
+        "id": "zoomex",
+        "name": "Zoomex (crypto derivatives exchange, founded 2021)",
+        "type": "private-company",
+        "country": "unknown"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Zoomex is a private exchange founded in 2021 with no disclosed state or sovereign investor and no sustained adverse regulatory record found in its own materials.",
+        "source": {
+          "name": "Zoomex - About Us",
+          "date": "2026-09-24",
+          "url": "https://www.zoomex.com/en/aboutus"
+        },
+        "short": "Zoomex is a private exchange founded in 2021 with no disclosed state or sovereign investor and no sustained adverse regulatory record found in its own materials."
+      },
+      "confidence": "low",
+      "note": "Thin public record - mostly exchange directories. Country of incorporation not stated on its own site (Cayman/Seychelles typical for the sector), left as unknown.",
+      "verdict": "Owned by Zoomex (crypto derivatives exchange, founded 2021). Nothing found."
+    },
+    {
+      "sponsorId": "coinbase",
+      "owner": {
+        "id": "coinbase-global",
+        "name": "Coinbase Global, Inc.",
+        "type": "listed-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Coinbase is a listed company (Nasdaq: COIN) held by institutions and the public float, with no state shareholder. Its SEC enforcement action was dismissed in February 2025.",
+        "source": {
+          "name": "US Securities and Exchange Commission, press release 2025-47",
+          "date": "2025-02-27",
+          "url": "https://www.sec.gov/newsroom/press-releases/2025-47"
+        },
+        "short": "Coinbase is a listed company (Nasdaq: COIN) held by institutions and the public float, with no state shareholder."
+      },
+      "confidence": "high",
+      "note": "Listed on Nasdaq, no sovereign stake. SEC v. Coinbase dismissed 2025-02-27 - resolved, so none rather than concern.",
+      "verdict": "Owned by Coinbase Global, Inc.. Nothing found."
+    },
+    {
+      "sponsorId": "core-scientific",
+      "owner": {
+        "id": "core-scientific",
+        "name": "Core Scientific, Inc.",
+        "type": "listed-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Core Scientific is a listed US bitcoin miner and data-centre operator (Nasdaq: CORZ) with no state shareholder; its 2024 Chapter 11 reorganisation was a corporate event, not a rights finding.",
+        "source": {
+          "name": "Nasdaq - Core Scientific, Inc. (CORZ) listing",
+          "date": "2026-09-24",
+          "url": "https://www.nasdaq.com/market-activity/stocks/corz"
+        },
+        "short": "Core Scientific is a listed US bitcoin miner and data-centre operator (Nasdaq: CORZ) with no state shareholder; its 2024 Chapter 11 reorganisation was a corporate…."
+      },
+      "confidence": "medium",
+      "note": "Texas-headquartered, US-listed, no sovereign investor.",
+      "verdict": "Owned by Core Scientific, Inc.. Nothing found."
+    },
+    {
+      "sponsorId": "betway",
+      "owner": {
+        "id": "super-group",
+        "name": "Super Group (SGHC) Limited",
+        "type": "listed-company",
+        "country": "Guernsey"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Betway's parent, Super Group (SGHC) Limited, is a NYSE-listed holding company of gaming brands (Betway, Jackpot City) with no state shareholder.",
+        "source": {
+          "name": "Super Group (SGHC) Limited - investor relations / corporate profile",
+          "date": "2026-09-24",
+          "url": "https://supergroup.com/about/our-strategy/"
+        },
+        "short": "Betway's parent, Super Group (SGHC) Limited, is a NYSE-listed holding company of gaming brands (Betway, Jackpot City) with no state shareholder."
+      },
+      "confidence": "high",
+      "note": "Listed on NYSE (SGHC) since the January 2022 SPAC combination. Guernsey incorporated, no sovereign stake.",
+      "verdict": "Owned by Super Group (SGHC) Limited. Nothing found."
+    },
+    {
+      "sponsorId": "cash-app",
+      "owner": {
+        "id": "block-inc",
+        "name": "Block, Inc. (Cash App)",
+        "type": "listed-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Cash App is a brand of Block, Inc., a NYSE-listed (XYZ) payments company owned by institutions and the public float, with no state shareholder.",
+        "source": {
+          "name": "Investopedia - Top Block (XYZ) shareholders",
+          "date": "2026-09-24",
+          "url": "https://investopedia.com/square-top-shareholders-5094562"
+        },
+        "short": "Cash App is a brand of Block, Inc., a NYSE-listed (XYZ) payments company owned by institutions and the public float, with no state shareholder."
+      },
+      "confidence": "high",
+      "note": "Block was Square, Inc.; founder Jack Dorsey holds a minority. No sovereign wealth stake.",
+      "verdict": "Owned by Block, Inc. (Cash App). Nothing found."
+    },
+    {
+      "sponsorId": "revolut",
+      "owner": {
+        "id": "revolut-group-holdings",
+        "name": "Revolut Group Holdings Ltd",
+        "type": "private-company",
+        "country": "United Kingdom"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Revolut is a UK private limited company; the Companies House persons-with-significant-control register shows no state or sovereign entity holding control. In 2026 it is the reported title sponsor of the Audi F1 team.",
+        "source": {
+          "name": "UK Companies House - REVOLUT LTD, persons with significant control",
+          "date": "2026-09-24",
+          "url": "https://find-and-update.company-information.service.gov.uk/company/08804411/persons-with-significant-control"
+        },
+        "short": "Revolut is a UK private limited company; the Companies House persons-with-significant-control register shows no state or sovereign entity holding control."
+      },
+      "confidence": "high",
+      "note": "Group annual report filed at Companies House (RGHL_Annual Report 31 Dec 2025). Title-sponsor report: The Peninsula Qatar, 2026-09-10 ('Audi Revolut F1 Team').",
+      "verdict": "Owned by Revolut Group Holdings Ltd. Nothing found."
+    },
+    {
+      "sponsorId": "ic-markets",
+      "owner": {
+        "id": "international-capital-markets",
+        "name": "International Capital Markets Pty Ltd",
+        "type": "private-company",
+        "country": "Australia"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "IC Markets is the trading name of International Capital Markets Pty Ltd, an unlisted Australian company regulated by ASIC, with no state shareholder.",
+        "source": {
+          "name": "IC Markets - About Us / regulation (ASIC, ABN 123 289 109)",
+          "date": "2026-09-24",
+          "url": "https://www.icmarkets.com.au/en/company/about-us"
+        },
+        "short": "IC Markets is the trading name of International Capital Markets Pty Ltd, an unlisted Australian company regulated by ASIC, with no state shareholder."
+      },
+      "confidence": "medium",
+      "note": "Broker operated by the same private group in Australia, Cyprus (CySEC) and the Seychelles.",
+      "verdict": "Owned by International Capital Markets Pty Ltd. Nothing found."
+    },
+    {
+      "sponsorId": "singha",
+      "owner": {
+        "id": "boon-rawd-brewery",
+        "name": "Boon Rawd Brewery Co., Ltd. (Bhirombhakdi family)",
+        "type": "private-company",
+        "country": "Thailand"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Singha is the flagship beer of Boon Rawd Brewery, founded 1933 and privately owned and family-controlled ever since - no Thai state shareholding.",
+        "source": {
+          "name": "Boon Rawd Brewery - company profile ('the privately owned company')",
+          "date": "2026-09-24",
+          "url": "https://www.boonrawd.co.th/index.php/en/about/profile"
+        },
+        "short": "Singha is the flagship beer of Boon Rawd Brewery, founded 1933 and privately owned and family-controlled ever since - no Thai state shareholding."
+      },
+      "confidence": "high",
+      "note": "Majority stake held by the Bhirombhakdi family (Nation Thailand, 2023). Thailand's state holds no equity in Boon Rawd.",
+      "verdict": "Owned by Boon Rawd Brewery Co., Ltd. (Bhirombhakdi family). Nothing found."
+    },
+    {
+      "sponsorId": "claro",
+      "owner": {
+        "id": "america-movil",
+        "name": "America Movil, S.A.B. de C.V. (Slim family control)",
+        "type": "listed-company",
+        "country": "Mexico"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Claro is the brand of America Movil's Mexican operator Telcel; America Movil is listed (BMV: AMXB; NYSE: AMX) and controlled by the Slim family. Formerly state-owned Telmex, privatised in 1990 - since then no state shareholding.",
+        "source": {
+          "name": "America Movil - investors, annual reports (Form 20-F)",
+          "date": "2026-04-28",
+          "url": "https://www.americamovil.com/English/investors/reports-and-filings/annual-reports/default.aspx"
+        },
+        "short": "Claro is the brand of America Movil's Mexican operator Telcel; America Movil is listed (BMV: AMXB; NYSE: AMX) and controlled by the Slim family."
+      },
+      "confidence": "high",
+      "note": "The 2025 Form 20-F (filed April 2026) is the ownership record. Telcel/Claro brands only.",
+      "verdict": "Owned by America Movil, S.A.B. de C.V. (Slim family control). Nothing found."
+    },
+    {
+      "sponsorId": "twg-ai",
+      "owner": {
+        "id": "twg-global",
+        "name": "TWG Global LLC (Mark Walter / Todd Boehly)",
+        "type": "private-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "TWG Global is a privately held US investment firm (Mark Walter, Todd Boehly) and also owner of the Cadillac F1 team; no state shareholder. A 2026 class action against Walter is corporate, not a rights finding.",
+        "source": {
+          "name": "Motorsport.com - Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+          "date": "2026-09-24",
+          "url": "https://motorsport.com/f1/news/cadillac-f1-under-scrutiny-after-lawsuit-against-mark-walter-and-twg-global/10856796"
+        },
+        "short": "TWG Global is a privately held US investment firm (Mark Walter, Todd Boehly) and also owner of the Cadillac F1 team; no state shareholder."
+      },
+      "confidence": "medium",
+      "note": "Private holding company; no disclosed sovereign investor. TWG AI is its AI arm.",
+      "verdict": "Owned by TWG Global LLC (Mark Walter / Todd Boehly). Nothing found."
+    },
+    {
+      "sponsorId": "damac",
+      "owner": {
+        "id": "maple-invest",
+        "name": "Maple Invest Co. Ltd (Hussain Sajwani family)",
+        "type": "private-company",
+        "country": "United Arab Emirates"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "DAMAC was delisted from the Dubai Financial Market in 2022 after founder Hussain Sajwani's family vehicle Maple Invest bought out the remaining shares; the company is now wholly private and the Dubai state holds no equity.",
+        "source": {
+          "name": "Bloomberg Billionaires Index - Hussain Sajwani (owner profile)",
+          "date": "2026-09-24",
+          "url": "https://bloomberg.com/billionaires/profiles/hussain-a-sajwani"
+        },
+        "short": "DAMAC was delisted from the Dubai Financial Market in 2022 after founder Hussain Sajwani's family vehicle Maple Invest bought out the remaining shares; the company…."
+      },
+      "confidence": "high",
+      "note": "Dubai-based but privately owned, not state-owned - so none. If the dataset later treats all Dubai-domiciled firms as state-linked this becomes the first to revisit.",
+      "verdict": "Owned by Maple Invest Co. Ltd (Hussain Sajwani family). Nothing found."
+    },
+    {
+      "sponsorId": "peroni",
+      "owner": {
+        "id": "asahi-group-holdings",
+        "name": "Asahi Group Holdings, Ltd.",
+        "type": "listed-company",
+        "country": "Japan"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Peroni Nastro Azzurro has been owned since 2016 by Asahi Group Holdings, a Tokyo-listed brewer, with no state shareholder.",
+        "source": {
+          "name": "Asahi Group Holdings - FY2016 fact book (Peroni/Grolsch acquisition from AB InBev)",
+          "date": "2017-03-01",
+          "url": "https://www.asahigroup-holdings.com/ir_library_file/file/2016_yend_factbook.pdf"
+        },
+        "short": "Peroni Nastro Azzurro has been owned since 2016 by Asahi Group Holdings, a Tokyo-listed brewer, with no state shareholder."
+      },
+      "confidence": "medium",
+      "note": "Acquisition completed 2016 following the SABMiller/AB InBev merger remedy package. Tokyo-listed, no sovereign stake.",
+      "verdict": "Owned by Asahi Group Holdings, Ltd.. Nothing found."
+    },
+    {
+      "sponsorId": "hard-rock",
+      "owner": {
+        "id": "seminole-tribe-of-florida",
+        "name": "Seminole Tribe of Florida (Hard Rock International)",
+        "type": "private-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Hard Rock International is owned outright by the Seminole Tribe of Florida (acquired 2007). A federally recognised tribe is not a state in this dataset's sense, and the tribe has no documented rights finding.",
+        "source": {
+          "name": "Hard Rock International - corporate (Seminole Hard Rock)",
+          "date": "2026-09-24",
+          "url": "https://www.hardrock.com/corporate/"
+        },
+        "short": "Hard Rock International is owned outright by the Seminole Tribe of Florida (acquired 2007)."
+      },
+      "confidence": "medium",
+      "note": "Owner type mapped to private-company because the enum has no 'tribe' value. Revisit if the schema later adds one.",
+      "verdict": "Owned by Seminole Tribe of Florida (Hard Rock International). Nothing found."
+    },
+    {
+      "sponsorId": "mgm-rewards",
+      "owner": {
+        "id": "mgm-resorts",
+        "name": "MGM Resorts International",
+        "type": "listed-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "MGM Rewards is the loyalty programme of MGM Resorts International, NYSE-listed with no state shareholder.",
+        "source": {
+          "name": "MGM Resorts International - investor relations",
+          "date": "2026-09-24",
+          "url": "https://investors.mgmresorts.com/"
+        },
+        "short": "MGM Rewards is the loyalty programme of MGM Resorts International, NYSE-listed with no state shareholder."
+      },
+      "confidence": "high",
+      "note": "MGM China is a separately listed subsidiary (HKEX); neither has a sovereign shareholder.",
+      "verdict": "Owned by MGM Resorts International. Nothing found."
+    },
+    {
+      "sponsorId": "hugo",
+      "owner": {
+        "id": "hugo-boss-ag",
+        "name": "HUGO BOSS AG",
+        "type": "listed-company",
+        "country": "Germany"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "HUGO BOSS AG is a Frankfurt-listed stock corporation whose shares are predominantly in free float with institutional investors - no state shareholder.",
+        "source": {
+          "name": "HUGO BOSS Group - shareholder structure",
+          "date": "2026-09-24",
+          "url": "https://group.hugoboss.com/en/investors/share/shareholder-structure"
+        },
+        "short": "HUGO BOSS AG is a Frankfurt-listed stock corporation whose shares are predominantly in free float with institutional investors - no state shareholder."
+      },
+      "confidence": "high",
+      "note": "The company's own IR page states the majority of shares are in free float.",
+      "verdict": "Owned by HUGO BOSS AG. Nothing found."
+    },
+    {
+      "sponsorId": "ray-ban",
+      "owner": {
+        "id": "essilorluxottica",
+        "name": "EssilorLuxottica SA",
+        "type": "listed-company",
+        "country": "France/Italy"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Ray-Ban is owned by EssilorLuxottica, listed on Euronext Paris (EL) and a CAC 40 constituent - no state shareholder.",
+        "source": {
+          "name": "EssilorLuxottica - Euronext Paris listing (ISIN FR0000121667)",
+          "date": "2026-09-24",
+          "url": "https://en.wikipedia.org/wiki/EssilorLuxottica"
+        },
+        "short": "Ray-Ban is owned by EssilorLuxottica, listed on Euronext Paris (EL) and a CAC 40 constituent - no state shareholder."
+      },
+      "confidence": "medium",
+      "note": "Franco-Italian group. Cite the Euronext listing/registration document if a primary link is needed; Wikipedia used here as the lead for the ISIN.",
+      "verdict": "Owned by EssilorLuxottica SA. Nothing found."
+    },
+    {
+      "sponsorId": "tommy-hilfiger",
+      "owner": {
+        "id": "pvh-corp",
+        "name": "PVH Corp.",
+        "type": "listed-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Tommy Hilfiger is owned by PVH Corp., an NYSE-listed apparel company with no state shareholder.",
+        "source": {
+          "name": "PVH Corp. - NYSE: PVH company profile",
+          "date": "2026-09-24",
+          "url": "https://tradingkey.com/markets/stocks/nasdaq-pvh/company"
+        },
+        "short": "Tommy Hilfiger is owned by PVH Corp., an NYSE-listed apparel company with no state shareholder."
+      },
+      "confidence": "medium",
+      "note": "PVH also owns Calvin Klein. No sovereign stake.",
+      "verdict": "Owned by PVH Corp.. Nothing found."
+    },
+    {
+      "sponsorId": "tudor",
+      "owner": {
+        "id": "rolex-sa",
+        "name": "Rolex SA (Hans Wilsdorf Foundation)",
+        "type": "private-company",
+        "country": "Switzerland"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Tudor is a brand of Rolex SA, whose shares are owned solely by the Geneva-based Hans Wilsdorf Foundation - a private foundation, not a state.",
+        "source": {
+          "name": "NZZ - 'Rolex earns billions every year. Where does the money go?'",
+          "date": "2024-04-01",
+          "url": "https://www.nzz.ch/english/rolex-earns-billions-every-year-where-does-the-money-go-ld.1754264"
+        },
+        "short": "Tudor is a brand of Rolex SA, whose shares are owned solely by the Geneva-based Hans Wilsdorf Foundation - a private foundation, not a state."
+      },
+      "confidence": "high",
+      "note": "Foundation-owned private group; no state equity.",
+      "verdict": "Owned by Rolex SA (Hans Wilsdorf Foundation). Nothing found."
+    },
+    {
+      "sponsorId": "salesforce",
+      "owner": {
+        "id": "salesforce-inc",
+        "name": "Salesforce, Inc.",
+        "type": "listed-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Salesforce is an NYSE-listed software company (CRM) owned by institutions and the public float; no state shareholder.",
+        "source": {
+          "name": "Salesforce - investor relations / NYSE listing",
+          "date": "2026-09-24",
+          "url": "https://investor.salesforce.com/"
+        },
+        "short": "Salesforce is an NYSE-listed software company (CRM) owned by institutions and the public float; no state shareholder."
+      },
+      "confidence": "high",
+      "note": "No sovereign wealth stake.",
+      "verdict": "Owned by Salesforce, Inc.. Nothing found."
+    },
+    {
+      "sponsorId": "ibm",
+      "owner": {
+        "id": "ibm-corp",
+        "name": "International Business Machines Corporation",
+        "type": "listed-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "IBM is an NYSE-listed technology company (IBM) with no state shareholder.",
+        "source": {
+          "name": "IBM - investor relations / NYSE listing",
+          "date": "2026-09-24",
+          "url": "https://www.ibm.com/investor"
+        },
+        "short": "IBM is an NYSE-listed technology company (IBM) with no state shareholder."
+      },
+      "confidence": "high",
+      "note": "No sovereign wealth stake.",
+      "verdict": "Owned by International Business Machines Corporation. Nothing found."
+    },
+    {
+      "sponsorId": "shell",
+      "owner": {
+        "id": "shell-plc",
+        "name": "Shell plc",
+        "type": "listed-company",
+        "country": "United Kingdom"
+      },
+      "tier": "concern",
+      "ownership": "owned",
+      "claim": {
+        "text": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed clean-up in the Niger Delta documented by Amnesty International.",
+        "source": {
+          "name": "Amnesty International - 'Shell, oil spills and human rights in Nigeria'",
+          "date": "2026-07-01",
+          "url": "https://www.amnesty.org/en/latest/campaigns/2026/07/shell-oil-spills-and-human-rights-in-nigeria/"
+        },
+        "short": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed…."
+      },
+      "confidence": "medium",
+      "note": "Raised to concern on the 'sustained documented adverse record' limb, not on state ownership - so bp and castrol are rated the same way for consistency. Shell is also Ferrari's fuel partner historically.",
+      "verdict": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed…."
+    },
+    {
+      "sponsorId": "bp",
+      "owner": {
+        "id": "bp-plc",
+        "name": "BP p.l.c.",
+        "type": "listed-company",
+        "country": "United Kingdom"
+      },
+      "tier": "concern",
+      "ownership": "owned",
+      "claim": {
+        "text": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill and BP paid a $20.8bn civil settlement with the US and five Gulf states.",
+        "source": {
+          "name": "US Department of Justice - 'U.S. and Five Gulf States Reach Historic Settlement with BP'",
+          "date": "2015-10-05",
+          "url": "https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater"
+        },
+        "short": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill…."
+      },
+      "confidence": "medium",
+      "note": "Rated with shell for consistency. BP also held a 19.75% stake in Russia's state-controlled Rosneft until 2022 - a further Russia-exposure note.",
+      "verdict": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill…."
+    },
+    {
+      "sponsorId": "castrol",
+      "owner": {
+        "id": "bp-plc",
+        "name": "BP p.l.c. (Castrol brand)",
+        "type": "listed-company",
+        "country": "United Kingdom"
+      },
+      "tier": "concern",
+      "ownership": "owned",
+      "claim": {
+        "text": "Castrol is BP's lubricants brand, so it inherits BP's owner chain (London/NYSE-listed, no state shareholder) and its sustained documented adverse record on the Deepwater Horizon spill.",
+        "source": {
+          "name": "US Department of Justice - BP Deepwater Horizon civil settlement",
+          "date": "2015-10-05",
+          "url": "https://www.justice.gov/archives/opa/pr/us-and-five-gulf-states-reach-historic-settlement-bp-resolve-civil-lawsuit-over-deepwater"
+        },
+        "short": "Castrol is BP's lubricants brand, so it inherits BP's owner chain (London/NYSE-listed, no state shareholder) and its sustained documented adverse record on the…."
+      },
+      "confidence": "medium",
+      "note": "Same owner id as bp so the website derives one blood contribution. Castrol is F1's long-running lubricant partner.",
+      "verdict": "Castrol is BP's lubricants brand, so it inherits BP's owner chain (London/NYSE-listed, no state shareholder) and its sustained documented adverse record on the…."
+    },
+    {
+      "sponsorId": "3m",
+      "owner": {
+        "id": "3m-company",
+        "name": "3M Company",
+        "type": "listed-company",
+        "country": "United States"
+      },
+      "tier": "concern",
+      "ownership": "owned",
+      "claim": {
+        "text": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public drinking-water systems.",
+        "source": {
+          "name": "3M investor relations - settlement with public water suppliers (final court approval)",
+          "date": "2024-05-01",
+          "url": "https://investors.3m.com/news-events/press-releases/detail/1836/3m-settlement-with-public-water-suppliers-to-address-pfas"
+        },
+        "short": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public…."
+      },
+      "confidence": "medium",
+      "note": "PFAS/forever-chemicals liability is lasting; a plain 'listed, no state' record would read as none, so flagged as concern for the reviewer to overturn if the net is drawn tighter.",
+      "verdict": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public…."
+    },
+    {
+      "sponsorId": "komatsu",
+      "owner": {
+        "id": "komatsu-ltd",
+        "name": "Komatsu Ltd.",
+        "type": "listed-company",
+        "country": "Japan"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "Komatsu is a Tokyo-listed (TSE Prime: 6301) construction and mining equipment maker whose major shareholders are Japanese trust banks and institutions - no state shareholder.",
+        "source": {
+          "name": "Komatsu Ltd. - share information / major shareholders",
+          "date": "2026-09-24",
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/shareholder/stockinfo/share_holder_en.pdf"
+        },
+        "short": "Komatsu is a Tokyo-listed (TSE Prime: 6301) construction and mining equipment maker whose major shareholders are Japanese trust banks and institutions - no state…."
+      },
+      "confidence": "high",
+      "note": "Corporate profile confirms TSE Prime listing; no government stake on the shareholder register.",
+      "verdict": "Owned by Komatsu Ltd.. Nothing found."
+    },
+    {
+      "sponsorId": "att",
+      "owner": {
+        "id": "att-inc",
+        "name": "AT&T Inc.",
+        "type": "listed-company",
+        "country": "United States"
+      },
+      "tier": "none",
+      "ownership": "owned",
+      "claim": {
+        "text": "AT&T is an NYSE-listed telecom (T) roughly two-thirds institutionally held, with no state shareholder.",
+        "source": {
+          "name": "AT&T investor relations - FAQs (share and shareholder information)",
+          "date": "2026-09-24",
+          "url": "https://investors.att.com/resources/faqs"
+        },
+        "short": "AT&T is an NYSE-listed telecom (T) roughly two-thirds institutionally held, with no state shareholder."
+      },
+      "confidence": "high",
+      "note": "Formerly state-regulated monopoly (pre-1984 break-up) but never state-owned; no sovereign stake today.",
+      "verdict": "Owned by AT&T Inc.. Nothing found."
+    },
+    {
+      "sponsorId": "qatar-investment-authority",
+      "owner": {
+        "id": "gov-qatar",
+        "name": "State of Qatar (QIA is the state's sovereign fund)",
+        "type": "state-fund",
+        "country": "Qatar"
+      },
+      "tier": "serious",
+      "ownership": "owned",
+      "claim": {
+        "text": "QIA is Qatar's 100% state-owned sovereign wealth fund and took a substantial minority stake in Sauber Holding AG (the Audi F1 team) in Nov 2024; reported at ~30%. A sponsor owned by QIA carries Qatar's serious rating.",
+        "source": {
+          "name": "Qatar Investment Authority - 'QIA investment strengthens Audi F1 Project'",
+          "date": "2024-11-29",
+          "url": "https://www.qia.qa/en/Newsroom/Pages/QIA-investment-strengthens-Audi-F1-Project-.aspx"
+        },
+        "short": "QIA is Qatar's 100% state-owned sovereign wealth fund and took a substantial minority stake in Sauber Holding AG (the Audi F1 team) in Nov 2024; reported at ~30%."
+      },
+      "confidence": "high",
+      "note": "Audi/QIA confirm 'substantial minority'; BlackBook Motorsport and Forbes reported ~30%. F1.com confirmed the investment. Relevant to the Audi team (30% of it) alongside Visit Qatar sponsorship.",
+      "verdict": "QIA is Qatar's 100% state-owned sovereign wealth fund and took a substantial minority stake in Sauber Holding AG (the Audi F1 team) in Nov 2024; reported at ~30%."
+    },
+    {
+      "sponsorId": "bahrain-mumtalakat",
+      "owner": {
+        "id": "gov-bahrain",
+        "name": "Kingdom of Bahrain (Mumtalakat is the state holding company)",
+        "type": "state-fund",
+        "country": "Bahrain"
+      },
+      "tier": "serious",
+      "ownership": "owned",
+      "claim": {
+        "text": "Mumtalakat is Bahrain's state sovereign holding company and remains McLaren's majority shareholder. A sponsor owned by Mumtalakat would carry Bahrain's serious rating (crackdown on dissent, arbitrary detention, death sentences).",
+        "source": {
+          "name": "Human Rights Watch - World Report, Bahrain chapter",
+          "date": "2025-01-15",
+          "url": "https://hrw.org/world-report/2025/country-chapters/bahrain"
+        },
+        "short": "Mumtalakat is Bahrain's state sovereign holding company and remains McLaren's majority shareholder."
+      },
+      "confidence": "high",
+      "note": "Ownership: McLaren Racing statement, 2025-09-02 (https://www.mclaren.com/racing/latest-news/2025/mclaren-racing-consolidates-shareholder-structure/) and Reuters same date.",
+      "verdict": "Mumtalakat is Bahrain's state sovereign holding company and remains McLaren's majority shareholder."
+    },
+    {
+      "sponsorId": "cyvn-holdings",
+      "owner": {
+        "id": "gov-abu-dhabi",
+        "name": "Government of Abu Dhabi (CYVN Holdings is Abu Dhabi-controlled)",
+        "type": "state-fund",
+        "country": "United Arab Emirates"
+      },
+      "tier": "serious",
+      "ownership": "owned",
+      "claim": {
+        "text": "CYVN Holdings is majority-owned by the government of Abu Dhabi and holds a non-controlling stake in McLaren; a sponsor owned by CYVN carries the UAE's serious rating.",
+        "source": {
+          "name": "Reuters - 'Bahrain, Abu Dhabi funds take full ownership of McLaren'",
+          "date": "2025-09-02",
+          "url": "https://www.reuters.com/sports/formula1/bahrain-abu-dhabi-funds-take-full-ownership-mclaren-2025-09-02/"
+        },
+        "short": "CYVN Holdings is majority-owned by the government of Abu Dhabi and holds a non-controlling stake in McLaren; a sponsor owned by CYVN carries the UAE's serious…."
+      },
+      "confidence": "high",
+      "note": "Reuters describes CYVN as 'majority-owned by the government of Abu Dhabi'. Same UAE abuse evidence as g42 (HRW mass trial).",
+      "verdict": "CYVN Holdings is majority-owned by the government of Abu Dhabi and holds a non-controlling stake in McLaren; a sponsor owned by CYVN carries the UAE's serious…."
+    },
+    {
+      "sponsorId": "french-state-ape",
+      "owner": {
+        "id": "french-state",
+        "name": "French State (Agence des participations de l'Etat)",
+        "type": "state",
+        "country": "France"
+      },
+      "tier": "concern",
+      "ownership": "part-owned",
+      "claim": {
+        "text": "The French state, through the APE, holds ~15% of Renault - a partial state shareholding in a listed company, which is exactly the concern tier. France carries no documented serious abuses, so no higher tier.",
+        "source": {
+          "name": "Agence des participations de l'Etat - rapport de l'Etat actionnaire",
+          "date": "2026-09-24",
+          "url": "https://www.economie.gouv.fr/agence-participations-etat/rapport-letat-actionnaire-0"
+        },
+        "short": "The French state, through the APE, holds ~15% of Renault - a partial state shareholding in a listed company, which is exactly the concern tier."
+      },
+      "confidence": "high",
+      "note": "Stake cut back to 15% in Nov 2017 (France 24 / Automotive News Europe). Relevant to the Alpine/Renault-linked grid entries. Concern, not serious - this is the benchmark 'partial state' call.",
+      "verdict": "The French state, through the APE, holds ~15% of Renault - a partial state shareholding in a listed company, which is exactly the concern tier."
+    }
+  ]
+}

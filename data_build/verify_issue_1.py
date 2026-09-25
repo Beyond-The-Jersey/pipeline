@@ -152,6 +152,20 @@ _floating = sorted(s["id"] for s in sponsors
 chk("no sponsor is attached to nothing", not _floating, ", ".join(_floating)[:80])
 
 
+
+# 14 the US leagues do patches and arena rights, not shirts: every such club must have
+# at least one of the two, or it is silently the same empty row it was before
+_us = [c["id"] for c in J("clubs") if c.get("leagueId") in ("nba", "nfl", "mlb")]
+_covered = set()
+for _k in kits:
+    _covered.add(_k["clubId"])
+for _d in deals:
+    if _d.get("clubId"):
+        _covered.add(_d["clubId"])
+_bare = sorted(c for c in _us if c not in _covered)
+chk("every NBA/NFL/MLB club has a patch or arena record", not _bare,
+    "%d of %d bare: %s" % (len(_bare), len(_us), ", ".join(_bare)[:60]))
+
 fails = [r for r in out if r[0] == "FAIL"]
 for s, l, d in out:
     print(f"{s}  {l}" + (f"   -> {d}" if d else ""))
