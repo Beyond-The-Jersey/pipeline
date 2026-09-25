@@ -271,6 +271,16 @@ if _merged:
 OWNER_FIX = {
     "jpmorgan-chase-owner": ("JPMorgan Chase & Co.", "listed-company", "USA"),
 }
+
+# 25 owners came back typed 'private-company' with an 'LLC' appended, but FedEx, Delta,
+# PayPal, MetLife, T-Mobile, Toyota, Nintendo and co are listed. Correct the listed ones;
+# the genuinely private (Acrisure, QuikTrip, Hard Rock, Ledger) and the mutuals stay.
+LISTED_OWNERS = ['cleveland-cliffs-owner', 'delta-air-lines-owner', 'empower-owner', 'fedex-owner', 'ibotta-owner', 'metlife-owner', 'motorola-owner', 'nintendo-owner', 'nrg-energy-reliant-brand-owner', 'paypal-owner', 'rocket-rocket-companies-owner', 'sofi-owner', 't-mobile-owner', 'toyota-owner', 'webull-owner']
+LISTED_OWNERS += ['allegiant-travel-company-owner', 'dream-finders-homes-owner']
+for _o in owners:
+    if _o["id"] in LISTED_OWNERS and _o.get("type") == "private-company":
+        _o["type"] = "listed-company"
+
 for _o in owners:
     if _o["id"] in OWNER_FIX:
         _o["name"], _o["type"], _o["country"] = OWNER_FIX[_o["id"]]
