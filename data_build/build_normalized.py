@@ -27,6 +27,37 @@ print("research additions: %d clubs, %d sponsors, %d owners, %d kits, %d ratings
       % (len(RES["clubs"]), len(RES["sponsors"]), len(RES["owners"]),
          len(RES["kits"]), len(RES["ratings"])))
 
+# ---------------------------------------------------- per-target research files
+# One file per coverage target, written by the research subagents
+# (docs/agents/README.md §5). Merged after research_additions.json; the first id
+# seen wins, so hand-curated research_additions.json always beats a research file.
+# `proposedRatings` and `unsourced` are informational, ignored here.
+import glob  # noqa: E402
+
+RESEARCH_DIR = os.environ.get(
+    "BTJ_RESEARCH",
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "research"))
+_RES_KEYS = ("sports", "leagues", "clubs", "owners", "sponsors",
+             "kits", "deals", "claims")
+for _key in _RES_KEYS:
+    RES.setdefault(_key, [])
+    RES["_seen_" + _key] = {x.get("id") for x in RES[_key]
+                            if isinstance(x, dict) and x.get("id")}
+for _path in sorted(glob.glob(os.path.join(RESEARCH_DIR, "*.json"))):
+    with open(_path, encoding="utf-8") as _f:
+        _r = json.load(_f)
+    _tid = _r.get("target") or os.path.splitext(os.path.basename(_path))[0]
+    _added = []
+    for _key in _RES_KEYS:
+        _items = [x for x in (_r.get(_key) or [])
+                  if isinstance(x, dict) and x.get("id")
+                  and x["id"] not in RES["_seen_" + _key]]
+        if _items:
+            RES[_key].extend(_items)
+            RES["_seen_" + _key].update(x["id"] for x in _items)
+            _added.append("%d %s" % (len(_items), _key))
+    print("research file %s: %s" % (_tid, ", ".join(_added) or "empty"))
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 SEED = os.environ.get("BTJ_SEED", "/tmp/website/data/seed")
 OUT = os.path.join(HERE, "normalized")
@@ -63,11 +94,13 @@ write("meta", meta)
 sports = load("sports")
 have = {s["id"] for s in sports}
 sports += [s for s in A.NEW_SPORTS if s["id"] not in have]
+sports += [s for s in RES["sports"] if s["id"] not in {x["id"] for x in sports}]
 write("sports", sports)
 
 leagues = load("leagues")
 have = {l["id"] for l in leagues}
 leagues += [l for l in A.NEW_LEAGUES if l["id"] not in have]
+leagues += [l for l in RES["leagues"] if l["id"] not in {x["id"] for x in leagues}]
 for l in leagues:
     if l["id"] == "la-liga":
         l["notes"] = ["All 20 clubs for 2026-27 are in the data; front sponsors are unrated."]
@@ -150,6 +183,8 @@ for c in claims:
             c["source"]["note"] = note
 claims += A.EXTRA_CLAIMS
 claims += U.EXTRA_CLAIMS
+claims += [c for c in RES["claims"]
+           if c["id"] not in {x["id"] for x in claims}]
 claims += [c for c in A.SEED_CLAIMS if c["id"] not in {x["id"] for x in claims}]
 
 # the schema wants a string date; some research pages carry none, so derive the year
@@ -244,6 +279,14 @@ OWNER_MERGE = {
     "u-s-bank-owner": "us-bank-owner",
     "jpmorgan-chase-chase-owner": "jpmorgan-chase-owner",
     "intuit-intuit-inc-nasdaq-intu-owner": "intuit-owner",
+    # from the per-target research files (README §5): same entities, different ids.
+    # ADUG is Mansour's Abu Dhabi vehicle under the government chain; ADNOC sits under
+    # the same government; Avery Dennison is one NYSE company.
+    "avery-dennison-corp": "avery-dennison",
+    # ADUG is Mansour's Abu Dhabi vehicle, held by the government chain (research: ligue-1)
+    "abu-dhabi-united-group": "government-of-abu-dhabi",
+    # xrg's researched chain: XRG is ADNOC's investment arm, ADNOC is state-owned
+    "adnoc": "government-of-abu-dhabi",
 }
 _here = {o["id"] for o in owners}
 _merged = []
@@ -265,6 +308,12 @@ for dup, keep in OWNER_MERGE.items():
 if _merged:
     sponsors = list(sid.values())
     print("owners: merged duplicates:", "; ".join(_merged))
+if os.environ.get("BTJ_DEBUG_MERGE"):
+    for _d, _k in OWNER_MERGE.items():
+        if _d not in _here:
+            print("DEBUG skip (dup absent):", _d)
+        elif _k not in _here:
+            print("DEBUG skip (keep absent):", _d, "->", _k)
 
 # a couple of owners survive as stubs because the rating pass used a different owner id for
 # the same company; name and type them rather than leaving them 'unknown'
@@ -327,6 +376,11 @@ print("claims:", len(claims), "| rated sponsors:", sum(1 for s in sponsors if s[
 
 # ------------------------------------------------------------------ kits
 kits = load("kits")
+# the seed handover carried free-text headline/shortLine fields the schema never
+# had; the schema is authoritative, so drop them here rather than in the seed
+for _k in kits:
+    _k.pop("headline", None)
+    _k.pop("shortLine", None)
 have = {k["id"] for k in kits}
 for club, sponsor, srckey in A.FRONTS:
     kid = f"{club}-2026-27-home"
@@ -444,6 +498,12 @@ for row in A.UNDISCLOSED_DEALS:
         d["note"] = note
     deals.append(d)
     have.add(did)
+# organisation and club deals from the per-target research files
+for _d in RES["deals"]:
+    if _d["id"] not in {x["id"] for x in deals}:
+        deals.append(dict(_d))
+        have.add(_d["id"])
+
 # the deal id for the Arsenal sleeve that replaced Visit Rwanda
 for d in deals:
     if d["id"] == "arsenal-deel":
@@ -479,8 +539,56 @@ for d in deals:
 
 # ------------------------------------------------------------------ research kits
 for k in RES["kits"]:
-    if k["id"] not in {x["id"] for x in kits}:
+    existing = next((x for x in kits if x["id"] == k["id"]), None)
+    if existing is None:
         kits.append(dict(k))
+    else:
+        # same kit id from an earlier source: keep the earlier record's identity,
+        # add only the placements the earlier one lacks (first id wins per placement)
+        for p in k.get("sponsors") or []:
+            if not any(q["sponsorId"] == p["sponsorId"] and q["placement"] == p["placement"]
+                       for q in existing["sponsors"]):
+                existing["sponsors"].append(dict(p))
+        if k.get("sponsorsComplete") and not existing.get("sponsorsComplete"):
+            existing["sponsorsComplete"] = True
+
+# kit suppliers the research pass recorded without a kit attachment (the schema has no
+# kit-maker placement; the convention from the F1 grid is placement "partner").
+# Attach each to its club's current-season kit so no sponsor floats.
+KIT_MAKER_PLACEMENT = {
+    # research listed it without a club; the club's own site names Malo a major
+    # partner and its UCL shirt carries the brand (sb29.bzh, 2024-12-13)
+    "yaourt-malo": ["stade-brestois-29"],
+    "black-panther": ["al-riyadh"],
+    "castore": ["al-ettifaq"],
+    "hattrick": ["al-hazem"],
+    "hh-sports": ["al-fayha"],
+    "jako": ["al-ettifaq"],
+    "kappa": ["al-kholood"],
+    "laser": ["al-khaleej"],
+    "macron": ["al-diriyah", "al-taawoun"],
+    "nike": ["al-ittihad", "al-qadsiah"],
+    "offside": ["abha", "al-fateh", "al-shabab"],
+}
+for sup, club_ids_ in KIT_MAKER_PLACEMENT.items():
+    for cid_ in club_ids_:
+        kit_ = next((x for x in kits
+                     if x["clubId"] == cid_ and x.get("season") == "2026-27"), None)
+        if kit_ is None:
+            print("kit maker: no kit for", cid_)
+            continue
+        if any(q["sponsorId"] == sup for q in kit_["sponsors"]):
+            continue
+        sp_ = sid.get(sup) or {}
+        kit_["sponsors"].append({
+            "sponsorId": sup,
+            "placement": "partner",
+            "source": {"name": "Sponsor note (kit supplier)",
+                       "date": "2026-09",
+                       "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+                       "note": (sp_.get("note") or "Kit supplier per the target research.").strip()},
+        })
+        kit_["sponsorsComplete"] = False
 
 # US league jerseys: the patch is on the kit, the arena right is a deal below
 for k in U.NEW_KITS:
