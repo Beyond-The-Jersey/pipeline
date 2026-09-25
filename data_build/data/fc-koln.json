@@ -1,0 +1,35 @@
+{
+  "id": "fc-koln",
+  "team": "1. FC Koeln",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "service@fc.de",
+    "contact-form": "https://fc.de/service/rund-um-den-fc/kontakt",
+    "x": "@fckoeln",
+    "instagram": "@fckoeln"
+  },
+  "sponsors": [
+    {
+      "id": "rewe",
+      "name": "REWE",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "rewe-group",
+      "owner": "REWE Group",
+      "verdict": "Owned by REWE Group (REWE cooperatives eG). Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "rewe-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

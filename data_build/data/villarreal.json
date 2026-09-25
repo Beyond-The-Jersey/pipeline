@@ -1,0 +1,34 @@
+{
+  "id": "villarreal",
+  "team": "Villarreal CF",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "contact-form": "https://villarrealcf.es/es/formulario-contacto/",
+    "x": "@VillarrealCF",
+    "instagram": "@villarrealcf"
+  },
+  "sponsors": [
+    {
+      "id": "pamesa-ceramica",
+      "name": "Pamesa Ceramica",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "pamesa-grupo-empresarial",
+      "owner": "Pamesa Grupo Empresarial (Fernando Roig)",
+      "verdict": "Owned by Pamesa Grupo Empresarial (Fernando Roig). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "pamesa-grupo-empresarial"
+  ],
+  "lastUpdated": "2026-09-24"
+}

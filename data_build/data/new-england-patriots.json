@@ -1,0 +1,35 @@
+{
+  "id": "new-england-patriots",
+  "team": "New England Patriots",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "podcasts@patriots.com",
+    "contact-form": "https://www.patriots.com/press-room/contact-us",
+    "x": "@patriots",
+    "instagram": "@patriots"
+  },
+  "sponsors": [
+    {
+      "id": "gillette",
+      "name": "Gillette",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "procter-and-gamble",
+      "owner": "The Procter & Gamble Company",
+      "verdict": "Owned by The Procter & Gamble Company. Nothing found.",
+      "source": {
+        "name": "Zoomph",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "procter-and-gamble"
+  ],
+  "lastUpdated": "2026-09-24"
+}

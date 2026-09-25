@@ -1,0 +1,49 @@
+{
+  "id": "indiana-pacers",
+  "team": "Indiana Pacers",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "email": "GuestServices@Pacers.com",
+    "contact-form": "https://www.nba.com/pacers/contact-us-pacers"
+  },
+  "sponsors": [
+    {
+      "id": "gainbridge",
+      "name": "Gainbridge (Group 1001)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "gainbridge-group-1001-owner",
+      "owner": "Gainbridge (Group 1001)",
+      "verdict": "Owned by Gainbridge (Group 1001). Nothing found.",
+      "source": {
+        "name": "Gainbridge Fieldhouse (venue press release)",
+        "date": "2021-09-27",
+        "url": "https://www.gainbridgefieldhouse.com/news/detail/home-of-the-indiana-pacers-and-indiana-fever-renamed-gainbridge-fieldhouse"
+      }
+    },
+    {
+      "id": "lucas-oil",
+      "name": "Lucas Oil",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "lucas-oil-products-owner",
+      "owner": "Lucas Oil Products",
+      "verdict": "Owned by Lucas Oil Products. Nothing found.",
+      "source": {
+        "name": "Indiana Pacers (NBA.com)",
+        "date": "2025-07-09",
+        "url": "https://nba.com/pacers/news/indiana-pacers-and-lucas-oil-announce-multi-year-jersey-patch-partnership"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "gainbridge-group-1001-owner",
+    "lucas-oil-products-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

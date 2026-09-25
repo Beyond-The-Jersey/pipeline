@@ -1,0 +1,35 @@
+{
+  "id": "monza",
+  "team": "AC Monza",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "phone": "+39039836664",
+    "contact-form": "https://www.acmonza.com/it/contatti/",
+    "x": "@ACMonza",
+    "instagram": "@acmonza"
+  },
+  "sponsors": [
+    {
+      "id": "dazn-bet-club",
+      "name": "DAZN Bet Club",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "access-industries",
+      "owner": "Access Industries, Inc.",
+      "verdict": "Owned by Access Industries, Inc.. Nothing found.",
+      "source": {
+        "name": "AC Monza",
+        "date": "2026-07-01",
+        "url": "https://www.acmonza.com/en/news/DAZN-Bet-Club-Official-Sponsor-Jersey"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "access-industries"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "real-sociedad",
+  "team": "Real Sociedad",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "realsoc@realsociedad.eus",
+    "contact-form": "https://www.realsociedad.eus/es/i/aviso-legal",
+    "x": "@RealSociedad",
+    "instagram": "@realsociedad"
+  },
+  "sponsors": [
+    {
+      "id": "baghdadi-capital",
+      "name": "Baghdadi Capital",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "baghdadi-capital-sa",
+      "owner": "Baghdadi Capital, S.A. (family office of Baihas Baghdadi)",
+      "verdict": "Owned by Baghdadi Capital, S.A. (family office of Baihas Baghdadi). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "baghdadi-capital-sa"
+  ],
+  "lastUpdated": "2026-09-24"
+}

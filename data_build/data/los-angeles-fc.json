@@ -1,0 +1,35 @@
+{
+  "id": "los-angeles-fc",
+  "team": "Los Angeles FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "lafcpr@lafc.com",
+    "contact-form": "https://www.lafc.com/contact",
+    "x": "@LAFC",
+    "instagram": "@lafc"
+  },
+  "sponsors": [
+    {
+      "id": "bmo-bank",
+      "name": "BMO Bank",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "bank-of-montreal",
+      "owner": "Bank of Montreal",
+      "verdict": "Owned by Bank of Montreal. Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "bank-of-montreal"
+  ],
+  "lastUpdated": "2026-09-24"
+}

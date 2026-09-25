@@ -1,0 +1,135 @@
+{
+  "id": "ferrari",
+  "team": "Scuderia Ferrari HP",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "Italy",
+  "contact": {
+    "email": "customercare@ferraristore.com",
+    "contact-form": "https://www.ferrari.com/en-EN/contacts",
+    "x": "@Scuderiaferrari",
+    "instagram": "@ferrari"
+  },
+  "sponsors": [
+    {
+      "id": "hp",
+      "name": "HP",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "hp-inc",
+      "owner": "HP Inc.",
+      "verdict": "Owned by HP Inc.. Nothing found.",
+      "source": {
+        "name": "Ferrari – Ferrari and HP announce a title partnership",
+        "date": "2024-04-24",
+        "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-hp-announce-a-title-partnership-corporate"
+      }
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "ibm-corp",
+      "owner": "International Business Machines Corporation",
+      "verdict": "Owned by International Business Machines Corporation. Nothing found.",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP announces a multi-year agreement with IBM as a Premium Partner",
+        "date": "2026",
+        "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-announces-a-multi-year-agreement-with-ibm-as-a-premium-partner",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "id": "peroni",
+      "name": "Peroni Nastro Azzurro",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "asahi-group-holdings",
+      "owner": "Asahi Group Holdings, Ltd.",
+      "verdict": "Owned by Asahi Group Holdings, Ltd.. Nothing found.",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP partners page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners"
+      }
+    },
+    {
+      "id": "puma",
+      "name": "PUMA",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "anta-sports-products",
+      "owner": "ANTA Sports Products Limited",
+      "verdict": "Owned by ANTA Sports Products Limited. Nothing found.",
+      "source": {
+        "name": "PUMA – Ferrari and PUMA announce long-term partnership extension",
+        "date": "2026",
+        "url": "https://about.puma.com/en/newsroom/news/ferrari-and-puma-announce-long-term-partnership-extension",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "id": "ray-ban",
+      "name": "Ray-Ban / EssilorLuxottica",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "essilorluxottica",
+      "owner": "EssilorLuxottica SA",
+      "verdict": "Owned by EssilorLuxottica SA. Nothing found.",
+      "source": {
+        "name": "Ferrari – Scuderia Ferrari HP partners page",
+        "date": "2026-09-24",
+        "url": "https://www.ferrari.com/en-EN/formula1/partners"
+      }
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "placement": "front",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "shell-plc",
+      "owner": "Shell plc",
+      "verdict": "No state shareholder (a London-listed public company, effectively full free float), but a sustained documented adverse record: decades of oil spills and failed….",
+      "source": {
+        "name": "Ferrari – Ferrari and Shell renew their partnership",
+        "date": "2026",
+        "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-shell-renew-their-partnership",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "id": "unicredit",
+      "name": "UniCredit",
+      "placement": "sleeve",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "unicredit-spa",
+      "owner": "UniCredit S.p.A.",
+      "verdict": "Owned by UniCredit S.p.A.. Nothing found.",
+      "source": {
+        "name": "UniCredit – Scuderia Ferrari partnership",
+        "date": "2026",
+        "url": "https://www.unicreditgroup.eu/en/unicredit-at-a-glance/art-culture-sport/sport/scuderia-ferrari.html",
+        "note": "date precision: year"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "anta-sports-products",
+    "asahi-group-holdings",
+    "essilorluxottica",
+    "hp-inc",
+    "ibm-corp",
+    "shell-plc",
+    "unicredit-spa"
+  ],
+  "lastUpdated": "2026-09-24"
+}

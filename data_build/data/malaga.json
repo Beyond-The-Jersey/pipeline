@@ -1,0 +1,35 @@
+{
+  "id": "malaga",
+  "team": "Malaga CF",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "vipmalaga@malagacf.es",
+    "contact-form": "https://www.malagacf.com/aviso-legal",
+    "x": "@MalagaCF",
+    "instagram": "@malagacf"
+  },
+  "sponsors": [
+    {
+      "id": "sabor-a-malaga",
+      "name": "Sabor a Malaga",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "diputacion-de-malaga",
+      "owner": "Diputacion Provincial de Malaga",
+      "verdict": "Sabor a Malaga is not a company but a promotional quality brand owned and run by the Diputacion Provincial de Malaga, the provincial public administration; the….",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "diputacion-de-malaga"
+  ],
+  "lastUpdated": "2026-09-24"
+}

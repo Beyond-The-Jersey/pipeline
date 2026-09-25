@@ -1,0 +1,35 @@
+{
+  "id": "inter-milan",
+  "team": "Inter Milan",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "email": "tour@sansirostadium.com",
+    "contact-form": "https://www.inter.it/it/club/inter-contatti",
+    "x": "@Inter",
+    "instagram": "@inter"
+  },
+  "sponsors": [
+    {
+      "id": "betsson-sport",
+      "name": "Betsson.sport",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "betsson",
+      "owner": "Betsson AB",
+      "verdict": "Owned by Betsson AB. Nothing found.",
+      "source": {
+        "name": "Calcio e Finanza",
+        "date": "2026-07-07",
+        "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "betsson"
+  ],
+  "lastUpdated": "2026-09-24"
+}

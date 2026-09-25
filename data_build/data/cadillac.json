@@ -1,0 +1,178 @@
+{
+  "id": "cadillac",
+  "team": "Cadillac Formula 1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "United States",
+  "contact": {
+    "email": "media@cadillacf1team.com",
+    "contact-form": "https://www.cadillacf1team.com/contact-us",
+    "x": "@cadillac_f1",
+    "instagram": "@CadillacF1"
+  },
+  "sponsors": [
+    {
+      "id": "3m",
+      "name": "3M",
+      "placement": "partner",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "3m-company",
+      "owner": "3M Company",
+      "verdict": "No state shareholder (NYSE-listed), but a sustained documented adverse record: a $10.3bn settlement, court-approved, over PFAS contamination of US public….",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "alpinestars-c",
+      "name": "Alpinestars",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "alpinestars",
+      "owner": "Alpinestars S.p.A. (Mazzarolo family)",
+      "verdict": "Owned by Alpinestars S.p.A. (Mazzarolo family). Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "claro",
+      "name": "Claro / America Movil",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "america-movil",
+      "owner": "America Movil, S.A.B. de C.V. (Slim family control)",
+      "verdict": "Owned by America Movil, S.A.B. de C.V. (Slim family control). Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "core-scientific",
+      "name": "Core Scientific",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "core-scientific",
+      "owner": "Core Scientific, Inc.",
+      "verdict": "Owned by Core Scientific, Inc.. Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "ifs",
+      "name": "IFS",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "ifs-ab",
+      "owner": "IFS AB (Industrial and Financial Systems)",
+      "verdict": "IFS, the Cadillac F1 partner, is controlled by private equity: EQT holds control and Hg became a co-control shareholder in April 2025, with TA Associates and new….",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "jim-beam",
+      "name": "Jim Beam",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "suntory-holdings",
+      "owner": "Suntory Holdings Limited",
+      "verdict": "Owned by Suntory Holdings Limited. Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "s-3m",
+      "name": "3M",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "3m-company",
+      "owner": "3M Company",
+      "verdict": "Owned by 3M Company. Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "tenneco",
+      "name": "Tenneco",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "apollo-global-management",
+      "owner": "Apollo Global Management, Inc. (Apollo Funds)",
+      "verdict": "Owned by Apollo Global Management, Inc. (Apollo Funds). Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "tommy-hilfiger",
+      "name": "Tommy Hilfiger",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "pvh-corp",
+      "owner": "PVH Corp.",
+      "verdict": "Owned by PVH Corp.. Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    },
+    {
+      "id": "twg-ai",
+      "name": "TWG AI",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "twg-global",
+      "owner": "TWG Global / TWG Motorsports",
+      "verdict": "Owned by TWG Global LLC (Mark Walter / Todd Boehly). Nothing found.",
+      "source": {
+        "name": "Cadillac Formula 1 Team – Official Partners",
+        "date": "2026-09-24",
+        "url": "https://www.cadillacf1team.com/partners"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "3m-company",
+    "alpinestars",
+    "america-movil",
+    "apollo-global-management",
+    "core-scientific",
+    "ifs-ab",
+    "pvh-corp",
+    "suntory-holdings",
+    "twg-global"
+  ],
+  "lastUpdated": "2026-09-24"
+}

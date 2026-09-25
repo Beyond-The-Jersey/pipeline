@@ -1,0 +1,77 @@
+{
+  "id": "newcastle-united",
+  "team": "Newcastle United",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "phone": "+4403443721892",
+    "x": "@NUFC",
+    "instagram": "@nufc"
+  },
+  "sponsors": [
+    {
+      "id": "knox-hydration",
+      "name": "KNOX Hydration",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "knox-hydrate-pty-ltd",
+      "owner": "Knox Hydrate (Pty) Ltd",
+      "verdict": "Owned by Knox Hydrate (Pty) Ltd. Nothing found.",
+      "source": {
+        "name": "The Mag",
+        "date": "2026-06",
+        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+      }
+    },
+    {
+      "id": "noon",
+      "name": "noon",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "saudi-pif",
+      "owner": "Public Investment Fund (Saudi Arabia)",
+      "verdict": "Part-owned by Saudi Arabia’s Public Investment Fund.",
+      "source": {
+        "name": "The Mag",
+        "date": "2026-06",
+        "url": "https://www.themag.co.uk/2026/06/newcastle-united-have-agreed-new-main-sponsor-front-of-shirt-three-year-deal-to-replace-sela/"
+      }
+    },
+    {
+      "id": "sela",
+      "name": "Sela",
+      "placement": "front",
+      "season": "2025-26",
+      "tier": "serious",
+      "ownerId": "saudi-pif",
+      "owner": "Public Investment Fund (Saudi Arabia)",
+      "verdict": "An events company owned by Saudi Arabia’s Public Investment Fund.",
+      "source": null
+    },
+    {
+      "id": "visit-saudi",
+      "name": "Visit Saudi",
+      "placement": "partner",
+      "season": null,
+      "tier": "serious",
+      "ownerId": "government-of-saudi-arabia",
+      "owner": "Government of Saudi Arabia",
+      "verdict": "Visit Saudi is the flagship destination-marketing platform of the Saudi Tourism Authority, a government body established by royal decree in 2020 and a wholly….",
+      "source": {
+        "name": "Visit Saudi, Newcastle United partner",
+        "date": "2026",
+        "url": "https://www.visitvisitsaudi.com/"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-saudi-arabia",
+    "knox-hydrate-pty-ltd",
+    "saudi-pif"
+  ],
+  "lastUpdated": "2026-09-24"
+}

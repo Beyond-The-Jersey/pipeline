@@ -1,0 +1,34 @@
+{
+  "id": "rb-leipzig",
+  "team": "RB Leipzig",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "contact-form": "https://rbleipzig.com/de/contact",
+    "x": "@RBLeipzig",
+    "instagram": "@rbleipzig"
+  },
+  "sponsors": [
+    {
+      "id": "red-bull",
+      "name": "Red Bull",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "mateschitz-yoovidhya-families",
+      "owner": "Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH",
+      "verdict": "Owned by Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH. Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "mateschitz-yoovidhya-families"
+  ],
+  "lastUpdated": "2026-09-24"
+}

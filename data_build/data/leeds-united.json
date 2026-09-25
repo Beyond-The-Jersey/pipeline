@@ -1,0 +1,52 @@
+{
+  "id": "leeds-united",
+  "team": "Leeds United",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "email": "tickets@leedsunited.com",
+    "phone": "03713341992",
+    "contact-form": "https://www.leedsunited.com/en/contact-us",
+    "x": "@lufc",
+    "instagram": "@leedsunited"
+  },
+  "sponsors": [
+    {
+      "id": "kchat",
+      "name": "KChat",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "uney-gmbh",
+      "owner": "Uney GmbH",
+      "verdict": "Owned by Uney GmbH. Nothing found.",
+      "source": {
+        "name": "Leeds United – 'KChat to become Official Sleeve Partner for 2026/27 Season'",
+        "date": "2026-08-17",
+        "url": "https://www.leedsunited.com/en/news/kchat-to-become-official-sleeve-partner-for-2026-27-season"
+      }
+    },
+    {
+      "id": "red-bull",
+      "name": "Red Bull",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "mateschitz-yoovidhya-families",
+      "owner": "Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH",
+      "verdict": "Owned by Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "mateschitz-yoovidhya-families",
+    "uney-gmbh"
+  ],
+  "lastUpdated": "2026-09-24"
+}

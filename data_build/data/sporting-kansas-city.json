@@ -1,0 +1,37 @@
+{
+  "id": "sporting-kansas-city",
+  "team": "Sporting Kansas City",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.sportingkc.com",
+    "contact-form": "https://www.sportingkc.com/contact-us",
+    "email": "ClientServices@SportingKC.com",
+    "phone": "+1 913-387-3400",
+    "x": "@SportingKC",
+    "instagram": "@sportingkc"
+  },
+  "sponsors": [
+    {
+      "id": "compass-minerals",
+      "name": "Compass Minerals",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "compass-minerals",
+      "owner": "Compass Minerals International, Inc.",
+      "verdict": "Owned by Compass Minerals International, Inc.. Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "compass-minerals"
+  ],
+  "lastUpdated": "2026-09-24"
+}

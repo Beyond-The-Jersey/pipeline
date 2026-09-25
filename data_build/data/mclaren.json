@@ -1,0 +1,113 @@
+{
+  "id": "mclaren",
+  "team": "McLaren Mastercard F1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "United Kingdom",
+  "contact": {
+    "contact-form": "https://www.mclaren.com/racing/contact-us/"
+  },
+  "sponsors": [
+    {
+      "id": "cisco",
+      "name": "Cisco",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "cisco",
+      "owner": "Cisco Systems, Inc.",
+      "verdict": "Owned by Cisco Systems, Inc.. Nothing found.",
+      "source": {
+        "name": "McLaren Racing – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mclaren.com/racing/partners/"
+      }
+    },
+    {
+      "id": "dell",
+      "name": "Dell Technologies",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "dell-technologies",
+      "owner": "Dell Technologies Inc.",
+      "verdict": "Owned by Dell Technologies Inc.. Nothing found.",
+      "source": {
+        "name": "McLaren Racing – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mclaren.com/racing/partners/"
+      }
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "alphabet-inc",
+      "owner": "Alphabet Inc.",
+      "verdict": "Owned by Alphabet Inc.. Nothing found.",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing and Google announce partnership expansion",
+        "date": "2024-02-26",
+        "url": "https://www.mclaren.com/racing/formula-1/2024/mclaren-racing-and-google-announce-partnership-expansion/"
+      }
+    },
+    {
+      "id": "gulf-oil",
+      "name": "Gulf Oil International",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "hinduja-group",
+      "owner": "Hinduja Group (Hinduja family)",
+      "verdict": "Owned by Hinduja Group (Hinduja family). Nothing found.",
+      "source": {
+        "name": "McLaren Racing – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.mclaren.com/racing/partners/"
+      }
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "mastercard-inc",
+      "owner": "Mastercard Incorporated",
+      "verdict": "Owned by Mastercard Incorporated. Nothing found.",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces Mastercard as Official Naming Partner from 2026",
+        "date": "2025-08-27",
+        "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/"
+      }
+    },
+    {
+      "id": "okx",
+      "name": "OKX",
+      "placement": "sleeve",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "okx-group",
+      "owner": "OKX / Aux Cayes FinTech Co. Ltd (OK Group)",
+      "verdict": "No state shareholder found.",
+      "source": {
+        "name": "McLaren Racing – McLaren Racing announces expansion with Official Primary Partner OKX",
+        "date": "2023",
+        "url": "https://www.mclaren.com/racing/formula-1/2023/mclaren-racing-announces-expansion-with-official-primary-partner-okx",
+        "note": "date precision: year"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "alphabet-inc",
+    "cisco",
+    "dell-technologies",
+    "hinduja-group",
+    "mastercard-inc",
+    "okx-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

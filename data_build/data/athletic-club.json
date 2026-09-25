@@ -1,0 +1,36 @@
+{
+  "id": "athletic-club",
+  "team": "Athletic Club",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "contacto@athletic-club.eus",
+    "phone": "+34944240877",
+    "contact-form": "https://www.athletic-club.eus/en/contact/",
+    "x": "@AthleticClub",
+    "instagram": "@athleticclub"
+  },
+  "sponsors": [
+    {
+      "id": "kutxabank",
+      "name": "Kutxabank",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "kutxabank-sa",
+      "owner": "Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations)",
+      "verdict": "Owned by Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "kutxabank-sa"
+  ],
+  "lastUpdated": "2026-09-24"
+}

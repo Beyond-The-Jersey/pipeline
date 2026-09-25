@@ -1,0 +1,36 @@
+{
+  "id": "san-diego-fc",
+  "team": "San Diego FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "customerservice@sandiegofc.com",
+    "phone": "6415852864001",
+    "contact-form": "https://www.sandiegofc.com/club/contact",
+    "x": "@sandiegofc",
+    "instagram": "@sandiegofc"
+  },
+  "sponsors": [
+    {
+      "id": "directv",
+      "name": "DirecTV",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "tpg",
+      "owner": "TPG Capital (TPG Inc.)",
+      "verdict": "Owned by TPG Capital (TPG Inc.). Nothing found.",
+      "source": {
+        "name": "sandiegofc.com",
+        "date": "2026-02-17",
+        "url": "https://www.sandiegofc.com/news/san-diego-fc-announces-directv-as-the-club-s-official-jersey-partner"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "tpg"
+  ],
+  "lastUpdated": "2026-09-24"
+}

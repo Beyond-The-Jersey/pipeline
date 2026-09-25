@@ -1,0 +1,50 @@
+{
+  "id": "detroit-tigers",
+  "team": "Detroit Tigers",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.mlb.com/tigers/official-information/contact",
+    "x": "@tigers",
+    "instagram": "@tigers"
+  },
+  "sponsors": [
+    {
+      "id": "fifth-third-bank",
+      "name": "Fifth Third Bank",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "fifth-third-bank-owner",
+      "owner": "Fifth Third Bancorp",
+      "verdict": "Owned by Fifth Third Bancorp. Nothing found.",
+      "source": {
+        "name": "MLB.com",
+        "date": "2026-09-21",
+        "url": "https://www.mlb.com/redsox/news/tigers-ballpark-name-changed-to-fifth-third-park"
+      }
+    },
+    {
+      "id": "meijer",
+      "name": "Meijer",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "meijer-owner",
+      "owner": "Meijer",
+      "verdict": "Owned by Meijer. Nothing found.",
+      "source": {
+        "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+        "date": "2026-04-20",
+        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "fifth-third-bank-owner",
+    "meijer-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

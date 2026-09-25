@@ -1,0 +1,35 @@
+{
+  "id": "fc-augsburg",
+  "team": "FC Augsburg",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "info@fcaugsburg.de",
+    "contact-form": "https://www.fcaugsburg.de/page/kontakt-51",
+    "x": "@FCAugsburg",
+    "instagram": "@fcaugsburg1907"
+  },
+  "sponsors": [
+    {
+      "id": "wwk",
+      "name": "WWK",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "wwk-lebensversicherung-ag",
+      "owner": "WWK Lebensversicherung a.G. (WWK Versicherungsgruppe)",
+      "verdict": "Owned by WWK Lebensversicherung a.G. (WWK Versicherungsgruppe). Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "wwk-lebensversicherung-ag"
+  ],
+  "lastUpdated": "2026-09-24"
+}

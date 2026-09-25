@@ -1,0 +1,73 @@
+{
+  "id": "aston-villa",
+  "team": "Aston Villa",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.avfc.co.uk/contact",
+    "x": "@AstonVilla",
+    "instagram": "@astonvilla"
+  },
+  "sponsors": [
+    {
+      "id": "betano",
+      "name": "Betano",
+      "placement": "front",
+      "season": "2025-26",
+      "tier": "none",
+      "ownerId": "kaizen-gaming",
+      "owner": "Kaizen Gaming",
+      "verdict": "Owned by Kaizen Gaming International Limited (partly owned by Allwyn). Nothing found.",
+      "source": null
+    },
+    {
+      "id": "betano",
+      "name": "Betano",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "kaizen-gaming",
+      "owner": "Kaizen Gaming",
+      "verdict": "Owned by Kaizen Gaming International Limited (partly owned by Allwyn). Nothing found.",
+      "source": {
+        "name": "SportsPro (citing The Athletic)",
+        "date": "2026-07-15",
+        "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
+      }
+    },
+    {
+      "id": "trade-nation",
+      "name": "Trade Nation",
+      "placement": "sleeve",
+      "season": "2025-26",
+      "tier": "none",
+      "ownerId": "jasper-white",
+      "owner": "Jasper White (private UK entrepreneur)",
+      "verdict": "Owned by Jasper White (private UK entrepreneur). Nothing found.",
+      "source": null
+    },
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": {
+        "name": "SportsPro (citing The Athletic)",
+        "date": "2026-07-15",
+        "url": "https://www.sportspro.com/news/sponsorship-marketing/aston-villa-visit-rwanda-shirt-principal-sponsorship-july-2026/"
+      }
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "government-of-rwanda",
+    "jasper-white",
+    "kaizen-gaming"
+  ],
+  "lastUpdated": "2026-09-24"
+}

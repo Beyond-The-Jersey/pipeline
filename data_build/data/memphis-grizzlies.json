@@ -1,0 +1,49 @@
+{
+  "id": "memphis-grizzlies",
+  "team": "Memphis Grizzlies",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "x": "@memgrizz",
+    "instagram": "@memgrizz"
+  },
+  "sponsors": [
+    {
+      "id": "fedex",
+      "name": "FedEx",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "fedex-owner",
+      "owner": "FedEx LLC",
+      "verdict": "Owned by FedEx LLC. Nothing found.",
+      "source": {
+        "name": "Inside Hoops (Grizzlies/FedEx release)",
+        "date": "2025-01-01",
+        "url": "https://insidehoops.com/blog/2025/01/grizzlies-and-fedex-to-continue-their-long-term-partnership"
+      }
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinhood",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "robinhood-owner",
+      "owner": "Robinhood",
+      "verdict": "Owned by Robinhood. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2024-09-19",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2024/09/19/memphis-grizzlies-jersey-patch-robinhood"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "fedex-owner",
+    "robinhood-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

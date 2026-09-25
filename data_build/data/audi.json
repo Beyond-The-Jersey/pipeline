@@ -1,0 +1,129 @@
+{
+  "id": "audi",
+  "team": "Audi Revolut F1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "Germany",
+  "contact": {
+    "x": "@audif1_",
+    "instagram": "@audif1"
+  },
+  "sponsors": [
+    {
+      "id": "adidas-a",
+      "name": "adidas",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "adidas-ag",
+      "owner": "adidas AG",
+      "verdict": "adidas AG is a Frankfurt-listed German sportswear maker with a near-total free float: the company's own ownership analysis for December 2025 identified almost 100%….",
+      "source": {
+        "name": "Audi Revolut F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.audif1.com/en/partners"
+      }
+    },
+    {
+      "id": "bp",
+      "name": "BP",
+      "placement": "front",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "bp-plc",
+      "owner": "BP p.l.c.",
+      "verdict": "No state shareholder (London/NYSE-listed), but a sustained documented adverse record: the US court found BP grossly negligent over the 2010 Deepwater Horizon spill….",
+      "source": {
+        "name": "Audi Revolut F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.audif1.com/en/partners"
+      }
+    },
+    {
+      "id": "castrol",
+      "name": "Castrol",
+      "placement": "sleeve",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "bp-plc",
+      "owner": "BP p.l.c.",
+      "verdict": "Castrol is BP's lubricants brand, so it inherits BP's owner chain (London/NYSE-listed, no state shareholder) and its sustained documented adverse record on the….",
+      "source": {
+        "name": "Castrol – Castrol to power the Audi Revolut F1 Team through new era",
+        "date": "2026",
+        "url": "https://www.castrol.com/en/global/corporate/about-castrol/newsroom/castrol-to-power-the-audi-revolut-f1-team-through-the-new-era.html",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "id": "extreme-networks",
+      "name": "Extreme Networks",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "extreme-networks-inc",
+      "owner": "Extreme Networks, Inc.",
+      "verdict": "Owned by Extreme Networks, Inc.. Nothing found.",
+      "source": {
+        "name": "Audi Revolut F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.audif1.com/en/partners"
+      }
+    },
+    {
+      "id": "liberty-broker",
+      "name": "Libertex",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "libertex-group",
+      "owner": "Libertex Group / Indication Investments Ltd",
+      "verdict": "Owned by Libertex Group / Indication Investments Ltd. Nothing found.",
+      "source": {
+        "name": "Audi Revolut F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.audif1.com/en/partners"
+      }
+    },
+    {
+      "id": "revolut",
+      "name": "Revolut",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "revolut-group-holdings",
+      "owner": "Revolut Group Holdings Ltd",
+      "verdict": "Owned by Revolut Group Holdings Ltd. Nothing found.",
+      "source": {
+        "name": "Revolut – Revolut becomes title partner of the future Audi F1 Team",
+        "date": "2025-07-30",
+        "url": "https://www.revolut.com/en-US/news/revolut_becomes_title_partner_of_the_future_audi_f1_team/"
+      }
+    },
+    {
+      "id": "visit-qatar",
+      "name": "Visit Qatar",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "government-of-qatar",
+      "owner": "Government of the State of Qatar (Qatar Airways Group Q.C.S.C.)",
+      "verdict": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026.",
+      "source": {
+        "name": "Audi AG – Visit Qatar welcomed by the future Audi F1 Team as a new principal partner",
+        "date": "2025-11-29",
+        "url": "https://www.audi.com/en/press-releases/visit-qatar-welcomed-by-the-future-audi-f1-team-as-a-new-principal-partner-16923"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "adidas-ag",
+    "bp-plc",
+    "extreme-networks-inc",
+    "government-of-qatar",
+    "libertex-group",
+    "revolut-group-holdings"
+  ],
+  "lastUpdated": "2026-09-24"
+}

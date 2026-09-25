@@ -1,0 +1,50 @@
+{
+  "id": "oklahoma-city-thunder",
+  "team": "Oklahoma City Thunder",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "email": "fans@okcthunder.com",
+    "phone": "+14052084800",
+    "contact-form": "https://www.nba.com/thunder/contact"
+  },
+  "sponsors": [
+    {
+      "id": "loves-travel-stops",
+      "name": "Love's Travel Stops & Country Stores",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "loves-travel-stops-owner",
+      "owner": "Love's Travel Stops & Country Stores",
+      "verdict": "Owned by Love's Travel Stops & Country Stores. Nothing found.",
+      "source": {
+        "name": "ESPN",
+        "date": "2019-03-15",
+        "url": "https://www.espn.com/espn/print?id=26262269"
+      }
+    },
+    {
+      "id": "paycom",
+      "name": "Paycom",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "paycom-owner",
+      "owner": "Paycom",
+      "verdict": "Owned by Paycom. Nothing found.",
+      "source": {
+        "name": "Oklahoma City Thunder (nba.com)",
+        "date": "2021-07-27",
+        "url": "https://www.nba.com/thunder/news/release-paycom-210727"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "loves-travel-stops-owner",
+    "paycom-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

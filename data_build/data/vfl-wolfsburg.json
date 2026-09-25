@@ -1,0 +1,18 @@
+{
+  "id": "vfl-wolfsburg",
+  "team": "VfL Wolfsburg",
+  "sport": "soccer",
+  "league": "2-bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "service@vfl-wolfsburg.de",
+    "phone": "053618903903",
+    "contact-form": "https://www.vfl-wolfsburg.de/allgemeines/impressum",
+    "x": "@VfL_Wolfsburg",
+    "instagram": "@vfl.wolfsburg"
+  },
+  "sponsors": [],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

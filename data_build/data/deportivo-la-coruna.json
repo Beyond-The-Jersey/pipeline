@@ -1,0 +1,34 @@
+{
+  "id": "deportivo-la-coruna",
+  "team": "Deportivo A Coruna",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "contact-form": "https://www.rcdeportivo.es/es/contacto",
+    "x": "@RCDeportivo",
+    "instagram": "@rcdeportivo"
+  },
+  "sponsors": [
+    {
+      "id": "estrella-galicia",
+      "name": "Estrella Galicia",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "corporacion-hijos-de-rivera",
+      "owner": "Corporacion Hijos de Rivera, S.L.",
+      "verdict": "Owned by Corporacion Hijos de Rivera, S.L.. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "corporacion-hijos-de-rivera"
+  ],
+  "lastUpdated": "2026-09-24"
+}

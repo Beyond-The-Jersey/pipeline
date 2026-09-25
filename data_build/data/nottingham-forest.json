@@ -1,0 +1,66 @@
+{
+  "id": "nottingham-forest",
+  "team": "Nottingham Forest",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.nottinghamforest.co.uk/contact",
+    "x": "@nffc",
+    "instagram": "@tnfcofficial"
+  },
+  "sponsors": [
+    {
+      "id": "ballys-intralot",
+      "name": "Bally's Intralot",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "standard-general",
+      "owner": "Standard General L.P.",
+      "verdict": "Owned by Standard General L.P.. Nothing found.",
+      "source": {
+        "name": "Nottingham Forest – 'Forest confirms Bally's Intralot as official sleeve partner'",
+        "date": "2026-08-21",
+        "url": "https://www.nottinghamforest.co.uk/news/2026/august/21/forest-confirms-bally-s-intralot-as-official-sleeve-partner/"
+      }
+    },
+    {
+      "id": "boylesports",
+      "name": "BoyleSports",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "boylesports",
+      "owner": "BoyleSports (Boyle family)",
+      "verdict": "Owned by BoyleSports (Boyle family). Nothing found.",
+      "source": {
+        "name": "BoyleSports – 'BOYLE Sports Named an Official Betting Partner of Nottingham Forest'",
+        "date": "2026-08-25",
+        "url": "https://www.boylesports.com/blog/football/boyle-sports-named-an-official-betting-partner-of-nottingham-forest"
+      }
+    },
+    {
+      "id": "marex",
+      "name": "Marex",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "marex-group-plc",
+      "owner": "Marex Group plc (Nasdaq-listed) — public and former PE sponsors",
+      "verdict": "Owned by Marex Group plc (Nasdaq-listed) — public and former PE sponsors. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "boylesports",
+    "marex-group-plc",
+    "standard-general"
+  ],
+  "lastUpdated": "2026-09-24"
+}

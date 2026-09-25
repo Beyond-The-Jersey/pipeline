@@ -1,0 +1,50 @@
+{
+  "id": "los-angeles-chargers",
+  "team": "Los Angeles Chargers",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.chargers.com/contact-us/careers",
+    "x": "@Chargers",
+    "instagram": "@chargers"
+  },
+  "sponsors": [
+    {
+      "id": "sofi",
+      "name": "SoFi",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "sofi-owner",
+      "owner": "SoFi LLC",
+      "verdict": "Owned by SoFi LLC. Nothing found.",
+      "source": {
+        "name": "KSL.com (AP)",
+        "date": "2019-09-15",
+        "url": "https://ksl.com/article/46638813/sofi-stadium-naming-rights-sold-for-los-angeles-new-arena"
+      }
+    },
+    {
+      "id": "ucla-health",
+      "name": "UCLA Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "ucla-health-owner",
+      "owner": "University of California",
+      "verdict": "UCLA Health is ultimately owned by the University of California, a state entity.",
+      "source": {
+        "name": "Zoomph (2026 NFL jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "sofi-owner",
+    "ucla-health-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

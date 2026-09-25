@@ -1,0 +1,36 @@
+{
+  "id": "hamburger-sv",
+  "team": "Hamburger SV",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "info@hsv.de",
+    "phone": "+494041551887",
+    "contact-form": "https://www.hsv.de/kontakt",
+    "x": "@HSV",
+    "instagram": "@HSV"
+  },
+  "sponsors": [
+    {
+      "id": "hansemerkur",
+      "name": "HanseMerkur",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "hansemerkur-krankenversicherung-ag",
+      "owner": "HanseMerkur Krankenversicherung a.G. (HanseMerkur Group)",
+      "verdict": "Owned by HanseMerkur Krankenversicherung a.G. (HanseMerkur Group). Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "hansemerkur-krankenversicherung-ag"
+  ],
+  "lastUpdated": "2026-09-24"
+}

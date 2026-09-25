@@ -1,0 +1,35 @@
+{
+  "id": "levante",
+  "team": "Levante UD",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "admon@levanteud.es",
+    "contact-form": "https://www.levanteud.com/aviso-legal",
+    "x": "@levanteud",
+    "instagram": "@levanteud"
+  },
+  "sponsors": [
+    {
+      "id": "sesame-hr",
+      "name": "Sesame HR",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "sesame-hr-sl",
+      "owner": "Sesame HR (Sesame HR S.L.)",
+      "verdict": "Owned by Sesame HR (Sesame HR S.L.). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "sesame-hr-sl"
+  ],
+  "lastUpdated": "2026-09-24"
+}

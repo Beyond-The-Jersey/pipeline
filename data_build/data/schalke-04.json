@@ -1,0 +1,52 @@
+{
+  "id": "schalke-04",
+  "team": "Schalke 04",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "post@schalke04.de",
+    "phone": "+4920997751877",
+    "contact-form": "https://schalke04.de/kontakt/",
+    "x": "@s04",
+    "instagram": "@s04"
+  },
+  "sponsors": [
+    {
+      "id": "beumer-group",
+      "name": "BEUMER Group",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "beumer-group",
+      "owner": "BEUMER Group",
+      "verdict": "Owned by BEUMER Group GmbH & Co. KG. Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    },
+    {
+      "id": "gazprom",
+      "name": "Gazprom",
+      "placement": "front",
+      "season": "2021-22",
+      "tier": "severe",
+      "ownerId": "russian-federation",
+      "owner": "Russian Federation (Federal Agency for State Property Management)",
+      "verdict": "The Russian Government controls over 50% of Gazprom's shares (Russian Federation direct 38.37% plus government-controlled Rosneftegaz 10.97% and Rosgazifikatsiya….",
+      "source": {
+        "name": "Footy Headlines, Schalke 04 21-22 home kit released",
+        "date": "2021-07-02",
+        "url": "https://www.footyheadlines.com/2021/06/schalke-04-21-22-kit.html"
+      }
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "beumer-group",
+    "russian-federation"
+  ],
+  "lastUpdated": "2026-09-24"
+}

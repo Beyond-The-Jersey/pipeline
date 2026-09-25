@@ -1,0 +1,50 @@
+{
+  "id": "atlanta-falcons",
+  "team": "Atlanta Falcons",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "tickets@falcons.nfl.com",
+    "phone": "4703414500",
+    "contact-form": "https://www.atlantafalcons.com/about/contact"
+  },
+  "sponsors": [
+    {
+      "id": "att",
+      "name": "AT&T",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "att-inc",
+      "owner": "AT&T Inc.",
+      "verdict": "Owned by AT&T Inc.. Nothing found.",
+      "source": {
+        "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "mercedes-benz",
+      "name": "Mercedes-Benz",
+      "placement": "stadium",
+      "season": null,
+      "tier": "serious",
+      "ownerId": "mercedes-benz-group",
+      "owner": "Mercedes-Benz Group AG",
+      "verdict": "Mercedes-Benz Group AG has major shareholders including BAIC Group (state-owned enterprise of China) holding 9.98% and Kuwait Investment Authority (state fund)….",
+      "source": {
+        "name": "PR Newswire / Mercedes-Benz USA",
+        "date": "2015-08-24",
+        "url": "https://prnewswire.com/news-releases/its-official-mercedes-benz-signs-naming-rights-agreement-for-iconic-new-venue-in-atlanta-300132208.html"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "att-inc",
+    "mercedes-benz-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

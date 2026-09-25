@@ -1,0 +1,50 @@
+{
+  "id": "los-angeles-lakers",
+  "team": "Los Angeles Lakers",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.nba.com/lakers/?tmd=1/contact",
+    "x": "@lakers",
+    "instagram": "@lakers"
+  },
+  "sponsors": [
+    {
+      "id": "albert",
+      "name": "Albert",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "albert-owner",
+      "owner": "Albert LLC",
+      "verdict": "Owned by Albert LLC. Nothing found.",
+      "source": {
+        "name": "Yahoo Sports",
+        "date": "2026-07-17",
+        "url": "https://sports.yahoo.com/articles/lakers-announce-albert-jersey-patch-182626664.html"
+      }
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "foris-dax",
+      "owner": "Foris DAX MT Limited (owned by Foris Holdings KY Limited)",
+      "verdict": "Owned by Foris DAX MT Limited (owned by Foris Holdings KY Limited). Nothing found.",
+      "source": {
+        "name": "CNBC",
+        "date": "2021-11-17",
+        "url": "https://www.cnbc.com/2021/11/17/cryptocom-buys-naming-rights-to-lakers-staples-center-in-a-700-million-deal-.html"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "albert-owner",
+    "foris-dax"
+  ],
+  "lastUpdated": "2026-09-24"
+}

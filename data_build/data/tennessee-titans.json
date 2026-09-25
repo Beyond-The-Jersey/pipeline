@@ -1,0 +1,49 @@
+{
+  "id": "tennessee-titans",
+  "team": "Tennessee Titans",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "x": "@titans",
+    "instagram": "@titans"
+  },
+  "sponsors": [
+    {
+      "id": "kroger",
+      "name": "Kroger",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "kroger-owner",
+      "owner": "Kroger",
+      "verdict": "Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.",
+      "source": {
+        "name": "Zoomph (2026 NFL jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      }
+    },
+    {
+      "id": "nissan",
+      "name": "Nissan",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "nissan-owner",
+      "owner": "Nissan Motor Co., Ltd.",
+      "verdict": "Through the Renault-Nissan Alliance, the French State holds a 15% stake in Renault, which in turn holds a 15% stake in Nissan, resulting in an indirect state….",
+      "source": {
+        "name": "The Tennessean",
+        "date": "2023-11-17",
+        "url": "https://www.tennessean.com/story/money/2023/11/17/titans-stadium-naming-rights-nashville-new-nissan-stadium/71617483007/"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "kroger-owner",
+    "nissan-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

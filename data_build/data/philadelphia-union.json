@@ -1,0 +1,35 @@
+{
+  "id": "philadelphia-union",
+  "team": "Philadelphia Union",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "fanservices@philadelphiaunion.com",
+    "contact-form": "https://www.philadelphiaunion.com/club/contact-us",
+    "x": "@PhilaUnion",
+    "instagram": "@philaunion"
+  },
+  "sponsors": [
+    {
+      "id": "bimbo",
+      "name": "Bimbo (home) / Thomas' (away)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "grupo-bimbo",
+      "owner": "Grupo Bimbo, S.A.B. de C.V.",
+      "verdict": "Owned by Grupo Bimbo, S.A.B. de C.V.. Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "grupo-bimbo"
+  ],
+  "lastUpdated": "2026-09-24"
+}

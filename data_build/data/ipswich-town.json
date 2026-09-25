@@ -1,0 +1,51 @@
+{
+  "id": "ipswich-town",
+  "team": "Ipswich Town",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "email": "mainticketoffice@itfc.co.uk",
+    "contact-form": "https://www.itfc.co.uk/club/contactus/",
+    "x": "@IpswichTown",
+    "instagram": "@ipswichtown"
+  },
+  "sponsors": [
+    {
+      "id": "halo",
+      "name": "Halo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "halo-lifestyle-llc",
+      "owner": "Halo Lifestyle LLC (HALO Hydration)",
+      "verdict": "Owned by Halo Lifestyle LLC (HALO Hydration). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "id": "play",
+      "name": "Play (Ed Sheeran 'Play' tour)",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "ed-sheeran",
+      "owner": "Ed Sheeran / 'Play' tour (private individual)",
+      "verdict": "Owned by Ed Sheeran / 'Play' tour (private individual). Nothing found.",
+      "source": {
+        "name": "Ipswich Town FC – '2026/27 KITS REVEALED'",
+        "date": "2026-07-03",
+        "url": "https://www.itfc.co.uk/news/2026/july/03/2026-27-kits-revealed/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "ed-sheeran",
+    "halo-lifestyle-llc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sv-elversberg",
+  "team": "SV Elversberg",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "contact-form": "https://sv07elversberg.de/kontakt/",
+    "x": "@SV07Elversberg",
+    "instagram": "@svelversberg"
+  },
+  "sponsors": [
+    {
+      "id": "reuter",
+      "name": "Reuter",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "reuter-gruppe",
+      "owner": "Reuter Gruppe",
+      "verdict": "Owned by REUTER Gruppe (Reuter family). Nothing found.",
+      "source": {
+        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+        "date": "2026-09-24",
+        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "reuter-gruppe"
+  ],
+  "lastUpdated": "2026-09-24"
+}

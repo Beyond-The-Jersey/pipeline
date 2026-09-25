@@ -1,0 +1,51 @@
+{
+  "id": "philadelphia-phillies",
+  "team": "Philadelphia Phillies",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "tickets@phillies.com",
+    "contact-form": "https://www.mlb.com/phillies/official-information/contact",
+    "x": "@Phillies",
+    "instagram": "@phillies"
+  },
+  "sponsors": [
+    {
+      "id": "citizens-bank",
+      "name": "Citizens Bank (Citizens Financial Group)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "citizens-bank-citizens-financial-group-owner",
+      "owner": "Citizens Bank (Citizens Financial Group)",
+      "verdict": "Owned by Citizens Bank (Citizens Financial Group). Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2003-06-17",
+        "url": "https://sportsbusinessjournal.com/Daily/Issues/2003/06/17/Facilities-Venues/Citizens-Bank-Inks-25-Year-$95M-Phillies-Naming-Rights-Deal.aspx"
+      }
+    },
+    {
+      "id": "independence-blue-cross",
+      "name": "Independence Blue Cross (IBX)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "independence-blue-cross-owner",
+      "owner": "Independence Blue Cross",
+      "verdict": "Owned by Independence Blue Cross. Nothing found.",
+      "source": {
+        "name": "MLB.com (Philadelphia Phillies)",
+        "date": "2024-07-31",
+        "url": "https://www.mlb.com/news/phillies-name-independence-blue-cross-as-first-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "citizens-bank-citizens-financial-group-owner",
+    "independence-blue-cross-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

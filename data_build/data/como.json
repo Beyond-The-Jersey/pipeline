@@ -1,0 +1,33 @@
+{
+  "id": "como",
+  "team": "Como 1907",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "x": "@Como_1907",
+    "instagram": "@como_1907official"
+  },
+  "sponsors": [
+    {
+      "id": "revolut",
+      "name": "Revolut",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "revolut-group-holdings",
+      "owner": "Revolut Group Holdings Ltd",
+      "verdict": "Owned by Revolut Group Holdings Ltd. Nothing found.",
+      "source": {
+        "name": "Como 1907",
+        "date": "2026-07-01",
+        "url": "https://comofootball.com/en/revolut-becomes-como-1907-s-official-front-of-shirt-partner/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "revolut-group-holdings"
+  ],
+  "lastUpdated": "2026-09-24"
+}

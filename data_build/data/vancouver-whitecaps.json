@@ -1,0 +1,37 @@
+{
+  "id": "vancouver-whitecaps",
+  "team": "Vancouver Whitecaps FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "Canada",
+  "contact": {
+    "website": "https://www.whitecapsfc.com",
+    "contact-form": "https://www.whitecapsfc.com/club/contact-us",
+    "email": "info@whitecapsfc.com",
+    "phone": "+1 604-669-9283",
+    "x": "@WhitecapsFC",
+    "instagram": "@whitecapsfc"
+  },
+  "sponsors": [
+    {
+      "id": "telus",
+      "name": "Telus",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "telus-corporation",
+      "owner": "TELUS Corporation",
+      "verdict": "Owned by TELUS Corporation. Nothing found.",
+      "source": {
+        "name": "mlssoccer.com",
+        "date": "2026-02-17",
+        "url": "https://www.mlssoccer.com/news/vancouver-whitecaps-fc-announce-telus-as-new-front-of-jersey-sponsor"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "telus-corporation"
+  ],
+  "lastUpdated": "2026-09-24"
+}

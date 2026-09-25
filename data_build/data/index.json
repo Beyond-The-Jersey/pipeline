@@ -1,0 +1,1498 @@
+{
+  "version": "0.2",
+  "canonical": "normalized/",
+  "last_updated": "2026-09-24",
+  "teams": [
+    {
+      "id": "arsenal",
+      "name": "Arsenal",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "arsenal.json"
+    },
+    {
+      "id": "aston-villa",
+      "name": "Aston Villa",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "aston-villa.json"
+    },
+    {
+      "id": "afc-bournemouth",
+      "name": "AFC Bournemouth",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "afc-bournemouth.json"
+    },
+    {
+      "id": "brentford",
+      "name": "Brentford",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "brentford.json"
+    },
+    {
+      "id": "brighton-and-hove-albion",
+      "name": "Brighton & Hove Albion",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "brighton-and-hove-albion.json"
+    },
+    {
+      "id": "chelsea",
+      "name": "Chelsea",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "chelsea.json"
+    },
+    {
+      "id": "coventry-city",
+      "name": "Coventry City",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "coventry-city.json"
+    },
+    {
+      "id": "crystal-palace",
+      "name": "Crystal Palace",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "crystal-palace.json"
+    },
+    {
+      "id": "everton",
+      "name": "Everton",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "everton.json"
+    },
+    {
+      "id": "fulham",
+      "name": "Fulham",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "fulham.json"
+    },
+    {
+      "id": "hull-city",
+      "name": "Hull City",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "hull-city.json"
+    },
+    {
+      "id": "ipswich-town",
+      "name": "Ipswich Town",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "ipswich-town.json"
+    },
+    {
+      "id": "leeds-united",
+      "name": "Leeds United",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "leeds-united.json"
+    },
+    {
+      "id": "liverpool",
+      "name": "Liverpool",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "liverpool.json"
+    },
+    {
+      "id": "manchester-city",
+      "name": "Manchester City",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "manchester-city.json"
+    },
+    {
+      "id": "manchester-united",
+      "name": "Manchester United",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "manchester-united.json"
+    },
+    {
+      "id": "newcastle-united",
+      "name": "Newcastle United",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "newcastle-united.json"
+    },
+    {
+      "id": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "nottingham-forest.json"
+    },
+    {
+      "id": "sunderland",
+      "name": "Sunderland",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "sunderland.json"
+    },
+    {
+      "id": "tottenham-hotspur",
+      "name": "Tottenham Hotspur",
+      "sport": "soccer",
+      "league": "premier-league",
+      "file": "tottenham-hotspur.json"
+    },
+    {
+      "id": "atletico-de-madrid",
+      "name": "Atlético de Madrid",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "atletico-de-madrid.json"
+    },
+    {
+      "id": "real-madrid",
+      "name": "Real Madrid",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "real-madrid.json"
+    },
+    {
+      "id": "bayern-munich",
+      "name": "Bayern Munich",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "bayern-munich.json"
+    },
+    {
+      "id": "schalke-04",
+      "name": "Schalke 04",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "schalke-04.json"
+    },
+    {
+      "id": "paris-saint-germain",
+      "name": "Paris Saint-Germain",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "paris-saint-germain.json"
+    },
+    {
+      "id": "la-clippers",
+      "name": "LA Clippers",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "la-clippers.json"
+    },
+    {
+      "id": "la-rams",
+      "name": "Los Angeles Rams",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "la-rams.json"
+    },
+    {
+      "id": "athletic-club",
+      "name": "Athletic Club",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "athletic-club.json"
+    },
+    {
+      "id": "osasuna",
+      "name": "CA Osasuna",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "osasuna.json"
+    },
+    {
+      "id": "celta-vigo",
+      "name": "Celta Vigo",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "celta-vigo.json"
+    },
+    {
+      "id": "deportivo-alaves",
+      "name": "Deportivo Alaves",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "deportivo-alaves.json"
+    },
+    {
+      "id": "elche",
+      "name": "Elche CF",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "elche.json"
+    },
+    {
+      "id": "barcelona",
+      "name": "FC Barcelona",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "barcelona.json"
+    },
+    {
+      "id": "getafe",
+      "name": "Getafe CF",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "getafe.json"
+    },
+    {
+      "id": "levante",
+      "name": "Levante UD",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "levante.json"
+    },
+    {
+      "id": "malaga",
+      "name": "Malaga CF",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "malaga.json"
+    },
+    {
+      "id": "racing-santander",
+      "name": "Racing Santander",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "racing-santander.json"
+    },
+    {
+      "id": "rayo-vallecano",
+      "name": "Rayo Vallecano",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "rayo-vallecano.json"
+    },
+    {
+      "id": "deportivo-la-coruna",
+      "name": "Deportivo A Coruna",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "deportivo-la-coruna.json"
+    },
+    {
+      "id": "espanyol",
+      "name": "RCD Espanyol",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "espanyol.json"
+    },
+    {
+      "id": "real-betis",
+      "name": "Real Betis",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "real-betis.json"
+    },
+    {
+      "id": "real-sociedad",
+      "name": "Real Sociedad",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "real-sociedad.json"
+    },
+    {
+      "id": "sevilla",
+      "name": "Sevilla FC",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "sevilla.json"
+    },
+    {
+      "id": "valencia",
+      "name": "Valencia CF",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "valencia.json"
+    },
+    {
+      "id": "villarreal",
+      "name": "Villarreal CF",
+      "sport": "soccer",
+      "league": "la-liga",
+      "file": "villarreal.json"
+    },
+    {
+      "id": "fc-augsburg",
+      "name": "FC Augsburg",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "fc-augsburg.json"
+    },
+    {
+      "id": "union-berlin",
+      "name": "Union Berlin",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "union-berlin.json"
+    },
+    {
+      "id": "werder-bremen",
+      "name": "Werder Bremen",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "werder-bremen.json"
+    },
+    {
+      "id": "borussia-dortmund",
+      "name": "Borussia Dortmund",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "borussia-dortmund.json"
+    },
+    {
+      "id": "sv-elversberg",
+      "name": "SV Elversberg",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "sv-elversberg.json"
+    },
+    {
+      "id": "eintracht-frankfurt",
+      "name": "Eintracht Frankfurt",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "eintracht-frankfurt.json"
+    },
+    {
+      "id": "sc-freiburg",
+      "name": "SC Freiburg",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "sc-freiburg.json"
+    },
+    {
+      "id": "hamburger-sv",
+      "name": "Hamburger SV",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "hamburger-sv.json"
+    },
+    {
+      "id": "tsg-hoffenheim",
+      "name": "TSG Hoffenheim",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "tsg-hoffenheim.json"
+    },
+    {
+      "id": "fc-koln",
+      "name": "1. FC Koeln",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "fc-koln.json"
+    },
+    {
+      "id": "rb-leipzig",
+      "name": "RB Leipzig",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "rb-leipzig.json"
+    },
+    {
+      "id": "bayer-leverkusen",
+      "name": "Bayer Leverkusen",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "bayer-leverkusen.json"
+    },
+    {
+      "id": "mainz-05",
+      "name": "Mainz 05",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "mainz-05.json"
+    },
+    {
+      "id": "borussia-monchengladbach",
+      "name": "Borussia Moenchengladbach",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "borussia-monchengladbach.json"
+    },
+    {
+      "id": "sc-paderborn-07",
+      "name": "SC Paderborn",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "sc-paderborn-07.json"
+    },
+    {
+      "id": "vfb-stuttgart",
+      "name": "VfB Stuttgart",
+      "sport": "soccer",
+      "league": "bundesliga",
+      "file": "vfb-stuttgart.json"
+    },
+    {
+      "id": "vfl-wolfsburg",
+      "name": "VfL Wolfsburg",
+      "sport": "soccer",
+      "league": "2-bundesliga",
+      "file": "vfl-wolfsburg.json"
+    },
+    {
+      "id": "atlanta-hawks",
+      "name": "Atlanta Hawks",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "atlanta-hawks.json"
+    },
+    {
+      "id": "boston-celtics",
+      "name": "Boston Celtics",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "boston-celtics.json"
+    },
+    {
+      "id": "brooklyn-nets",
+      "name": "Brooklyn Nets",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "brooklyn-nets.json"
+    },
+    {
+      "id": "charlotte-hornets",
+      "name": "Charlotte Hornets",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "charlotte-hornets.json"
+    },
+    {
+      "id": "chicago-bulls",
+      "name": "Chicago Bulls",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "chicago-bulls.json"
+    },
+    {
+      "id": "cleveland-cavaliers",
+      "name": "Cleveland Cavaliers",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "cleveland-cavaliers.json"
+    },
+    {
+      "id": "dallas-mavericks",
+      "name": "Dallas Mavericks",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "dallas-mavericks.json"
+    },
+    {
+      "id": "denver-nuggets",
+      "name": "Denver Nuggets",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "denver-nuggets.json"
+    },
+    {
+      "id": "detroit-pistons",
+      "name": "Detroit Pistons",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "detroit-pistons.json"
+    },
+    {
+      "id": "golden-state-warriors",
+      "name": "Golden State Warriors",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "golden-state-warriors.json"
+    },
+    {
+      "id": "houston-rockets",
+      "name": "Houston Rockets",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "houston-rockets.json"
+    },
+    {
+      "id": "indiana-pacers",
+      "name": "Indiana Pacers",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "indiana-pacers.json"
+    },
+    {
+      "id": "los-angeles-lakers",
+      "name": "Los Angeles Lakers",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "los-angeles-lakers.json"
+    },
+    {
+      "id": "memphis-grizzlies",
+      "name": "Memphis Grizzlies",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "memphis-grizzlies.json"
+    },
+    {
+      "id": "miami-heat",
+      "name": "Miami Heat",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "miami-heat.json"
+    },
+    {
+      "id": "milwaukee-bucks",
+      "name": "Milwaukee Bucks",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "milwaukee-bucks.json"
+    },
+    {
+      "id": "minnesota-timberwolves",
+      "name": "Minnesota Timberwolves",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "minnesota-timberwolves.json"
+    },
+    {
+      "id": "new-orleans-pelicans",
+      "name": "New Orleans Pelicans",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "new-orleans-pelicans.json"
+    },
+    {
+      "id": "new-york-knicks",
+      "name": "New York Knicks",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "new-york-knicks.json"
+    },
+    {
+      "id": "oklahoma-city-thunder",
+      "name": "Oklahoma City Thunder",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "oklahoma-city-thunder.json"
+    },
+    {
+      "id": "orlando-magic",
+      "name": "Orlando Magic",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "orlando-magic.json"
+    },
+    {
+      "id": "philadelphia-76ers",
+      "name": "Philadelphia 76ers",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "philadelphia-76ers.json"
+    },
+    {
+      "id": "phoenix-suns",
+      "name": "Phoenix Suns",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "phoenix-suns.json"
+    },
+    {
+      "id": "portland-trail-blazers",
+      "name": "Portland Trail Blazers",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "portland-trail-blazers.json"
+    },
+    {
+      "id": "sacramento-kings",
+      "name": "Sacramento Kings",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "sacramento-kings.json"
+    },
+    {
+      "id": "san-antonio-spurs",
+      "name": "San Antonio Spurs",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "san-antonio-spurs.json"
+    },
+    {
+      "id": "toronto-raptors",
+      "name": "Toronto Raptors",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "toronto-raptors.json"
+    },
+    {
+      "id": "utah-jazz",
+      "name": "Utah Jazz",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "utah-jazz.json"
+    },
+    {
+      "id": "washington-wizards",
+      "name": "Washington Wizards",
+      "sport": "basketball",
+      "league": "nba",
+      "file": "washington-wizards.json"
+    },
+    {
+      "id": "arizona-cardinals",
+      "name": "Arizona Cardinals",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "arizona-cardinals.json"
+    },
+    {
+      "id": "atlanta-falcons",
+      "name": "Atlanta Falcons",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "atlanta-falcons.json"
+    },
+    {
+      "id": "baltimore-ravens",
+      "name": "Baltimore Ravens",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "baltimore-ravens.json"
+    },
+    {
+      "id": "buffalo-bills",
+      "name": "Buffalo Bills",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "buffalo-bills.json"
+    },
+    {
+      "id": "carolina-panthers",
+      "name": "Carolina Panthers",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "carolina-panthers.json"
+    },
+    {
+      "id": "chicago-bears",
+      "name": "Chicago Bears",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "chicago-bears.json"
+    },
+    {
+      "id": "cincinnati-bengals",
+      "name": "Cincinnati Bengals",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "cincinnati-bengals.json"
+    },
+    {
+      "id": "cleveland-browns",
+      "name": "Cleveland Browns",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "cleveland-browns.json"
+    },
+    {
+      "id": "dallas-cowboys",
+      "name": "Dallas Cowboys",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "dallas-cowboys.json"
+    },
+    {
+      "id": "denver-broncos",
+      "name": "Denver Broncos",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "denver-broncos.json"
+    },
+    {
+      "id": "detroit-lions",
+      "name": "Detroit Lions",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "detroit-lions.json"
+    },
+    {
+      "id": "green-bay-packers",
+      "name": "Green Bay Packers",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "green-bay-packers.json"
+    },
+    {
+      "id": "houston-texans",
+      "name": "Houston Texans",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "houston-texans.json"
+    },
+    {
+      "id": "indianapolis-colts",
+      "name": "Indianapolis Colts",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "indianapolis-colts.json"
+    },
+    {
+      "id": "jacksonville-jaguars",
+      "name": "Jacksonville Jaguars",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "jacksonville-jaguars.json"
+    },
+    {
+      "id": "kansas-city-chiefs",
+      "name": "Kansas City Chiefs",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "kansas-city-chiefs.json"
+    },
+    {
+      "id": "las-vegas-raiders",
+      "name": "Las Vegas Raiders",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "las-vegas-raiders.json"
+    },
+    {
+      "id": "los-angeles-chargers",
+      "name": "Los Angeles Chargers",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "los-angeles-chargers.json"
+    },
+    {
+      "id": "miami-dolphins",
+      "name": "Miami Dolphins",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "miami-dolphins.json"
+    },
+    {
+      "id": "minnesota-vikings",
+      "name": "Minnesota Vikings",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "minnesota-vikings.json"
+    },
+    {
+      "id": "new-england-patriots",
+      "name": "New England Patriots",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "new-england-patriots.json"
+    },
+    {
+      "id": "new-orleans-saints",
+      "name": "New Orleans Saints",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "new-orleans-saints.json"
+    },
+    {
+      "id": "new-york-giants",
+      "name": "New York Giants",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "new-york-giants.json"
+    },
+    {
+      "id": "new-york-jets",
+      "name": "New York Jets",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "new-york-jets.json"
+    },
+    {
+      "id": "philadelphia-eagles",
+      "name": "Philadelphia Eagles",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "philadelphia-eagles.json"
+    },
+    {
+      "id": "pittsburgh-steelers",
+      "name": "Pittsburgh Steelers",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "pittsburgh-steelers.json"
+    },
+    {
+      "id": "san-francisco-49ers",
+      "name": "San Francisco 49ers",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "san-francisco-49ers.json"
+    },
+    {
+      "id": "seattle-seahawks",
+      "name": "Seattle Seahawks",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "seattle-seahawks.json"
+    },
+    {
+      "id": "tampa-bay-buccaneers",
+      "name": "Tampa Bay Buccaneers",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "tampa-bay-buccaneers.json"
+    },
+    {
+      "id": "tennessee-titans",
+      "name": "Tennessee Titans",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "tennessee-titans.json"
+    },
+    {
+      "id": "washington-commanders",
+      "name": "Washington Commanders",
+      "sport": "american-football",
+      "league": "nfl",
+      "file": "washington-commanders.json"
+    },
+    {
+      "id": "arizona-diamondbacks",
+      "name": "Arizona Diamondbacks",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "arizona-diamondbacks.json"
+    },
+    {
+      "id": "athletics",
+      "name": "Athletics",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "athletics.json"
+    },
+    {
+      "id": "atlanta-braves",
+      "name": "Atlanta Braves",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "atlanta-braves.json"
+    },
+    {
+      "id": "baltimore-orioles",
+      "name": "Baltimore Orioles",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "baltimore-orioles.json"
+    },
+    {
+      "id": "boston-red-sox",
+      "name": "Boston Red Sox",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "boston-red-sox.json"
+    },
+    {
+      "id": "chicago-cubs",
+      "name": "Chicago Cubs",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "chicago-cubs.json"
+    },
+    {
+      "id": "chicago-white-sox",
+      "name": "Chicago White Sox",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "chicago-white-sox.json"
+    },
+    {
+      "id": "cincinnati-reds",
+      "name": "Cincinnati Reds",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "cincinnati-reds.json"
+    },
+    {
+      "id": "cleveland-guardians",
+      "name": "Cleveland Guardians",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "cleveland-guardians.json"
+    },
+    {
+      "id": "colorado-rockies",
+      "name": "Colorado Rockies",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "colorado-rockies.json"
+    },
+    {
+      "id": "detroit-tigers",
+      "name": "Detroit Tigers",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "detroit-tigers.json"
+    },
+    {
+      "id": "houston-astros",
+      "name": "Houston Astros",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "houston-astros.json"
+    },
+    {
+      "id": "kansas-city-royals",
+      "name": "Kansas City Royals",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "kansas-city-royals.json"
+    },
+    {
+      "id": "los-angeles-angels",
+      "name": "Los Angeles Angels",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "los-angeles-angels.json"
+    },
+    {
+      "id": "los-angeles-dodgers",
+      "name": "Los Angeles Dodgers",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "los-angeles-dodgers.json"
+    },
+    {
+      "id": "miami-marlins",
+      "name": "Miami Marlins",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "miami-marlins.json"
+    },
+    {
+      "id": "milwaukee-brewers",
+      "name": "Milwaukee Brewers",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "milwaukee-brewers.json"
+    },
+    {
+      "id": "minnesota-twins",
+      "name": "Minnesota Twins",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "minnesota-twins.json"
+    },
+    {
+      "id": "new-york-mets",
+      "name": "New York Mets",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "new-york-mets.json"
+    },
+    {
+      "id": "new-york-yankees",
+      "name": "New York Yankees",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "new-york-yankees.json"
+    },
+    {
+      "id": "philadelphia-phillies",
+      "name": "Philadelphia Phillies",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "philadelphia-phillies.json"
+    },
+    {
+      "id": "pittsburgh-pirates",
+      "name": "Pittsburgh Pirates",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "pittsburgh-pirates.json"
+    },
+    {
+      "id": "san-diego-padres",
+      "name": "San Diego Padres",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "san-diego-padres.json"
+    },
+    {
+      "id": "san-francisco-giants",
+      "name": "San Francisco Giants",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "san-francisco-giants.json"
+    },
+    {
+      "id": "seattle-mariners",
+      "name": "Seattle Mariners",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "seattle-mariners.json"
+    },
+    {
+      "id": "st-louis-cardinals",
+      "name": "St. Louis Cardinals",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "st-louis-cardinals.json"
+    },
+    {
+      "id": "tampa-bay-rays",
+      "name": "Tampa Bay Rays",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "tampa-bay-rays.json"
+    },
+    {
+      "id": "texas-rangers",
+      "name": "Texas Rangers",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "texas-rangers.json"
+    },
+    {
+      "id": "toronto-blue-jays",
+      "name": "Toronto Blue Jays",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "toronto-blue-jays.json"
+    },
+    {
+      "id": "washington-nationals",
+      "name": "Washington Nationals",
+      "sport": "baseball",
+      "league": "mlb",
+      "file": "washington-nationals.json"
+    },
+    {
+      "id": "ac-milan",
+      "name": "AC Milan",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "ac-milan.json"
+    },
+    {
+      "id": "alpine",
+      "name": "BWT Alpine F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "alpine.json"
+    },
+    {
+      "id": "as-roma",
+      "name": "AS Roma",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "as-roma.json"
+    },
+    {
+      "id": "aston-martin",
+      "name": "Aston Martin Aramco F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "aston-martin.json"
+    },
+    {
+      "id": "atalanta",
+      "name": "Atalanta BC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "atalanta.json"
+    },
+    {
+      "id": "atlanta-united",
+      "name": "Atlanta United FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "atlanta-united.json"
+    },
+    {
+      "id": "audi",
+      "name": "Audi Revolut F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "audi.json"
+    },
+    {
+      "id": "austin-fc",
+      "name": "Austin FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "austin-fc.json"
+    },
+    {
+      "id": "bologna",
+      "name": "Bologna FC 1909",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "bologna.json"
+    },
+    {
+      "id": "cadillac",
+      "name": "Cadillac Formula 1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "cadillac.json"
+    },
+    {
+      "id": "cagliari",
+      "name": "Cagliari Calcio",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "cagliari.json"
+    },
+    {
+      "id": "cf-montreal",
+      "name": "CF Montreal",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "cf-montreal.json"
+    },
+    {
+      "id": "charlotte-fc",
+      "name": "Charlotte FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "charlotte-fc.json"
+    },
+    {
+      "id": "chicago-fire",
+      "name": "Chicago Fire FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "chicago-fire.json"
+    },
+    {
+      "id": "colorado-rapids",
+      "name": "Colorado Rapids",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "colorado-rapids.json"
+    },
+    {
+      "id": "columbus-crew",
+      "name": "Columbus Crew",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "columbus-crew.json"
+    },
+    {
+      "id": "como",
+      "name": "Como 1907",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "como.json"
+    },
+    {
+      "id": "dc-united",
+      "name": "D.C. United",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "dc-united.json"
+    },
+    {
+      "id": "fc-cincinnati",
+      "name": "FC Cincinnati",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "fc-cincinnati.json"
+    },
+    {
+      "id": "fc-dallas",
+      "name": "FC Dallas",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "fc-dallas.json"
+    },
+    {
+      "id": "ferrari",
+      "name": "Scuderia Ferrari HP",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "ferrari.json"
+    },
+    {
+      "id": "fiorentina",
+      "name": "ACF Fiorentina",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "fiorentina.json"
+    },
+    {
+      "id": "frosinone",
+      "name": "Frosinone Calcio",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "frosinone.json"
+    },
+    {
+      "id": "genoa",
+      "name": "Genoa CFC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "genoa.json"
+    },
+    {
+      "id": "haas",
+      "name": "TGR Haas F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "haas.json"
+    },
+    {
+      "id": "houston-dynamo",
+      "name": "Houston Dynamo FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "houston-dynamo.json"
+    },
+    {
+      "id": "inter-miami",
+      "name": "Inter Miami CF",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "inter-miami.json"
+    },
+    {
+      "id": "inter-milan",
+      "name": "Inter Milan",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "inter-milan.json"
+    },
+    {
+      "id": "juventus",
+      "name": "Juventus FC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "juventus.json"
+    },
+    {
+      "id": "la-galaxy",
+      "name": "LA Galaxy",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "la-galaxy.json"
+    },
+    {
+      "id": "lazio",
+      "name": "SS Lazio",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "lazio.json"
+    },
+    {
+      "id": "lecce",
+      "name": "US Lecce",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "lecce.json"
+    },
+    {
+      "id": "los-angeles-fc",
+      "name": "Los Angeles FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "los-angeles-fc.json"
+    },
+    {
+      "id": "mclaren",
+      "name": "McLaren Mastercard F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "mclaren.json"
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes-AMG PETRONAS F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "mercedes.json"
+    },
+    {
+      "id": "minnesota-united",
+      "name": "Minnesota United FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "minnesota-united.json"
+    },
+    {
+      "id": "monza",
+      "name": "AC Monza",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "monza.json"
+    },
+    {
+      "id": "napoli",
+      "name": "SSC Napoli",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "napoli.json"
+    },
+    {
+      "id": "nashville-sc",
+      "name": "Nashville SC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "nashville-sc.json"
+    },
+    {
+      "id": "new-england-revolution",
+      "name": "New England Revolution",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "new-england-revolution.json"
+    },
+    {
+      "id": "new-york-city-fc",
+      "name": "New York City FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "new-york-city-fc.json"
+    },
+    {
+      "id": "new-york-red-bulls",
+      "name": "New York Red Bulls",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "new-york-red-bulls.json"
+    },
+    {
+      "id": "orlando-city",
+      "name": "Orlando City SC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "orlando-city.json"
+    },
+    {
+      "id": "parma",
+      "name": "Parma Calcio 1913",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "parma.json"
+    },
+    {
+      "id": "philadelphia-union",
+      "name": "Philadelphia Union",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "philadelphia-union.json"
+    },
+    {
+      "id": "portland-timbers",
+      "name": "Portland Timbers",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "portland-timbers.json"
+    },
+    {
+      "id": "racing-bulls",
+      "name": "Visa Cash App Racing Bulls F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "racing-bulls.json"
+    },
+    {
+      "id": "real-salt-lake",
+      "name": "Real Salt Lake",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "real-salt-lake.json"
+    },
+    {
+      "id": "red-bull-racing",
+      "name": "Oracle Red Bull Racing",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "red-bull-racing.json"
+    },
+    {
+      "id": "san-diego-fc",
+      "name": "San Diego FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "san-diego-fc.json"
+    },
+    {
+      "id": "san-jose-earthquakes",
+      "name": "San Jose Earthquakes",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "san-jose-earthquakes.json"
+    },
+    {
+      "id": "sassuolo",
+      "name": "US Sassuolo",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "sassuolo.json"
+    },
+    {
+      "id": "seattle-sounders",
+      "name": "Seattle Sounders FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "seattle-sounders.json"
+    },
+    {
+      "id": "sporting-kansas-city",
+      "name": "Sporting Kansas City",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "sporting-kansas-city.json"
+    },
+    {
+      "id": "st-louis-city",
+      "name": "St. Louis CITY SC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "st-louis-city.json"
+    },
+    {
+      "id": "torino",
+      "name": "Torino FC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "torino.json"
+    },
+    {
+      "id": "toronto-fc",
+      "name": "Toronto FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "toronto-fc.json"
+    },
+    {
+      "id": "udinese",
+      "name": "Udinese Calcio",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "udinese.json"
+    },
+    {
+      "id": "vancouver-whitecaps",
+      "name": "Vancouver Whitecaps FC",
+      "sport": "soccer",
+      "league": "mls",
+      "file": "vancouver-whitecaps.json"
+    },
+    {
+      "id": "venezia",
+      "name": "Venezia FC",
+      "sport": "soccer",
+      "league": "serie-a",
+      "file": "venezia.json"
+    },
+    {
+      "id": "williams",
+      "name": "Atlassian Williams F1 Team",
+      "sport": "motorsport",
+      "league": "formula-1",
+      "file": "williams.json"
+    }
+  ]
+}

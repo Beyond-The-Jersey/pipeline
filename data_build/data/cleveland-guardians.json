@@ -1,0 +1,51 @@
+{
+  "id": "cleveland-guardians",
+  "team": "Cleveland Guardians",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "fanservices@cleguardians.com",
+    "contact-form": "https://www.mlb.com/guardians/official-information/contact",
+    "x": "@CLEGuardians",
+    "instagram": "@CLEGuardians"
+  },
+  "sponsors": [
+    {
+      "id": "marathon",
+      "name": "Marathon",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "marathon-owner",
+      "owner": "Marathon",
+      "verdict": "Owned by Marathon. Nothing found.",
+      "source": {
+        "name": "Crain's Cleveland Business",
+        "date": "2026-09-10",
+        "url": "https://www.crainscleveland.com/sports-recreation/ccl-guardians-marathon-20260910/"
+      }
+    },
+    {
+      "id": "progressive",
+      "name": "Progressive",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "progressive-owner",
+      "owner": "Progressive Corporation",
+      "verdict": "Owned by Progressive Corporation. Nothing found.",
+      "source": {
+        "name": "Progressive Insurance media room",
+        "date": "2024-04-03",
+        "url": "https://progressive.mediaroom.com/news-releases?item=122513"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "marathon-owner",
+    "progressive-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

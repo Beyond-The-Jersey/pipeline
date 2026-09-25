@@ -1,0 +1,50 @@
+{
+  "id": "tottenham-hotspur",
+  "team": "Tottenham Hotspur",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.tottenhamhotspur.com/information/contact-us",
+    "x": "@SpursOfficial",
+    "instagram": "@spursofficial"
+  },
+  "sponsors": [
+    {
+      "id": "aia",
+      "name": "AIA",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "aia-group",
+      "owner": "AIA Group",
+      "verdict": "Owned by AIA Group Limited (HKEX: 1299). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "payward",
+      "owner": "Payward, Inc. (d/b/a Kraken)",
+      "verdict": "Owned by Payward, Inc. (d/b/a Kraken). Nothing found.",
+      "source": {
+        "name": "Tottenham Hotspur – 'Tottenham Hotspur partners with Crypto Platform Kraken'",
+        "date": "2024-07-16",
+        "url": "https://www.tottenhamhotspur.com/news/2024/july/tottenham-hotspur-partners-with-crypto-platform-kraken"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "aia-group",
+    "payward"
+  ],
+  "lastUpdated": "2026-09-24"
+}

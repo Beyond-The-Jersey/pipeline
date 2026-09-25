@@ -1,0 +1,35 @@
+{
+  "id": "chicago-cubs",
+  "team": "Chicago Cubs",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "fanservices@cubs.com",
+    "contact-form": "https://www.mlb.com/cubs/official-information/contact",
+    "x": "@Cubs",
+    "instagram": "@cubs"
+  },
+  "sponsors": [
+    {
+      "id": "motorola",
+      "name": "Motorola",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "motorola-owner",
+      "owner": "Motorola LLC",
+      "verdict": "Owned by Motorola LLC. Nothing found.",
+      "source": {
+        "name": "MLB.com press release (Chicago Cubs)",
+        "date": "2024-08-01",
+        "url": "https://www.mlb.com/press-release/press-release-chicago-cubs-announce-motorola-as-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "motorola-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

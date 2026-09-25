@@ -1,0 +1,35 @@
+{
+  "id": "udinese",
+  "team": "Udinese Calcio",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "email": "stampa@udinese.it",
+    "contact-form": "https://www.udinese.it/club/contatti",
+    "x": "@Udinese_1896",
+    "instagram": "@udinesecalcio"
+  },
+  "sponsors": [
+    {
+      "id": "io-sono-friuli-venezia-giulia",
+      "name": "Io sono Friuli Venezia Giulia",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "friuli-venezia-giulia-region",
+      "owner": "Regione Autonoma Friuli Venezia Giulia (via PromoTurismoFVG)",
+      "verdict": "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia regional government through PromoTurismoFVG, the region's public….",
+      "source": {
+        "name": "Udinese Calcio",
+        "date": "2026-03-13",
+        "url": "https://www.udinese.it/news/club/io-sono-friuli-venezia-giulia-renews-udinese-shirt-sponsorship-deal-until-202829"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "friuli-venezia-giulia-region"
+  ],
+  "lastUpdated": "2026-09-24"
+}

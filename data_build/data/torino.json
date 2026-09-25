@@ -1,0 +1,35 @@
+{
+  "id": "torino",
+  "team": "Torino FC",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "email": "slo@torinofc.it",
+    "contact-form": "https://www.torinofc.it/fan/supporter-liaison-officer-slo",
+    "x": "@TorinoFC_1906",
+    "instagram": "@torinofc1906"
+  },
+  "sponsors": [
+    {
+      "id": "suzuki",
+      "name": "Suzuki",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "suzuki-motor-corporation",
+      "owner": "Suzuki Motor Corporation",
+      "verdict": "Owned by Suzuki Motor Corporation. Nothing found.",
+      "source": {
+        "name": "Torino FC",
+        "date": "2026-07-03",
+        "url": "https://www.torinofc.it/news/03/07/2026/torino-fc-e-suzuki-insieme-nel-segno-della-continuita_43651"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "suzuki-motor-corporation"
+  ],
+  "lastUpdated": "2026-09-24"
+}

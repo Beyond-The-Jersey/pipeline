@@ -1,0 +1,49 @@
+{
+  "id": "dallas-mavericks",
+  "team": "Dallas Mavericks",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "x": "@dallasmavs",
+    "instagram": "@dallasmavs"
+  },
+  "sponsors": [
+    {
+      "id": "american-airlines",
+      "name": "American Airlines",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "american-airlines-owner",
+      "owner": "American Airlines",
+      "verdict": "Owned by American Airlines. Nothing found.",
+      "source": {
+        "name": "RetroSeasons",
+        "date": "1999-03-18",
+        "url": "https://www.retroseasons.com/stadiums/american-airlines-center/history/bio"
+      }
+    },
+    {
+      "id": "jpmorganchase",
+      "name": "JPMorganChase (Chase)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "jpmorganchase-owner",
+      "owner": "JPMorganChase (Chase)",
+      "verdict": "Owned by JPMorganChase (Chase). Nothing found.",
+      "source": {
+        "name": "JPMorgan Chase Newsroom",
+        "date": "2026-07-08",
+        "url": "https://www.jpmorganchase.com/newsroom/press-releases/2026/chasedallasmavs"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "american-airlines-owner",
+    "jpmorganchase-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

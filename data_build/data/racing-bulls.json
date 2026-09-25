@@ -1,0 +1,161 @@
+{
+  "id": "racing-bulls",
+  "team": "Visa Cash App Racing Bulls F1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "Italy",
+  "contact": {
+    "contact-form": "https://www.visacashapprb.com/int-en/contact",
+    "instagram": "@visacashapprb"
+  },
+  "sponsors": [
+    {
+      "id": "cash-app",
+      "name": "Cash App",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "block-inc",
+      "owner": "Block, Inc. (Cash App)",
+      "verdict": "Owned by Block, Inc. (Cash App). Nothing found.",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "id": "ford-rb",
+      "name": "Ford Racing",
+      "placement": "sleeve",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "ford-motor-company",
+      "owner": "Ford Motor Company",
+      "verdict": "Owned by Ford Motor Company. Nothing found.",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "id": "hugo",
+      "name": "HUGO",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "hugo-boss-ag",
+      "owner": "HUGO BOSS AG",
+      "verdict": "Owned by HUGO BOSS AG. Nothing found.",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "id": "mobil-1-rb",
+      "name": "Mobil 1",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "exxon-mobil-corporation",
+      "owner": "Exxon Mobil Corporation",
+      "verdict": "Mobil 1 (and Esso) is the Racing Bulls fuel/lubricants partner and is a brand of Exxon Mobil Corporation (NYSE: XOM), the New Jersey-incorporated oil major with a….",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "id": "nouryon",
+      "name": "Nouryon",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "carlyle-group-and-gic",
+      "owner": "The Carlyle Group and GIC (joint owners)",
+      "verdict": "Nouryon (formerly AkzoNobel Specialty Chemicals) is a privately held Dutch specialty chemicals group bought in 2018 for EUR 10.1bn and jointly owned by….",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "id": "red-bull",
+      "name": "Red Bull",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "mateschitz-yoovidhya-families",
+      "owner": "Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH",
+      "verdict": "Owned by Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH. Nothing found.",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "salesforce-inc",
+      "owner": "Salesforce, Inc.",
+      "verdict": "Owned by Salesforce, Inc.. Nothing found.",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "id": "tudor",
+      "name": "TUDOR",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "rolex-sa",
+      "owner": "Rolex SA (Hans Wilsdorf Foundation)",
+      "verdict": "Owned by Rolex SA (Hans Wilsdorf Foundation). Nothing found.",
+      "source": {
+        "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.visacashapprb.com/en/partners"
+      }
+    },
+    {
+      "id": "visa-rb",
+      "name": "Visa",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "visa-inc",
+      "owner": "Visa Inc.",
+      "verdict": "Owned by Visa Inc.. Nothing found.",
+      "source": {
+        "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
+        "date": "2026-02-21",
+        "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "block-inc",
+    "carlyle-group-and-gic",
+    "exxon-mobil-corporation",
+    "ford-motor-company",
+    "hugo-boss-ag",
+    "mateschitz-yoovidhya-families",
+    "rolex-sa",
+    "salesforce-inc",
+    "visa-inc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

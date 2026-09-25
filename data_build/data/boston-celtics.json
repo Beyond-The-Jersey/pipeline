@@ -1,0 +1,50 @@
+{
+  "id": "boston-celtics",
+  "team": "Boston Celtics",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.nba.com/celtics/fans/contact-us",
+    "x": "@celtics",
+    "instagram": "@celtics"
+  },
+  "sponsors": [
+    {
+      "id": "amica-mutual-insurance",
+      "name": "Amica Mutual Insurance",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "amica-mutual-insurance-owner",
+      "owner": "Amica Mutual Insurance Company",
+      "verdict": "Owned by Amica Mutual Insurance Company. Nothing found.",
+      "source": {
+        "name": "NBC Sports Boston",
+        "date": "2024-07-09",
+        "url": "https://www.nbcsportsboston.com/nba/boston-celtics/wyc-grousbeck-celtics-jersey-patch-sponsor-amica/627910"
+      }
+    },
+    {
+      "id": "td-bank",
+      "name": "TD Bank",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "td-bank-owner",
+      "owner": "TD Bank",
+      "verdict": "Owned by TD Bank. Nothing found.",
+      "source": {
+        "name": "TD Bank / Delaware North (stories.td.com)",
+        "date": "2023-01-12",
+        "url": "https://stories.td.com/us/en/article/td-bank-and-delaware-north-extend-td-garden-naming-rights-through-2045"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "amica-mutual-insurance-owner",
+    "td-bank-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

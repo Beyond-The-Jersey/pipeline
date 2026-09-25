@@ -1,0 +1,33 @@
+{
+  "id": "cf-montreal",
+  "team": "CF Montreal",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "Canada",
+  "contact": {
+    "x": "@cfmontreal",
+    "instagram": "@cfmontreal"
+  },
+  "sponsors": [
+    {
+      "id": "bmo-bank",
+      "name": "BMO Bank",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "bank-of-montreal",
+      "owner": "Bank of Montreal",
+      "verdict": "Owned by Bank of Montreal. Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "bank-of-montreal"
+  ],
+  "lastUpdated": "2026-09-24"
+}

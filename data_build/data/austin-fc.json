@@ -1,0 +1,33 @@
+{
+  "id": "austin-fc",
+  "team": "Austin FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "x": "@AustinFC",
+    "instagram": "@austinfc"
+  },
+  "sponsors": [
+    {
+      "id": "yeti",
+      "name": "YETI",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "yeti-holdings-inc",
+      "owner": "YETI Holdings, Inc.",
+      "verdict": "Owned by YETI Holdings, Inc.. Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "yeti-holdings-inc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "dallas-cowboys",
+  "team": "Dallas Cowboys",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.dallascowboys.com/contact",
+    "x": "@DallasCowboys",
+    "instagram": "@DallasCowboys"
+  },
+  "sponsors": [
+    {
+      "id": "at-and-t",
+      "name": "AT&T",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "att-inc",
+      "owner": "AT&T Inc.",
+      "verdict": "Owned by AT&T Inc.. Nothing found.",
+      "source": {
+        "name": "ESPN",
+        "date": "2013-07-25",
+        "url": "https://www.espn.com/nfl/story/_/id/9508990/dallas-cowboys-say-complex-renamed-att-stadium"
+      }
+    },
+    {
+      "id": "att",
+      "name": "AT&T",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "att-inc",
+      "owner": "AT&T Inc.",
+      "verdict": "Owned by AT&T Inc.. Nothing found.",
+      "source": {
+        "name": "Zoomph",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "att-inc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

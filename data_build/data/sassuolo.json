@@ -1,0 +1,35 @@
+{
+  "id": "sassuolo",
+  "team": "US Sassuolo",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "email": "info@sassuolocalcio.it",
+    "contact-form": "https://www.sassuolocalcio.it/club/contatti/",
+    "x": "@SassuoloUS",
+    "instagram": "@sassuolocalcio"
+  },
+  "sponsors": [
+    {
+      "id": "mapei",
+      "name": "Mapei",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "mapei-spa",
+      "owner": "Mapei S.p.A.",
+      "verdict": "Owned by Mapei S.p.A.. Nothing found.",
+      "source": {
+        "name": "Calcio e Finanza",
+        "date": "2026-07-07",
+        "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "mapei-spa"
+  ],
+  "lastUpdated": "2026-09-24"
+}

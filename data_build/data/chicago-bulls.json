@@ -1,0 +1,50 @@
+{
+  "id": "chicago-bulls",
+  "team": "Chicago Bulls",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.nba.com/bulls/?tmd=1/contact",
+    "x": "@chicagobulls",
+    "instagram": "@chicagobulls"
+  },
+  "sponsors": [
+    {
+      "id": "motorola-mobility",
+      "name": "Motorola Mobility",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "motorola-mobility-owner",
+      "owner": "Lenovo Group Limited",
+      "verdict": "Lenovo acquired Motorola Mobility from Google in January 2014, making Motorola Mobility a subsidiary of Lenovo Group Limited.",
+      "source": {
+        "name": "Chicago Bulls (nba.com)",
+        "date": "2022-09-20",
+        "url": "https://www.nba.com/bulls/news/chicago-bulls-name-motorola-mobility-as-official-jersey-patch-partner"
+      }
+    },
+    {
+      "id": "united-airlines",
+      "name": "United Airlines",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "united-airlines-owner",
+      "owner": "United Airlines",
+      "verdict": "Owned by United Airlines. Nothing found.",
+      "source": {
+        "name": "United Center (official)",
+        "date": "2013-12-11",
+        "url": "https://www.unitedcenter.com/united-center-naming-rights-agreement/"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "motorola-mobility-owner",
+    "united-airlines-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "crystal-palace",
+  "team": "Crystal Palace",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "email": "shop@cpfc.co.uk",
+    "contact-form": "https://www.cpfc.co.uk/contact-us/",
+    "x": "@eastmamba",
+    "instagram": "@embed.js"
+  },
+  "sponsors": [
+    {
+      "id": "chexx",
+      "name": "CHEXX",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "continent-gaming",
+      "owner": "Continent Gaming N.V.",
+      "verdict": "Owned by Continent Gaming N.V.. Nothing found.",
+      "source": {
+        "name": "Crystal Palace FC – 'Crystal Palace FC announce CHEXX as Official Sleeve Partner'",
+        "date": "2026-08-28",
+        "url": "https://www.cpfc.co.uk/news/announcement/crystal-palace-fc-announce-chexx-as-official-sleeve-partner/"
+      }
+    },
+    {
+      "id": "temporal",
+      "name": "Temporal",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "temporal-technologies",
+      "owner": "Temporal Technologies, Inc. (private, VC-backed)",
+      "verdict": "Owned by Temporal Technologies, Inc. (private, VC-backed). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "continent-gaming",
+    "temporal-technologies"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "real-salt-lake",
+  "team": "Real Salt Lake",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "support@rsl.com",
+    "contact-form": "https://www.rsl.com/club/contact-us",
+    "x": "@realsaltlake",
+    "instagram": "@realsaltlake"
+  },
+  "sponsors": [
+    {
+      "id": "select-health",
+      "name": "Select Health",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "intermountain-health",
+      "owner": "Intermountain Health",
+      "verdict": "Owned by Intermountain Health. Nothing found.",
+      "source": {
+        "name": "rsl.com",
+        "date": "2026-02-14",
+        "url": "https://www.rsl.com/news/real-salt-lake-unveils-2026-27-primary-jersey"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "intermountain-health"
+  ],
+  "lastUpdated": "2026-09-24"
+}

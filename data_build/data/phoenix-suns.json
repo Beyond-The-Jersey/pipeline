@@ -1,0 +1,49 @@
+{
+  "id": "phoenix-suns",
+  "team": "Phoenix Suns",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "email": "memberships@suns.com",
+    "phone": "6023792000"
+  },
+  "sponsors": [
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "paypal-owner",
+      "owner": "PayPal LLC",
+      "verdict": "Owned by PayPal LLC. Nothing found.",
+      "source": {
+        "name": "Zoomph (2026/27 NBA jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/nba-jersey-patch-sponsors-this-season/"
+      }
+    },
+    {
+      "id": "united-wholesale-mortgage",
+      "name": "United Wholesale Mortgage",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "united-wholesale-mortgage-owner",
+      "owner": "United Wholesale Mortgage Corporation",
+      "verdict": "Owned by United Wholesale Mortgage Corporation. Nothing found.",
+      "source": {
+        "name": "FOX 10 Phoenix",
+        "date": "2025-10-02",
+        "url": "https://www.fox10phoenix.com/sports/mortgage-matchup-center-phx-arena-gets-new-name"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "paypal-owner",
+    "united-wholesale-mortgage-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

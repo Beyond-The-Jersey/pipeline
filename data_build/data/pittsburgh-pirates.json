@@ -1,0 +1,51 @@
+{
+  "id": "pittsburgh-pirates",
+  "team": "Pittsburgh Pirates",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "talkback@pirates.com",
+    "contact-form": "https://www.mlb.com/pirates/official-information/contact",
+    "x": "@Pirates",
+    "instagram": "@pittsburghpirates"
+  },
+  "sponsors": [
+    {
+      "id": "pnc-bank",
+      "name": "PNC Bank (PNC Financial Services)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "pnc-bank-pnc-financial-services-owner",
+      "owner": "PNC Financial Services Group, Inc.",
+      "verdict": "PNC Financial Services Group, Inc.",
+      "source": {
+        "name": "Pittsburgh Pirates / MLB.com press release",
+        "date": "2021-03-04",
+        "url": "https://www.mlb.com/press-release/press-release-pirates-pnc-bank-ballpark-rights-extension"
+      }
+    },
+    {
+      "id": "sheetz",
+      "name": "Sheetz",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "sheetz-owner",
+      "owner": "Sheetz",
+      "verdict": "Owned by Sheetz. Nothing found.",
+      "source": {
+        "name": "Pittsburgh Pirates / MLB.com press release",
+        "date": "2024-06-21",
+        "url": "https://www.mlb.com/press-release/press-release-pittsburgh-pirates-and-sheetz-announce-jersey-patch-partnership"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "pnc-bank-pnc-financial-services-owner",
+    "sheetz-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

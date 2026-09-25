@@ -1,0 +1,34 @@
+{
+  "id": "racing-santander",
+  "team": "Racing Santander",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "contact-form": "https://www.realracingclub.es/contacto",
+    "x": "@realracingclub",
+    "instagram": "@realracingclub"
+  },
+  "sponsors": [
+    {
+      "id": "plenitude",
+      "name": "Plenitude",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "eni",
+      "owner": "Eni S.p.A.",
+      "verdict": "Plenitude is Eni's retail/renewables division; Eni is listed on Borsa Italiana and NYSE but the Italian Ministry of Economy and Finance plus CDP S.p.A.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "eni"
+  ],
+  "lastUpdated": "2026-09-24"
+}

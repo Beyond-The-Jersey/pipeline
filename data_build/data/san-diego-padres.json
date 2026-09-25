@@ -1,0 +1,51 @@
+{
+  "id": "san-diego-padres",
+  "team": "San Diego Padres",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "comments@padres.com",
+    "contact-form": "https://www.mlb.com/padres/official-information/contact",
+    "x": "@padres",
+    "instagram": "@padres"
+  },
+  "sponsors": [
+    {
+      "id": "motorola",
+      "name": "Motorola",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "motorola-owner",
+      "owner": "Motorola LLC",
+      "verdict": "Owned by Motorola LLC. Nothing found.",
+      "source": {
+        "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+        "date": "2026-04-20",
+        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+      }
+    },
+    {
+      "id": "petco",
+      "name": "Petco",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "petco-owner",
+      "owner": "Petco",
+      "verdict": "Owned by Petco. Nothing found.",
+      "source": {
+        "name": "Ballpark Digest",
+        "date": "2021-03-08",
+        "url": "https://ballparkdigest.com/2021/03/08/petco-padres-extend-petco-park-naming-rights-deal-through-2027"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "motorola-owner",
+    "petco-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

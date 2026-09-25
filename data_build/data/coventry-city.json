@@ -1,0 +1,50 @@
+{
+  "id": "coventry-city",
+  "team": "Coventry City",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.ccfc.co.uk/contact",
+    "x": "@coventrycityfc",
+    "instagram": "@coventrycityfc"
+  },
+  "sponsors": [
+    {
+      "id": "geely-auto-uk",
+      "name": "Geely Auto UK",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "zhejiang-geely-holding-group",
+      "owner": "Zhejiang Geely Holding Group Co., Ltd.",
+      "verdict": "Owned by Zhejiang Geely Holding Group Co., Ltd.. Nothing found.",
+      "source": {
+        "name": "Coventry City FC – 'Coventry City FC announces Geely Auto UK as Official Sleeve Partner and Official Vehicle Partner'",
+        "date": "2026-08-21",
+        "url": "https://www.ccfc.co.uk/news/2026/august/21/coventry-city-fc-announces-geely-auto-uk-as-official-sleeve-partner-and-official-vehicle-partner/"
+      }
+    },
+    {
+      "id": "monzo",
+      "name": "Monzo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "monzo-bank-limited",
+      "owner": "Monzo Bank Limited (private, VC-backed)",
+      "verdict": "Owned by Monzo Bank Limited (private, VC-backed). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "monzo-bank-limited",
+    "zhejiang-geely-holding-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

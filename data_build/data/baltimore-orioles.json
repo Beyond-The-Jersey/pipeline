@@ -1,0 +1,36 @@
+{
+  "id": "baltimore-orioles",
+  "team": "Baltimore Orioles",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "birdmail@orioles.com",
+    "phone": "+18888482473",
+    "contact-form": "https://www.mlb.com/orioles/official-information/contact",
+    "x": "@Orioles",
+    "instagram": "@orioles"
+  },
+  "sponsors": [
+    {
+      "id": "t-rowe-price",
+      "name": "T. Rowe Price",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "t-rowe-price-owner",
+      "owner": "T. Rowe Price Group, Inc.",
+      "verdict": "Owned by T. Rowe Price Group, Inc.. Nothing found.",
+      "source": {
+        "name": "Baltimore Orioles / MLB.com press release",
+        "date": "2024-06-10",
+        "url": "https://www.mlb.com/press-release/press-release-baltimore-orioles-and-t-rowe-price-announce-marquee-sponsorship-agreement-with-jersey-patch"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "t-rowe-price-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

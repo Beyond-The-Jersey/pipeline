@@ -1,0 +1,37 @@
+{
+  "id": "seattle-sounders",
+  "team": "Seattle Sounders FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.soundersfc.com",
+    "contact-form": "https://www.soundersfc.com/tickets/information-request",
+    "email": "CustomerService@SoundersFC.com",
+    "phone": "+1 877-657-4625",
+    "x": "@SoundersFC",
+    "instagram": "@soundersfc"
+  },
+  "sponsors": [
+    {
+      "id": "providence",
+      "name": "Providence",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "providence-health-system",
+      "owner": "Providence (Providence Health & Services / Providence Swedish)",
+      "verdict": "Owned by Providence (Providence Health & Services / Providence Swedish). Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "providence-health-system"
+  ],
+  "lastUpdated": "2026-09-24"
+}

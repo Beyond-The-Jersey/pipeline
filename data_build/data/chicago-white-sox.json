@@ -1,0 +1,51 @@
+{
+  "id": "chicago-white-sox",
+  "team": "Chicago White Sox",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "community@chisox.com",
+    "contact-form": "https://www.mlb.com/whitesox/official-information/contact",
+    "x": "@whitesox",
+    "instagram": "@whitesox"
+  },
+  "sponsors": [
+    {
+      "id": "cme-group",
+      "name": "CME Group",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "cme-group-owner",
+      "owner": "CME Group Inc.",
+      "verdict": "Owned by CME Group Inc.. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-01-28",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/01/28/white-sox-add-cme-group-as-jersey-patch-sponsor"
+      }
+    },
+    {
+      "id": "rate",
+      "name": "Rate (formerly Guaranteed Rate)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "rate-formerly-guaranteed-rate-owner",
+      "owner": "Rate (formerly Guaranteed Rate)",
+      "verdict": "Owned by Rate (formerly Guaranteed Rate). Nothing found.",
+      "source": {
+        "name": "MLB.com press release",
+        "date": "2024-12-18",
+        "url": "https://www.mlb.com/press-release/press-release-rate-and-chicago-white-sox-announce-rebrand-of-ballpark-introducing-rate-field"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "cme-group-owner",
+    "rate-formerly-guaranteed-rate-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

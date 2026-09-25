@@ -1,0 +1,58 @@
+{
+  "id": "arsenal",
+  "team": "Arsenal",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.arsenal.com/meetings-and-events/contact-us",
+    "x": "@Arsenal",
+    "instagram": "@arsenal"
+  },
+  "sponsors": [
+    {
+      "id": "deel",
+      "name": "Deel",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "deel-inc",
+      "owner": "Deel, Inc.",
+      "verdict": "Owned by Deel, Inc.. Nothing found.",
+      "source": {
+        "name": "Sporting Goods Intelligence",
+        "date": "2026-08-06",
+        "url": "https://www.sgieurope.com/marketing/emirates-and-arsenal-extend-shirt-deal-to-2033/122576.article"
+      }
+    },
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "front",
+      "season": "2017-18",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": null
+    },
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "sleeve",
+      "season": "2025-26",
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": null
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "deel-inc",
+    "government-of-dubai",
+    "government-of-rwanda"
+  ],
+  "lastUpdated": "2026-09-24"
+}

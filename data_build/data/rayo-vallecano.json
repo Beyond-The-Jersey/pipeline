@@ -1,0 +1,35 @@
+{
+  "id": "rayo-vallecano",
+  "team": "Rayo Vallecano",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "cumplimiento@rayovallecano.es",
+    "contact-form": "https://www.rayovallecano.es/aviso-legal",
+    "x": "@RayoVallecano",
+    "instagram": "@rayovallecano"
+  },
+  "sponsors": [
+    {
+      "id": "digi",
+      "name": "Digi",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "digi-communications-nv",
+      "owner": "Digi Communications N.V.",
+      "verdict": "Owned by Digi Communications N.V.. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "digi-communications-nv"
+  ],
+  "lastUpdated": "2026-09-24"
+}

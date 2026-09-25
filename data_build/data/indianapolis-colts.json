@@ -1,0 +1,51 @@
+{
+  "id": "indianapolis-colts",
+  "team": "Indianapolis Colts",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "webmaster@colts.com",
+    "contact-form": "https://www.colts.com/footer/contact-us",
+    "x": "@colts",
+    "instagram": "@colts"
+  },
+  "sponsors": [
+    {
+      "id": "ascension-st-vincent",
+      "name": "Ascension St. Vincent's",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "ascension-st-vincent-owner",
+      "owner": "Ascension St. Vincent's",
+      "verdict": "Owned by Ascension St. Vincent's. Nothing found.",
+      "source": {
+        "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "lucas-oil-products",
+      "name": "Lucas Oil Products",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "lucas-oil-products-owner",
+      "owner": "Lucas Oil Products",
+      "verdict": "Owned by Lucas Oil Products. Nothing found.",
+      "source": {
+        "name": "Encyclopedia of Indianapolis",
+        "date": "2006-02-28",
+        "url": "https://indyencyclopedia.org/lucas-oil-stadium/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "ascension-st-vincent-owner",
+    "lucas-oil-products-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

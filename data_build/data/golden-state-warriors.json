@@ -1,0 +1,48 @@
+{
+  "id": "golden-state-warriors",
+  "team": "Golden State Warriors",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.nba.com/warriors/?tmd=1/contact"
+  },
+  "sponsors": [
+    {
+      "id": "iren",
+      "name": "IREN (IREN Ltd, AI cloud infrastructure)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "iren-owner",
+      "owner": "IREN (IREN Ltd, AI cloud infrastructure)",
+      "verdict": "Owned by IREN (IREN Ltd, AI cloud infrastructure). Nothing found.",
+      "source": {
+        "name": "Silicon Valley / Bay Area News Group",
+        "date": "2026-06-27",
+        "url": "https://siliconvalley.com/2026/06/27/warriors-announce-ai-data-center-company-as-jersey-sponsor"
+      }
+    },
+    {
+      "id": "jpmorgan-chase",
+      "name": "JPMorgan Chase (Chase)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "jpmorgan-chase-owner",
+      "owner": "JPMorgan Chase & Co.",
+      "verdict": "JPMorgan Chase & Co.",
+      "source": {
+        "name": "SFBayCA",
+        "date": "2016-01-28",
+        "url": "https://sfbayca.com/2016/01/28/warriors-announce-chase-arena-as-future-home"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "iren-owner",
+    "jpmorgan-chase-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

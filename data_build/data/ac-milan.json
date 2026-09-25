@@ -1,0 +1,35 @@
+{
+  "id": "ac-milan",
+  "team": "AC Milan",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "email": "sponsorshipenquiries@acmilan.com",
+    "contact-form": "https://www.acmilan.com/it/contatti",
+    "x": "@acmilan",
+    "instagram": "@acmilan"
+  },
+  "sponsors": [
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "Football Italia",
+        "date": "2026-07-01",
+        "url": "https://football-italia.net/official-milan-confirm-100m-sponsorship-deal"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-dubai"
+  ],
+  "lastUpdated": "2026-09-24"
+}

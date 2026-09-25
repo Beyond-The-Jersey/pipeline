@@ -1,0 +1,51 @@
+{
+  "id": "houston-astros",
+  "team": "Houston Astros",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "foundation@astros.com",
+    "contact-form": "https://www.mlb.com/astros/official-information/contact",
+    "x": "@astros",
+    "instagram": "@astros"
+  },
+  "sponsors": [
+    {
+      "id": "daikin-comfort-technologies",
+      "name": "Daikin Comfort Technologies",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "daikin-comfort-technologies-owner",
+      "owner": "Daikin Comfort Technologies",
+      "verdict": "Owned by Daikin Comfort Technologies. Nothing found.",
+      "source": {
+        "name": "MLB.com press release (Houston Astros)",
+        "date": "2024-11-18",
+        "url": "https://www.mlb.com/press-release/release-astros-announce-ballpark-naming-rights-partnership-with-daikin-comfort-technologies"
+      }
+    },
+    {
+      "id": "occidental-petroleum",
+      "name": "Occidental Petroleum (Oxy)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "occidental-petroleum-owner",
+      "owner": "Occidental Petroleum Corporation",
+      "verdict": "Owned by Occidental Petroleum Corporation. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2023-02-10",
+        "url": "https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/02/10/houston-astros-sign-jersey-patch-deal"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "daikin-comfort-technologies-owner",
+    "occidental-petroleum-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

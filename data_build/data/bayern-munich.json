@@ -1,0 +1,35 @@
+{
+  "id": "bayern-munich",
+  "team": "Bayern Munich",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "service@fcbayern.com",
+    "contact-form": "https://fcbayern.com/en/contact",
+    "x": "@FCBayernEN",
+    "instagram": "@fcbayern"
+  },
+  "sponsors": [
+    {
+      "id": "deutsche-telekom",
+      "name": "Deutsche Telekom",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "federal-republic-of-germany",
+      "owner": "Federal Republic of Germany (direct stake + KfW) with the remainder free float",
+      "verdict": "Deutsche Telekom's own shareholder-structure page shows the Federal Republic of Germany as the anchor shareholder via KfW (approx.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "federal-republic-of-germany"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "portland-timbers",
+  "team": "Portland Timbers",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "ticketsales@timbers.com",
+    "contact-form": "https://www.timbers.com/contact-us",
+    "x": "@PTFCAuthentics",
+    "instagram": "@TimbersFC"
+  },
+  "sponsors": [
+    {
+      "id": "bank-of-america",
+      "name": "Bank of America",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "bank-of-america",
+      "owner": "Bank of America Corporation",
+      "verdict": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
+      "source": {
+        "name": "timbers.com",
+        "date": "2026-01-15",
+        "url": "https://www.timbers.com/news/portland-timbers-enter-multi-year-partnership-with-bank-of-america-to-become-front-of-jersey-partner"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "bank-of-america"
+  ],
+  "lastUpdated": "2026-09-24"
+}

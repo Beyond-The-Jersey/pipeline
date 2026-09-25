@@ -1,0 +1,35 @@
+{
+  "id": "orlando-city",
+  "team": "Orlando City SC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "tickets@orlandocitysoccer.com",
+    "contact-form": "https://www.orlandocitysc.com/club/contact",
+    "x": "@orlandocitysc",
+    "instagram": "@orlandocitysc"
+  },
+  "sponsors": [
+    {
+      "id": "orlando-health",
+      "name": "Orlando Health",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "orlando-health-inc",
+      "owner": "Orlando Health, Inc.",
+      "verdict": "Owned by Orlando Health, Inc.. Nothing found.",
+      "source": {
+        "name": "orlandocitysc.com",
+        "date": "2026-02-17",
+        "url": "https://www.orlandocitysc.com/news/orlando-city-sc-unveils-2026-sunken-treasure-kit-presented-by-orlando-health"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "orlando-health-inc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

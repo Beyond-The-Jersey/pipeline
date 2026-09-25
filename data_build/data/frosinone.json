@@ -1,0 +1,34 @@
+{
+  "id": "frosinone",
+  "team": "Frosinone Calcio",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "contact-form": "https://www.frosinonecalcio.com/contatti/",
+    "x": "@Frosinone1928",
+    "instagram": "@frosinonecalcio"
+  },
+  "sponsors": [
+    {
+      "id": "banca-popolare-del-frusinate",
+      "name": "Banca Popolare del Frusinate",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "banca-popolare-del-frusinate",
+      "owner": "Banca Popolare del Frusinate S.C.p.A.",
+      "verdict": "Owned by Banca Popolare del Frusinate S.C.p.A.. Nothing found.",
+      "source": {
+        "name": "Footy Headlines",
+        "date": "2026-08-10",
+        "url": "https://www.footyheadlines.com/5057587566/frosinone-calcio-26-27-home-away-third-kits-released.html"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "banca-popolare-del-frusinate"
+  ],
+  "lastUpdated": "2026-09-24"
+}

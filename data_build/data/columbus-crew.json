@@ -1,0 +1,33 @@
+{
+  "id": "columbus-crew",
+  "team": "Columbus Crew",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "x": "@columbuscrew",
+    "instagram": "@columbuscrew"
+  },
+  "sponsors": [
+    {
+      "id": "nationwide",
+      "name": "Nationwide",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "nationwide-mutual-insurance-company",
+      "owner": "Nationwide Mutual Insurance Company",
+      "verdict": "Owned by Nationwide Mutual Insurance Company. Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "nationwide-mutual-insurance-company"
+  ],
+  "lastUpdated": "2026-09-24"
+}

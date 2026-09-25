@@ -1,0 +1,51 @@
+{
+  "id": "miami-dolphins",
+  "team": "Miami Dolphins",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "GuestExperience@HardRockStadium.com",
+    "contact-form": "https://www.miamidolphins.com/_libraries/footer/contact-us",
+    "x": "@miamidolphins",
+    "instagram": "@miamidolphins"
+  },
+  "sponsors": [
+    {
+      "id": "baptist-health",
+      "name": "Baptist Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "baptist-health-owner",
+      "owner": "Baptist Health South Florida",
+      "verdict": "Owned by Baptist Health South Florida. Nothing found.",
+      "source": {
+        "name": "Zoomph (2026 NFL practice jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "hard-rock-international",
+      "name": "Hard Rock International",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "hard-rock-international-owner",
+      "owner": "Hard Rock International LLC",
+      "verdict": "Owned by Hard Rock International LLC. Nothing found.",
+      "source": {
+        "name": "Miami Dolphins Communications Portal",
+        "date": "2016-08-17",
+        "url": "https://media.miamidolphins.com/press_releases/hard-rock-international-and-miami-dolphins-announce-18-year-stadium-naming-rights-agreement"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "baptist-health-owner",
+    "hard-rock-international-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

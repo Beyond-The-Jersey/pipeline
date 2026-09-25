@@ -1,0 +1,51 @@
+{
+  "id": "atlanta-hawks",
+  "team": "Atlanta Hawks",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "email": "hawks.tickets@hawks.com",
+    "contact-form": "https://www.nba.com/hawks/contact",
+    "x": "@atlhawks",
+    "instagram": "@atlhawks"
+  },
+  "sponsors": [
+    {
+      "id": "paze",
+      "name": "Paze (Early Warning Services)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "paze-owner",
+      "owner": "Early Warning Services, LLC",
+      "verdict": "Owned by Early Warning Services, LLC. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2025-09-29",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2025/09/29/hawks-select-digital-wallet-paze-as-jersey-patch-sponsor"
+      }
+    },
+    {
+      "id": "state-farm",
+      "name": "State Farm",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "state-farm-owner",
+      "owner": "State Farm",
+      "verdict": "Owned by State Farm. Nothing found.",
+      "source": {
+        "name": "Peachtree Hoops (SB Nation)",
+        "date": "2018-08-29",
+        "url": "https://www.peachtreehoops.com/2018/8/29/17795914/atlanta-hawks-state-farm-arena-philips-naming-rights-announcement"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "paze-owner",
+    "state-farm-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

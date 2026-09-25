@@ -1,0 +1,35 @@
+{
+  "id": "boston-red-sox",
+  "team": "Boston Red Sox",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "ticketoffice@redsox.com",
+    "contact-form": "https://www.mlb.com/redsox/official-information/contact",
+    "x": "@RedSox",
+    "instagram": "@redsox"
+  },
+  "sponsors": [
+    {
+      "id": "massmutual",
+      "name": "MassMutual",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "massmutual-owner",
+      "owner": "MassMutual",
+      "verdict": "Owned by MassMutual. Nothing found.",
+      "source": {
+        "name": "MLB.com",
+        "date": "2022-11-30",
+        "url": "https://www.mlb.com/news/red-sox-jersey-patch-massmutual"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "massmutual-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

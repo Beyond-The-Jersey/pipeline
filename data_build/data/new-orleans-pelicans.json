@@ -1,0 +1,52 @@
+{
+  "id": "new-orleans-pelicans",
+  "team": "New Orleans Pelicans",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "email": "fanexperience@pelicans.com",
+    "phone": "15045254667",
+    "contact-form": "https://www.nba.com/pelicans/contact-us",
+    "x": "@PelicansNBA",
+    "instagram": "@pelicansnba"
+  },
+  "sponsors": [
+    {
+      "id": "newage-products",
+      "name": "NewAge Products",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "newage-products-owner",
+      "owner": "NewAge Products",
+      "verdict": "NewAge Products Inc.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2024-09-30",
+        "url": "https://sportsbusinessjournal.com/Articles/2024/09/30/new-orleans-pelicans-patch-newage-products"
+      }
+    },
+    {
+      "id": "smoothie-king",
+      "name": "Smoothie King",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "smoothie-king-owner",
+      "owner": "Smoothie King",
+      "verdict": "Owned by Smoothie King. Nothing found.",
+      "source": {
+        "name": "FOX Sports / AP",
+        "date": "2023-12-26",
+        "url": "https://www.foxsports.com/stories/nba/new-orleans-pelicans-and-smoothie-king-renew-their-arena-naming-rights-agreement"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "newage-products-owner",
+    "smoothie-king-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "venezia",
+  "team": "Venezia FC",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "contact-form": "https://www.veneziafc.it/club/contact",
+    "x": "@VeneziaFC_IT",
+    "instagram": "@veneziafc"
+  },
+  "sponsors": [
+    {
+      "id": "cynar-spritz",
+      "name": "Cynar Spritz",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "davide-campari-milano",
+      "owner": "Davide Campari-Milano N.V.",
+      "verdict": "Owned by Davide Campari-Milano N.V.. Nothing found.",
+      "source": {
+        "name": "Venezia FC",
+        "date": "2026-08-23",
+        "url": "https://www.veneziafc.it/news/cynar-spritz-rinnova-il-suo-impegno-accanto-al-venezia-fc-e-lancia-un-nuovo-capitolo-di-contro-il-logorio-della-vita-moderna"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "davide-campari-milano"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "fulham",
+  "team": "Fulham",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "email": "bookings@brasserieconstance.com",
+    "contact-form": "https://www.fulhamfc.com/more/contact-us/",
+    "x": "@FulhamFC",
+    "instagram": "@fulhamfc"
+  },
+  "sponsors": [
+    {
+      "id": "clickhouse",
+      "name": "ClickHouse",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "clickhouse-inc",
+      "owner": "ClickHouse, Inc. (private, VC-backed)",
+      "verdict": "Owned by ClickHouse, Inc. (private, VC-backed). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "id": "hibob",
+      "name": "HiBob",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "hibob",
+      "owner": "HiBob (Bob)",
+      "verdict": "Owned by HiBob (Bob). Nothing found.",
+      "source": {
+        "name": "Fulham FC – 'Fulham FC announces extended partnership with HiBob as Official Sleeve Partner & Principal Partner'",
+        "date": "2025-12-15",
+        "url": "https://www.fulhamfc.com/news/2025/december/15/fulham-fc-announces-extended-partnership-with-hibob-as-official-sleeve-partner---principal-partner/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "clickhouse-inc",
+    "hibob"
+  ],
+  "lastUpdated": "2026-09-24"
+}

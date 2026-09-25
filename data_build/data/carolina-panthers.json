@@ -1,0 +1,50 @@
+{
+  "id": "carolina-panthers",
+  "team": "Carolina Panthers",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.panthers.com/about-us/contact-us",
+    "x": "@panthers",
+    "instagram": "@panthers"
+  },
+  "sponsors": [
+    {
+      "id": "atrium-health",
+      "name": "Atrium Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "atrium-health-owner",
+      "owner": "Atrium Health",
+      "verdict": "Owned by Atrium Health. Nothing found.",
+      "source": {
+        "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "bank-of-america",
+      "name": "Bank of America",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "bank-of-america",
+      "owner": "Bank of America Corporation",
+      "verdict": "Bank of America Corporation is a US-listed bank with dispersed institutional ownership (BlackRock and Vanguard the largest holdings, both well under 10%) and no….",
+      "source": {
+        "name": "Bank of America newsroom",
+        "date": "2026-07-23",
+        "url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/07/bank-of-america-and-carolina-panthers-extend-naming-rights-for-b.html"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "atrium-health-owner",
+    "bank-of-america"
+  ],
+  "lastUpdated": "2026-09-24"
+}

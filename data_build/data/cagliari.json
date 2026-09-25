@@ -1,0 +1,36 @@
+{
+  "id": "cagliari",
+  "team": "Cagliari Calcio",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "email": "info@cagliaricalcio.com",
+    "phone": "+390704618182",
+    "contact-form": "https://cagliaricalcio.com/casteddu/contatti/",
+    "x": "@CagliariCalcio",
+    "instagram": "@cagliaricalcio"
+  },
+  "sponsors": [
+    {
+      "id": "sardegna-turismo",
+      "name": "Sardegna Turismo / Doppio Malto",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "regione-autonoma-della-sardegna",
+      "owner": "Regione Autonoma della Sardegna (Assessorato del Turismo)",
+      "verdict": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department….",
+      "source": {
+        "name": "Calcio e Finanza",
+        "date": "2026-07-07",
+        "url": "https://www.calcioefinanza.it/2026/07/07/ricavi-sponsor-maglia-serie-a-2026-2027-la-classifica/"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "regione-autonoma-della-sardegna"
+  ],
+  "lastUpdated": "2026-09-24"
+}

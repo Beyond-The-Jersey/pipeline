@@ -1,0 +1,35 @@
+{
+  "id": "juventus",
+  "team": "Juventus FC",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "email": "slo@juventus.com",
+    "contact-form": "https://www.juventus.com/it/bianconeri/supporter-liaison-officer",
+    "x": "@juventusfc",
+    "instagram": "@juventus"
+  },
+  "sponsors": [
+    {
+      "id": "jeep",
+      "name": "Jeep (with Visit Detroit)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "stellantis-nv",
+      "owner": "Stellantis N.V.",
+      "verdict": "Jeep (with Visit Detroit) on the Juventus front is a brand of Stellantis N.V., the Amsterdam-domiciled, NYSE/Euronext-listed automaker.",
+      "source": {
+        "name": "Juventus FC",
+        "date": "2025-05-15",
+        "url": "https://www.juventus.com/it/news/articoli/jeep-e-visit-detroit-nuovi-front-of-shirt-partner-della-juventus-a-partire-dalla-stagione-2025-26"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "stellantis-nv"
+  ],
+  "lastUpdated": "2026-09-24"
+}

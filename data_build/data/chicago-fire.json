@@ -1,0 +1,33 @@
+{
+  "id": "chicago-fire",
+  "team": "Chicago Fire FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "x": "@ChicagoFire",
+    "instagram": "@chicagofire"
+  },
+  "sponsors": [
+    {
+      "id": "carvana",
+      "name": "Carvana",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "carvana",
+      "owner": "Carvana Co.",
+      "verdict": "Owned by Carvana Co.. Nothing found.",
+      "source": {
+        "name": "chicagofirefc.com",
+        "date": "2026-02-14",
+        "url": "https://www.chicagofirefc.com/news/chicago-fire-fc-unveils-new-forever-red-kit-to-heat-up-2026-season"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "carvana"
+  ],
+  "lastUpdated": "2026-09-24"
+}

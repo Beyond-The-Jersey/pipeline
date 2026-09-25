@@ -1,0 +1,50 @@
+{
+  "id": "manchester-city",
+  "team": "Manchester City",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.mancity.com/help-and-support/contact-us",
+    "x": "@ManCity",
+    "instagram": "@mancity"
+  },
+  "sponsors": [
+    {
+      "id": "etihad-airways",
+      "name": "Etihad Airways",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-abu-dhabi",
+      "owner": "Government of Abu Dhabi",
+      "verdict": "The airline is owned by the Government of Abu Dhabi.",
+      "source": {
+        "name": "All Football",
+        "date": "2026",
+        "url": "https://m.allfootballapp.com/news/EPL/Manchester-City-set-to-keep-up-%C2%A367.5million-a-year-deal-with-Abu-Dhabi-airline-Etihad/2424047"
+      }
+    },
+    {
+      "id": "okx",
+      "name": "OKX",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "okx-group",
+      "owner": "OKX / Aux Cayes FinTech Co. Ltd (OK Group)",
+      "verdict": "No state shareholder found.",
+      "source": {
+        "name": "Manchester City FC – 'Manchester City and OKX announce new shirt sleeve partnership'",
+        "date": "2023-06-22",
+        "url": "https://www.mancity.com/news/club/okx-to-sponsor-manchester-city-shirt-sleeve-202324-63823725"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-abu-dhabi",
+    "okx-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

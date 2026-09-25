@@ -1,0 +1,34 @@
+{
+  "id": "tsg-hoffenheim",
+  "team": "TSG Hoffenheim",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "contact-form": "https://www.tsg-hoffenheim.de/kontakt",
+    "x": "@tsghoffenheim",
+    "instagram": "@tsghoffenheim"
+  },
+  "sponsors": [
+    {
+      "id": "sap",
+      "name": "SAP",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "sap-se",
+      "owner": "SAP SE",
+      "verdict": "Owned by SAP SE — free float with founder-family anchors. Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "sap-se"
+  ],
+  "lastUpdated": "2026-09-24"
+}

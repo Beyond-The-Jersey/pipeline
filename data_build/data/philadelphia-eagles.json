@@ -1,0 +1,50 @@
+{
+  "id": "philadelphia-eagles",
+  "team": "Philadelphia Eagles",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.philadelphiaeagles.com/footer/contact-us/",
+    "x": "@Eagles",
+    "instagram": "@philadelphiaeagles"
+  },
+  "sponsors": [
+    {
+      "id": "jefferson-health",
+      "name": "Jefferson Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "jefferson-health-owner",
+      "owner": "Jefferson Health",
+      "verdict": "Owned by Jefferson Health. Nothing found.",
+      "source": {
+        "name": "Zoomph (2026 NFL practice jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "lincoln-financial-group",
+      "name": "Lincoln Financial Group",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "lincoln-financial-group-owner",
+      "owner": "Lincoln Financial Group",
+      "verdict": "Owned by Lincoln Financial Group. Nothing found.",
+      "source": {
+        "name": "Philadelphia Eagles",
+        "date": "2019-05-09",
+        "url": "https://www.philadelphiaeagles.com/news/lincoln-financial-group-and-philadelphia-eagles-extend-stadium-naming-rights"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "jefferson-health-owner",
+    "lincoln-financial-group-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

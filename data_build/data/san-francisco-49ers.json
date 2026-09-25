@@ -1,0 +1,50 @@
+{
+  "id": "san-francisco-49ers",
+  "team": "San Francisco 49ers",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.49ers.com/about-us/contact-us",
+    "x": "@49ers",
+    "instagram": "@49ers"
+  },
+  "sponsors": [
+    {
+      "id": "levi-strauss-and-co",
+      "name": "Levi Strauss & Co. (Levi's)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "levi-strauss-and-co-levi-s-owner",
+      "owner": "Levi Strauss & Co.",
+      "verdict": "Owned by Levi Strauss & Co.. Nothing found.",
+      "source": {
+        "name": "Levi Strauss & Co.",
+        "date": "2024-01-25",
+        "url": "https://levistrauss.com/2024/01/25/lsco-extends-levis-stadium-naming-rights-and-49ers-partnership"
+      }
+    },
+    {
+      "id": "us-bank",
+      "name": "U.S. Bank",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "us-bank-owner",
+      "owner": "U.S. Bank",
+      "verdict": "Owned by U.S. Bancorp. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-09-10",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2026/09/10/health-care-providers-financial-companies-dominate-nfl-jersey-patches/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "levi-strauss-and-co-levi-s-owner",
+    "us-bank-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

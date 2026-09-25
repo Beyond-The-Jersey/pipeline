@@ -1,0 +1,49 @@
+{
+  "id": "washington-wizards",
+  "team": "Washington Wizards",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "x": "@WashWizards",
+    "instagram": "@washwizards"
+  },
+  "sponsors": [
+    {
+      "id": "capital-one",
+      "name": "Capital One",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "capital-one-owner",
+      "owner": "Capital One Financial Corp.",
+      "verdict": "Capital One Financial Corp.",
+      "source": {
+        "name": "Capital One Newsroom",
+        "date": "2026-08-11",
+        "url": "https://www.capitalone.com/about/newsroom/a-bold-new-era-for-capital-one-arena-in-our-hometown/"
+      }
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinhood",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "robinhood-owner",
+      "owner": "Robinhood",
+      "verdict": "Owned by Robinhood. Nothing found.",
+      "source": {
+        "name": "Washington Wizards (nba.com)",
+        "date": "2023-10-23",
+        "url": "https://www.nba.com/wizards/news/washington-wizards-announce-robinhood-as-official-brokerage-and-jersey-patch-partner"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "capital-one-owner",
+    "robinhood-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

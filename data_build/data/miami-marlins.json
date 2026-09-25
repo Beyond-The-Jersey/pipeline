@@ -1,0 +1,51 @@
+{
+  "id": "miami-marlins",
+  "team": "Miami Marlins",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "enrollment@marlins.com",
+    "contact-form": "https://www.mlb.com/marlins/official-information/contact",
+    "x": "@marlins",
+    "instagram": "@marlins"
+  },
+  "sponsors": [
+    {
+      "id": "adt",
+      "name": "ADT",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "adt-owner",
+      "owner": "ADT Inc.",
+      "verdict": "Owned by ADT Inc.. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2025-05-13",
+        "url": "https://sportsbusinessjournal.com/Articles/2025/05/13/marlins-jersey-patch-sponsor-adt-renew-deal"
+      }
+    },
+    {
+      "id": "loandepot",
+      "name": "loanDepot",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "loandepot-owner",
+      "owner": "loanDepot Corporation",
+      "verdict": "Owned by loanDepot Corporation. Nothing found.",
+      "source": {
+        "name": "Miami Marlins / MLB.com press release",
+        "date": "2021-03-31",
+        "url": "https://www.mlb.com/press-release/welcome-to-loandepot-park-miami-s-new-home-for-world-class-entertainment"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "adt-owner",
+    "loandepot-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

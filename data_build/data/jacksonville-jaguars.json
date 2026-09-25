@@ -1,0 +1,51 @@
+{
+  "id": "jacksonville-jaguars",
+  "team": "Jacksonville Jaguars",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "ticketing@jaguars.com",
+    "contact-form": "https://www.jaguars.com/forms/contactus",
+    "x": "@Jaguars",
+    "instagram": "@jaguars"
+  },
+  "sponsors": [
+    {
+      "id": "dream-finders-homes",
+      "name": "Dream Finders Homes",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "dream-finders-homes-owner",
+      "owner": "Dream Finders Homes",
+      "verdict": "Owned by Dream Finders Homes. Nothing found.",
+      "source": {
+        "name": "Zoomph",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "everbank",
+      "name": "EverBank",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "everbank-owner",
+      "owner": "EverBank",
+      "verdict": "Owned by EverBank. Nothing found.",
+      "source": {
+        "name": "EverBank (news release)",
+        "date": "2024-05-17",
+        "url": "https://www.everbank.com/about/news/05-17-2024/everbank-stadium-naming-rights"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "dream-finders-homes-owner",
+    "everbank-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

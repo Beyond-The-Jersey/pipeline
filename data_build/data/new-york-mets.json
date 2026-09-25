@@ -1,0 +1,50 @@
+{
+  "id": "new-york-mets",
+  "team": "New York Mets",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.mlb.com/mets/official-information/contact",
+    "x": "@mets",
+    "instagram": "@mets"
+  },
+  "sponsors": [
+    {
+      "id": "citigroup",
+      "name": "Citigroup (Citi)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "citigroup-citi-owner",
+      "owner": "Citigroup (Citi)",
+      "verdict": "Citigroup is a NYSE-listed bank with no state ownership but has documented conduct issues including sanctions violations and settlements related to….",
+      "source": {
+        "name": "Chief Marketer",
+        "date": "2006-11-14",
+        "url": "https://www.chiefmarketer.com/citigroup-gets-shea-naming-rights-for-400-million/"
+      }
+    },
+    {
+      "id": "newyork-presbyterian",
+      "name": "NewYork-Presbyterian",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "newyork-presbyterian-owner",
+      "owner": "NewYork-Presbyterian",
+      "verdict": "Owned by NewYork-Presbyterian. Nothing found.",
+      "source": {
+        "name": "MLB.com press release",
+        "date": "2023-04-06",
+        "url": "https://www.mlb.com/press-release/press-release-new-york-mets-announce-multiyear-partnership-with-newyork-presbyte"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "citigroup-citi-owner",
+    "newyork-presbyterian-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

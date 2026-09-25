@@ -1,0 +1,49 @@
+{
+  "id": "milwaukee-bucks",
+  "team": "Milwaukee Bucks",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "email": "tickets@bucks.com",
+    "contact-form": "https://www.nba.com/bucks/contact"
+  },
+  "sponsors": [
+    {
+      "id": "fiserv",
+      "name": "Fiserv",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "fiserv-owner",
+      "owner": "Fiserv",
+      "verdict": "Owned by Fiserv. Nothing found.",
+      "source": {
+        "name": "Fiserv, Inc. investor newsroom",
+        "date": "2018-07-26",
+        "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-forum-new-home-milwaukee-bucks"
+      }
+    },
+    {
+      "id": "uline",
+      "name": "Uline",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "uline-owner",
+      "owner": "Uline",
+      "verdict": "Owned by Uline. Nothing found.",
+      "source": {
+        "name": "Milwaukee Bucks / NBA.com",
+        "date": "2026-09-21",
+        "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-uline-as-official-jersey-patch-partner"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "fiserv-owner",
+    "uline-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

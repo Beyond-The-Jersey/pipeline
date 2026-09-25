@@ -1,0 +1,37 @@
+{
+  "id": "dc-united",
+  "team": "D.C. United",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.dcunited.com",
+    "contact-form": "https://www.dcunited.com/tickets/contact",
+    "email": "ticketing@dcunited.com",
+    "phone": "+1 202-600-9098",
+    "x": "@dcunited",
+    "instagram": "@dcunited"
+  },
+  "sponsors": [
+    {
+      "id": "guidehouse",
+      "name": "Guidehouse",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "bain-capital",
+      "owner": "Bain Capital, LP (Bain Capital Private Equity)",
+      "verdict": "Owned by Bain Capital, LP (Bain Capital Private Equity). Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "bain-capital"
+  ],
+  "lastUpdated": "2026-09-24"
+}

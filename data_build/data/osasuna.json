@@ -1,0 +1,35 @@
+{
+  "id": "osasuna",
+  "team": "CA Osasuna",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "lopd@osasuna.es",
+    "contact-form": "https://www.osasuna.es/aviso-legal",
+    "x": "@Osasuna",
+    "instagram": "@caosasuna"
+  },
+  "sponsors": [
+    {
+      "id": "kosner",
+      "name": "Kosner",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "grupo-saltoki",
+      "owner": "Grupo Saltoki (Comercial de Suministros, S.A.)",
+      "verdict": "Owned by Grupo Saltoki (Comercial de Suministros, S.A.). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "grupo-saltoki"
+  ],
+  "lastUpdated": "2026-09-24"
+}

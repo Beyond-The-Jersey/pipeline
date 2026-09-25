@@ -1,0 +1,36 @@
+{
+  "id": "eintracht-frankfurt",
+  "team": "Eintracht Frankfurt",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "info@eintrachtfrankfurt.de",
+    "phone": "+498007431899",
+    "contact-form": "https://www.deutsche-bank.de/pk/service-und-kontakt/kooperationen/eintracht-frankfurt.html?kid=e.0600.10.57",
+    "x": "@Eintracht",
+    "instagram": "@eintrachtfrankfurt"
+  },
+  "sponsors": [
+    {
+      "id": "indeed",
+      "name": "Indeed",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "recruit-holdings",
+      "owner": "Recruit Holdings",
+      "verdict": "Owned by Recruit Holdings Co., Ltd. (Tokyo-listed). Nothing found.",
+      "source": {
+        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+        "date": "2026-09-24",
+        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "recruit-holdings"
+  ],
+  "lastUpdated": "2026-09-24"
+}

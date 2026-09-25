@@ -1,0 +1,35 @@
+{
+  "id": "vfb-stuttgart",
+  "team": "VfB Stuttgart",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "l.lang@vfb-stuttgart.de",
+    "contact-form": "https://www.vfb.de/de/1893/frauen/kontakt/",
+    "x": "@vfb",
+    "instagram": "@vfb"
+  },
+  "sponsors": [
+    {
+      "id": "lbbw",
+      "name": "LBBW",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "state-of-baden-wuerttemberg",
+      "owner": "State of Baden-Württemberg, Sparkassenverband Baden-Württemberg and City of Stuttgart",
+      "verdict": "Landesbank Baden-Württemberg is a public-law institution whose Owners are the Savings Banks Association of Baden-Württemberg (SVBW), the State of….",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "state-of-baden-wuerttemberg"
+  ],
+  "lastUpdated": "2026-09-24"
+}

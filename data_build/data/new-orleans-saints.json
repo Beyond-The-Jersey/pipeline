@@ -1,0 +1,49 @@
+{
+  "id": "new-orleans-saints",
+  "team": "New Orleans Saints",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "x": "@Saints",
+    "instagram": "@saints"
+  },
+  "sponsors": [
+    {
+      "id": "caesars-entertainment",
+      "name": "Caesars Entertainment",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "caesars-entertainment-owner",
+      "owner": "Caesars Entertainment",
+      "verdict": "Owned by Caesars Entertainment. Nothing found.",
+      "source": {
+        "name": "Caesars Entertainment investor news release",
+        "date": "2021-07-26",
+        "url": "https://investor.caesars.com/news-releases/news-release-details/new-orleans-saints-and-caesars-entertainment-announce"
+      }
+    },
+    {
+      "id": "rouses-markets",
+      "name": "Rouses Markets",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "rouses-markets-owner",
+      "owner": "Rouses Markets",
+      "verdict": "Owned by Rouses Markets. Nothing found.",
+      "source": {
+        "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "caesars-entertainment-owner",
+    "rouses-markets-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "athletics",
+  "team": "Athletics",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "spring@athletics.com",
+    "contact-form": "https://www.mlb.com/athletics/official-information/contact",
+    "x": "@Athletics",
+    "instagram": "@athletics"
+  },
+  "sponsors": [
+    {
+      "id": "lvcva",
+      "name": "Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "lvcva-owner",
+      "owner": "Las Vegas Convention and Visitors Authority",
+      "verdict": "The Las Vegas Convention and Visitors Authority (LVCVA) was founded by the Nevada Legislature in 1955 as a governmental entity to serve this destination.",
+      "source": {
+        "name": "MLB Trade Rumors",
+        "date": "2025-03-07",
+        "url": "https://mlbtraderumors.com/2025/03/as-announce-las-vegas-jersey-patch-sponsorship.html"
+      }
+    },
+    {
+      "id": "sutter-health",
+      "name": "Sutter Health",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "sutter-health-owner",
+      "owner": "Sutter Health",
+      "verdict": "Owned by Sutter Health. Nothing found.",
+      "source": {
+        "name": "Fierce Healthcare",
+        "date": "2024-04-04",
+        "url": "https://fiercehealthcare.com/providers/oakland-athletics-playing-ball-sutter-health-park-2025-2027-new-milestone-health-system"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "lvcva-owner",
+    "sutter-health-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

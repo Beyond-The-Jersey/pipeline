@@ -1,0 +1,50 @@
+{
+  "id": "everton",
+  "team": "Everton",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.evertonfc.com/contact",
+    "x": "@everton",
+    "instagram": "@evertonfcofficial"
+  },
+  "sponsors": [
+    {
+      "id": "cmc-markets",
+      "name": "CMC Markets",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "cmc-markets-plc",
+      "owner": "CMC Markets Plc (London-listed; Cruddas family significant holder)",
+      "verdict": "Owned by CMC Markets Plc (London-listed; Cruddas family significant holder). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "id": "stake",
+      "name": "Stake",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "easygo",
+      "owner": "Easygo (Medium Rare N.V. trading entity)",
+      "verdict": "Owned by Easygo (Medium Rare N.V. trading entity). Nothing found.",
+      "source": {
+        "name": "Everton FC – 'Everton & Stake Extend Partnership With Official Sleeve Agreement'",
+        "date": "2026-06-30",
+        "url": "https://www.evertonfc.com/news/2026/june/30/everton---stake-extend-partnership-with-official-sleeve-agreement/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "cmc-markets-plc",
+    "easygo"
+  ],
+  "lastUpdated": "2026-09-24"
+}

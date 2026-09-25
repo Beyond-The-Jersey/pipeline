@@ -1,0 +1,49 @@
+{
+  "id": "buffalo-bills",
+  "team": "Buffalo Bills",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "x": "@buffalobills",
+    "instagram": "@buffalobills"
+  },
+  "sponsors": [
+    {
+      "id": "highmark",
+      "name": "Highmark",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "highmark-owner",
+      "owner": "Highmark",
+      "verdict": "Owned by Highmark. Nothing found.",
+      "source": {
+        "name": "Buffalo Bills",
+        "date": "2023-06-05",
+        "url": "https://www.buffalobills.com/news/the-future-is-bright-bills-and-highmark-announce-naming-rights-deal-for-new-bill"
+      }
+    },
+    {
+      "id": "kaleida-health",
+      "name": "Kaleida Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "kaleida-health-owner",
+      "owner": "Kaleida Health",
+      "verdict": "Owned by Kaleida Health. Nothing found.",
+      "source": {
+        "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "highmark-owner",
+    "kaleida-health-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "orlando-magic",
+  "team": "Orlando Magic",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "x": "@OrlandoMagic",
+    "instagram": "@orlandomagic"
+  },
+  "sponsors": [
+    {
+      "id": "kia-america",
+      "name": "Kia America",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "kia-america-owner",
+      "owner": "Kia America",
+      "verdict": "Kia Corporation is a KRX-listed automaker with Hyundai Motor Company as largest shareholder (~35.17%) and no state ownership; Hyundai Motor Company is a privately….",
+      "source": {
+        "name": "Kia Media (Kia America press release)",
+        "date": "2023-12-20",
+        "url": "https://kiamedia.com/us/en/media/pressreleases/21588/orlandos-premier-downtown-sports-and-entertainment-destination-to-be-renamed-kia-center"
+      }
+    },
+    {
+      "id": "walt-disney-world",
+      "name": "Walt Disney World Resort",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "walt-disney-world-owner",
+      "owner": "Walt Disney World Resort",
+      "verdict": "Owned by Walt Disney World Resort. Nothing found.",
+      "source": {
+        "name": "Orlando Magic (nba.com/magic)",
+        "date": "2022-10-26",
+        "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-resort-community-sponsorship-agreement-logo-jersey-patch-release-20221026"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "kia-america-owner",
+    "walt-disney-world-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

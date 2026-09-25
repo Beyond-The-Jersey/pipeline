@@ -1,0 +1,34 @@
+{
+  "id": "genoa",
+  "team": "Genoa CFC",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "contact-form": "https://genoacfc.it/contatti/",
+    "x": "@GenoaCFC",
+    "instagram": "@genoacfc"
+  },
+  "sponsors": [
+    {
+      "id": "pulsee-luce-e-gas",
+      "name": "Pulsee Luce e Gas",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "axpo-holding-ag",
+      "owner": "Axpo Holding AG (owned by Swiss cantons and cantonal utilities)",
+      "verdict": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.",
+      "source": {
+        "name": "Pulsee",
+        "date": "2026-07-14",
+        "url": "https://pulsee.it/chi-siamo/sponsorship/genoa-cfc"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "axpo-holding-ag"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "fc-dallas",
+  "team": "FC Dallas",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.fcdallas.com",
+    "contact-form": "https://www.fcdallas.com/contact-us",
+    "email": "customerservice@fcdallas.com",
+    "phone": "+1 214-705-6700",
+    "x": "@FCDallas",
+    "instagram": "@fcdallas"
+  },
+  "sponsors": [
+    {
+      "id": "childrens-health",
+      "name": "Children's Health (home) / UT Southwestern Medical Center (away)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "ut-southwestern-medical-center",
+      "owner": "The University of Texas Southwestern Medical Center",
+      "verdict": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT….",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "ut-southwestern-medical-center"
+  ],
+  "lastUpdated": "2026-09-24"
+}

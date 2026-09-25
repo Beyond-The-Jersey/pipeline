@@ -1,0 +1,33 @@
+{
+  "id": "union-berlin",
+  "team": "Union Berlin",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "contact-form": "https://www.fc-union-berlin.de/en/contact-hwPB",
+    "x": "@fcunion_en"
+  },
+  "sponsors": [
+    {
+      "id": "raisin",
+      "name": "Raisin",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "raisin-gmbh",
+      "owner": "Raisin GmbH (Raisin DS)",
+      "verdict": "Owned by Raisin GmbH (Raisin DS). Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "raisin-gmbh"
+  ],
+  "lastUpdated": "2026-09-24"
+}

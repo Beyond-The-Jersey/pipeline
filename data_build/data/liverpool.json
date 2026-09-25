@@ -1,0 +1,66 @@
+{
+  "id": "liverpool",
+  "team": "Liverpool",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.liverpoolfc.com/info/contact-us",
+    "x": "@lfc",
+    "instagram": "@liverpoolfc"
+  },
+  "sponsors": [
+    {
+      "id": "expedia",
+      "name": "Expedia",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "expedia-group-inc",
+      "owner": "Expedia Group, Inc.",
+      "verdict": "Owned by Expedia Group, Inc.. Nothing found.",
+      "source": {
+        "name": "Liverpool FC – 'LFC and Expedia extend partnership for further four years'",
+        "date": "2023-03-10",
+        "url": "https://www.liverpoolfc.com/news/lfc-and-expedia-extend-partnership-further-four-years"
+      }
+    },
+    {
+      "id": "standard-chartered",
+      "name": "Standard Chartered",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "standard-chartered-plc",
+      "owner": "Standard Chartered plc",
+      "verdict": "Standard Chartered is a London-headquartered, publicly listed bank with dispersed shareholders and no state or state-fund owner.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "id": "turkish-airlines",
+      "name": "Turkish Airlines",
+      "placement": "front",
+      "season": null,
+      "tier": "serious",
+      "ownerId": "turkiye-wealth-fund",
+      "owner": "Türkiye Wealth Fund",
+      "verdict": "Turkish Airlines' official shareholding disclosure shows the state's Türkiye Wealth Fund as the largest shareholder with 49.12%, with a Ministry of Treasury and….",
+      "source": {
+        "name": "Footy Headlines",
+        "date": "2026-04",
+        "url": "https://www.footyheadlines.com/2026/04/lfc-new-sponsor.html"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "expedia-group-inc",
+    "standard-chartered-plc",
+    "turkiye-wealth-fund"
+  ],
+  "lastUpdated": "2026-09-24"
+}

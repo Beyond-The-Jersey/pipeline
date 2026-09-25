@@ -1,0 +1,148 @@
+{
+  "id": "williams",
+  "team": "Atlassian Williams F1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "United Kingdom",
+  "contact": {
+    "email": "support@digital.williamsf1.com",
+    "contact-form": "https://www.williamsf1.com/contact",
+    "x": "@Williamsf1",
+    "instagram": "@williamsf1official"
+  },
+  "sponsors": [
+    {
+      "id": "atlassian",
+      "name": "Atlassian",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "atlassian",
+      "owner": "Atlassian Corporation",
+      "verdict": "Owned by Atlassian Corporation. Nothing found.",
+      "source": {
+        "name": "Atlassian – Announcing Atlassian Williams Racing",
+        "date": "2025-02-11",
+        "url": "https://www.atlassian.com/blog/company-news/atlassian-williams-partnership"
+      }
+    },
+    {
+      "id": "barclays",
+      "name": "Barclays",
+      "placement": "sleeve",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "barclays",
+      "owner": "Barclays PLC",
+      "verdict": "Barclays PLC is a UK-listed bank whose only notifiable holder above the 3% disclosure threshold as at 31 December 2025 is BlackRock (about 5.8% in 2024), with no….",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "id": "betway",
+      "name": "Betway",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "super-group",
+      "owner": "Super Group (SGHC) Limited",
+      "verdict": "Owned by Super Group (SGHC) Limited. Nothing found.",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "anthropic",
+      "owner": "Anthropic PBC",
+      "verdict": "Owned by Anthropic PBC. Nothing found.",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "id": "duracell",
+      "name": "Duracell",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "berkshire-hathaway",
+      "owner": "Berkshire Hathaway Inc.",
+      "verdict": "Owned by Berkshire Hathaway Inc.. Nothing found.",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "id": "gulf-oil-w",
+      "name": "Gulf Oil International",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "hinduja-group",
+      "owner": "Hinduja Group (Hinduja family)",
+      "verdict": "Owned by Hinduja Group (Hinduja family). Nothing found.",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "id": "komatsu",
+      "name": "Komatsu",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "komatsu-ltd",
+      "owner": "Komatsu Ltd.",
+      "verdict": "Owned by Komatsu Ltd.. Nothing found.",
+      "source": {
+        "name": "Atlassian Williams F1 Team – Partners",
+        "date": "2026-09-24",
+        "url": "https://www.williamsf1.com/partners"
+      }
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "payward",
+      "owner": "Payward, Inc. (d/b/a Kraken)",
+      "verdict": "Owned by Payward, Inc. (d/b/a Kraken). Nothing found.",
+      "source": {
+        "name": "Kraken – Williams Racing and Kraken announce global crypto partnership",
+        "date": "2026",
+        "url": "https://www.kraken.com/press/releases/williams-racing-and-kraken-announce-global-crypto-partnership-ahead-of-australian-grand-prix",
+        "note": "date precision: year"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "anthropic",
+    "atlassian",
+    "barclays",
+    "berkshire-hathaway",
+    "hinduja-group",
+    "komatsu-ltd",
+    "payward",
+    "super-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

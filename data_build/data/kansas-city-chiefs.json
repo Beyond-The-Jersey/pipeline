@@ -1,0 +1,33 @@
+{
+  "id": "kansas-city-chiefs",
+  "team": "Kansas City Chiefs",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "x": "@chiefs",
+    "instagram": "@chiefs"
+  },
+  "sponsors": [
+    {
+      "id": "burns-and-mcdonnell",
+      "name": "Burns & McDonnell",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "burns-and-mcdonnell-owner",
+      "owner": "Burns & McDonnell",
+      "verdict": "Owned by Burns & McDonnell. Nothing found.",
+      "source": {
+        "name": "Kansas City Chiefs",
+        "date": "2025-08-25",
+        "url": "https://www.chiefs.com/news/chiefs-and-burns-mcdonnell-announce-significant-partnership-agreement-for-practice-jersey-patch"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "burns-and-mcdonnell-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

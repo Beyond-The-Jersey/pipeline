@@ -1,0 +1,35 @@
+{
+  "id": "new-england-revolution",
+  "team": "New England Revolution",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "tix@revolutionsoccer.net",
+    "contact-form": "https://www.revolutionsoccer.net/club/contact-us",
+    "x": "@nerevolution",
+    "instagram": "@nerevolution"
+  },
+  "sponsors": [
+    {
+      "id": "gillette",
+      "name": "Gillette",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "procter-and-gamble",
+      "owner": "The Procter & Gamble Company",
+      "verdict": "Owned by The Procter & Gamble Company. Nothing found.",
+      "source": {
+        "name": "revolutionsoccer.net",
+        "date": "2025-02-11",
+        "url": "https://www.revolutionsoccer.net/news/revolution-welcome-gillette-as-official-jersey-sponsor-in-expanded-multi-year-partnership"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "procter-and-gamble"
+  ],
+  "lastUpdated": "2026-09-24"
+}

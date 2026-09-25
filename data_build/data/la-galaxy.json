@@ -1,0 +1,37 @@
+{
+  "id": "la-galaxy",
+  "team": "LA Galaxy",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.lagalaxy.com",
+    "contact-form": "https://www.lagalaxy.com/club/contact",
+    "email": "customerservice@lagalaxy.com",
+    "phone": "+1 877-342-5299",
+    "x": "@LAGalaxy",
+    "instagram": "@lagalaxy"
+  },
+  "sponsors": [
+    {
+      "id": "herbalife",
+      "name": "Herbalife",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "herbalife-ltd",
+      "owner": "Herbalife Ltd.",
+      "verdict": "Herbalife, the LA Galaxy front sponsor, is listed on the NYSE (HLF) with a public float and no state stake.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "herbalife-ltd"
+  ],
+  "lastUpdated": "2026-09-24"
+}

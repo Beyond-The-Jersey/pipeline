@@ -1,0 +1,35 @@
+{
+  "id": "bayer-leverkusen",
+  "team": "Bayer Leverkusen",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "contact-form": "https://www.bayer04.de/de-de/page/impressum",
+    "phone": "+4921450001904",
+    "x": "@bayer04fussball",
+    "instagram": "@bayer04fussball"
+  },
+  "sponsors": [
+    {
+      "id": "barmenia",
+      "name": "Barmenia",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "barmenia-versicherungen-ag",
+      "owner": "Barmenia Versicherungen a.G. (BarmeniaGothaer Group)",
+      "verdict": "Owned by Barmenia Versicherungen a.G. (BarmeniaGothaer Group). Nothing found.",
+      "source": {
+        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+        "date": "2026-09-24",
+        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "barmenia-versicherungen-ag"
+  ],
+  "lastUpdated": "2026-09-24"
+}

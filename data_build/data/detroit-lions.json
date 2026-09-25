@@ -1,0 +1,51 @@
+{
+  "id": "detroit-lions",
+  "team": "Detroit Lions",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "phone": "3132622000",
+    "contact-form": "https://www.detroitlions.com/about-us/contact-us",
+    "x": "@Lions",
+    "instagram": "@detroitlionsnfl"
+  },
+  "sponsors": [
+    {
+      "id": "ford-motor-company",
+      "name": "Ford Motor Company",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "ford-motor-company",
+      "owner": "Ford Motor Company",
+      "verdict": "Owned by Ford Motor Company. Nothing found.",
+      "source": {
+        "name": "Detroit Lions",
+        "date": "2025-03-28",
+        "url": "https://www.detroitlions.com/news/detroit-tradition-continues-lions-and-ford-announce-extension-of-ford-field-partnership-through-2036-season"
+      }
+    },
+    {
+      "id": "meijer",
+      "name": "Meijer",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "meijer-owner",
+      "owner": "Meijer",
+      "verdict": "Owned by Meijer. Nothing found.",
+      "source": {
+        "name": "Detroit Lions",
+        "date": "2024-07-23",
+        "url": "https://www.detroitlions.com/news/detroit-lions-expand-and-extend-partnership-with-meijer"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "ford-motor-company",
+    "meijer-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

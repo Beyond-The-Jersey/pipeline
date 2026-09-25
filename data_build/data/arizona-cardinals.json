@@ -1,0 +1,51 @@
+{
+  "id": "arizona-cardinals",
+  "team": "Arizona Cardinals",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "askquestions@cardinals.nfl.net",
+    "contact-form": "https://www.azcardinals.com/about-us/contact-us",
+    "x": "@AZCardinals",
+    "instagram": "@azcardinals"
+  },
+  "sponsors": [
+    {
+      "id": "desert-financial-credit-union",
+      "name": "Desert Financial Credit Union",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "desert-financial-credit-union-owner",
+      "owner": "Desert Financial Credit Union",
+      "verdict": "Owned by Desert Financial Credit Union. Nothing found.",
+      "source": {
+        "name": "Zoomph (2026 NFL practice jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "state-farm",
+      "name": "State Farm",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "state-farm-owner",
+      "owner": "State Farm",
+      "verdict": "Owned by State Farm. Nothing found.",
+      "source": {
+        "name": "State Farm Newsroom",
+        "date": "2018-09-04",
+        "url": "https://newsroom.statefarm.com/state-farm-stadium-announcement-phoenix/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "desert-financial-credit-union-owner",
+    "state-farm-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

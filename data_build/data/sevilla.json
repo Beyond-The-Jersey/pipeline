@@ -1,0 +1,35 @@
+{
+  "id": "sevilla",
+  "team": "Sevilla FC",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "lopd@sevillafc.com",
+    "contact-form": "https://sevillafc.es/aviso-legal",
+    "x": "@SevillaFC",
+    "instagram": "@sevillafc"
+  },
+  "sponsors": [
+    {
+      "id": "fundacion-1890",
+      "name": "Fundacion 1890",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "fundacion-1890",
+      "owner": "Fundacion 1890",
+      "verdict": "Owned by Fundacion 1890 (Sevilla FC Foundation). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "fundacion-1890"
+  ],
+  "lastUpdated": "2026-09-24"
+}

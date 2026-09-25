@@ -1,0 +1,51 @@
+{
+  "id": "seattle-seahawks",
+  "team": "Seattle Seahawks",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "phone": "+14252038444",
+    "contact-form": "https://suites.seahawks.com/contact?utm_source=web-app&amp;utm_medium=button&amp;utm_campaign=4415546923_sr26&amp;utm_content=home-page",
+    "x": "@Seahawks",
+    "instagram": "@seahawks"
+  },
+  "sponsors": [
+    {
+      "id": "aws",
+      "name": "Amazon Web Services (AWS)",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "aws-owner",
+      "owner": "Amazon Web Services (AWS)",
+      "verdict": "Owned by Amazon Web Services (AWS). Nothing found.",
+      "source": {
+        "name": "Zoomph (NFL Practice Jersey Patch Sponsors guide; updated 2026-09-01)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "lumen-technologies",
+      "name": "Lumen Technologies",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "lumen-technologies-owner",
+      "owner": "Lumen Technologies Corporation",
+      "verdict": "Owned by Lumen Technologies Corporation. Nothing found.",
+      "source": {
+        "name": "Seattle Seahawks",
+        "date": "2020-11-19",
+        "url": "https://www.seahawks.com/news/centurylink-field-to-become-lumen-field"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "aws-owner",
+    "lumen-technologies-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

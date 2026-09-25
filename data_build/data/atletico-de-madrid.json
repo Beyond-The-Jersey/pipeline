@@ -1,0 +1,67 @@
+{
+  "id": "atletico-de-madrid",
+  "team": "Atlético de Madrid",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "socios@atleticodemadrid.com",
+    "phone": "+34917260403",
+    "contact-form": "https://www.atleticodemadrid.com/atm/contacto-15",
+    "x": "@Atleti"
+  },
+  "sponsors": [
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "payward",
+      "owner": "Payward, Inc. (d/b/a Kraken)",
+      "verdict": "Owned by Payward, Inc. (d/b/a Kraken). Nothing found.",
+      "source": {
+        "name": "Score and Change, La Liga sponsors 2026/27",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "id": "riyadh-air",
+      "name": "Riyadh Air",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "saudi-pif",
+      "owner": "Public Investment Fund (Saudi Arabia)",
+      "verdict": "Owned by Saudi Arabia’s sovereign wealth fund, which is chaired by Crown Prince Mohammed bin Salman.",
+      "source": {
+        "name": "Score and Change, La Liga sponsors 2026/27",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": {
+        "name": "Score and Change, La Liga sponsors 2026/27",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "government-of-rwanda",
+    "payward",
+    "saudi-pif"
+  ],
+  "lastUpdated": "2026-09-24"
+}

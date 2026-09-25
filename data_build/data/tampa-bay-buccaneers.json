@@ -1,0 +1,50 @@
+{
+  "id": "tampa-bay-buccaneers",
+  "team": "Tampa Bay Buccaneers",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.buccaneers.com/team/contact-us",
+    "x": "@Buccaneers",
+    "instagram": "@buccaneers"
+  },
+  "sponsors": [
+    {
+      "id": "fifth-third-bank",
+      "name": "Fifth Third Bank",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "fifth-third-bank-owner",
+      "owner": "Fifth Third Bancorp",
+      "verdict": "Owned by Fifth Third Bancorp. Nothing found.",
+      "source": {
+        "name": "Tampa Bay Buccaneers / GlobeNewswire",
+        "date": "2026-08-03",
+        "url": "https://globenewswire.com/news-release/2026/08/03/3337463/0/en/Buccaneers-and-Fifth-Third-Bank-Elevate-Pewter-Partnership-with-Introduction-of-First-Ever-Practice-Jersey-Patch.html"
+      }
+    },
+    {
+      "id": "raymond-james-financial",
+      "name": "Raymond James Financial",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "raymond-james-financial-owner",
+      "owner": "Raymond James Financial",
+      "verdict": "Owned by Raymond James Financial. Nothing found.",
+      "source": {
+        "name": "Tampa Bay Buccaneers",
+        "date": "2016-05-31",
+        "url": "https://buccaneers.com/news/buccaneers-announce-stadium-naming-rights-extension-17202192"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "fifth-third-bank-owner",
+    "raymond-james-financial-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

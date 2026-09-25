@@ -1,0 +1,52 @@
+{
+  "id": "denver-broncos",
+  "team": "Denver Broncos",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "Tickets@broncos.nfl.net",
+    "phone": "13036499000",
+    "contact-form": "https://www.denverbroncos.com/contact/",
+    "x": "@broncos",
+    "instagram": "@broncos"
+  },
+  "sponsors": [
+    {
+      "id": "childrens-hospital-colorado",
+      "name": "Children's Hospital Colorado",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "childrens-hospital-colorado-owner",
+      "owner": "Children's Hospital Colorado",
+      "verdict": "Owned by Children's Hospital Colorado. Nothing found.",
+      "source": {
+        "name": "Denver Broncos",
+        "date": "2024-07-24",
+        "url": "https://www.denverbroncos.com/news/broncos-renew-and-expand-partnership-with-children-s-hospital-colorado"
+      }
+    },
+    {
+      "id": "empower",
+      "name": "Empower",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "empower-owner",
+      "owner": "Empower LLC",
+      "verdict": "Owned by Empower LLC. Nothing found.",
+      "source": {
+        "name": "Metropolitan Football Stadium District (mfsd.com)",
+        "date": "2019-09-06",
+        "url": "https://mfsd.com/empower-field-at-mile-high-name-change"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "childrens-hospital-colorado-owner",
+    "empower-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

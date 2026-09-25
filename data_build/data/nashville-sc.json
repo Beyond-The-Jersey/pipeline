@@ -1,0 +1,35 @@
+{
+  "id": "nashville-sc",
+  "team": "Nashville SC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "info@nashvillesc.com",
+    "contact-form": "https://www.nashvillesc.com/club/contact",
+    "x": "@nashvillesc",
+    "instagram": "@nashvillesc"
+  },
+  "sponsors": [
+    {
+      "id": "renasant-bank",
+      "name": "Renasant Bank",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "renasant-corporation",
+      "owner": "Renasant Corporation",
+      "verdict": "Owned by Renasant Corporation. Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "renasant-corporation"
+  ],
+  "lastUpdated": "2026-09-24"
+}

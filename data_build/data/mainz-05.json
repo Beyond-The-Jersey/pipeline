@@ -1,0 +1,35 @@
+{
+  "id": "mainz-05",
+  "team": "Mainz 05",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "phone": "06131375500",
+    "contact-form": "https://www.mainz05.de/impressum",
+    "x": "@1fsvmainz05",
+    "instagram": "@1fsvmainz05"
+  },
+  "sponsors": [
+    {
+      "id": "koemmerling",
+      "name": "Koemmerling",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "profine-gmbh",
+      "owner": "profine GmbH (owner Dr Peter A. Mrosik / Hidden Peak Capital)",
+      "verdict": "Owned by profine GmbH (owner Dr Peter A. Mrosik / Hidden Peak Capital). Nothing found.",
+      "source": {
+        "name": "Football Kit Archive, Bundesliga 2026-27 kits",
+        "date": "2026-09-24",
+        "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "profine-gmbh"
+  ],
+  "lastUpdated": "2026-09-24"
+}

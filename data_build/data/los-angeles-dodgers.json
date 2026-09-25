@@ -1,0 +1,51 @@
+{
+  "id": "los-angeles-dodgers",
+  "team": "Los Angeles Dodgers",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "fanfeedback@ladodgers.com",
+    "contact-form": "https://www.mlb.com/dodgers/official-information/contact",
+    "x": "@dodgers",
+    "instagram": "@dodgers"
+  },
+  "sponsors": [
+    {
+      "id": "guggenheim",
+      "name": "Guggenheim Baseball Management",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "guggenheim-owner",
+      "owner": "Guggenheim Baseball Management",
+      "verdict": "Owned by Guggenheim Baseball Management. Nothing found.",
+      "source": {
+        "name": "DodgerBlue",
+        "date": "2026-03-25",
+        "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+      }
+    },
+    {
+      "id": "uniqlo",
+      "name": "UNIQLO",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "uniqlo-owner",
+      "owner": "UNIQLO",
+      "verdict": "Fast Retailing Co., Ltd.",
+      "source": {
+        "name": "DodgerBlue",
+        "date": "2026-03-25",
+        "url": "https://dodgerblue.com/dodgers-partnership-with-uniqlo-field-name-dodger-stadium/2026/03/25/"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "guggenheim-owner",
+    "uniqlo-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "philadelphia-76ers",
+  "team": "Philadelphia 76ers",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "x": "@Sixers",
+    "instagram": "@Sixers"
+  },
+  "sponsors": [
+    {
+      "id": "crypto-com",
+      "name": "Crypto.com",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "foris-dax",
+      "owner": "Foris DAX MT Limited (owned by Foris Holdings KY Limited)",
+      "verdict": "Owned by Foris DAX MT Limited (owned by Foris Holdings KY Limited). Nothing found.",
+      "source": {
+        "name": "Front Office Sports",
+        "date": "2026-07-30",
+        "url": "https://frontofficesports.com/lebron-james-sixers-expiring-jersey-patch"
+      }
+    },
+    {
+      "id": "xfinity-mobile",
+      "name": "Xfinity Mobile (Comcast)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "xfinity-mobile-comcast-owner",
+      "owner": "Xfinity Mobile (Comcast)",
+      "verdict": "Owned by Xfinity Mobile (Comcast). Nothing found.",
+      "source": {
+        "name": "ESPN / Associated Press",
+        "date": "2025-05-06",
+        "url": "https://www.espn.com/nhl/story/_/id/45025071/76ers-flyers-arena-lands-naming-rights-deal-xfinity-mobile"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "foris-dax",
+    "xfinity-mobile-comcast-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

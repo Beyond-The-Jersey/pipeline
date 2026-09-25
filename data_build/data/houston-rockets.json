@@ -1,0 +1,52 @@
+{
+  "id": "houston-rockets",
+  "team": "Houston Rockets",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.nba.com/rockets/",
+    "phone": "+17136273865",
+    "contact-form": "https://www.toyotacenter.com/connect-with-us/contact-us",
+    "x": "@HoustonRockets",
+    "instagram": "@houstonrockets"
+  },
+  "sponsors": [
+    {
+      "id": "memorial-hermann",
+      "name": "Memorial Hermann Health System",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "memorial-hermann-owner",
+      "owner": "Memorial Hermann Health System",
+      "verdict": "Owned by Memorial Hermann Health System. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2024-10-10",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2024/10/10/houston-rockets-jersey-patch/"
+      }
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "toyota-owner",
+      "owner": "Toyota LLC",
+      "verdict": "Owned by Toyota LLC. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2025-05-12",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2025/05/12/report-rockets-toyota-sign-five-year-arena-naming-rights-extension/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "memorial-hermann-owner",
+    "toyota-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

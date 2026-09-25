@@ -1,0 +1,52 @@
+{
+  "id": "cleveland-browns",
+  "team": "Cleveland Browns",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "tickets@clevelandbrowns.com",
+    "phone": "4408915050",
+    "contact-form": "https://www.clevelandbrowns.com/contact/",
+    "x": "@Browns",
+    "instagram": "@clevelandbrowns"
+  },
+  "sponsors": [
+    {
+      "id": "eaton",
+      "name": "Eaton Corporation",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "eaton-owner",
+      "owner": "Eaton Corporation",
+      "verdict": "Owned by Eaton Corporation. Nothing found.",
+      "source": {
+        "name": "Zoomph (NFL practice-jersey sponsor tracker)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "huntington-national-bank",
+      "name": "Huntington National Bank (Huntington Bancshares)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "huntington-national-bank-huntington-bancshares-owner",
+      "owner": "Huntington National Bank (Huntington Bancshares)",
+      "verdict": "Owned by Huntington National Bank (Huntington Bancshares). Nothing found.",
+      "source": {
+        "name": "Cleveland Browns",
+        "date": "2024-09-03",
+        "url": "https://www.clevelandbrowns.com/news/browns-and-huntington-bank-announce-20-year-partnership-that-includes-stadium-naming-rights"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "eaton-owner",
+    "huntington-national-bank-huntington-bancshares-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

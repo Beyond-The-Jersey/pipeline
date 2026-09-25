@@ -1,0 +1,50 @@
+{
+  "id": "detroit-pistons",
+  "team": "Detroit Pistons",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.nba.com/pistons/?tmd=1/contact",
+    "x": "@detroitpistons",
+    "instagram": "@detroitpistons"
+  },
+  "sponsors": [
+    {
+      "id": "little-caesars",
+      "name": "Little Caesars",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "little-caesars-owner",
+      "owner": "Little Caesars",
+      "verdict": "Owned by Little Caesars. Nothing found.",
+      "source": {
+        "name": "PR Newswire (Little Caesars Pizza / Olympia Entertainment)",
+        "date": "2016-04-28",
+        "url": "https://www.prnewswire.com/news-releases/little-caesars-arena-announced-as-name-of-detroits-new-multi-use-arena-centerpiece-of-12-billion-district-detroit-development-300259460.html"
+      }
+    },
+    {
+      "id": "stockx",
+      "name": "StockX",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "stockx-owner",
+      "owner": "StockX",
+      "verdict": "Owned by StockX. Nothing found.",
+      "source": {
+        "name": "StockX Newsroom",
+        "date": "2024-09-25",
+        "url": "https://stockx.com/about/detroit-pistons-and-stockx-announce-jersey-partnership"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "little-caesars-owner",
+    "stockx-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

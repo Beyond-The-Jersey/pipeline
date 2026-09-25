@@ -1,0 +1,36 @@
+{
+  "id": "washington-nationals",
+  "team": "Washington Nationals",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "ticketinfo@nationals.com",
+    "phone": "2026756287",
+    "contact-form": "https://www.mlb.com/nationals/official-information/contact",
+    "x": "@Nationals",
+    "instagram": "@nationals"
+  },
+  "sponsors": [
+    {
+      "id": "aarp",
+      "name": "AARP",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "aarp-owner",
+      "owner": "AARP",
+      "verdict": "Owned by AARP. Nothing found.",
+      "source": {
+        "name": "AARP press release",
+        "date": "2025-06-30",
+        "url": "https://www.aarp.org/press/releases/2025-06-30-aarp-becomes-washington-nationals-inaugural-jersey-patch-sponsor-and-an-official-community-impact-partner.html"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "aarp-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

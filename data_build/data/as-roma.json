@@ -1,0 +1,36 @@
+{
+  "id": "as-roma",
+  "team": "AS Roma",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "email": "youthdevelopment@asroma.it",
+    "phone": "+390689386000",
+    "contact-form": "https://www.asroma.com/en/club/contact-us",
+    "x": "@ASRomaEN",
+    "instagram": "@officialasroma"
+  },
+  "sponsors": [
+    {
+      "id": "eurobet-live",
+      "name": "Eurobet.live",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "entain-plc",
+      "owner": "Entain plc",
+      "verdict": "Owned by Entain plc. Nothing found.",
+      "source": {
+        "name": "iGaming Republic",
+        "date": "2026-03-18",
+        "url": "https://igamingrepublic.com/eurobet-live-becomes-as-roma-main-shirt-sponsor"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "entain-plc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

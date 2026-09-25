@@ -1,0 +1,49 @@
+{
+  "id": "minnesota-timberwolves",
+  "team": "Minnesota Timberwolves",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "x": "@timberwolves",
+    "instagram": "@timberwolves"
+  },
+  "sponsors": [
+    {
+      "id": "sezzle",
+      "name": "Sezzle",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "sezzle-owner",
+      "owner": "Sezzle Inc.",
+      "verdict": "Owned by Sezzle Inc.. Nothing found.",
+      "source": {
+        "name": "Minnesota Timberwolves (nba.com)",
+        "date": "2024-08-12",
+        "url": "https://www.nba.com/timberwolves/news/timberwolves-name-sezzle-official-jersey-patch-partner"
+      }
+    },
+    {
+      "id": "target",
+      "name": "Target",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "target-corporation",
+      "owner": "Target Corporation",
+      "verdict": "Owned by Target Corporation. Nothing found.",
+      "source": {
+        "name": "Target Center (official)",
+        "date": "2026-01-01",
+        "url": "https://www.targetcenter.com/about-target-center"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "sezzle-owner",
+    "target-corporation"
+  ],
+  "lastUpdated": "2026-09-24"
+}

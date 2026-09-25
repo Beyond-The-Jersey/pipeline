@@ -1,0 +1,36 @@
+{
+  "id": "green-bay-packers",
+  "team": "Green Bay Packers",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "PolicysPerspective@packers.com",
+    "phone": "19205697500",
+    "contact-form": "https://www.packers.com/lambeau-field/contact-us",
+    "x": "@packers",
+    "instagram": "@packers"
+  },
+  "sponsors": [
+    {
+      "id": "uw-health",
+      "name": "UW Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "uw-health-owner",
+      "owner": "UW Health",
+      "verdict": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
+      "source": {
+        "name": "Green Bay Packers (packers.com)",
+        "date": "2026-04-16",
+        "url": "https://www.packers.com/news/packers-name-uw-health-official-health-care-partner-of-the-green-bay-packers-2026"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "uw-health-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "aston-martin",
+  "team": "Aston Martin Aramco F1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "United Kingdom",
+  "contact": {
+    "contact-form": "https://www.astonmartinf1.com/en-GB/contact",
+    "x": "@astonmartinf1",
+    "instagram": "@astonmartinf1"
+  },
+  "sponsors": [
+    {
+      "id": "aramco",
+      "name": "Aramco",
+      "placement": "front",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "government-of-saudi-arabia",
+      "owner": "Government of Saudi Arabia",
+      "verdict": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%.",
+      "source": {
+        "name": "Aramco – Aston Martin Cognizant F1 Team and Aramco enter a long-term strategic partnership",
+        "date": "2022-02-03",
+        "url": "https://www.aramco.com/en/news-media/news/2022/aston-martin-cognizant-formula-one-team-and-aramco-enter-a--long-term-strategic-partnership"
+      }
+    },
+    {
+      "id": "breitling",
+      "name": "Breitling",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "cvc-capital-partners",
+      "owner": "CVC Capital Partners (CVC Fund VI)",
+      "verdict": "Owned by CVC Capital Partners (CVC Fund VI). Nothing found.",
+      "source": {
+        "name": "Aston Martin Aramco Formula One Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.astonmartinf1.com/en-GB/partners"
+      }
+    },
+    {
+      "id": "cognizant",
+      "name": "Cognizant",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "cognizant",
+      "owner": "Cognizant Technology Solutions Corporation",
+      "verdict": "Cognizant Technology Solutions Corporation (NASDAQ: CTSH) is a US-listed IT services firm with dispersed institutional ownership and no state shareholder in any of….",
+      "source": {
+        "name": "Aston Martin Aramco Formula One Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.astonmartinf1.com/en-GB/partners"
+      }
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "coinbase-global",
+      "owner": "Coinbase Global, Inc.",
+      "verdict": "Owned by Coinbase Global, Inc.. Nothing found.",
+      "source": {
+        "name": "Coinbase – Coinbase brand partnership with Aston Martin Aramco Formula One Team",
+        "date": "2023-11-16",
+        "url": "https://www.coinbase.com/blog/coinbase-waves-the-green-flag-on-global-expansion-in-brand-partnership-with-Aston-Martin-Aramco-Formula-One-Team"
+      }
+    },
+    {
+      "id": "honda",
+      "name": "Honda / Honda Racing Corporation",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "honda-motor-co-ltd",
+      "owner": "Honda Motor Co., Ltd.",
+      "verdict": "Owned by Honda Motor Co., Ltd.. Nothing found.",
+      "source": {
+        "name": "Aston Martin Aramco Formula One Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.astonmartinf1.com/en-GB/partners"
+      }
+    },
+    {
+      "id": "maaden",
+      "name": "Ma'aden",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "saudi-pif",
+      "owner": "Public Investment Fund (Saudi Arabia)",
+      "verdict": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
+      "source": {
+        "name": "Ma'aden (Saudi Arabian Mining Company) – Aston Martin Aramco and principal partner Ma'aden announce multi-year programme",
+        "date": "2026",
+        "url": "https://maaden.com/news-insights/latest-news/aston-martin-aramco-formula-one-team-and-principal-partner-maaden-announce-multi-year-youth-development-programme",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "id": "netapp",
+      "name": "NetApp",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "netapp-inc",
+      "owner": "NetApp, Inc.",
+      "verdict": "Owned by NetApp, Inc.. Nothing found.",
+      "source": {
+        "name": "Aston Martin Aramco – Aston Martin Aramco and NetApp renew data-driven partnership",
+        "date": "2026",
+        "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-and-netapp-renew-data-driven-partnership",
+        "note": "date precision: year"
+      }
+    },
+    {
+      "id": "puma-am",
+      "name": "PUMA",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "anta-sports-products",
+      "owner": "ANTA Sports Products Limited",
+      "verdict": "Owned by ANTA Sports Products Limited. Nothing found.",
+      "source": {
+        "name": "Aston Martin Aramco Formula One Team – Our Partners",
+        "date": "2026-09-24",
+        "url": "https://www.astonmartinf1.com/en-GB/partners"
+      }
+    },
+    {
+      "id": "valvoline",
+      "name": "Valvoline Global Operations",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "saudi-aramco",
+      "owner": "Saudi Arabian Oil Company (Aramco)",
+      "verdict": "Valvoline Global Operations is the former Valvoline Inc.",
+      "source": {
+        "name": "Aston Martin Aramco – AMF1 Team and Valvoline Global Operations announce strategic partnership",
+        "date": "2026",
+        "url": "https://www.astonmartinf1.com/en-GB/news/announcement/amf1-team-and-valvoline-global-operations-announce-strategic-partnership",
+        "note": "date precision: year"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "anta-sports-products",
+    "cognizant",
+    "coinbase-global",
+    "cvc-capital-partners",
+    "government-of-saudi-arabia",
+    "honda-motor-co-ltd",
+    "netapp-inc",
+    "saudi-aramco",
+    "saudi-pif"
+  ],
+  "lastUpdated": "2026-09-24"
+}

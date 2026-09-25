@@ -1,0 +1,35 @@
+{
+  "id": "las-vegas-raiders",
+  "team": "Las Vegas Raiders",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "phone": "18007243377",
+    "contact-form": "https://www.raiders.com/about/contact-us",
+    "x": "@raiders",
+    "instagram": "@raiders"
+  },
+  "sponsors": [
+    {
+      "id": "allegiant-travel-company",
+      "name": "Allegiant Travel Company",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "allegiant-travel-company-owner",
+      "owner": "Allegiant Travel Company",
+      "verdict": "Owned by Allegiant Travel Company. Nothing found.",
+      "source": {
+        "name": "Las Vegas Raiders",
+        "date": "2019-08-05",
+        "url": "https://www.raiders.com/news/raiders-allegiant-agree-on-naming-rights-deal-for-las-vegas-stadium"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "allegiant-travel-company-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

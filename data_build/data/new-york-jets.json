@@ -1,0 +1,50 @@
+{
+  "id": "new-york-jets",
+  "team": "New York Jets",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.newyorkjets.com/faqs/contact-us",
+    "x": "@nyjets",
+    "instagram": "@nyjets"
+  },
+  "sponsors": [
+    {
+      "id": "atlantic-health",
+      "name": "Atlantic Health",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "atlantic-health-owner",
+      "owner": "Atlantic Health System",
+      "verdict": "Owned by Atlantic Health System. Nothing found.",
+      "source": {
+        "name": "Zoomph (2026 NFL jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors"
+      }
+    },
+    {
+      "id": "metlife",
+      "name": "MetLife",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "metlife-owner",
+      "owner": "MetLife LLC",
+      "verdict": "Owned by MetLife LLC. Nothing found.",
+      "source": {
+        "name": "MetLife Stadium (official)",
+        "date": "2026-09-10",
+        "url": "https://www.metlifestadium.com/news/detail/metlife-stadium-welcomes-back-football-fueled-by-new-and-expanded-partnerships-across-the-jets-and-giants-platform"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "atlantic-health-owner",
+    "metlife-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

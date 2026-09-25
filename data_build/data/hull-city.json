@@ -1,0 +1,51 @@
+{
+  "id": "hull-city",
+  "team": "Hull City",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "email": "reception@wearehullcity.co.uk",
+    "contact-form": "https://www.wearehullcity.co.uk/contact",
+    "x": "@HullCity",
+    "instagram": "@hullcity"
+  },
+  "sponsors": [
+    {
+      "id": "corendon",
+      "name": "Corendon",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "corendon-tourism-group",
+      "owner": "Corendon Tourism Group (Corendon Holdings)",
+      "verdict": "Owned by Corendon Tourism Group (Corendon Holdings). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "id": "mcvities",
+      "name": "McVitie's",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "yildiz-holding",
+      "owner": "Yildiz Holding A.S. (Ulker family)",
+      "verdict": "Owned by Yildiz Holding A.S. (Ulker family). Nothing found.",
+      "source": {
+        "name": "Hull City AFC – 'Hull City and McVitie's announce new partnership'",
+        "date": "2026-08-21",
+        "url": "https://www.wearehullcity.co.uk/news/2026/august/21/Hull-City-and-McVities-announce-new-partnership/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "corendon-tourism-group",
+    "yildiz-holding"
+  ],
+  "lastUpdated": "2026-09-24"
+}

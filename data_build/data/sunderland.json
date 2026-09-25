@@ -1,0 +1,34 @@
+{
+  "id": "sunderland",
+  "team": "Sunderland",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.safc.com/contact",
+    "x": "@sunderlandafc",
+    "instagram": "@sunderlandafc"
+  },
+  "sponsors": [
+    {
+      "id": "shuffle",
+      "name": "Shuffle",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "natural-nine-bv",
+      "owner": "Natural Nine B.V.",
+      "verdict": "Owned by Natural Nine B.V.. Nothing found.",
+      "source": {
+        "name": "Sunderland AFC – 'Sunderland AFC and Shuffle join forces in new global sleeve partnership'",
+        "date": "2026-09-11",
+        "url": "https://www.safc.com/news/2026/september/11/sunderland-afc-and-shuffle-join-forces-in-new-global-sleeve-partnership/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "natural-nine-bv"
+  ],
+  "lastUpdated": "2026-09-24"
+}

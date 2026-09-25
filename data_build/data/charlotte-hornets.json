@@ -1,0 +1,51 @@
+{
+  "id": "charlotte-hornets",
+  "team": "Charlotte Hornets",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "email": "arenainfo@hornets.com",
+    "contact-form": "https://www.nba.com/hornets/contact",
+    "x": "@hornets",
+    "instagram": "@hornets"
+  },
+  "sponsors": [
+    {
+      "id": "judi-health",
+      "name": "Judi Health",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "judi-health-owner",
+      "owner": "Judi Health",
+      "verdict": "Owned by Judi Health. Nothing found.",
+      "source": {
+        "name": "Charlotte Hornets / NBA.com",
+        "date": "2025-09-24",
+        "url": "https://www.nba.com/hornets/news/charlotte-hornets-and-judi-health-launch-multi-year-partnership-highlighted-by-jersey-patch-designation"
+      }
+    },
+    {
+      "id": "spectrum",
+      "name": "Spectrum (Charter Communications)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "spectrum-charter-communications-owner",
+      "owner": "Charter Communications, Inc.",
+      "verdict": "Owned by Charter Communications, Inc.. Nothing found.",
+      "source": {
+        "name": "Charter Communications newsroom",
+        "date": "2016-08-17",
+        "url": "https://corporate.charter.com/newsroom/charlotte-hornets-announce-arena-to-be-renamed-spectrum-center"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "judi-health-owner",
+    "spectrum-charter-communications-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sc-paderborn-07",
+  "team": "SC Paderborn",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "contact-form": "https://www.scp07.de/Teams/Leistungszentrum/#1029-Kontakt",
+    "instagram": "@scp07_official"
+  },
+  "sponsors": [
+    {
+      "id": "c-hedenkamp",
+      "name": "C. Hedenkamp",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "c-hedenkamp-gmbh",
+      "owner": "C. Hedenkamp GmbH & Co. KG",
+      "verdict": "Owned by C. Hedenkamp GmbH & Co. KG. Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "c-hedenkamp-gmbh"
+  ],
+  "lastUpdated": "2026-09-24"
+}

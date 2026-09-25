@@ -1,0 +1,49 @@
+{
+  "id": "san-antonio-spurs",
+  "team": "San Antonio Spurs",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "x": "@spurs",
+    "instagram": "@spurs"
+  },
+  "sponsors": [
+    {
+      "id": "frost-bank",
+      "name": "Frost Bank",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "frost-bank-owner",
+      "owner": "Cullen/Frost Bankers, Inc.",
+      "verdict": "Owned by Cullen/Frost Bankers, Inc.. Nothing found.",
+      "source": {
+        "name": "San Antonio Spurs (nba.com)",
+        "date": "2023-09-22",
+        "url": "https://www.nba.com/spurs/news/san-antonio-spurs-arena-is-now-officially-the-frost-bank-center"
+      }
+    },
+    {
+      "id": "ledger",
+      "name": "Ledger",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "ledger-owner",
+      "owner": "Ledger LLC",
+      "verdict": "Owned by Ledger LLC. Nothing found.",
+      "source": {
+        "name": "San Antonio Spurs (spurs.com)",
+        "date": "2025-06-24",
+        "url": "https://spurs.com/news/san-antonio-spurs-partner-with-digital-asset-security-leader-ledger-in-new-global-jersey-patch-deal"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "frost-bank-owner",
+    "ledger-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bologna",
+  "team": "Bologna FC 1909",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "x": "@BfcOfficialPage",
+    "instagram": "@bolognafc1909"
+  },
+  "sponsors": [
+    {
+      "id": "saputo",
+      "name": "Saputo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "saputo-inc",
+      "owner": "Saputo Inc.",
+      "verdict": "Owned by Saputo Inc.. Nothing found.",
+      "source": {
+        "name": "Bologna FC 1909",
+        "date": "2023-07-13",
+        "url": "https://www.bolognafc.it/en/saputo-to-become-bolognas-new-main-partner/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "saputo-inc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

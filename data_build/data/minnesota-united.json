@@ -1,0 +1,37 @@
+{
+  "id": "minnesota-united",
+  "team": "Minnesota United FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.mnufc.com",
+    "contact-form": "https://www.mnufc.com/club/contact-us",
+    "email": "info@mnufc.com",
+    "phone": "+1 763-476-2237",
+    "x": "@mnufc",
+    "instagram": "@mnufc"
+  },
+  "sponsors": [
+    {
+      "id": "target",
+      "name": "Target",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "target-corporation",
+      "owner": "Target Corporation",
+      "verdict": "Owned by Target Corporation. Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "target-corporation"
+  ],
+  "lastUpdated": "2026-09-24"
+}

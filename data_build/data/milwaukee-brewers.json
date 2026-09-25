@@ -1,0 +1,51 @@
+{
+  "id": "milwaukee-brewers",
+  "team": "Milwaukee Brewers",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "Ticket.TeamLeader@Brewers.com",
+    "contact-form": "https://www.mlb.com/brewers/official-information/contact",
+    "x": "@brewers",
+    "instagram": "@brewers"
+  },
+  "sponsors": [
+    {
+      "id": "american-family-insurance",
+      "name": "American Family Insurance",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "american-family-mutual-insurance-company",
+      "owner": "American Family Mutual Insurance Company, S.I.",
+      "verdict": "Owned by American Family Mutual Insurance Company, S.I.. Nothing found.",
+      "source": {
+        "name": "Wisconsin Public Radio (AP)",
+        "date": "2020-01-22",
+        "url": "https://www.wpr.org/economy/brewers-home-ballpark-be-renamed-american-family-field"
+      }
+    },
+    {
+      "id": "northwestern-mutual",
+      "name": "Northwestern Mutual",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "northwestern-mutual-owner",
+      "owner": "Northwestern Mutual",
+      "verdict": "Owned by Northwestern Mutual. Nothing found.",
+      "source": {
+        "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+        "date": "2026-04-20",
+        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "american-family-mutual-insurance-company",
+    "northwestern-mutual-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "baltimore-ravens",
+  "team": "Baltimore Ravens",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "contact.us@ravens.nfl.net",
+    "contact-form": "https://www.baltimoreravens.com/contact-us",
+    "x": "@ravens",
+    "instagram": "@ravens"
+  },
+  "sponsors": [
+    {
+      "id": "m-and-t-bank",
+      "name": "M&T Bank",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "m-and-t-bank-owner",
+      "owner": "M&T Bank",
+      "verdict": "Owned by M&T Bank. Nothing found.",
+      "source": {
+        "name": "M&T Bank (investor news release)",
+        "date": "2023-04-20",
+        "url": "https://ir.mtb.com/news-releases/news-release-details/mt-bank-baltimore-ravens-extend-partnership-through-2037-nfl"
+      }
+    },
+    {
+      "id": "perdue-farms",
+      "name": "Perdue Farms",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "perdue-farms-owner",
+      "owner": "Perdue Farms",
+      "verdict": "Owned by Perdue Farms. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2026-07-20",
+        "url": "https://sportsbusinessjournal.com/Articles/2026/07/20/ravens-sign-perdue-farms-as-official-chicken-in-multiyear-sponsorship-deal"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "m-and-t-bank-owner",
+    "perdue-farms-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "toronto-blue-jays",
+  "team": "Toronto Blue Jays",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "Canada",
+  "contact": {
+    "email": "jayscarefoundation@bluejays.com",
+    "contact-form": "https://www.mlb.com/bluejays/official-information/contact",
+    "x": "@BlueJays",
+    "instagram": "@bluejays"
+  },
+  "sponsors": [
+    {
+      "id": "rogers-communications",
+      "name": "Rogers Communications",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "rogers-communications-owner",
+      "owner": "Rogers Communications Inc.",
+      "verdict": "Owned by Rogers Communications Inc.. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2005-02-03",
+        "url": "https://sportsbusinessjournal.com/Daily/Issues/2005/02/03/Facilities-Venues/Bye-Bye-Sky-Skydome-Now-Rogers-Centre-Jays-Bump-Up-Payroll/"
+      }
+    },
+    {
+      "id": "td-bank",
+      "name": "TD Bank",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "td-bank-owner",
+      "owner": "TD Bank",
+      "verdict": "Owned by TD Bank. Nothing found.",
+      "source": {
+        "name": "Blinkfire Analytics (2026 MLB jersey patch list)",
+        "date": "2026-04-20",
+        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "rogers-communications-owner",
+    "td-bank-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

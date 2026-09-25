@@ -1,0 +1,33 @@
+{
+  "id": "new-york-knicks",
+  "team": "New York Knicks",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "x": "@nyknicks",
+    "instagram": "@nyknicks"
+  },
+  "sponsors": [
+    {
+      "id": "experience-abu-dhabi",
+      "name": "Experience Abu Dhabi (Dept. of Culture and Tourism - Abu Dhabi)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-abu-dhabi",
+      "owner": "Government of Abu Dhabi",
+      "verdict": "Experience Abu Dhabi is the official tourism authority of the Emirate of Abu Dhabi, a state government entity.",
+      "source": {
+        "name": "PR Newswire / MSG Sports Corp.",
+        "date": "2024-10-17",
+        "url": "https://www.prnewswire.com/news-releases/experience-abu-dhabi-named-official-new-york-knicks-patch-partner-302278654.html"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-abu-dhabi"
+  ],
+  "lastUpdated": "2026-09-24"
+}

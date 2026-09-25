@@ -1,0 +1,35 @@
+{
+  "id": "new-york-yankees",
+  "team": "New York Yankees",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "tickets@yankees.com",
+    "contact-form": "https://www.mlb.com/yankees/official-information/contact",
+    "x": "@Yankees",
+    "instagram": "@yankees"
+  },
+  "sponsors": [
+    {
+      "id": "starr-insurance",
+      "name": "Starr Insurance Companies",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "starr-insurance-owner",
+      "owner": "Starr Insurance Companies",
+      "verdict": "Owned by Starr Insurance Companies. Nothing found.",
+      "source": {
+        "name": "NJ.com",
+        "date": "2026-04-02",
+        "url": "https://nj.com/yankees/2026/04/yankees-say-alterative-uniforms-wont-kill-tradition-weve-got-a-patch-on-our-sleeves.html"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "starr-insurance-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

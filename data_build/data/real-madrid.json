@@ -1,0 +1,35 @@
+{
+  "id": "real-madrid",
+  "team": "Real Madrid",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "oap@corp.realmadrid.com",
+    "contact-form": "https://www.realmadrid.com/es-ES/el-club/contacto",
+    "x": "@realmadrid",
+    "instagram": "@realmadrid"
+  },
+  "sponsors": [
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "SportsPro",
+        "date": "2026-06-10",
+        "url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-dubai"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "new-york-city-fc",
+  "team": "New York City FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "nycfc@nycfc.com",
+    "contact-form": "https://www.newyorkcityfc.com/team/contactus",
+    "x": "@newyorkcityfc",
+    "instagram": "@newyorkcityfc"
+  },
+  "sponsors": [
+    {
+      "id": "etihad-airways",
+      "name": "Etihad Airways",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-abu-dhabi",
+      "owner": "Government of Abu Dhabi",
+      "verdict": "The airline is owned by the Government of Abu Dhabi.",
+      "source": {
+        "name": "nycfc.com",
+        "date": "2026-07-01",
+        "url": "https://www.nycfc.com/news/the-all-nations-kit-new-york-city-fc-unveil-new-secondary-kit"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-abu-dhabi"
+  ],
+  "lastUpdated": "2026-09-24"
+}

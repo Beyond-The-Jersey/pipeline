@@ -1,0 +1,50 @@
+{
+  "id": "brentford",
+  "team": "Brentford",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "email": "tickets@brentfordfc.com",
+    "phone": "02088472511",
+    "contact-form": "https://www.brentfordfc.com/en/contact-us"
+  },
+  "sponsors": [
+    {
+      "id": "cazoo",
+      "name": "Cazoo",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "motors",
+      "owner": "Motors.co.uk Limited (O3 Industries / Novum Capital)",
+      "verdict": "Owned by Motors.co.uk Limited (O3 Industries / Novum Capital). Nothing found.",
+      "source": {
+        "name": "Brentford FC – 'Brentford Football Club extend official sleeve partnership with Cazoo'",
+        "date": "2026-07-16",
+        "url": "https://www.brentfordfc.com/en/news/article/club-news-brentford-fc-cazoo-official-sleeve-partner-extension"
+      }
+    },
+    {
+      "id": "indeed",
+      "name": "Indeed",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "recruit-holdings",
+      "owner": "Recruit Holdings",
+      "verdict": "Owned by Recruit Holdings Co., Ltd. (Tokyo-listed). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "motors",
+    "recruit-holdings"
+  ],
+  "lastUpdated": "2026-09-24"
+}

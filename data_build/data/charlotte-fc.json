@@ -1,0 +1,34 @@
+{
+  "id": "charlotte-fc",
+  "team": "Charlotte FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.charlottefootballclub.com/contact-us",
+    "x": "@CharlotteFC",
+    "instagram": "@charlottefc"
+  },
+  "sponsors": [
+    {
+      "id": "ally",
+      "name": "Ally",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "ally-financial",
+      "owner": "Ally Financial Inc.",
+      "verdict": "Owned by Ally Financial Inc.. Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "ally-financial"
+  ],
+  "lastUpdated": "2026-09-24"
+}

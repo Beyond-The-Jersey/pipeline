@@ -1,0 +1,51 @@
+{
+  "id": "denver-nuggets",
+  "team": "Denver Nuggets",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "email": "Juwaun.Davis@TeamKSE.com",
+    "contact-form": "https://www.nba.com/nuggets/contact-us",
+    "x": "@nuggets",
+    "instagram": "@nuggets"
+  },
+  "sponsors": [
+    {
+      "id": "ball-corporation",
+      "name": "Ball Corporation",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "ball-corporation-owner",
+      "owner": "Ball Corporation",
+      "verdict": "Owned by Ball Corporation. Nothing found.",
+      "source": {
+        "name": "Denver Nuggets (nba.com, KSE/Ball release)",
+        "date": "2020-10-22",
+        "url": "https://www.nba.com/nuggets/news/kse-ballcorp-globalpartnership-20201022"
+      }
+    },
+    {
+      "id": "ibotta",
+      "name": "Ibotta",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "ibotta-owner",
+      "owner": "Ibotta LLC",
+      "verdict": "Owned by Ibotta LLC. Nothing found.",
+      "source": {
+        "name": "Sportcal",
+        "date": "2026-04-17",
+        "url": "https://sportcal.com/news/ibotta-extends-as-nuggets-jersey-patch-partner"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "ball-corporation-owner",
+    "ibotta-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

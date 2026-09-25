@@ -1,0 +1,35 @@
+{
+  "id": "inter-miami",
+  "team": "Inter Miami CF",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.intermiamicf.com",
+    "contact-form": "https://www.intermiamicf.com/tickets/member-central/contact",
+    "x": "@intermiamicf",
+    "instagram": "@intermiamicf"
+  },
+  "sponsors": [
+    {
+      "id": "royal-caribbean",
+      "name": "Royal Caribbean",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "royal-caribbean-cruises-ltd",
+      "owner": "Royal Caribbean Cruises Ltd.",
+      "verdict": "Owned by Royal Caribbean Cruises Ltd.. Nothing found.",
+      "source": {
+        "name": "royalcaribbean.com",
+        "date": "2026-02-17",
+        "url": "https://www.royalcaribbean.com/partnerships/inter-miami-sponsor"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "royal-caribbean-cruises-ltd"
+  ],
+  "lastUpdated": "2026-09-24"
+}

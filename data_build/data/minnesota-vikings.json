@@ -1,0 +1,35 @@
+{
+  "id": "minnesota-vikings",
+  "team": "Minnesota Vikings",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "customerservice@vikings.nfl.net",
+    "contact-form": "https://www.vikings.com/footer/contact-us",
+    "x": "@vikings",
+    "instagram": "@vikings"
+  },
+  "sponsors": [
+    {
+      "id": "u-s-bank",
+      "name": "U.S. Bank",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "us-bank-owner",
+      "owner": "U.S. Bank",
+      "verdict": "Owned by U.S. Bank. Nothing found.",
+      "source": {
+        "name": "Minnesota Vikings",
+        "date": "2015-06-15",
+        "url": "https://www.vikings.com/news/u-s-bank-vikings-introduce-u-s-bank-stadium-places-to-play-program-15408806"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "us-bank-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

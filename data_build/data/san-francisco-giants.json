@@ -1,0 +1,51 @@
+{
+  "id": "san-francisco-giants",
+  "team": "San Francisco Giants",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "customerservice@sfgiants.com",
+    "contact-form": "https://www.mlb.com/giants/official-information/contact",
+    "x": "@SFGiants",
+    "instagram": "@SFGiants"
+  },
+  "sponsors": [
+    {
+      "id": "airwallex",
+      "name": "Airwallex",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "airwallex-owner",
+      "owner": "Airwallex",
+      "verdict": "Owned by Airwallex. Nothing found.",
+      "source": {
+        "name": "MLB.com press release (San Francisco Giants)",
+        "date": "2026-02-18",
+        "url": "https://www.mlb.com/press-release/press-release-airwallex-becomes-the-giants-official-jersey-patch-partner"
+      }
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "oracle-corporation",
+      "owner": "Oracle Corporation",
+      "verdict": "Owned by Oracle Corporation. Nothing found.",
+      "source": {
+        "name": "Oracle Blogs",
+        "date": "2019-01-10",
+        "url": "https://blogs.oracle.com/san-francisco-giants-and-oracle-announce-oracle-park"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "airwallex-owner",
+    "oracle-corporation"
+  ],
+  "lastUpdated": "2026-09-24"
+}

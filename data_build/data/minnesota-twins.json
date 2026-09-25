@@ -1,0 +1,51 @@
+{
+  "id": "minnesota-twins",
+  "team": "Minnesota Twins",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "twins@twinsbaseball.com",
+    "contact-form": "https://www.mlb.com/twins/official-information/contact",
+    "x": "@Twins",
+    "instagram": "@twins"
+  },
+  "sponsors": [
+    {
+      "id": "securian-financial",
+      "name": "Securian Financial",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "securian-financial-owner",
+      "owner": "Securian Financial Corporation",
+      "verdict": "Owned by Securian Financial Corporation. Nothing found.",
+      "source": {
+        "name": "Sports Business Journal",
+        "date": "2025-07-17",
+        "url": "https://www.sportsbusinessjournal.com/Articles/2025/07/17/securian-financial-becomes-twins-first-ever-jersey-patch-sponsor"
+      }
+    },
+    {
+      "id": "target",
+      "name": "Target",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "target-corporation",
+      "owner": "Target Corporation",
+      "verdict": "Owned by Target Corporation. Nothing found.",
+      "source": {
+        "name": "Chief Marketer",
+        "date": "2008-09-15",
+        "url": "https://chiefmarketer.com/target-scores-naming-rights-for-minnesota-twins-ballpark"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "securian-financial-owner",
+    "target-corporation"
+  ],
+  "lastUpdated": "2026-09-24"
+}

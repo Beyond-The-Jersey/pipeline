@@ -1,0 +1,50 @@
+{
+  "id": "afc-bournemouth",
+  "team": "AFC Bournemouth",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.afcb.co.uk/contact",
+    "x": "@afcbournemouth",
+    "instagram": "@afcb"
+  },
+  "sponsors": [
+    {
+      "id": "mrq",
+      "name": "MrQ",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "tek-fox-ltd",
+      "owner": "Tek Fox Ltd (MrQ)",
+      "verdict": "Owned by Tek Fox Ltd (MrQ). Nothing found.",
+      "source": {
+        "name": "AFC Bournemouth – 'AFC Bournemouth announces multi-year partnership with MrQ'",
+        "date": "2026-07-08",
+        "url": "https://www.afcb.co.uk/news/2026/july/08/afc-bournemouth-announces-multi-year-partnership-with-mrq/"
+      }
+    },
+    {
+      "id": "vitality",
+      "name": "Vitality",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "discovery-limited",
+      "owner": "Discovery Limited (Johannesburg-listed)",
+      "verdict": "Owned by Discovery Limited (Johannesburg-listed). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "discovery-limited",
+    "tek-fox-ltd"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "elche",
+  "team": "Elche CF",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "x": "@elchecf",
+    "instagram": "@elchecf"
+  },
+  "sponsors": [
+    {
+      "id": "flexicar",
+      "name": "Flexicar",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "flexicar-internacional",
+      "owner": "Flexicar Internacional (owner Luis Oliver Cornago)",
+      "verdict": "Owned by Flexicar Internacional (owner Luis Oliver Cornago). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "flexicar-internacional"
+  ],
+  "lastUpdated": "2026-09-24"
+}

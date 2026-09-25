@@ -1,0 +1,51 @@
+{
+  "id": "cincinnati-reds",
+  "team": "Cincinnati Reds",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "ticketservices@reds.com",
+    "contact-form": "https://www.mlb.com/reds/official-information/contact",
+    "x": "@Reds",
+    "instagram": "@reds"
+  },
+  "sponsors": [
+    {
+      "id": "great-american-insurance",
+      "name": "Great American Insurance",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "great-american-insurance-owner",
+      "owner": "Great American Insurance",
+      "verdict": "Owned by Great American Insurance. Nothing found.",
+      "source": {
+        "name": "Ballparks of Baseball",
+        "date": "2023-01-01",
+        "url": "https://ballparksofbaseball.com/ballparks/great-american-ball-park"
+      }
+    },
+    {
+      "id": "kroger",
+      "name": "Kroger",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "kroger-owner",
+      "owner": "Kroger",
+      "verdict": "Kroger agreed to pay up to $1.4 billion to settle opioid lawsuits with states, counties and tribes in 2023.",
+      "source": {
+        "name": "Front Office Sports",
+        "date": "2023-02-02",
+        "url": "https://frontofficesports.com/mlb-jersey-patch-market-warming-up-reds-ink-deal"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "great-american-insurance-owner",
+    "kroger-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

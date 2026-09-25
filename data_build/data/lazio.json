@@ -1,0 +1,34 @@
+{
+  "id": "lazio",
+  "team": "SS Lazio",
+  "sport": "soccer",
+  "league": "serie-a",
+  "country": "Italy",
+  "contact": {
+    "contact-form": "https://www.sslazio.it/it/club/organizzazione/info-contatti",
+    "x": "@OfficialSSLazio",
+    "instagram": "@official_sslazio"
+  },
+  "sponsors": [
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "placement": "front",
+      "season": null,
+      "tier": "none",
+      "ownerId": "blockratize-inc",
+      "owner": "Blockratize, Inc. (dba Polymarket)",
+      "verdict": "Owned by Blockratize, Inc. (dba Polymarket). Nothing found.",
+      "source": {
+        "name": "SBC News",
+        "date": "2026-08-12",
+        "url": "https://sbcnews.co.uk/europe/italy/2026/08/12/lazio-polymarket-2026/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "blockratize-inc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

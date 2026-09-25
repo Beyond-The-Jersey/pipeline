@@ -1,0 +1,35 @@
+{
+  "id": "colorado-rapids",
+  "team": "Colorado Rapids",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "email": "Sean.Sullivan@TeamKSE.com",
+    "contact-form": "https://www.coloradorapids.com/tickets/contact-us",
+    "x": "@ColoradoRapids",
+    "instagram": "@ColoradoRapids"
+  },
+  "sponsors": [
+    {
+      "id": "uchealth",
+      "name": "UCHealth",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "uchealth",
+      "owner": "UCHealth (University of Colorado Health)",
+      "verdict": "Owned by UCHealth (University of Colorado Health). Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "uchealth"
+  ],
+  "lastUpdated": "2026-09-24"
+}

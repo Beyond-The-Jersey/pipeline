@@ -1,0 +1,114 @@
+{
+  "id": "alpine",
+  "team": "BWT Alpine F1 Team",
+  "sport": "motorsport",
+  "league": "formula-1",
+  "country": "United Kingdom",
+  "contact": {
+    "x": "@AlpineF1Team",
+    "instagram": "@alpinef1team"
+  },
+  "sponsors": [
+    {
+      "id": "boeing",
+      "name": "Boeing",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "concern",
+      "ownerId": "boeing",
+      "owner": "The Boeing Company",
+      "verdict": "The Boeing Company is a US-listed commercial and defence aerospace prime with a widely held register and no state shareholder; its largest holders are index….",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.alpinef1.com/partners"
+      }
+    },
+    {
+      "id": "bwt",
+      "name": "BWT",
+      "placement": "front",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "bwt-group",
+      "owner": "BWT AG (WAB Group / Weissenbacher family)",
+      "verdict": "Owned by BWT AG (WAB Group / Weissenbacher family). Nothing found.",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.alpinef1.com/partners"
+      }
+    },
+    {
+      "id": "eni",
+      "name": "Eni",
+      "placement": "front",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "eni",
+      "owner": "Eni S.p.A.",
+      "verdict": "Eni S.p.A.",
+      "source": {
+        "name": "Eni – Eni, Renault Group and BWT Alpine Formula One Team new strategic partnership (PDF)",
+        "date": "2025-02-13",
+        "url": "https://www.eni.com/content/dam/enicom/documents/press-release/migrated/2025-en/02/pr-eni-renault-group-bwt-alpine-formula-one-team-new-strategic-partnership.pdf"
+      }
+    },
+    {
+      "id": "etoro",
+      "name": "eToro",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "etoro",
+      "owner": "eToro Group Ltd.",
+      "verdict": "Owned by eToro Group Ltd.. Nothing found.",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.alpinef1.com/partners"
+      }
+    },
+    {
+      "id": "msc-cruises",
+      "name": "MSC Cruises",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "none",
+      "ownerId": "msc-group-aponte-family",
+      "owner": "Mediterranean Shipping Company (MSC Group) - Aponte family",
+      "verdict": "Owned by Mediterranean Shipping Company (MSC Group) - Aponte family. Nothing found.",
+      "source": {
+        "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+        "date": "2026-09-24",
+        "url": "https://www.alpinef1.com/partners"
+      }
+    },
+    {
+      "id": "qatar-airways",
+      "name": "Qatar Airways",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "government-of-qatar",
+      "owner": "Government of the State of Qatar (Qatar Airways Group Q.C.S.C.)",
+      "verdict": "Qatar Airways Group Q.C.S.C.",
+      "source": {
+        "name": "Qatar Airways – Qatar Airways and BWT Alpine Formula One Team unite with Carmen Jordá",
+        "date": "2026",
+        "url": "https://www.qatarairways.com/press-releases/en-WW/258365-qatar-airways-and-bwt-alpine-formula-one-team-unite-with-carmen-jorda-to-champion-female-empowerment-in-motorsport-and-aviation/",
+        "note": "date precision: year"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "boeing",
+    "bwt-group",
+    "eni",
+    "etoro",
+    "government-of-qatar",
+    "msc-group-aponte-family"
+  ],
+  "lastUpdated": "2026-09-24"
+}

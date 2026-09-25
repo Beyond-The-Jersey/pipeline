@@ -1,0 +1,35 @@
+{
+  "id": "pittsburgh-steelers",
+  "team": "Pittsburgh Steelers",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "ticketoffice@steelers.com",
+    "contact-form": "https://www.steelers.com/legal/contact-us/",
+    "x": "@steelers",
+    "instagram": "@steelers"
+  },
+  "sponsors": [
+    {
+      "id": "acrisure",
+      "name": "Acrisure",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "acrisure-owner",
+      "owner": "Acrisure LLC",
+      "verdict": "Owned by Acrisure LLC. Nothing found.",
+      "source": {
+        "name": "Pittsburgh Steelers",
+        "date": "2022-07-12",
+        "url": "https://www.steelers.com/news/steelers-acrisure-announce-partnership-for-stadium-naming-rights"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "acrisure-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

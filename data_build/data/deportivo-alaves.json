@@ -1,0 +1,36 @@
+{
+  "id": "deportivo-alaves",
+  "team": "Deportivo Alaves",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "email": "deportivoalavessad@alaves.com",
+    "phone": "945139191",
+    "contact-form": "https://deportivoalaves.com:443/es/aviso-legal",
+    "x": "@alaves",
+    "instagram": "@deportivoalaves"
+  },
+  "sponsors": [
+    {
+      "id": "mk-tiyu-news",
+      "name": "MK TIYU News",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "mk-sports-news",
+      "owner": "mk体育 / MKSPORTS News (mktynews.com)",
+      "verdict": "Deportivo Alaves' Asian main sponsor, now branded 'MK体育NEWS (mktynews.com)' after a 2026 rebrand, is a Chinese sports-media/marketing platform.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "mk-sports-news"
+  ],
+  "lastUpdated": "2026-09-24"
+}

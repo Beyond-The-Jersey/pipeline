@@ -1,0 +1,35 @@
+{
+  "id": "chelsea",
+  "team": "Chelsea",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "email": "clubchelsea@chelseafc.com",
+    "contact-form": "https://www.chelseafc.com/en/contact-us",
+    "x": "@chelseafc",
+    "instagram": "@chelseafc"
+  },
+  "sponsors": [
+    {
+      "id": "circle-usdc",
+      "name": "USDC (Circle)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "circle-internet-group",
+      "owner": "Circle Internet Group",
+      "verdict": "Owned by Circle Internet Group, Inc. (NYSE: CRCL) — public shareholders. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "circle-internet-group"
+  ],
+  "lastUpdated": "2026-09-24"
+}

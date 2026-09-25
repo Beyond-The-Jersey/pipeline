@@ -1,0 +1,49 @@
+{
+  "id": "brighton-and-hove-albion",
+  "team": "Brighton & Hove Albion",
+  "sport": "soccer",
+  "league": "premier-league",
+  "country": "England",
+  "contact": {
+    "contact-form": "https://www.brightonandhovealbion.com/home/contact",
+    "x": "@Boro"
+  },
+  "sponsors": [
+    {
+      "id": "american-express",
+      "name": "American Express",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "american-express-company",
+      "owner": "American Express Company",
+      "verdict": "A listed US company with no state owner. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+        "date": "2026-09-17",
+        "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+      }
+    },
+    {
+      "id": "experience-kissimmee",
+      "name": "Experience Kissimmee",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "osceola-county-tourism-authority",
+      "owner": "Experience Kissimmee (official tourism authority for Osceola County, Florida)",
+      "verdict": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development….",
+      "source": {
+        "name": "Brighton & Hove Albion – 'Experience Kissimmee announces partnership with Albion'",
+        "date": "2024-06-11",
+        "url": "https://www.brightonandhovealbion.com/news/4036436/experience-kissimmee-announces-partnership-with-albion"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "american-express-company",
+    "osceola-county-tourism-authority"
+  ],
+  "lastUpdated": "2026-09-24"
+}

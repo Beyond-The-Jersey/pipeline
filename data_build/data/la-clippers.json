@@ -1,0 +1,50 @@
+{
+  "id": "la-clippers",
+  "team": "LA Clippers",
+  "sport": "basketball",
+  "league": "nba",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.nba.com/clippers/?tmd=1/contact-us",
+    "x": "@LAClippers",
+    "instagram": "@laclippers"
+  },
+  "sponsors": [
+    {
+      "id": "intuit",
+      "name": "Intuit (Intuit Inc., Nasdaq: INTU)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "concern",
+      "ownerId": "intuit-intuit-inc-nasdaq-intu-owner",
+      "owner": "Intuit Inc.",
+      "verdict": "Intuit Inc.",
+      "source": {
+        "name": "Intuit Inc. investor press release (Business Wire)",
+        "date": "2021-09-17",
+        "url": "https://investors.intuit.com/news-events/press-releases/detail/161/la-clippers-to-announce-partnership-during-groundbreaking-for-intuit-dome"
+      }
+    },
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": {
+        "name": "LA Clippers press release (NBA.com)",
+        "date": "2025-09-29",
+        "url": "https://www.nba.com/clippers/news/visit-rwanda-lands-in-los-angeles"
+      }
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "government-of-rwanda",
+    "intuit-intuit-inc-nasdaq-intu-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

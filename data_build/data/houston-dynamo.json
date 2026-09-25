@@ -1,0 +1,37 @@
+{
+  "id": "houston-dynamo",
+  "team": "Houston Dynamo FC",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.houstondynamofc.com",
+    "contact-form": "https://www.houstondynamofc.com/contact-us",
+    "email": "info@houstondynamo.com",
+    "phone": "+1 713-276-7500",
+    "x": "@houstondynamo",
+    "instagram": "@houstondynamo"
+  },
+  "sponsors": [
+    {
+      "id": "md-anderson-cancer-center",
+      "name": "MD Anderson Cancer Center",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "university-of-texas-system",
+      "owner": "The University of Texas System (UT MD Anderson Cancer Center)",
+      "verdict": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT….",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "university-of-texas-system"
+  ],
+  "lastUpdated": "2026-09-24"
+}

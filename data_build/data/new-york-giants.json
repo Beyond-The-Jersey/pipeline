@@ -1,0 +1,49 @@
+{
+  "id": "new-york-giants",
+  "team": "New York Giants",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "x": "@giants",
+    "instagram": "@nygiants"
+  },
+  "sponsors": [
+    {
+      "id": "metlife",
+      "name": "MetLife",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "metlife-owner",
+      "owner": "MetLife LLC",
+      "verdict": "Owned by MetLife LLC. Nothing found.",
+      "source": {
+        "name": "NJ.com",
+        "date": "2026-04-15",
+        "url": "https://www.nj.com/bergen/2026/04/metlife-stadiums-name-change-leaves-nj-as-second-fiddle-what-else-is-new.html"
+      }
+    },
+    {
+      "id": "quest-diagnostics",
+      "name": "Quest Diagnostics",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "quest-diagnostics-owner",
+      "owner": "Quest Diagnostics",
+      "verdict": "Owned by Quest Diagnostics. Nothing found.",
+      "source": {
+        "name": "Zoomph - NFL Practice Jersey Sponsor Guide (updated 2026-09-01)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "metlife-owner",
+    "quest-diagnostics-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

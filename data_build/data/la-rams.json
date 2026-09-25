@@ -1,0 +1,62 @@
+{
+  "id": "la-rams",
+  "team": "Los Angeles Rams",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "contact-form": "https://www.therams.com/form/contactmetix",
+    "x": "@ramsnfl",
+    "instagram": "@rams"
+  },
+  "sponsors": [
+    {
+      "id": "hyundai",
+      "name": "Hyundai (Hyundai Motor America)",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "hyundai-owner",
+      "owner": "Hyundai Motor Company",
+      "verdict": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai….",
+      "source": {
+        "name": "Zoomph (2026 NFL practice-jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    },
+    {
+      "id": "sofi",
+      "name": "SoFi",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "sofi-owner",
+      "owner": "SoFi LLC",
+      "verdict": "Owned by SoFi LLC. Nothing found.",
+      "source": {
+        "name": "Los Angeles Times (quoting the joint club/venue release)",
+        "date": "2019-09-15",
+        "url": "https://www.latimes.com/sports/rams/story/2019-09-15/inglewood-stadium-name-chargers-rams"
+      }
+    },
+    {
+      "id": "visit-rwanda",
+      "name": "Visit Rwanda",
+      "placement": "partner",
+      "season": null,
+      "tier": "severe",
+      "ownerId": "government-of-rwanda",
+      "owner": "Government of Rwanda",
+      "verdict": "Paid for by a government that UN experts say has 3,000–4,000 troops fighting alongside M23 rebels in eastern Congo.",
+      "source": null
+    }
+  ],
+  "worstTier": "severe",
+  "owners": [
+    "government-of-rwanda",
+    "hyundai-owner",
+    "sofi-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

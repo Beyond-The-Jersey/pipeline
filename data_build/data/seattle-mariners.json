@@ -1,0 +1,51 @@
+{
+  "id": "seattle-mariners",
+  "team": "Seattle Mariners",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "tickets@mariners.mlb.com",
+    "contact-form": "https://www.mlb.com/mariners/official-information/contact",
+    "x": "@Mariners",
+    "instagram": "@mariners"
+  },
+  "sponsors": [
+    {
+      "id": "nintendo",
+      "name": "Nintendo (Nintendo of America)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "nintendo-owner",
+      "owner": "Nintendo (Nintendo of America) LLC",
+      "verdict": "Owned by Nintendo (Nintendo of America) LLC. Nothing found.",
+      "source": {
+        "name": "Seattle Mariners (MLB.com)",
+        "date": "2026-03-27",
+        "url": "https://mariners.com/Nintendo"
+      }
+    },
+    {
+      "id": "t-mobile",
+      "name": "T-Mobile",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "t-mobile-owner",
+      "owner": "T-Mobile LLC",
+      "verdict": "Owned by T-Mobile LLC. Nothing found.",
+      "source": {
+        "name": "MLB.com press release",
+        "date": "2018-12-19",
+        "url": "https://www.mlb.com/press-release/t-mobile-and-seattle-mariners-team-up-to-present-t-mobile-park-302014586"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "nintendo-owner",
+    "t-mobile-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

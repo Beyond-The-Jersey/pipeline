@@ -1,0 +1,37 @@
+{
+  "id": "fc-cincinnati",
+  "team": "FC Cincinnati",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "website": "https://www.fccincinnati.com",
+    "contact-form": "https://www.fccincinnati.com/tickets/contact-us",
+    "email": "tickets@fccincinnati.com",
+    "phone": "+1 513-977-5425",
+    "x": "@fccincinnati",
+    "instagram": "@fccincinnati"
+  },
+  "sponsors": [
+    {
+      "id": "mercy-health",
+      "name": "Mercy Health",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "bon-secours-mercy-health",
+      "owner": "Bon Secours Mercy Health (Mercy Health, Ohio and Kentucky)",
+      "verdict": "Owned by Bon Secours Mercy Health (Mercy Health, Ohio and Kentucky). Nothing found.",
+      "source": {
+        "name": "FOR SOCCER",
+        "date": "2026-02-17",
+        "url": "https://www.forsoccer.com/insight/2026-mls-jersey-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "bon-secours-mercy-health"
+  ],
+  "lastUpdated": "2026-09-24"
+}

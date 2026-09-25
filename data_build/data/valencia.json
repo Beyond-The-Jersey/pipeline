@@ -1,0 +1,34 @@
+{
+  "id": "valencia",
+  "team": "Valencia CF",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "contact-form": "https://www.valenciacf.com/aviso-legal",
+    "x": "@valenciacf",
+    "instagram": "@valenciacf"
+  },
+  "sponsors": [
+    {
+      "id": "tm-real-estate-group",
+      "name": "TM Real Estate Group",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "tm-grupo-inmobiliario",
+      "owner": "TM Grupo Inmobiliario (Serna family)",
+      "verdict": "Owned by TM Grupo Inmobiliario (Serna family). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "tm-grupo-inmobiliario"
+  ],
+  "lastUpdated": "2026-09-24"
+}

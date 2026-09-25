@@ -1,0 +1,33 @@
+{
+  "id": "new-york-red-bulls",
+  "team": "New York Red Bulls",
+  "sport": "soccer",
+  "league": "mls",
+  "country": "USA",
+  "contact": {
+    "x": "@newyorkredbulls",
+    "instagram": "@newyorkredbulls"
+  },
+  "sponsors": [
+    {
+      "id": "red-bull",
+      "name": "Red Bull",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "mateschitz-yoovidhya-families",
+      "owner": "Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH",
+      "verdict": "Owned by Mateschitz family (49%) and Yoovidhya family (51%), via Red Bull GmbH. Nothing found.",
+      "source": {
+        "name": "newyorkredbulls.com",
+        "date": "2026-02-17",
+        "url": "https://www.newyorkredbulls.com/club/partners"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "mateschitz-yoovidhya-families"
+  ],
+  "lastUpdated": "2026-09-24"
+}

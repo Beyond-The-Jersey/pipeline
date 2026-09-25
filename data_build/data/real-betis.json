@@ -1,0 +1,34 @@
+{
+  "id": "real-betis",
+  "team": "Real Betis",
+  "sport": "soccer",
+  "league": "la-liga",
+  "country": "Spain",
+  "contact": {
+    "contact-form": "https://www.realbetisbalompie.es/club/contacto",
+    "x": "@RealBetis",
+    "instagram": "@realbetisbalompie"
+  },
+  "sponsors": [
+    {
+      "id": "gree",
+      "name": "Gree",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "concern",
+      "ownerId": "gree-group-zhuhai-sasac",
+      "owner": "Gree Group Co., Ltd. (Zhuhai Municipal Government / Zhuhai SASAC)",
+      "verdict": "Gree Electric Appliances Inc.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "concern",
+  "owners": [
+    "gree-group-zhuhai-sasac"
+  ],
+  "lastUpdated": "2026-09-24"
+}

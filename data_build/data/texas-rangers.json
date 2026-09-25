@@ -1,0 +1,51 @@
+{
+  "id": "texas-rangers",
+  "team": "Texas Rangers",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "ticketoffice@texasrangers.com",
+    "contact-form": "https://www.mlb.com/rangers/official-information/contact",
+    "x": "@Rangers",
+    "instagram": "@rangers"
+  },
+  "sponsors": [
+    {
+      "id": "energy-transfer",
+      "name": "Energy Transfer",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "energy-transfer-owner",
+      "owner": "Energy Transfer LP",
+      "verdict": "Owned by Energy Transfer LP. Nothing found.",
+      "source": {
+        "name": "Texas Rangers / MLB.com press release",
+        "date": "2024-03-27",
+        "url": "https://www.mlb.com/press-release/press-release-texas-rangers-announcement-multi-year-agreement-with-energy-transfer-to-become-team-s-official-jersey-patch-partner"
+      }
+    },
+    {
+      "id": "globe-life",
+      "name": "Globe Life (Globe Life Inc.)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "globe-life-globe-life-inc-owner",
+      "owner": "Globe Life (Globe Life Inc.)",
+      "verdict": "Owned by Globe Life (Globe Life Inc.). Nothing found.",
+      "source": {
+        "name": "Globe Life Inc. investor newsroom",
+        "date": "2017-08-24",
+        "url": "https://investors.globelifeinsurance.com/news-releases/2017/august/globe-life-extends-naming-rights-partnership-to-texas-rangers-new-ballpark"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "energy-transfer-owner",
+    "globe-life-globe-life-inc-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

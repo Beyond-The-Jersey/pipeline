@@ -1,0 +1,35 @@
+{
+  "id": "los-angeles-angels",
+  "team": "Los Angeles Angels",
+  "sport": "baseball",
+  "league": "mlb",
+  "country": "USA",
+  "contact": {
+    "email": "ballparkinfo@angels.mlb.com",
+    "contact-form": "https://www.mlb.com/angels/official-information/contact",
+    "x": "@angels",
+    "instagram": "@angels"
+  },
+  "sponsors": [
+    {
+      "id": "foundation-building-materials",
+      "name": "Foundation Building Materials (FBM)",
+      "placement": "patch",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "foundation-building-materials-owner",
+      "owner": "Foundation Building Materials (FBM) LLC",
+      "verdict": "Owned by Foundation Building Materials (FBM) LLC. Nothing found.",
+      "source": {
+        "name": "Blinkfire Analytics",
+        "date": "2026-04-20",
+        "url": "https://analyticsblog.blinkfire.com/blog/2026/04/20/mlb-2026-jersey-patches-brands-buying-into-baseball/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "foundation-building-materials-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

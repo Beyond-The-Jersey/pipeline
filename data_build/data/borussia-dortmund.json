@@ -1,0 +1,35 @@
+{
+  "id": "borussia-dortmund",
+  "team": "Borussia Dortmund",
+  "sport": "soccer",
+  "league": "bundesliga",
+  "country": "Germany",
+  "contact": {
+    "email": "inklusion@bvb.de",
+    "contact-form": "https://www.bvb.de/de/de/mannschaften/fussball/frauen/kontakt-tickets.html",
+    "x": "@bvb",
+    "instagram": "@bvb09"
+  },
+  "sponsors": [
+    {
+      "id": "vodafone",
+      "name": "Vodafone",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "vodafone-group-plc",
+      "owner": "Vodafone Group Plc — public shareholders (Niel family now largest holder)",
+      "verdict": "Owned by Vodafone Group Plc — public shareholders (Niel family now largest holder). Nothing found.",
+      "source": {
+        "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
+        "date": "2026-08-04",
+        "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "vodafone-group-plc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "houston-texans",
+  "team": "Houston Texans",
+  "sport": "american-football",
+  "league": "nfl",
+  "country": "USA",
+  "contact": {
+    "email": "Ticketing@HoustonTexans.com",
+    "contact-form": "https://www.houstontexans.com/game-day/contact-us",
+    "x": "@HoustonTexans",
+    "instagram": "@HoustonTexans"
+  },
+  "sponsors": [
+    {
+      "id": "nrg-energy",
+      "name": "NRG Energy (Reliant brand)",
+      "placement": "stadium",
+      "season": null,
+      "tier": "none",
+      "ownerId": "nrg-energy-reliant-brand-owner",
+      "owner": "NRG Energy (Reliant brand) LLC",
+      "verdict": "Owned by NRG Energy (Reliant brand) LLC. Nothing found.",
+      "source": {
+        "name": "Reliant / NRG Energy press release",
+        "date": "2026-04-15",
+        "url": "https://news.reliant.com/press-releases/press-release-details/2026/Reliant-Stadium-Returns-in-August-2026"
+      }
+    },
+    {
+      "id": "xfinity",
+      "name": "Xfinity (also Houston Methodist on some jerseys)",
+      "placement": "training-kit",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "xfinity-owner",
+      "owner": "Comcast Corporation",
+      "verdict": "Owned by Comcast Corporation. Nothing found.",
+      "source": {
+        "name": "Zoomph (2026 NFL practice jersey patch guide)",
+        "date": "2026-09-01",
+        "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "nrg-energy-reliant-brand-owner",
+    "xfinity-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}
