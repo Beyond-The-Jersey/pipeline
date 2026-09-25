@@ -11,6 +11,21 @@
   },
   "sponsors": [
     {
+      "id": "kraken",
+      "name": "Kraken",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "payward",
+      "owner": "Payward, Inc. (d/b/a Kraken)",
+      "verdict": "Owned by Payward, Inc. (d/b/a Kraken). Nothing found.",
+      "source": {
+        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+        "date": "2025-26",
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+      }
+    },
+    {
       "id": "red-bull",
       "name": "Red Bull",
       "placement": "front",
@@ -28,7 +43,8 @@
   ],
   "worstTier": "none",
   "owners": [
-    "mateschitz-yoovidhya-families"
+    "mateschitz-yoovidhya-families",
+    "payward"
   ],
   "lastUpdated": "2026-09-24"
 }

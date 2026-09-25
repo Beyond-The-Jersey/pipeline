@@ -30,7 +30,7 @@
       "name": "UCLA Health",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "serious",
+      "tier": "unrated",
       "ownerId": "ucla-health-owner",
       "owner": "University of California",
       "verdict": "UCLA Health is ultimately owned by the University of California, a state entity.",
@@ -41,7 +41,7 @@
       }
     }
   ],
-  "worstTier": "serious",
+  "worstTier": "none",
   "owners": [
     "sofi-owner",
     "ucla-health-owner"

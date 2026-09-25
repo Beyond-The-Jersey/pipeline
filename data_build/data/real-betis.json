@@ -24,11 +24,44 @@
         "date": "2026-09-06",
         "url": "https://www.scoreandchange.com/la-liga-sponsors/"
       }
+    },
+    {
+      "id": "revel",
+      "name": "REVEL",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "revel",
+      "owner": "REVEL",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "id": "trainline",
+      "name": "Trainline",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "trainline-plc",
+      "owner": "Trainline plc",
+      "verdict": null,
+      "source": {
+        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+        "date": "2025-10-08",
+        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+        "note": "Trainline back of shirt per the 2025-26 guide"
+      }
     }
   ],
   "worstTier": "concern",
   "owners": [
-    "gree-group-zhuhai-sasac"
+    "gree-group-zhuhai-sasac",
+    "revel",
+    "trainline-plc"
   ],
   "lastUpdated": "2026-09-24"
 }

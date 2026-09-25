@@ -12,6 +12,21 @@
   },
   "sponsors": [
     {
+      "id": "idm-energiesysteme",
+      "name": "IDM Energiesysteme",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "idm-energiesysteme",
+      "owner": "IDM Energiesysteme GmbH",
+      "verdict": null,
+      "source": {
+        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+        "date": "2025-26",
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+      }
+    },
+    {
       "id": "koemmerling",
       "name": "Koemmerling",
       "placement": "front",
@@ -29,6 +44,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "idm-energiesysteme",
     "profine-gmbh"
   ],
   "lastUpdated": "2026-09-24"

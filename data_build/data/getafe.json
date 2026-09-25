@@ -12,6 +12,37 @@
   },
   "sponsors": [
     {
+      "id": "lowi",
+      "name": "Lowi",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "vodafone-group-plc",
+      "owner": "Vodafone Group Plc — public shareholders (Niel family now largest holder)",
+      "verdict": null,
+      "source": {
+        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+        "date": "2025-10-08",
+        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+        "note": "Lowi back of shirt per the 2025-26 guide; one of the two Lowi backs the 2026-27 overview names, not identified there"
+      }
+    },
+    {
+      "id": "odty-news",
+      "name": "ODTY News",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "odty-news",
+      "owner": "ODTY News",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
       "id": "tecnocasa-group",
       "name": "Tecnocasa Group",
       "placement": "front",
@@ -29,7 +60,9 @@
   ],
   "worstTier": "none",
   "owners": [
-    "tecnocasa-holding-spa"
+    "odty-news",
+    "tecnocasa-holding-spa",
+    "vodafone-group-plc"
   ],
   "lastUpdated": "2026-09-24"
 }

@@ -12,6 +12,21 @@
   },
   "sponsors": [
     {
+      "id": "polestar",
+      "name": "Polestar",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "polestar-automotive",
+      "owner": "Polestar Automotive Holding UK PLC",
+      "verdict": null,
+      "source": {
+        "name": "433FC, Bundesliga 2026/27 shirt sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/bundesliga-2026-27-shirt-sponsors/"
+      }
+    },
+    {
       "id": "vodafone",
       "name": "Vodafone",
       "placement": "front",
@@ -29,6 +44,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "polestar-automotive",
     "vodafone-group-plc"
   ],
   "lastUpdated": "2026-09-24"

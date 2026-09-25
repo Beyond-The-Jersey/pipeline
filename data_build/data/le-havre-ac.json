@@ -1,0 +1,73 @@
+{
+  "id": "le-havre-ac",
+  "team": "Le Havre AC",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "df-industrie",
+      "name": "DF Industrie",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Le Havre AC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "http://www.hac-foot.com/"
+      }
+    },
+    {
+      "id": "seafrigo",
+      "name": "Seafrigo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Le Havre AC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "http://www.hac-foot.com/"
+      }
+    },
+    {
+      "id": "sim-agences-d-emploi",
+      "name": "SIM Agences d'emploi",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Le Havre AC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "http://www.hac-foot.com/"
+      }
+    },
+    {
+      "id": "zeturf",
+      "name": "Zeturf",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Le Havre AC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "http://www.hac-foot.com/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

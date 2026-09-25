@@ -1,0 +1,43 @@
+{
+  "id": "team-visma-lease-a-bike",
+  "team": "Team Visma | Lease a Bike",
+  "sport": "cycling",
+  "league": "uci-worldtour",
+  "country": "Netherlands",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "lease-a-bike",
+      "name": "Lease a Bike",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring — Pro Team Sponsors Explained",
+        "date": "2026-07-10",
+        "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+      }
+    },
+    {
+      "id": "visma",
+      "name": "Visma",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+        "date": "2026-07-14",
+        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

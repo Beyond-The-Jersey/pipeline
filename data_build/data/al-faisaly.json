@@ -1,0 +1,45 @@
+{
+  "id": "al-faisaly",
+  "team": "Al-Faisaly",
+  "sport": "soccer",
+  "league": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "aldrees",
+      "name": "Aldrees",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "yelo",
+      "name": "Yelo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

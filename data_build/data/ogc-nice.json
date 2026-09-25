@@ -1,0 +1,90 @@
+{
+  "id": "ogc-nice",
+  "team": "OGC Nice",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "actual-group",
+      "name": "Actual Group",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    },
+    {
+      "id": "ineos-s",
+      "name": "INEOS",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "ineos-group-limited",
+      "owner": "INEOS Group Limited",
+      "verdict": "Owned by INEOS Group Limited. Nothing found.",
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    },
+    {
+      "id": "limova-ai",
+      "name": "Limova.ai",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    },
+    {
+      "id": "robinhood-markets",
+      "name": "Robinhood Markets",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    },
+    {
+      "id": "vbet",
+      "name": "VBET",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "OGC Nice — Nos partenaires 2026/2027",
+        "date": "2026",
+        "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "ineos-group-limited"
+  ],
+  "lastUpdated": "2026-09-24"
+}

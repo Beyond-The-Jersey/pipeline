@@ -29,7 +29,7 @@
       "name": "Experience Kissimmee",
       "placement": "sleeve",
       "season": "2026-27",
-      "tier": "serious",
+      "tier": "unrated",
       "ownerId": "osceola-county-tourism-authority",
       "owner": "Experience Kissimmee (official tourism authority for Osceola County, Florida)",
       "verdict": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development….",
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "worstTier": "serious",
+  "worstTier": "none",
   "owners": [
     "american-express-company",
     "osceola-county-tourism-authority"

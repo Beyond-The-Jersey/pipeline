@@ -12,6 +12,37 @@
   },
   "sponsors": [
     {
+      "id": "gana-energia",
+      "name": "Gana Energia",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "gana-energia",
+      "owner": "Gana Energia",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "id": "lowi",
+      "name": "Lowi",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "vodafone-group-plc",
+      "owner": "Vodafone Group Plc — public shareholders (Niel family now largest holder)",
+      "verdict": null,
+      "source": {
+        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+        "date": "2025-10-08",
+        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+        "note": "Lowi lower back of shirt"
+      }
+    },
+    {
       "id": "sesame-hr",
       "name": "Sesame HR",
       "placement": "front",
@@ -29,7 +60,9 @@
   ],
   "worstTier": "none",
   "owners": [
-    "sesame-hr-sl"
+    "gana-energia",
+    "sesame-hr-sl",
+    "vodafone-group-plc"
   ],
   "lastUpdated": "2026-09-24"
 }

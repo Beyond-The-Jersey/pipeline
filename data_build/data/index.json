@@ -1493,6 +1493,832 @@
       "sport": "motorsport",
       "league": "formula-1",
       "file": "williams.json"
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "australia.json"
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "iran.json"
+    },
+    {
+      "id": "iraq",
+      "name": "Iraq",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "iraq.json"
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "japan.json"
+    },
+    {
+      "id": "jordan",
+      "name": "Jordan",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "jordan.json"
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "qatar.json"
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "saudi-arabia.json"
+    },
+    {
+      "id": "south-korea",
+      "name": "South Korea",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "south-korea.json"
+    },
+    {
+      "id": "uzbekistan",
+      "name": "Uzbekistan",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "uzbekistan.json"
+    },
+    {
+      "id": "algeria",
+      "name": "Algeria",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "algeria.json"
+    },
+    {
+      "id": "cape-verde",
+      "name": "Cape Verde",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "cape-verde.json"
+    },
+    {
+      "id": "dr-congo",
+      "name": "DR Congo",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "dr-congo.json"
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "egypt.json"
+    },
+    {
+      "id": "ghana",
+      "name": "Ghana",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "ghana.json"
+    },
+    {
+      "id": "ivory-coast",
+      "name": "Ivory Coast",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "ivory-coast.json"
+    },
+    {
+      "id": "morocco",
+      "name": "Morocco",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "morocco.json"
+    },
+    {
+      "id": "senegal",
+      "name": "Senegal",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "senegal.json"
+    },
+    {
+      "id": "south-africa",
+      "name": "South Africa",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "south-africa.json"
+    },
+    {
+      "id": "tunisia",
+      "name": "Tunisia",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "tunisia.json"
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "canada.json"
+    },
+    {
+      "id": "curacao",
+      "name": "Curacao",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "curacao.json"
+    },
+    {
+      "id": "haiti",
+      "name": "Haiti",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "haiti.json"
+    },
+    {
+      "id": "mexico",
+      "name": "Mexico",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "mexico.json"
+    },
+    {
+      "id": "panama",
+      "name": "Panama",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "panama.json"
+    },
+    {
+      "id": "united-states",
+      "name": "United States",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "united-states.json"
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "argentina.json"
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "brazil.json"
+    },
+    {
+      "id": "colombia",
+      "name": "Colombia",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "colombia.json"
+    },
+    {
+      "id": "ecuador",
+      "name": "Ecuador",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "ecuador.json"
+    },
+    {
+      "id": "paraguay",
+      "name": "Paraguay",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "paraguay.json"
+    },
+    {
+      "id": "uruguay",
+      "name": "Uruguay",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "uruguay.json"
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "new-zealand.json"
+    },
+    {
+      "id": "austria",
+      "name": "Austria",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "austria.json"
+    },
+    {
+      "id": "belgium",
+      "name": "Belgium",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "belgium.json"
+    },
+    {
+      "id": "bosnia-and-herzegovina",
+      "name": "Bosnia and Herzegovina",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "bosnia-and-herzegovina.json"
+    },
+    {
+      "id": "croatia",
+      "name": "Croatia",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "croatia.json"
+    },
+    {
+      "id": "czech-republic",
+      "name": "Czech Republic",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "czech-republic.json"
+    },
+    {
+      "id": "england",
+      "name": "England",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "england.json"
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "france.json"
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "germany.json"
+    },
+    {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "netherlands.json"
+    },
+    {
+      "id": "norway",
+      "name": "Norway",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "norway.json"
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "portugal.json"
+    },
+    {
+      "id": "scotland",
+      "name": "Scotland",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "scotland.json"
+    },
+    {
+      "id": "spain",
+      "name": "Spain",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "spain.json"
+    },
+    {
+      "id": "sweden",
+      "name": "Sweden",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "sweden.json"
+    },
+    {
+      "id": "switzerland",
+      "name": "Switzerland",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "switzerland.json"
+    },
+    {
+      "id": "turkey",
+      "name": "Turkey",
+      "sport": "soccer",
+      "league": "fifa",
+      "file": "turkey.json"
+    },
+    {
+      "id": "angers-sco",
+      "name": "Angers SCO",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "angers-sco.json"
+    },
+    {
+      "id": "aj-auxerre",
+      "name": "AJ Auxerre",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "aj-auxerre.json"
+    },
+    {
+      "id": "stade-brestois-29",
+      "name": "Stade Brestois 29",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "stade-brestois-29.json"
+    },
+    {
+      "id": "le-havre-ac",
+      "name": "Le Havre AC",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "le-havre-ac.json"
+    },
+    {
+      "id": "le-mans-fc",
+      "name": "Le Mans FC",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "le-mans-fc.json"
+    },
+    {
+      "id": "rc-lens",
+      "name": "RC Lens",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "rc-lens.json"
+    },
+    {
+      "id": "lille-osc",
+      "name": "Lille OSC",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "lille-osc.json"
+    },
+    {
+      "id": "fc-lorient",
+      "name": "FC Lorient",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "fc-lorient.json"
+    },
+    {
+      "id": "olympique-lyonnais",
+      "name": "Olympique Lyonnais",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "olympique-lyonnais.json"
+    },
+    {
+      "id": "olympique-de-marseille",
+      "name": "Olympique de Marseille",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "olympique-de-marseille.json"
+    },
+    {
+      "id": "as-monaco",
+      "name": "AS Monaco",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "as-monaco.json"
+    },
+    {
+      "id": "ogc-nice",
+      "name": "OGC Nice",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "ogc-nice.json"
+    },
+    {
+      "id": "paris-fc",
+      "name": "Paris FC",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "paris-fc.json"
+    },
+    {
+      "id": "stade-rennais",
+      "name": "Stade Rennais FC",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "stade-rennais.json"
+    },
+    {
+      "id": "rc-strasbourg",
+      "name": "RC Strasbourg Alsace",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "rc-strasbourg.json"
+    },
+    {
+      "id": "toulouse-fc",
+      "name": "Toulouse FC",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "toulouse-fc.json"
+    },
+    {
+      "id": "es-troyes-ac",
+      "name": "ES Troyes AC",
+      "sport": "soccer",
+      "league": "ligue-1",
+      "file": "es-troyes-ac.json"
+    },
+    {
+      "id": "abha",
+      "name": "Abha",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "abha.json"
+    },
+    {
+      "id": "al-ahli",
+      "name": "Al-Ahli",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-ahli.json"
+    },
+    {
+      "id": "al-ettifaq",
+      "name": "Al-Ettifaq",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-ettifaq.json"
+    },
+    {
+      "id": "al-faisaly",
+      "name": "Al-Faisaly",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-faisaly.json"
+    },
+    {
+      "id": "al-fateh",
+      "name": "Al-Fateh",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-fateh.json"
+    },
+    {
+      "id": "al-fayha",
+      "name": "Al-Fayha",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-fayha.json"
+    },
+    {
+      "id": "al-hazem",
+      "name": "Al-Hazem",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-hazem.json"
+    },
+    {
+      "id": "al-hilal",
+      "name": "Al-Hilal",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-hilal.json"
+    },
+    {
+      "id": "al-ittihad",
+      "name": "Al-Ittihad",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-ittihad.json"
+    },
+    {
+      "id": "al-khaleej",
+      "name": "Al-Khaleej",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-khaleej.json"
+    },
+    {
+      "id": "al-kholood",
+      "name": "Al-Kholood",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-kholood.json"
+    },
+    {
+      "id": "al-nassr",
+      "name": "Al-Nassr",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-nassr.json"
+    },
+    {
+      "id": "al-qadsiah",
+      "name": "Al-Qadsiah",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-qadsiah.json"
+    },
+    {
+      "id": "al-riyadh",
+      "name": "Al-Riyadh",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-riyadh.json"
+    },
+    {
+      "id": "al-shabab",
+      "name": "Al-Shabab",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-shabab.json"
+    },
+    {
+      "id": "al-taawoun",
+      "name": "Al-Taawoun",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "al-taawoun.json"
+    },
+    {
+      "id": "diriyah",
+      "name": "Diriyah Club",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "diriyah.json"
+    },
+    {
+      "id": "neom",
+      "name": "NEOM SC",
+      "sport": "soccer",
+      "league": "saudi-pro-league",
+      "file": "neom.json"
+    },
+    {
+      "id": "alpecin-premier-tech",
+      "name": "Alpecin-Premier Tech",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "alpecin-premier-tech.json"
+    },
+    {
+      "id": "bahrain-victorious",
+      "name": "Bahrain Victorious",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "bahrain-victorious.json"
+    },
+    {
+      "id": "decathlon-cma-cgm",
+      "name": "Decathlon CMA CGM Team",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "decathlon-cma-cgm.json"
+    },
+    {
+      "id": "ef-education-easypost",
+      "name": "EF Education-EasyPost",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "ef-education-easypost.json"
+    },
+    {
+      "id": "groupama-fdj-united",
+      "name": "Groupama-FDJ United",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "groupama-fdj-united.json"
+    },
+    {
+      "id": "ineos-grenadiers",
+      "name": "INEOS Grenadiers",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "ineos-grenadiers.json"
+    },
+    {
+      "id": "lidl-trek",
+      "name": "Lidl-Trek",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "lidl-trek.json"
+    },
+    {
+      "id": "lotto-intermarche",
+      "name": "Lotto Intermarché",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "lotto-intermarche.json"
+    },
+    {
+      "id": "movistar",
+      "name": "Movistar Team",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "movistar.json"
+    },
+    {
+      "id": "nsn-cycling-team",
+      "name": "NSN Cycling Team",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "nsn-cycling-team.json"
+    },
+    {
+      "id": "red-bull-bora-hansgrohe",
+      "name": "Red Bull-Bora-Hansgrohe",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "red-bull-bora-hansgrohe.json"
+    },
+    {
+      "id": "soudal-quick-step",
+      "name": "Soudal Quick-Step",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "soudal-quick-step.json"
+    },
+    {
+      "id": "team-jayco-alula",
+      "name": "Team Jayco AlUla",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "team-jayco-alula.json"
+    },
+    {
+      "id": "team-picnic-postnl",
+      "name": "Team Picnic PostNL",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "team-picnic-postnl.json"
+    },
+    {
+      "id": "team-visma-lease-a-bike",
+      "name": "Team Visma | Lease a Bike",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "team-visma-lease-a-bike.json"
+    },
+    {
+      "id": "uae-team-emirates-xrg",
+      "name": "UAE Team Emirates XRG",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "uae-team-emirates-xrg.json"
+    },
+    {
+      "id": "uno-x-mobility",
+      "name": "Uno-X Mobility",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "uno-x-mobility.json"
+    },
+    {
+      "id": "xds-astana-team",
+      "name": "XDS Astana Team",
+      "sport": "cycling",
+      "league": "uci-worldtour",
+      "file": "xds-astana-team.json"
+    },
+    {
+      "id": "aek-athens",
+      "name": "AEK Athens",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "aek-athens.json"
+    },
+    {
+      "id": "bodo-glimt",
+      "name": "FK Bodø/Glimt",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "bodo-glimt.json"
+    },
+    {
+      "id": "club-brugge",
+      "name": "Club Brugge KV",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "club-brugge.json"
+    },
+    {
+      "id": "fenerbahce",
+      "name": "Fenerbahçe",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "fenerbahce.json"
+    },
+    {
+      "id": "feyenoord",
+      "name": "Feyenoord",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "feyenoord.json"
+    },
+    {
+      "id": "galatasaray",
+      "name": "Galatasaray",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "galatasaray.json"
+    },
+    {
+      "id": "lask",
+      "name": "LASK",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "lask.json"
+    },
+    {
+      "id": "lens",
+      "name": "RC Lens",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "lens.json"
+    },
+    {
+      "id": "lille",
+      "name": "Lille OSC",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "lille.json"
+    },
+    {
+      "id": "porto",
+      "name": "FC Porto",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "porto.json"
+    },
+    {
+      "id": "psv",
+      "name": "PSV Eindhoven",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "psv.json"
+    },
+    {
+      "id": "slovan-bratislava",
+      "name": "ŠK Slovan Bratislava",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "slovan-bratislava.json"
+    },
+    {
+      "id": "sabah",
+      "name": "Sabah FK",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "sabah.json"
+    },
+    {
+      "id": "shakhtar-donetsk",
+      "name": "Shakhtar Donetsk",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "shakhtar-donetsk.json"
+    },
+    {
+      "id": "slavia-praha",
+      "name": "Slavia Praha",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "slavia-praha.json"
+    },
+    {
+      "id": "sporting-cp",
+      "name": "Sporting CP",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "sporting-cp.json"
+    },
+    {
+      "id": "viking-fk",
+      "name": "Viking FK",
+      "sport": "soccer",
+      "league": "uefa",
+      "file": "viking-fk.json"
     }
   ]
 }

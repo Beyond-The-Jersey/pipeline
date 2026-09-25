@@ -1,0 +1,109 @@
+{
+  "id": "al-shabab",
+  "team": "Al-Shabab",
+  "sport": "soccer",
+  "league": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "direct-for-travel",
+      "name": "Direct for Travel & Tourism",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "jetour",
+      "name": "Jetour",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "mezaj-maghribhi",
+      "name": "Mezaj Maghribhi",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "offside",
+      "name": "Offside",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Sponsor note (kit supplier)",
+        "date": "2026-09",
+        "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+        "note": "Kit supplier to Abha, Al-Fateh and Al-Shabab."
+      }
+    },
+    {
+      "id": "tameeni-insurance",
+      "name": "Tameeni Insurance",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "theeb-rent-a-car",
+      "name": "Theeb Rent A Car",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

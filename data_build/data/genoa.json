@@ -15,7 +15,7 @@
       "name": "Pulsee Luce e Gas",
       "placement": "front",
       "season": "2026-27",
-      "tier": "serious",
+      "tier": "unrated",
       "ownerId": "axpo-holding-ag",
       "owner": "Axpo Holding AG (owned by Swiss cantons and cantonal utilities)",
       "verdict": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.",
@@ -26,7 +26,7 @@
       }
     }
   ],
-  "worstTier": "serious",
+  "worstTier": "unrated",
   "owners": [
     "axpo-holding-ag"
   ],

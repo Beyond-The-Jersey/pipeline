@@ -12,6 +12,21 @@
   },
   "sponsors": [
     {
+      "id": "hep-solar",
+      "name": "Hep Solar",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "hep-global",
+      "owner": "hep global GmbH",
+      "verdict": null,
+      "source": {
+        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+        "date": "2025-26",
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+      }
+    },
+    {
       "id": "lbbw",
       "name": "LBBW",
       "placement": "front",
@@ -29,6 +44,7 @@
   ],
   "worstTier": "concern",
   "owners": [
+    "hep-global",
     "state-of-baden-wuerttemberg"
   ],
   "lastUpdated": "2026-09-24"

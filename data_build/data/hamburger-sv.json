@@ -26,11 +26,27 @@
         "date": "2026-08-04",
         "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
       }
+    },
+    {
+      "id": "helm-ag",
+      "name": "Helm",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "helm-ag",
+      "owner": "HELM AG",
+      "verdict": null,
+      "source": {
+        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+        "date": "2025-26",
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+      }
     }
   ],
   "worstTier": "none",
   "owners": [
-    "hansemerkur-krankenversicherung-ag"
+    "hansemerkur-krankenversicherung-ag",
+    "helm-ag"
   ],
   "lastUpdated": "2026-09-24"
 }

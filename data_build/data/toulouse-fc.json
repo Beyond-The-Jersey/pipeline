@@ -1,0 +1,88 @@
+{
+  "id": "toulouse-fc",
+  "team": "Toulouse FC",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "casadora",
+      "name": "Casadora",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    },
+    {
+      "id": "lp-promotion",
+      "name": "LP Promotion",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    },
+    {
+      "id": "newrest",
+      "name": "Newrest",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    },
+    {
+      "id": "starbucks",
+      "name": "Starbucks",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    },
+    {
+      "id": "winamax",
+      "name": "Winamax",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Toulouse FC — site officiel",
+        "date": "2026",
+        "url": "https://www.toulousefc.com/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

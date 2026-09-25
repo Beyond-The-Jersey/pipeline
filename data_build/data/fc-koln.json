@@ -12,6 +12,21 @@
   },
   "sponsors": [
     {
+      "id": "devk",
+      "name": "DEVK",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "devk",
+      "owner": "DEVK Deutsche Eisenbahn Versicherung",
+      "verdict": null,
+      "source": {
+        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+        "date": "2025-26",
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+      }
+    },
+    {
       "id": "rewe",
       "name": "REWE",
       "placement": "front",
@@ -29,6 +44,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "devk",
     "rewe-group"
   ],
   "lastUpdated": "2026-09-24"

@@ -13,6 +13,52 @@
   },
   "sponsors": [
     {
+      "id": "diputacion-foral-de-alava",
+      "name": "Diputacion Foral de Alava",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "diputacion-foral-de-alava",
+      "owner": "Diputacion Foral de Alava",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "note": "second vertical logo on the shirt front (Araba/Alava), lower down"
+      }
+    },
+    {
+      "id": "ebpay",
+      "name": "EBpay",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "ebpay",
+      "owner": "EBpay",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
+      "id": "kutxabank",
+      "name": "Kutxabank",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "kutxabank-sa",
+      "owner": "Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations)",
+      "verdict": "Owned by Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
       "id": "mk-tiyu-news",
       "name": "MK TIYU News",
       "placement": "front",
@@ -28,8 +74,11 @@
       }
     }
   ],
-  "worstTier": "unrated",
+  "worstTier": "none",
   "owners": [
+    "diputacion-foral-de-alava",
+    "ebpay",
+    "kutxabank-sa",
     "mk-sports-news"
   ],
   "lastUpdated": "2026-09-24"

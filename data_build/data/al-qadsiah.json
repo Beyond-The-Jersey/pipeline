@@ -1,0 +1,175 @@
+{
+  "id": "al-qadsiah",
+  "team": "Al-Qadsiah",
+  "sport": "soccer",
+  "league": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "alinma-bank",
+      "name": "Alinma Bank",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "aloula-aviation",
+      "name": "Aloula Aviation",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "aramco",
+      "name": "Aramco",
+      "placement": "partner",
+      "season": null,
+      "tier": "serious",
+      "ownerId": "government-of-saudi-arabia",
+      "owner": "Government of Saudi Arabia",
+      "verdict": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%.",
+      "source": {
+        "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+        "date": "2023-06-06",
+        "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+        "note": "Aramco took over Al-Qadsiah."
+      }
+    },
+    {
+      "id": "batook-nova",
+      "name": "Batook Nova",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "bestebit",
+      "name": "BesteBit",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "dar-wa-emaar",
+      "name": "Dar wa Emaar",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "iz",
+      "name": "iz",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "nike",
+      "name": "Nike",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Sponsor note (kit supplier)",
+        "date": "2026-09",
+        "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+        "note": "Kit supplier to Al-Ittihad and Al-Qadsiah."
+      }
+    },
+    {
+      "id": "sixt",
+      "name": "Sixt",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "zoho-corporation",
+      "name": "Zoho Corporation",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-saudi-arabia"
+  ],
+  "lastUpdated": "2026-09-24"
+}

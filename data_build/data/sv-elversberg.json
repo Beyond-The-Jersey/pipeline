@@ -11,6 +11,21 @@
   },
   "sponsors": [
     {
+      "id": "hylo",
+      "name": "HYLO",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "ursapharm-arzneimittel-gmbh",
+      "owner": "URSAPHARM Arzneimittel GmbH",
+      "verdict": "Owned by URSAPHARM Arzneimittel GmbH. Nothing found.",
+      "source": {
+        "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+        "date": "2026-08",
+        "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+      }
+    },
+    {
       "id": "reuter",
       "name": "Reuter",
       "placement": "front",
@@ -28,7 +43,8 @@
   ],
   "worstTier": "none",
   "owners": [
-    "reuter-gruppe"
+    "reuter-gruppe",
+    "ursapharm-arzneimittel-gmbh"
   ],
   "lastUpdated": "2026-09-24"
 }

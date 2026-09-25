@@ -2237,7 +2237,7 @@
   {
     "id": "hyundai-2026",
     "ownerIds": [
-      "hyundai-owner"
+      "hyundai-motor-group"
     ],
     "text": "Hyundai (Hyundai Motor America) is the jersey patch partner of la-rams for 2026-27.",
     "short": "Jersey patch partner Hyundai (Hyundai Motor America) 2026-27",
@@ -2245,6 +2245,606 @@
       "name": "Zoomph (2026 NFL practice-jersey patch guide)",
       "date": "2026-09-01",
       "url": "https://zoomph.com/blog/the-ultimate-guide-to-nfl-practice-jersey-patch-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "ihc-record",
+    "ownerIds": [
+      "international-holding-company",
+      "government-of-abu-dhabi"
+    ],
+    "text": "ADI Predictstreet is owned by Finstreet Ltd, owned by Abu Dhabi's International Holding Company, chaired by Sheikh Tahnoon bin Zayed Al Nahyan, brother of the UAE president. The UAE royal family link is indirect (the company is listed, not a state body).",
+    "source": {
+      "name": "Front Office Sports - FIFA's Official Prediction Market Is an Obscure Abu Dhabi Blockchain Project",
+      "date": "2026-04-08",
+      "url": "https://frontofficesports.com/fifa-world-cup-abu-dhabi-blockchain-prediction-market/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "lenovo-china-record",
+    "ownerIds": [
+      "lenovo-group-limited",
+      "legend-holdings"
+    ],
+    "text": "Lenovo Group Limited is Hong Kong-listed and its largest shareholder is Legend Holdings Corporation at 31.41% (as of 31 Mar 2025). Legend's own largest shareholder is reported to be Chinese Academy of Sciences Holdings (CAS), giving an indirect, minority state link.",
+    "source": {
+      "name": "Lenovo Investor Relations - Shareholding Structure",
+      "date": "2025-03-31",
+      "url": "https://investor.lenovo.com/en/ir/shareholding.php"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "mengniu-cofco-record",
+    "ownerIds": [
+      "mengniu-dairy",
+      "cofco"
+    ],
+    "text": "COFCO Corporation is a large central state-owned enterprise under China's SASAC, and Mengniu is part of the COFCO group ('growing within the COFCO family tree').",
+    "source": {
+      "name": "COFCO Corporation - About COFCO",
+      "date": "2025",
+      "url": "https://www.cofco.com/en/AboutCOFCO/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "gac-group-record",
+    "ownerIds": [
+      "gac-group"
+    ],
+    "text": "Guangzhou Automobile Group Co., Ltd. is a Chinese vehicle maker headquartered in Guangzhou and controlled by the Guangzhou municipal government (Guangzhou SASAC).",
+    "short": "Guangzhou municipal state-owned carmaker",
+    "source": {
+      "name": "GAC, GAC Global Site",
+      "date": "2026",
+      "url": "https://www.gac.com.cn/en/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "moeve-mubadala-record",
+    "ownerIds": [
+      "moeve",
+      "mubadala"
+    ],
+    "text": "Moeve (formerly Cepsa) is owned by Mubadala Investment Company, Abu Dhabi's sovereign wealth fund, and The Carlyle Group.",
+    "short": "Owned by Mubadala and Carlyle",
+    "source": {
+      "name": "Moeve, the company",
+      "date": "2026",
+      "url": "https://www.moeveglobal.com/en/the-company"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "riyadh-season-gea-record",
+    "ownerIds": [
+      "government-of-saudi-arabia"
+    ],
+    "text": "Riyadh Season is the flagship events season of Saudi Arabia's General Entertainment Authority, a government body.",
+    "short": "Saudi state General Entertainment Authority",
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "qsi-owns-psg",
+    "ownerIds": [
+      "qatar-sports-investments",
+      "government-of-qatar"
+    ],
+    "text": "Qatar Sports Investments (QSI) has held a controlling stake in Paris Saint-Germain since 2011. QSI's stated sponsor is the Government of the State of Qatar via the Qatar Investment Authority.",
+    "source": {
+      "name": "SportsPro, 'PSG renew Qatar Airways shirt sponsorship on same terms'",
+      "date": "2025-01-27",
+      "url": "https://www.sportspro.com/news/psg-qatar-airways-shirt-sponsor-contract-extension-2028-january-2025/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "bahrain-hrw-record",
+    "ownerIds": [
+      "government-of-bahrain"
+    ],
+    "text": "Human Rights Watch reports that in 2026 Bahraini authorities arbitrarily arrested dozens of people, that Mohammed Almosawi died in custody with signs of torture after being forcibly disappeared, and that 67 people had their citizenship stripped; imprisoned rights defenders and political leaders including Abdulhadi al-Khawaja remain arbitrarily detained.",
+    "short": "Arbitrary arrests, a death in custody and citizenship-stripping in 2026 (HRW).",
+    "source": {
+      "name": "Human Rights Watch — Bahrain country page",
+      "date": "2026",
+      "url": "https://www.hrw.org/middle-east/north-africa/bahrain"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "cote-divoire-hrw-record",
+    "ownerIds": [
+      "government-of-cote-divoire"
+    ],
+    "text": "Human Rights Watch said Ivorian authorities should investigate the killing of more than 50 people in the violence around the October 2020 presidential election, with a dozen opposition leaders arrested and justice for the 2010-11 crisis still incomplete.",
+    "source": {
+      "name": "Human Rights Watch — Côte d'Ivoire, 'Post-Election Violence, Repression'",
+      "date": "2020-12-02",
+      "url": "https://www.hrw.org/africa/cote-divoire"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "dr-congo-hrw-record",
+    "ownerIds": [
+      "government-of-dr-congo"
+    ],
+    "text": "Human Rights Watch describes a dire situation in eastern DR Congo: over 100 armed groups active, martial law facilitating abuses by government security forces, 5.8 million internally displaced, and attacks on free expression and assembly.",
+    "source": {
+      "name": "Human Rights Watch — Democratic Republic of Congo country page",
+      "date": "2026",
+      "url": "https://www.hrw.org/africa/democratic-republic-congo"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "discovery-limited-record",
+    "ownerIds": [
+      "discovery-limited"
+    ],
+    "text": "Discovery Limited is a Johannesburg-headquartered, JSE-listed financial services group and the licensed controlling company of the Discovery insurance group; it owns the Vitality brand. No state or state-fund owner.",
+    "short": "Discovery Limited is a JSE-listed insurer and the owner of the Vitality brand.",
+    "source": {
+      "name": "Discovery Limited investor relations",
+      "date": "2026",
+      "url": "https://www.discovery.co.za/corporate/investor-relations"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "recruit-holdings-record",
+    "ownerIds": [
+      "recruit-holdings"
+    ],
+    "text": "Recruit Holdings Co., Ltd. is a Tokyo-listed global HR-technology group whose group companies include Indeed and Glassdoor. No state or state-fund owner.",
+    "short": "Recruit Holdings is a Tokyo-listed group and the parent of Indeed.",
+    "source": {
+      "name": "Recruit Holdings, Group Companies",
+      "date": "2026",
+      "url": "https://recruit-holdings.com/en/about/group"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "indeed-inc-record",
+    "ownerIds": [
+      "indeed-inc"
+    ],
+    "text": "Indeed, Inc. is a wholly-owned subsidiary of Recruit Holdings Co., Ltd., listed on the Tokyo Stock Exchange. No state or state-fund owner.",
+    "short": "Indeed is a subsidiary of Tokyo-listed Recruit Holdings.",
+    "source": {
+      "name": "Recruit Holdings, Group Companies",
+      "date": "2026",
+      "url": "https://recruit-holdings.com/en/about/group"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "monzo-bank-limited-record",
+    "ownerIds": [
+      "monzo-bank-limited"
+    ],
+    "text": "Monzo Bank Limited is a UK-incorporated bank (registered in England and Wales, No.09446231) with a full banking licence and dispersed venture-investor ownership; it publishes annual reports. No state or state-fund owner.",
+    "short": "Monzo Bank Limited is a private, VC-backed UK bank.",
+    "source": {
+      "name": "Monzo, investor information",
+      "date": "2026",
+      "url": "https://monzo.com/investor-information"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "temporal-technologies-record",
+    "ownerIds": [
+      "temporal-technologies"
+    ],
+    "text": "Temporal Technologies, Inc. is a private US workflow-software company; its $550m Series E was led by financial investors. No state or state-fund owner.",
+    "short": "Temporal Technologies is a private, VC-backed US software company.",
+    "source": {
+      "name": "Temporal Series E reporting",
+      "date": "2026",
+      "url": "https://425business.com/news/temporal-raises-550m-in-series-e-company-valued-at-12-55b/article_3f5859c3-e9d8-4cc7-816f-6616745a60dc.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "cmc-markets-plc-record",
+    "ownerIds": [
+      "cmc-markets-plc"
+    ],
+    "text": "CMC Markets plc is a London-listed CFD broker founded by Peter Cruddas, Baron Cruddas, whose family is a significant shareholder alongside a free float. No state or state-fund owner.",
+    "short": "CMC Markets plc is a London-listed broker with a founder-family stake.",
+    "source": {
+      "name": "CMC Markets, press release (Peter Cruddas appointed to the House of Lords)",
+      "date": "2020",
+      "url": "https://www.cmcmarkets.com/group/press-releases/peter-cruddas-appointed-to-the-house-of-lords-as-baron-cruddas-of-shoreditch"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "clickhouse-inc-record",
+    "ownerIds": [
+      "clickhouse-inc"
+    ],
+    "text": "ClickHouse, Inc. is a private US analytics company; its later round (led by Dragoneer) and Series C (led by Khosla Ventures) brought in financial investors. Owner is private; only minority sovereign-fund exposure (GIC, Singapore).",
+    "short": "ClickHouse, Inc. is a private, VC-backed US company.",
+    "source": {
+      "name": "ClickHouse, Series C announcement",
+      "date": "2025-05",
+      "url": "https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "standard-chartered-plc-record",
+    "ownerIds": [
+      "standard-chartered-plc"
+    ],
+    "text": "Standard Chartered plc is a London-listed bank with dispersed shareholders and no state owner. Its conduct record is sustained: a $227m forfeiture in 2012 (Iran, Sudan, Libya, Burma) and about $1.1bn in 2019 for Iran-related sanctions/AML failures.",
+    "short": "Standard Chartered is a listed bank with a sustained sanctions-fine record.",
+    "source": {
+      "name": "US DOJ press release (2012 forfeiture)",
+      "date": "2012-12-10",
+      "url": "https://www.justice.gov/archives/opa/pr/standard-chartered-bank-agrees-forfeit-227-million-illegal-transactions-iran-sudan-libya-and"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "qualcomm-record",
+    "ownerIds": [
+      "qualcomm"
+    ],
+    "text": "Snapdragon is Qualcomm's product brand: Qualcomm Incorporated is a US Nasdaq-listed semiconductor company with dispersed public shareholders and no state or state-fund owner.",
+    "short": "Snapdragon is the brand of Nasdaq-listed Qualcomm.",
+    "source": {
+      "name": "Qualcomm, company page",
+      "date": "2026",
+      "url": "https://www.qualcomm.com/company"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "marex-group-plc-record",
+    "ownerIds": [
+      "marex-group-plc"
+    ],
+    "text": "Marex Group plc listed on Nasdaq in June 2024 after growth under private-equity sponsors, leaving a public float. No state or state-fund owner.",
+    "short": "Marex Group plc is a Nasdaq-listed financial-services group.",
+    "source": {
+      "name": "Marex, investors (SEC filings)",
+      "date": "2024-06",
+      "url": "https://www.marex.com/investors"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "aia-group-record",
+    "ownerIds": [
+      "aia-group"
+    ],
+    "text": "AIA Group Limited is incorporated in Hong Kong and listed on the Hong Kong Stock Exchange (stock code 1299); it is the largest independent publicly listed pan-Asian life insurer. No state or state-fund owner.",
+    "short": "AIA Group Limited is a Hong Kong-listed insurer.",
+    "source": {
+      "name": "AIA Group press release",
+      "date": "2023-07-13",
+      "url": "https://www.aia.com/content/dam/group-wise/en/docs/press-release/2023/AIA%20Group%20Press%20Release_ENG_13%20July%202023.pdf.coredownload.pdf"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "circle-internet-group-record",
+    "ownerIds": [
+      "circle-internet-group"
+    ],
+    "text": "USDC is issued by Circle; its parent, Circle Internet Group, Inc., listed on the NYSE in June 2025 (SEC CIK 1876042) with dispersed public shareholders. No state or state-fund owner.",
+    "short": "Circle Internet Group, Inc. is an NYSE-listed company; USDC is its product.",
+    "source": {
+      "name": "SEC Form S-1, Circle Internet Group, Inc.",
+      "date": "2025-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "corendon-tourism-group-record",
+    "ownerIds": [
+      "corendon-tourism-group"
+    ],
+    "text": "Corendon Airlines is a subsidiary of the privately held Corendon Tourism Group, founded in 2000 by Atilay Uslu and Yildiray Karaer; the group is Dutch-headquartered with Turkish operations and no state shareholding.",
+    "short": "Corendon is a privately held, founder-owned travel group.",
+    "source": {
+      "name": "TravMagazine, Corendon management",
+      "date": "2024-01",
+      "url": "https://www.travmagazine.nl/en/corendon-introduces-its-new-management-team"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "halo-lifestyle-llc-record",
+    "ownerIds": [
+      "halo-lifestyle-llc"
+    ],
+    "text": "HALO Hydration is the trading brand of HALO Lifestyle LLC, a private US company that is venture-backed with no state or sovereign-fund ownership.",
+    "short": "HALO Hydration is a private, VC-backed US brand.",
+    "source": {
+      "name": "Preqin asset profile, Halo Hydration",
+      "date": "2025",
+      "url": "https://www.preqin.com/data/profile/asset/halo-hydration/624618"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "mateschitz-yoovidhya-families-record",
+    "ownerIds": [
+      "mateschitz-yoovidhya-families"
+    ],
+    "text": "Red Bull GmbH is privately held: the founding Yoovidhya family of Thailand holds 51% and the Mateschitz family holds 49%. Neither owner is a state or state fund (Thailand's state is not in the chain).",
+    "short": "Red Bull GmbH is privately held by two families.",
+    "source": {
+      "name": "Reuters, Red Bull leadership after co-founder's death",
+      "date": "2022-11-04",
+      "url": "https://www.reuters.com/business/retail-consumer/trio-lead-energy-drinks-giant-red-bull-after-co-founders-death-2022-11-04/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "electronic-arts-record",
+    "ownerIds": [
+      "electronic-arts"
+    ],
+    "text": "Electronic Arts Inc. is a US Nasdaq-listed video-game company with dispersed public shareholders and no state owner.",
+    "short": "Electronic Arts is a Nasdaq-listed games company.",
+    "source": {
+      "name": "Electronic Arts, investor relations",
+      "date": "2026",
+      "url": "https://ir.ea.com/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "adobe-inc-record",
+    "ownerIds": [
+      "adobe-inc"
+    ],
+    "text": "Adobe Inc. is a US Nasdaq-listed software company with dispersed public shareholders and no state owner.",
+    "short": "Adobe Inc. is a Nasdaq-listed software company.",
+    "source": {
+      "name": "Adobe, investor relations",
+      "date": "2026",
+      "url": "https://www.adobe.com/investor-relations.html"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "barclays-plc-record",
+    "ownerIds": [
+      "barclays-plc"
+    ],
+    "text": "Barclays plc is a UK-headquartered bank listed in London and New York with dispersed institutional and public shareholders and no state owner.",
+    "short": "Barclays plc is a UK-listed bank.",
+    "source": {
+      "name": "Barclays, about us",
+      "date": "2026",
+      "url": "https://home.barclays/who-we-are/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "coca-cola-company-record",
+    "ownerIds": [
+      "coca-cola-company"
+    ],
+    "text": "The Coca-Cola Company is a US NYSE-listed beverage company with dispersed public shareholders and no state owner.",
+    "short": "The Coca-Cola Company is an NYSE-listed beverage company.",
+    "source": {
+      "name": "The Coca-Cola Company, investor relations",
+      "date": "2026",
+      "url": "https://investors.coca-colacompany.com/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "diageo-plc-record",
+    "ownerIds": [
+      "diageo-plc"
+    ],
+    "text": "Diageo plc is a UK-headquartered drinks group listed in London and New York with dispersed public shareholders and no state owner.",
+    "short": "Diageo plc is a UK-listed drinks group; Guinness is its brand.",
+    "source": {
+      "name": "Diageo, our business",
+      "date": "2026",
+      "url": "https://www.diageo.com/en/our-business/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "microsoft-corporation-record",
+    "ownerIds": [
+      "microsoft-corporation"
+    ],
+    "text": "Microsoft Corporation is a US Nasdaq-listed software company with dispersed public shareholders and no state owner.",
+    "short": "Microsoft Corporation is a Nasdaq-listed software company.",
+    "source": {
+      "name": "Microsoft, about",
+      "date": "2026",
+      "url": "https://www.microsoft.com/en-us/about"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "puma-se-record",
+    "ownerIds": [
+      "puma-se"
+    ],
+    "text": "PUMA SE is a German Frankfurt-listed sportswear company with dispersed public shareholders and no state owner.",
+    "short": "PUMA SE is a Frankfurt-listed sportswear company.",
+    "source": {
+      "name": "PUMA, investor relations",
+      "date": "2026",
+      "url": "https://about.puma.com/en/investor-relations"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "avery-dennison-corp-record",
+    "ownerIds": [
+      "avery-dennison"
+    ],
+    "text": "Avery Dennison Corporation is a US NYSE-listed materials-science company with dispersed public shareholders and no state owner.",
+    "short": "Avery Dennison is an NYSE-listed materials company.",
+    "source": {
+      "name": "Avery Dennison, investor relations",
+      "date": "2026",
+      "url": "https://investors.averydennison.com/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "fanatics-record",
+    "ownerIds": [
+      "fanatics"
+    ],
+    "text": "Topps is owned by Fanatics, Inc., a private US sports-merchandise group that bought Topps's trading-card business in 2022. No state owner.",
+    "short": "Topps is owned by the private US group Fanatics.",
+    "source": {
+      "name": "Reuters, Fanatics buys Topps",
+      "date": "2022-01-04",
+      "url": "https://www.reuters.com/markets/deals/fanatics-buys-topps-trading-card-business-500-million-2022-01-04/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "rezzil-record",
+    "ownerIds": [
+      "rezzil"
+    ],
+    "text": "Rezzil is a private UK VR-sports-software company with venture backing and no state owner.",
+    "short": "Rezzil is a private UK VR-sports company.",
+    "source": {
+      "name": "Rezzil, company site",
+      "date": "2026",
+      "url": "https://rezzil.com/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "sega-sammy-record",
+    "ownerIds": [
+      "sega-sammy"
+    ],
+    "text": "Sega Sammy Holdings Inc. is a Tokyo-listed entertainment group; its Sega studio publishes Football Manager. No state owner.",
+    "short": "Sega Sammy is a Tokyo-listed group; it owns the Football Manager studio.",
+    "source": {
+      "name": "Sega Sammy Holdings, investor relations",
+      "date": "2026",
+      "url": "https://www.segasammy.co.jp/en/ir/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "gov-saudi-arabia-record",
+    "ownerIds": [
+      "government-of-saudi-arabia"
+    ],
+    "text": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%. The Saudi state's documented record (a record 345 executions in 2024; drug-offence executions continuing through 2026) makes this serious - severe is reserved for live armed conflict.",
+    "source": {
+      "name": "Amnesty International",
+      "date": "2025-07-16",
+      "url": "https://www.amnesty.org/en/latest/news/2025/07/saudi-arabia-escalation-executions-foreign-nationals-drug-related-offences/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "pif-record",
+    "ownerIds": [
+      "saudi-pif"
+    ],
+    "text": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
+    "source": {
+      "name": "AGBI (Arab Gulf Business Insight) company profile",
+      "date": "2026-09-24",
+      "url": "https://www.agbi.com/companies/maaden-company/"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "kazakhstan-hrw-record",
+    "ownerIds": [
+      "government-of-kazakhstan",
+      "samruk-kazyna"
+    ],
+    "text": "Human Rights Watch reports that Kazakhstan continues to restrict freedoms of expression, association and assembly, prosecutes critics on overbroad 'extremism' charges, and has failed to fully investigate the January 2022 protests that left 238 dead and where detainees were tortured; the UN Human Rights Committee raised serious concerns about torture and use of force against civil society.",
+    "short": "Kazakhstan: restricted freedoms, torture, unpunished January 2022 deaths",
+    "source": {
+      "name": "Human Rights Watch — World Report 2026, Kazakhstan chapter",
+      "date": "2026-01-15",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/kazakhstan"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "france-hrw-record",
+    "ownerIds": [
+      "french-state"
+    ],
+    "text": "Human Rights Watch's 2026 world report records that France's civic space was downgraded to 'obstructed', police repression of protests restricted expression and assembly, the UN Committee Against Torture flagged excessive force against people of African and Arab descent and non-nationals, and the ECtHR condemned France for racial profiling by police.",
+    "short": "France: restricted civic space, police violence and racial profiling",
+    "source": {
+      "name": "Human Rights Watch — World Report 2026, France chapter",
+      "date": "2026-01-15",
+      "url": "https://www.hrw.org/world-report/2026/country-chapters/france"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "belgium-hrw-record",
+    "ownerIds": [
+      "government-of-belgium"
+    ],
+    "text": "Human Rights Watch's 'Grounds for Concern' report found that Belgium's counterterrorism response after the Paris and Brussels attacks led to police abuse and discrimination disproportionately targeting Muslims and people of North African or Turkish heritage.",
+    "short": "Belgium: counterterrorism policing and discrimination concerns",
+    "source": {
+      "name": "Human Rights Watch — Grounds for Concern: Belgium's Counterterror Responses to the Paris and Brussels Attacks",
+      "date": "2016-11-03",
+      "url": "https://www.hrw.org/report/2016/11/03/grounds-concern/belgiums-counterterror-responses-paris-and-brussels-attacks"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "government-of-qatar-record",
+    "ownerIds": [
+      "government-of-qatar"
+    ],
+    "text": "Qatar Airways Group Q.C.S.C. is incorporated in Qatar and 'is ultimately wholly owned by the Government of the State of Qatar (the \"Shareholder\")'; the state's kafala/migrant-labour system produced documented serious abuses in the run-up to the 2022 World Cup.",
+    "short": "Qatar Airways Group Q.C.S.C.",
+    "source": {
+      "name": "Qatar Airways Group audited consolidated financial statements (note: corporate information); Human Rights Watch",
+      "date": "2022-03 / 2022-11",
+      "url": "https://www.qatarairways.com/content/dam/documents/annual-reports/2022/financial-statement-en.pdf"
+    },
+    "reviewed": true
+  },
+  {
+    "id": "gov-qatar-record",
+    "ownerIds": [
+      "government-of-qatar"
+    ],
+    "text": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026. Qatar's documented record - migrant workers still exposed to exploitation despite kafala reform, expression and assembly tightly restricted - rates serious.",
+    "short": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026.",
+    "source": {
+      "name": "Amnesty International - Human rights in Qatar (country report)",
+      "date": "2026-01-15",
+      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
     },
     "reviewed": true
   },
@@ -2343,20 +2943,6 @@
       "name": "Aeroflot Investor Relations, Shareholder Capital; Council of the EU sanctions explainer",
       "date": "2025 / 2026",
       "url": "https://ir.aeroflot.com/ensecurities/shareholder-capital"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "aia-group-record",
-    "ownerIds": [
-      "aia-group"
-    ],
-    "text": "AIA Group Limited is incorporated in Hong Kong with limited liability and listed on the Hong Kong Stock Exchange (stock code 1299); it presents itself as the largest independent publicly listed pan-Asian life insurer. No state or state-fund owner.",
-    "short": "AIA Group Limited is incorporated in Hong Kong with limited liability and listed on the Hong Kong Stock Exchange (stock code 1299); it presents itself as the….",
-    "source": {
-      "name": "AIA Group Limited official filings/press release; company corporate documents",
-      "date": "2023-07",
-      "url": "https://www.aia.com/content/dam/group-wise/en/docs/press-release/2023/AIA%20Group%20Press%20Release_ENG_13%20July%202023.pdf.coredownload.pdf"
     },
     "reviewed": true
   },
@@ -2953,7 +3539,7 @@
     "ownerIds": [
       "ut-southwestern-medical-center"
     ],
-    "text": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT Southwestern Medical Center (away kit) is a state institution, the public medical school of The University of Texas, established as a UT medical branch in Dallas in 1949 under the UT Board of Regents. State ownership of one half of the patch drives a state tier. Human-rights relevance is limited to public-sector healthcare and labour policy.",
+    "text": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT Southwestern Medical Center (away kit) is a state institution, the public medical school of The University of Texas, established as a UT medical branch in Dallas in 1949 under the UT Board of Regents.",
     "short": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT….",
     "source": {
       "name": "UT Southwestern - 'Mission, Values, and History' (About Us)",
@@ -2973,20 +3559,6 @@
       "name": "Children's Hospital Colorado Continuing Education page",
       "date": "2026-09-24",
       "url": "https://ce.childrenscolorado.org/content/childrens-hospital-colorado-mission"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "circle-internet-group-record",
-    "ownerIds": [
-      "circle-internet-group"
-    ],
-    "text": "USDC is issued by Circle; the issuer's parent, Circle Internet Group, Inc., listed on the NYSE in June 2025 via an S-1 registration (SEC CIK 1876042). It is a US-listed company with dispersed public shareholders and no state or state-fund owner.",
-    "short": "USDC is issued by Circle; the issuer's parent, Circle Internet Group, Inc., listed on the NYSE in June 2025 via an S-1 registration (SEC CIK 1876042).",
-    "source": {
-      "name": "SEC Form S-1, Circle Internet Group, Inc.",
-      "date": "2025-06",
-      "url": "https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm"
     },
     "reviewed": true
   },
@@ -3061,34 +3633,6 @@
     "reviewed": true
   },
   {
-    "id": "clickhouse-inc-record",
-    "ownerIds": [
-      "clickhouse-inc"
-    ],
-    "text": "ClickHouse, Inc. is a private San Francisco analytics company whose Series C (led by Khosla Ventures) and $400m Series D (led by Dragoneer) brought in financial investors including Bessemer, Index and Singapore's sovereign fund GIC. Owner is private; only minority sovereign-fund exposure.",
-    "short": "ClickHouse, Inc.",
-    "source": {
-      "name": "ClickHouse official Series C/D announcements",
-      "date": "2025-05 / 2026-01",
-      "url": "https://clickhouse.com/blog/clickhouse-raises-350-million-series-c-to-power-analytics-for-ai-era"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "cmc-markets-plc-record",
-    "ownerIds": [
-      "cmc-markets-plc"
-    ],
-    "text": "CMC Markets is a London-listed CFD broker founded and led by Peter Cruddas, Baron Cruddas, whose family is among the top shareholders; the rest is free float. No state or state-fund owner.",
-    "short": "CMC Markets is a London-listed CFD broker founded and led by Peter Cruddas, Baron Cruddas, whose family is among the top shareholders; the rest is free float.",
-    "source": {
-      "name": "CMC Markets Plc press release (founder appointed to the Lords); Finance Magnates/TradingView on shareholder base",
-      "date": "2020 / 2025",
-      "url": "https://www.cmcmarkets.com/group/press-releases/peter-cruddas-appointed-to-the-house-of-lords-as-baron-cruddas-of-shoreditch"
-    },
-    "reviewed": true
-  },
-  {
     "id": "cme-group-owner-record",
     "ownerIds": [
       "cme-group-owner"
@@ -3155,20 +3699,6 @@
       "name": "Molson Coors DEF 14A 2026",
       "date": "2026-03-25",
       "url": "https://www.sec.gov/Archives/edgar/data/24545/000110465926034154/tap-20260506xdef14a.htm"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "corendon-tourism-group-record",
-    "ownerIds": [
-      "corendon-tourism-group"
-    ],
-    "text": "Corendon Airlines is a subsidiary of the privately held Corendon Tourism Group, founded in 2000 by Atilay Uslu and Yildiray Karaer; Uslu is listed as owner/founder and chairman. Dutch-headquartered (Amsterdam) group with Turkish operations; no state shareholding.",
-    "short": "Corendon Airlines is a subsidiary of the privately held Corendon Tourism Group, founded in 2000 by Atilay Uslu and Yildiray Karaer; Uslu is listed as owner/founder….",
-    "source": {
-      "name": "Corendon Airlines corporate profile / TravMagazine reporting on Corendon management",
-      "date": "2024-01",
-      "url": "https://www.travmagazine.nl/en/corendon-introduces-its-new-management-team"
     },
     "reviewed": true
   },
@@ -3457,7 +3987,7 @@
     "ownerIds": [
       "eni"
     ],
-    "text": "Eni S.p.A. is effectively Italian state-owned: the Ministry of Economy and Finance (MEF) holds 2.166% directly and a further 30.918% indirectly through Cassa Depositi e Prestiti (which is 82.77% MEF-owned) - 33.084% in total, alongside a golden share - per Eni's own shareholder communications to its 2026 AGM. State ownership alone earns serious. Eni's upstream operations in Libya, Egypt, Nigeria and Mozambique give it live, conflict-adjacent human-rights exposure on top.",
+    "text": "Eni S.p.A. is effectively Italian state-owned: the Ministry of Economy and Finance (MEF) holds 2.166% directly and a further 30.918% indirectly through Cassa Depositi e Prestiti (which is 82.77% MEF-owned) - 33.084% in total, alongside a golden share - per Eni's own shareholder communications to its 2026 AGM.",
     "short": "Eni S.p.A.",
     "source": {
       "name": "Eni S.p.A. - Proposals of the Shareholder Ministry of the Economy and Finance (AGM 2026 filing)",
@@ -3555,7 +4085,7 @@
     "ownerIds": [
       "osceola-county-tourism-authority"
     ],
-    "text": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development Tax and governed under the state Local Option Tourist Development Act. Because the owner is a public body, the state-owner rule puts it in 'serious'. Human-rights relevance is remote - a local government tourism body with no armed-conflict or conflict-minerals exposure.",
+    "text": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development Tax and governed under the state Local Option Tourist Development Act.",
     "short": "Experience Kissimmee is not a company: it is the official destination marketing authority for Osceola County, Florida, funded from the county's Tourist Development….",
     "source": {
       "name": "Experience Kissimmee - About us (official tourism authority for Osceola County)",
@@ -3859,20 +4389,6 @@
     "reviewed": true
   },
   {
-    "id": "halo-lifestyle-llc-record",
-    "ownerIds": [
-      "halo-lifestyle-llc"
-    ],
-    "text": "HALO Hydration is the trading brand of HALO Lifestyle LLC, a New York/US private company founded in 2017 by Anshuman Vohra and Robin Shobin; it is venture-backed (including celebrity investors such as Andy Murray and Pitbull) with no state or sovereign-fund ownership.",
-    "short": "HALO Hydration is the trading brand of HALO Lifestyle LLC, a New York/US private company founded in 2017 by Anshuman Vohra and Robin Shobin; it is venture-backed….",
-    "source": {
-      "name": "Preqin asset profile for Halo Hydration; Crunchbase legal-name record (HALO LIFESTYLE LLC)",
-      "date": "2025",
-      "url": "https://www.preqin.com/data/profile/asset/halo-hydration/624618"
-    },
-    "reviewed": true
-  },
-  {
     "id": "hansemerkur-krankenversicherung-ag-record",
     "ownerIds": [
       "hansemerkur-krankenversicherung-ag"
@@ -4015,7 +4531,7 @@
   {
     "id": "hyundai-owner-record",
     "ownerIds": [
-      "hyundai-owner"
+      "hyundai-motor-group"
     ],
     "text": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai Mobis as the largest shareholder at 22.36% and the Korean National Pension Service, the country's statutory public pension fund, as the largest outside shareholder at 7.76%, with the register noting that no government institution holds a golden share.",
     "short": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai….",
@@ -4051,20 +4567,6 @@
       "name": "EQT / Hg / TA Associates press release - IFS valued at EUR 15bn in minority stake sale",
       "date": "2025-04-09",
       "url": "https://mb.cision.com/Main/87/4133272/3378631.pdf"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "recruit-holdings-record",
-    "ownerIds": [
-      "recruit-holdings"
-    ],
-    "text": "Indeed, Inc. was acquired in 2012 and is a key subsidiary of Recruit Holdings Co., Ltd., a Tokyo-listed Japanese holding company that also owns Glassdoor. No state or state-fund owner.",
-    "short": "Indeed, Inc.",
-    "source": {
-      "name": "Recruit Holdings official 'Group Companies' page",
-      "date": "2026",
-      "url": "https://recruit-holdings.com/en/about/group"
     },
     "reviewed": true
   },
@@ -4115,7 +4617,7 @@
     "ownerIds": [
       "friuli-venezia-giulia-region"
     ],
-    "text": "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia regional government through PromoTurismoFVG, the region's public tourism agency, per the club's own announcement of the renewal to 2028/29. The owner is therefore a public authority - 'serious' under the state-owner rule. Human-rights relevance: a regional government's destination marketing, with no conflict or minerals exposure.",
+    "text": "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia regional government through PromoTurismoFVG, the region's public tourism agency, per the club's own announcement of the renewal to 2028/29.",
     "short": "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia regional government through PromoTurismoFVG, the region's public….",
     "source": {
       "name": "Udinese Calcio - Io sono Friuli Venezia Giulia renews Udinese shirt sponsorship deal until 2028/29",
@@ -4601,20 +5103,6 @@
     "reviewed": true
   },
   {
-    "id": "marex-group-plc-record",
-    "ownerIds": [
-      "marex-group-plc"
-    ],
-    "text": "Marex Group plc listed on Nasdaq (June 2024) after growth under private-equity sponsors, creating a public float while sponsors retained significant stakes; the company provides an investors/SEC-filings section evidencing a listed, dispersed ownership. No state or state-fund owner.",
-    "short": "Marex Group plc listed on Nasdaq (June 2024) after growth under private-equity sponsors, creating a public float while sponsors retained significant stakes; the….",
-    "source": {
-      "name": "Marex investor relations (SEC filings); Reuters/trade coverage of June 2024 IPO",
-      "date": "2024-06",
-      "url": "https://www.marex.com/investors"
-    },
-    "reviewed": true
-  },
-  {
     "id": "massmutual-owner-record",
     "ownerIds": [
       "massmutual-owner"
@@ -4675,7 +5163,7 @@
     "ownerIds": [
       "university-of-texas-system"
     ],
-    "text": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT System, and its financial statements are those of a division of the System funded by state appropriations plus the Permanent University Fund and philanthropy. State ownership, so 'serious' under the rule. Human-rights relevance: public healthcare/research, no conflict exposure.",
+    "text": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT System, and its financial statements are those of a division of the System funded by state appropriations plus the Permanent University Fund and philanthropy.",
     "short": "MD Anderson, the Houston Dynamo front sponsor, is a component institution of the University of Texas System - its own about page states it is part of the UT….",
     "source": {
       "name": "UT MD Anderson - About MD Anderson ('Part of the University of Texas System')",
@@ -4769,20 +5257,6 @@
     "reviewed": true
   },
   {
-    "id": "microsoft-corporation-record",
-    "ownerIds": [
-      "microsoft-corporation"
-    ],
-    "text": "The Mercedes F1 partner is Microsoft Corporation, the Washington-incorporated, Nasdaq-listed software company with a dispersed public float and no controlling shareholder or state stake. Human-rights relevance: cloud/AI data-centre and workforce exposure, plus its substantial government contracting, but nothing that reaches the state-owner threshold.",
-    "short": "The Mercedes F1 partner is Microsoft Corporation, the Washington-incorporated, Nasdaq-listed software company with a dispersed public float and no controlling….",
-    "source": {
-      "name": "Microsoft Corporation Form 10-K for FY2026 (SEC)",
-      "date": "2026-07-29",
-      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
-    },
-    "reviewed": true
-  },
-  {
     "id": "mk-sports-news-record",
     "ownerIds": [
       "mk-sports-news"
@@ -4821,20 +5295,6 @@
       "name": "Moda Health Strategic Partnership Press Release",
       "date": "2019-02-28",
       "url": "https://www.modahealth.com/-/media/shop/PDFs/2025/Enrollment/Moda-SG-MED-DEN-Brochure-2025-AK.pdf"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "monzo-bank-limited-record",
-    "ownerIds": [
-      "monzo-bank-limited"
-    ],
-    "text": "Monzo Bank Limited is a UK-incorporated private bank with a full banking licence and no controlling shareholder; ownership is dispersed across venture investors. No state or state-fund owner.",
-    "short": "Monzo Bank Limited is a UK-incorporated private bank with a full banking licence and no controlling shareholder; ownership is dispersed across venture investors.",
-    "source": {
-      "name": "Monzo Investor Information / Annual Report & Group Financial Statements",
-      "date": "2026",
-      "url": "https://monzo.com/investor-information"
     },
     "reviewed": true
   },
@@ -5179,7 +5639,7 @@
     "ownerIds": [
       "sinochem-holdings"
     ],
-    "text": "Pirelli & C. SpA is Borsa Italiana-listed but has long been part-owned by Sinochem, a Chinese central state-owned enterprise under SASAC. Sinochem's vehicle Marco Polo International Italy sold a 14% block (151.9m shares at EUR 6.50) to Czech investor Lumina Crown in July 2026, cutting the Chinese state stake from about 34% to roughly 20%. A Chinese state owner of that size is a material state link on a Ferrari sponsor.",
+    "text": "Pirelli & C. SpA is Borsa Italiana-listed but has long been part-owned by Sinochem, a Chinese central state-owned enterprise under SASAC. Sinochem's vehicle Marco Polo International Italy sold a 14% block (151.9m shares at EUR 6.50) to Czech investor Lumina Crown in July 2026, cutting the Chinese state stake from about 34% to roughly 20%.",
     "short": "Pirelli & C.",
     "source": {
       "name": "European Rubber Journal, 'Sinochem completes EUR 1bn sale of Pirelli stake to Czech investor'",
@@ -5277,7 +5737,7 @@
     "ownerIds": [
       "axpo-holding-ag"
     ],
-    "text": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG. Axpo is 100% publicly owned: all its shares sit with the cantons of northeastern Switzerland and their utilities, with Canton Zurich and its cantonal utility alone holding roughly 36%. The Genoa front sponsor is therefore backed by sub-national Swiss state capital.",
+    "text": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG. Axpo is 100% publicly owned: all its shares sit with the cantons of northeastern Switzerland and their utilities, with Canton Zurich and its cantonal utility alone holding roughly 36%.",
     "short": "Pulsee Luce e Gas is the digital retail energy brand of Axpo Italia, a subsidiary of Axpo Holding AG.",
     "source": {
       "name": "Axpo Group, 'Owners - Entirely in public hands'",
@@ -5315,20 +5775,6 @@
     "reviewed": true
   },
   {
-    "id": "government-of-qatar-record",
-    "ownerIds": [
-      "government-of-qatar"
-    ],
-    "text": "Qatar Airways Group Q.C.S.C. is incorporated in Qatar and 'is ultimately wholly owned by the Government of the State of Qatar (the \"Shareholder\")'; the state's kafala/migrant-labour system produced documented serious abuses in the run-up to the 2022 World Cup.",
-    "short": "Qatar Airways Group Q.C.S.C.",
-    "source": {
-      "name": "Qatar Airways Group audited consolidated financial statements (note: corporate information); Human Rights Watch",
-      "date": "2022-03 / 2022-11",
-      "url": "https://www.qatarairways.com/content/dam/documents/annual-reports/2022/financial-statement-en.pdf"
-    },
-    "reviewed": true
-  },
-  {
     "id": "state-of-qatar-qia-record",
     "ownerIds": [
       "state-of-qatar-qia"
@@ -5345,7 +5791,7 @@
   {
     "id": "qualcomm-incorporated-record",
     "ownerIds": [
-      "qualcomm-incorporated"
+      "qualcomm"
     ],
     "text": "QUALCOMM Incorporated is a Nasdaq-listed (QCOM) semiconductor company with a dispersed institutional shareholder base and no state or sovereign-fund owner. The Snapdragon-branded Mercedes sponsorship is private corporate spend. Human-rights exposure would come from chip supply chains, especially China and Taiwan manufacturing.",
     "short": "QUALCOMM Incorporated is a Nasdaq-listed (QCOM) semiconductor company with a dispersed institutional shareholder base and no state or sovereign-fund owner.",
@@ -5437,20 +5883,6 @@
       "name": "Raymond James Financial DEF 14A 2026",
       "date": "2026-01-07",
       "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000019/rjf-20260106.htm"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "mateschitz-yoovidhya-families-record",
-    "ownerIds": [
-      "mateschitz-yoovidhya-families"
-    ],
-    "text": "Red Bull GmbH is a privately held Austrian company owned by two families: the founding Yoovidhya family of Thailand holds 51% and the Mateschitz family (Mark Mateschitz, heir of co-founder Dietrich) holds 49%. Neither owner is a state or state fund.",
-    "short": "Red Bull GmbH is a privately held Austrian company owned by two families: the founding Yoovidhya family of Thailand holds 51% and the Mateschitz family (Mark….",
-    "source": {
-      "name": "Reuters (Red Bull leadership after co-founder's death, referencing the inherited 49% stake)",
-      "date": "2022-11-04",
-      "url": "https://www.reuters.com/business/retail-consumer/trio-lead-energy-drinks-giant-red-bull-after-co-founders-death-2022-11-04/"
     },
     "reviewed": true
   },
@@ -5627,7 +6059,7 @@
     "ownerIds": [
       "regione-autonoma-della-sardegna"
     ],
-    "text": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department (Assessorato del Turismo, Artigianato e Commercio), which has repeatedly signed main-sponsor deals with the club. It is a public-law regional body, so this is sub-national state money. The shirt front is co-branded with Sardinian craft-beer chain Doppio Malto, a private company.",
+    "text": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department (Assessorato del Turismo, Artigianato e Commercio), which has repeatedly signed main-sponsor deals with the club. It is a public-law regional body. The shirt front is co-branded with Sardinian craft-beer chain Doppio Malto, a private company.",
     "short": "The 'Sardegna' branding on the Cagliari front shirt is the tourism promotion of the Autonomous Region of Sardinia, run by its regional tourism department….",
     "source": {
       "name": "Regione Autonoma della Sardegna, Assessorato del turismo, artigianato e commercio",
@@ -5763,20 +6195,6 @@
     "reviewed": true
   },
   {
-    "id": "qualcomm-record",
-    "ownerIds": [
-      "qualcomm"
-    ],
-    "text": "Snapdragon is Qualcomm's product brand, not a separate entity: Qualcomm Incorporated is a US Nasdaq-listed semiconductor company with dispersed public shareholders and no state or state-fund owner.",
-    "short": "Snapdragon is Qualcomm's product brand, not a separate entity: Qualcomm Incorporated is a US Nasdaq-listed semiconductor company with dispersed public shareholders….",
-    "source": {
-      "name": "Qualcomm official 'About Qualcomm' / Snapdragon FAQ",
-      "date": "2026",
-      "url": "https://www.qualcomm.com/company"
-    },
-    "reviewed": true
-  },
-  {
     "id": "sofi-owner-record",
     "ownerIds": [
       "sofi-owner"
@@ -5829,20 +6247,6 @@
       "name": "Stake.com, Terms of Service",
       "date": "2026-09",
       "url": "https://stake.com/policies/terms"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "standard-chartered-plc-record",
-    "ownerIds": [
-      "standard-chartered-plc"
-    ],
-    "text": "Standard Chartered is a London-headquartered, publicly listed bank with dispersed shareholders and no state or state-fund owner. Its Iran/Sudan history is a conduct record, not ownership: the bank agreed to forfeit $227m in 2012 for illegal transactions with Iran, Sudan, Libya and Burma and a further ~$1.1bn in 2019 for Iran-related sanctions/AML failures.",
-    "short": "Standard Chartered is a London-headquartered, publicly listed bank with dispersed shareholders and no state or state-fund owner.",
-    "source": {
-      "name": "US DOJ press release (Dec 10, 2012); DLA Piper legal bulletin on the 2019 USD1.1bn settlement",
-      "date": "2012-12-10 / 2019-04",
-      "url": "https://www.justice.gov/archives/opa/pr/standard-chartered-bank-agrees-forfeit-227-million-illegal-transactions-iran-sudan-libya-and"
     },
     "reviewed": true
   },
@@ -6067,20 +6471,6 @@
       "name": "TELUS Corporation Form 40-F FY2025 (SEC EDGAR)",
       "date": "2026-02-12",
       "url": "https://www.sec.gov/Archives/edgar/data/868675/000110465926013854/tu-20251231x40f.htm"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "temporal-technologies-record",
-    "ownerIds": [
-      "temporal-technologies"
-    ],
-    "text": "Temporal Technologies is a private Bellevue, Washington company that raised a $550m Series E at a $12.55bn valuation led by Lightspeed with Wellington, Goldman Sachs Alternatives Growth Equity and Tiger Global — all financial investors, none a state or sovereign fund.",
-    "short": "Temporal Technologies is a private Bellevue, Washington company that raised a $550m Series E at a $12.55bn valuation led by Lightspeed with Wellington, Goldman….",
-    "source": {
-      "name": "Temporal Series E reporting (GeekWire-derived coverage)",
-      "date": "2026",
-      "url": "https://425business.com/news/temporal-raises-550m-in-series-e-company-valued-at-12-55b/article_3f5859c3-e9d8-4cc7-816f-6616745a60dc.html"
     },
     "reviewed": true
   },
@@ -6393,20 +6783,6 @@
     "reviewed": true
   },
   {
-    "id": "discovery-limited-record",
-    "ownerIds": [
-      "discovery-limited"
-    ],
-    "text": "The Vitality brand is owned worldwide by Discovery Limited, a Johannesburg-headquartered, JSE-listed financial services group; Discovery states it is the licensed controlling company of the Discovery insurance group and owns the core Vitality IP. No state or state-fund owner.",
-    "short": "The Vitality brand is owned worldwide by Discovery Limited, a Johannesburg-headquartered, JSE-listed financial services group; Discovery states it is the licensed….",
-    "source": {
-      "name": "Discovery Limited corporate site; Discovery Holdings press release (Vitality name change)",
-      "date": "2025",
-      "url": "https://www.discovery.co.za/"
-    },
-    "reviewed": true
-  },
-  {
     "id": "vodafone-group-plc-record",
     "ownerIds": [
       "vodafone-group-plc"
@@ -6515,48 +6891,6 @@
       "name": "York Space Systems Inc. 10-K 2026 (SEC)",
       "date": "2026-03-20",
       "url": "https://www.sec.gov/Archives/edgar/data/2086587/000162828026019923/yorkspacesystemsinc10-k.htm"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "gov-saudi-arabia-record",
-    "ownerIds": [
-      "government-of-saudi-arabia"
-    ],
-    "text": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%. The Saudi state's documented record (a record 345 executions in 2024; drug-offence executions continuing through 2026) makes this serious - severe is reserved for live armed conflict.",
-    "short": "Aramco is the Saudi state's economic engine and is state-controlled: the Government of Saudi Arabia holds 81.48% directly and the state's PIF a further 16%.",
-    "source": {
-      "name": "Amnesty International",
-      "date": "2025-07-16",
-      "url": "https://www.amnesty.org/en/latest/news/2025/07/saudi-arabia-escalation-executions-foreign-nationals-drug-related-offences/"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "pif-record",
-    "ownerIds": [
-      "saudi-pif"
-    ],
-    "text": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
-    "short": "Ma'aden is majority-owned (~67%) by PIF, the Saudi sovereign wealth fund, so it carries the same Saudi state money as Aramco and the same serious rating.",
-    "source": {
-      "name": "AGBI (Arab Gulf Business Insight) company profile",
-      "date": "2026-09-24",
-      "url": "https://www.agbi.com/companies/maaden-company/"
-    },
-    "reviewed": true
-  },
-  {
-    "id": "gov-qatar-record",
-    "ownerIds": [
-      "government-of-qatar"
-    ],
-    "text": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026. Qatar's documented record - migrant workers still exposed to exploitation despite kafala reform, expression and assembly tightly restricted - rates serious.",
-    "short": "Visit Qatar is the Qatari state's tourism body and became a principal partner of the (Audi) F1 team for 2026.",
-    "source": {
-      "name": "Amnesty International - Human rights in Qatar (country report)",
-      "date": "2026-01-15",
-      "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/qatar/report-qatar"
     },
     "reviewed": true
   },

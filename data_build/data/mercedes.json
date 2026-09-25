@@ -78,7 +78,7 @@
       "season": "2026",
       "tier": "none",
       "ownerId": "microsoft-corporation",
-      "owner": "Microsoft Corporation",
+      "owner": "Microsoft Corporation (Nasdaq-listed)",
       "verdict": "Owned by Microsoft Corporation. Nothing found.",
       "source": {
         "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
@@ -107,8 +107,8 @@
       "placement": "partner",
       "season": "2026",
       "tier": "none",
-      "ownerId": "qualcomm-incorporated",
-      "owner": "QUALCOMM Incorporated",
+      "ownerId": "qualcomm",
+      "owner": "Qualcomm Incorporated (Nasdaq-listed)",
       "verdict": "Owned by QUALCOMM Incorporated. Nothing found.",
       "source": {
         "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
@@ -155,7 +155,7 @@
     "ineos-group-limited",
     "microsoft-corporation",
     "mubadala",
-    "qualcomm-incorporated",
+    "qualcomm",
     "teamviewer-se",
     "ubs-group-ag"
   ],

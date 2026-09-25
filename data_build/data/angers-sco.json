@@ -1,0 +1,73 @@
+{
+  "id": "angers-sco",
+  "team": "Angers SCO",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "ecole-noir-et-blanc",
+      "name": "École Noir&Blanc",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Angers SCO — Partenaires",
+        "date": "2026",
+        "url": "https://angers-sco.fr/club/partenaires/"
+      }
+    },
+    {
+      "id": "maison-de-l-atoll",
+      "name": "Maison de l'Atoll",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Angers SCO — Partenaires",
+        "date": "2026",
+        "url": "https://angers-sco.fr/club/partenaires/"
+      }
+    },
+    {
+      "id": "systeme-u",
+      "name": "Système U",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Angers SCO — Partenaires",
+        "date": "2026",
+        "url": "https://angers-sco.fr/club/partenaires/"
+      }
+    },
+    {
+      "id": "ville-d-angers",
+      "name": "Ville d'Angers",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Angers SCO — Partenaires",
+        "date": "2026",
+        "url": "https://angers-sco.fr/club/partenaires/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

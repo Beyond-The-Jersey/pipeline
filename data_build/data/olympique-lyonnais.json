@@ -1,0 +1,106 @@
+{
+  "id": "olympique-lyonnais",
+  "team": "Olympique Lyonnais",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "Emirates, 'Emirates renews partnership with Olympique Lyonnais until 2030'",
+        "date": "2025-04-25",
+        "url": "https://www.emirates.com/media-centre/emirates-renews-partnership-with-olympique-lyonnais-until-2030/"
+      }
+    },
+    {
+      "id": "mg-motor",
+      "name": "MG Motor",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "staffmatch",
+      "name": "Staffmatch",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "trainline",
+      "name": "Trainline",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "trainline-plc",
+      "owner": "Trainline plc",
+      "verdict": null,
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "winamax",
+      "name": "Winamax",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "xtb",
+      "name": "XTB",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Olympique Lyonnais — Partenaires",
+        "date": "2026",
+        "url": "https://www.ol.fr/fr/club/partenaires"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-dubai",
+    "trainline-plc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -208,5 +208,44 @@
     "notes": [
       "VfL Wolfsburg was relegated in 2026 after 29 seasons in the Bundesliga."
     ]
+  },
+  {
+    "id": "saudi-pro-league",
+    "aliases": [
+      "rsl",
+      "roshn saudi league",
+      "saudi pro league",
+      "saudi arabia"
+    ],
+    "sportId": "soccer",
+    "name": "Roshn Saudi League",
+    "country": "Saudi Arabia",
+    "clubCount": 18,
+    "season": "2026-27",
+    "status": "partial",
+    "notes": [
+      "18 clubs for 2026-27, from the Saudi Pro League official site. Season runs 13 Aug 2026 to 29 May 2027.",
+      "Title sponsor ROSHN Group (a PIF company); league partners include Saudia, Ma'aden, BSF, EA Sports, Sun Cola, Coffee Address, BCare and Baja (official site partner strip).",
+      "Several clubs are state- or PIF-owned: PIF owns Al-Nassr, Al-Ittihad and Al-Ahli and holds 30% of Al-Hilal (70% sold to Kingdom Holding, Sep 2026); Aramco owns Al-Qadsiah, NEOM owns NEOM SC, Diriyah Gate Development Authority runs Diriyah Club."
+    ]
+  },
+  {
+    "id": "uci-worldtour",
+    "aliases": [
+      "worldtour",
+      "uci world tour",
+      "men's worldtour",
+      "world team"
+    ],
+    "sportId": "cycling",
+    "name": "UCI WorldTour (men's road cycling)",
+    "clubCount": 18,
+    "season": "2026",
+    "status": "partial",
+    "notes": [
+      "18 UCI WorldTeams granted 2026-2028 licences by the UCI Licence Commission (UCI press release, 2026-2028 cycle).",
+      "Every team is named after a sponsor; names change with sponsors.",
+      "Sponsor placement here is mapped to the schema's front/back/sleeve/shorts/partner values from 'team title/name' and 'jersey'."
+    ]
   }
 ]

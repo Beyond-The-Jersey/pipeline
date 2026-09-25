@@ -1,0 +1,77 @@
+{
+  "id": "uae-team-emirates-xrg",
+  "team": "UAE Team Emirates XRG",
+  "sport": "cycling",
+  "league": "uci-worldtour",
+  "country": "United Arab Emirates",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "colnago",
+      "name": "Colnago",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring — Pro Team Sponsors Explained",
+        "date": "2026-07-10",
+        "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+      }
+    },
+    {
+      "id": "emirates",
+      "name": "Emirates",
+      "placement": "front",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "government-of-dubai",
+      "owner": "Government of Dubai",
+      "verdict": "The airline is owned by the Dubai government’s investment arm.",
+      "source": {
+        "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+        "date": "2026-07-14",
+        "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+      }
+    },
+    {
+      "id": "g42",
+      "name": "G42",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "serious",
+      "ownerId": "mubadala",
+      "owner": "Mubadala Investment Company (Abu Dhabi sovereign fund)",
+      "verdict": "G42 is anchor-invested by Mubadala, Abu Dhabi's sovereign wealth fund, and is chaired by Sheikh Tahnoon bin Zayed (ruling family) - UAE state money, rated serious….",
+      "source": {
+        "name": "The Inner Ring — Pro Team Sponsors Explained",
+        "date": "2026-07-10",
+        "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+      }
+    },
+    {
+      "id": "xrg",
+      "name": "XRG",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "government-of-abu-dhabi",
+      "owner": "Government of Abu Dhabi",
+      "verdict": null,
+      "source": {
+        "name": "UAE Team Emirates — XRG Named as Co-title Partner and Official Energy Partner",
+        "date": "2024-12-17",
+        "url": "https://www.uaeteamemirates.com/xrg-named-co-title-partner-official-energy-partner-uae-team-emirates/"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-abu-dhabi",
+    "government-of-dubai",
+    "mubadala"
+  ],
+  "lastUpdated": "2026-09-24"
+}

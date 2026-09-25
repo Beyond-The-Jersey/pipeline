@@ -25,11 +25,28 @@
         "date": "2026-09-06",
         "url": "https://www.scoreandchange.com/la-liga-sponsors/"
       }
+    },
+    {
+      "id": "kutxabank",
+      "name": "Kutxabank",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "kutxabank-sa",
+      "owner": "Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations)",
+      "verdict": "Owned by Kutxabank, S.A. (owned by BBK, Kutxa and Vital foundations). Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "note": "Kutxabank backs the Basque clubs Alaves and Real Sociedad"
+      }
     }
   ],
   "worstTier": "none",
   "owners": [
-    "baghdadi-capital-sa"
+    "baghdadi-capital-sa",
+    "kutxabank-sa"
   ],
   "lastUpdated": "2026-09-24"
 }

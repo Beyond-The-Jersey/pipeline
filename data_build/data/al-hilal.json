@@ -1,0 +1,113 @@
+{
+  "id": "al-hilal",
+  "team": "Al-Hilal",
+  "sport": "soccer",
+  "league": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "flynas",
+      "name": "flynas",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "kingdom-holding",
+      "name": "Kingdom Holding Company (KHC)",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "kingdom-holding",
+      "owner": "Kingdom Holding Company (KHC)",
+      "verdict": null,
+      "source": {
+        "name": "Inside World Football – PIF sells stake in Al-Hilal to Kingdom Holding",
+        "date": "2026-09-02",
+        "url": "https://www.insideworldfootball.com/2026/09/02/pif-sells-224m-stake-in-al-hilal-to-kingdom-holding",
+        "note": "Kingdom Holding completed the SAR840m purchase of 70% of Al-Hilal on 1 Sep 2026."
+      }
+    },
+    {
+      "id": "nhc",
+      "name": "NHC (National Housing Company)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "nhc",
+      "owner": "NHC (National Housing Company)",
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "pif",
+      "name": "Public Investment Fund (PIF)",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "saudi-pif",
+      "owner": "Public Investment Fund (Saudi Arabia)",
+      "verdict": null,
+      "source": {
+        "name": "Inside World Football – PIF sells stake in Al-Hilal to Kingdom Holding",
+        "date": "2026-09-02",
+        "url": "https://www.insideworldfootball.com/2026/09/02/pif-sells-224m-stake-in-al-hilal-to-kingdom-holding",
+        "note": "PIF retains 30% of Al-Hilal after the sale."
+      }
+    },
+    {
+      "id": "riyad-bank",
+      "name": "Riyad Bank",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "tree-digital",
+      "name": "Tree Digital Insurance Agency",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "kingdom-holding",
+    "nhc",
+    "saudi-pif"
+  ],
+  "lastUpdated": "2026-09-24"
+}

@@ -12,6 +12,38 @@
   },
   "sponsors": [
     {
+      "id": "celer-lighting",
+      "name": "Celer Lighting",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "grupo-saltoki",
+      "owner": "Grupo Saltoki (Comercial de Suministros, S.A.)",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "note": "sleeve branding is Grupo Saltoki's Celer Lighting on the home kit"
+      }
+    },
+    {
+      "id": "digi",
+      "name": "Digi",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "digi-communications-nv",
+      "owner": "Digi Communications N.V.",
+      "verdict": "Owned by Digi Communications N.V.. Nothing found.",
+      "source": {
+        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+        "date": "2025-10-08",
+        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+        "note": "back of shirt per the 2025-26 guide"
+      }
+    },
+    {
       "id": "kosner",
       "name": "Kosner",
       "placement": "front",
@@ -29,6 +61,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "digi-communications-nv",
     "grupo-saltoki"
   ],
   "lastUpdated": "2026-09-24"

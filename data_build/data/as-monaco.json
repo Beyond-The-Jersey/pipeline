@@ -1,0 +1,120 @@
+{
+  "id": "as-monaco",
+  "team": "AS Monaco",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "apm-monaco",
+      "name": "APM Monaco",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "id": "bang-and-olufsen",
+      "name": "Bang & Olufsen",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "id": "rd-congo-coeur-d-afrique",
+      "name": "R.D.Congo : Cœur de l’Afrique",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "government-of-dr-congo",
+      "owner": "Government of the Democratic Republic of the Congo",
+      "verdict": null,
+      "source": {
+        "name": "AS Monaco — Les partenaires ('le logo R.D.Congo sera présent sur la manche du maillot')",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "id": "simplicicar",
+      "name": "Simplicicar",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "id": "teddy-smith",
+      "name": "Teddy Smith",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "id": "triangle-interim",
+      "name": "Triangle Intérim",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    },
+    {
+      "id": "vbet",
+      "name": "VBET",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "AS Monaco — Les partenaires de l'AS Monaco",
+        "date": "2026",
+        "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "government-of-dr-congo"
+  ],
+  "lastUpdated": "2026-09-24"
+}

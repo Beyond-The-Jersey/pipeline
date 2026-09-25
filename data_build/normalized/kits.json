@@ -67,7 +67,9 @@
     ],
     "sponsorsComplete": true,
     "summary": "Saudi Arabia’s state fund pays for the front of this shirt. Rwanda’s government pays for the back.",
-    "change": null
+    "change": null,
+    "headline": "The shirt is {level}: Saudi Arabia’s state fund owns the front sponsor, Riyadh Air, and Rwanda’s government pays for Visit Rwanda on the back.",
+    "shortLine": "Riyadh Air on the front, Visit Rwanda on the back"
   },
   {
     "id": "arsenal-2017-18-home",
@@ -93,11 +95,22 @@
           "h": 0.15
         },
         "cardSlot": "L"
+      },
+      {
+        "sponsorId": "deel",
+        "placement": "sleeve",
+        "source": {
+          "name": "Arsenal FC – 'Deel and Arsenal announce multi-year sleeve partnership'",
+          "date": "2026-05-14",
+          "url": "https://www.arsenal.com/news/deel-and-arsenal-announce-multi-year-sleeve-partnership-ai5MJ4o82lIM"
+        }
       }
     ],
     "sponsorsComplete": true,
     "summary": "Dubai’s government pays for the front of this shirt.",
-    "change": null
+    "change": null,
+    "headline": "The shirt was {level}: the front sponsor, Emirates, is owned by the Government of Dubai.",
+    "shortLine": "Emirates on the front"
   },
   {
     "id": "arsenal-2025-26-home",
@@ -136,6 +149,15 @@
           "h": 0.07
         },
         "cardSlot": "T"
+      },
+      {
+        "sponsorId": "deel",
+        "placement": "sleeve",
+        "source": {
+          "name": "Arsenal FC – 'Deel and Arsenal announce multi-year sleeve partnership'",
+          "date": "2026-05-14",
+          "url": "https://www.arsenal.com/news/deel-and-arsenal-announce-multi-year-sleeve-partnership-ai5MJ4o82lIM"
+        }
       }
     ],
     "sponsorsComplete": true,
@@ -144,7 +166,9 @@
       "kind": "worse",
       "text": "Worse from 2018: Visit Rwanda joined",
       "badge": "+ Visit Rwanda"
-    }
+    },
+    "headline": "The shirt was {level}: Emirates on the front is owned by the Government of Dubai, and Visit Rwanda on the sleeve is paid for by the Government of Rwanda.",
+    "shortLine": "Emirates, plus Visit Rwanda on the sleeve"
   },
   {
     "id": "arsenal-2026-27-home",
@@ -201,7 +225,9 @@
       "kind": "better",
       "text": "Better than last season: Visit Rwanda left in June 2026",
       "badge": "Rwanda gone"
-    }
+    },
+    "headline": "The shirt is {level}: the front sponsor, Emirates, is owned by the Government of Dubai.",
+    "shortLine": "Visit Rwanda gone, Deel on the sleeve"
   },
   {
     "id": "aston-villa-2025-26-home",
@@ -239,11 +265,22 @@
           "h": 0.13
         },
         "cardSlot": "T"
+      },
+      {
+        "sponsorId": "betano",
+        "placement": "sleeve",
+        "source": {
+          "name": "Aston Villa FC – 'Kaizen Gaming to become Official Sleeve Partner'",
+          "date": "2026-07-23",
+          "url": "https://www.avfc.co.uk/news/2026/july/23/news-kaizen-gaming-to-become-official-sleeve-partner/"
+        }
       }
     ],
     "sponsorsComplete": true,
     "summary": "Betano and Trade Nation haven’t been rated yet.",
-    "change": null
+    "change": null,
+    "headline": "We haven’t rated this shirt yet: nobody has traced who owns Betano or Trade Nation.",
+    "shortLine": "Betano on the front, Trade Nation on the sleeve"
   },
   {
     "id": "aston-villa-2026-27-home",
@@ -300,7 +337,9 @@
       "kind": "worse",
       "text": "Worse than last season: Visit Rwanda took the front",
       "badge": "+ Visit Rwanda"
-    }
+    },
+    "headline": "The shirt is {level}: the front sponsor, Visit Rwanda, is paid for by the Government of Rwanda.",
+    "shortLine": "Visit Rwanda on the front, Betano on the sleeves"
   },
   {
     "id": "manchester-city-2026-27-home",
@@ -454,9 +493,18 @@
           "date": "2026-06-10",
           "url": "https://www.sportspro.com/news/sponsorship-marketing/real-madrid-emirates-record-sponsorship-june-2026/"
         }
+      },
+      {
+        "sponsorId": "hp",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": "Paid for by the Government of Dubai.",
     "change": null
   },
@@ -491,7 +539,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -526,7 +574,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -561,7 +609,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -596,7 +644,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -631,7 +679,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -675,7 +723,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -710,7 +758,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -745,7 +793,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -778,9 +826,19 @@
           "date": "2026-09-08",
           "url": "https://www.manutd.com/en/news/sumup-is-united-official-sleeve-partner"
         }
+      },
+      {
+        "sponsorId": "microsoft",
+        "placement": "back",
+        "source": {
+          "name": "Manchester United, Microsoft Surface to feature on United shirts",
+          "date": "2026-08",
+          "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1"
+        },
+        "side": "back"
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -815,7 +873,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -841,7 +899,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": "No front-of-shirt sponsor at the start of the season (SportsPro).",
     "change": null
   },
@@ -902,7 +960,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -937,7 +995,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -972,7 +1030,7 @@
         }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -984,7 +1042,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/athletic-club/2026-27-home-front.jpg",
+      "back": "assets/shirts/athletic-club/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/athletic-club-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "kutxabank",
@@ -993,6 +1055,16 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "digi",
+        "placement": "back",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+          "note": "back of shirt; B2BinPay did not renew the sleeve, left free"
         }
       }
     ],
@@ -1008,7 +1080,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/osasuna/2026-27-home-front.jpg",
+      "back": "assets/shirts/osasuna/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/osasuna-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "kosner",
@@ -1017,6 +1093,26 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "celer-lighting",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+          "note": "sleeve branding is Grupo Saltoki's Celer Lighting on the home kit"
+        }
+      },
+      {
+        "sponsorId": "digi",
+        "placement": "back",
+        "source": {
+          "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+          "date": "2025-10-08",
+          "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+          "note": "back of shirt per the 2025-26 guide"
         }
       }
     ],
@@ -1032,7 +1128,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/celta-vigo/2026-27-home-front.jpg",
+      "back": "assets/shirts/celta-vigo/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/celta-vigo-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "estrella-galicia",
@@ -1041,6 +1141,25 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "jp-financial",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "abanca",
+        "placement": "back",
+        "source": {
+          "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+          "date": "2025-10-08",
+          "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+          "note": "Abanca back of shirt; one of the two Abanca backs the 2026-27 overview names, not identified there"
         }
       }
     ],
@@ -1056,11 +1175,43 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/deportivo-alaves/2026-27-home-front.jpg",
+      "back": "assets/shirts/deportivo-alaves/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/deportivo-alaves-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "mk-tiyu-news",
         "placement": "front",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "diputacion-foral-de-alava",
+        "placement": "front",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+          "note": "second vertical logo on the shirt front (Araba/Alava), lower down"
+        }
+      },
+      {
+        "sponsorId": "ebpay",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "kutxabank",
+        "placement": "back",
         "source": {
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
@@ -1080,11 +1231,24 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/elche/2026-27-home-front.jpg",
+      "back": "assets/shirts/elche/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/elche-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "flexicar",
         "placement": "front",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "mgs-seguros",
+        "placement": "sleeve",
         "source": {
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
@@ -1104,7 +1268,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/barcelona/2026-27-home-front.jpg",
+      "back": "assets/shirts/barcelona/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/barcelona-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "spotify",
@@ -1114,9 +1282,28 @@
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
         }
+      },
+      {
+        "sponsorId": "midea",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "fundacio-fc-barcelona",
+        "placement": "back",
+        "source": {
+          "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
+          "date": "2026-08-10",
+          "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
+          "note": "Fundacio FC Barcelona replaces UNHCR/ACNUR on the back"
+        }
       }
     ],
-    "sponsorsComplete": false,
+    "sponsorsComplete": true,
     "summary": null,
     "change": null
   },
@@ -1128,7 +1315,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/getafe/2026-27-home-front.jpg",
+      "back": "assets/shirts/getafe/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/getafe-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "tecnocasa-group",
@@ -1137,6 +1328,25 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "odty-news",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "lowi",
+        "placement": "back",
+        "source": {
+          "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+          "date": "2025-10-08",
+          "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+          "note": "Lowi back of shirt per the 2025-26 guide; one of the two Lowi backs the 2026-27 overview names, not identified there"
         }
       }
     ],
@@ -1152,7 +1362,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/levante/2026-27-home-front.jpg",
+      "back": "assets/shirts/levante/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/levante-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sesame-hr",
@@ -1161,6 +1375,25 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "gana-energia",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "lowi",
+        "placement": "back",
+        "source": {
+          "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+          "date": "2025-10-08",
+          "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+          "note": "Lowi lower back of shirt"
         }
       }
     ],
@@ -1176,7 +1409,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/malaga/2026-27-home-front.jpg",
+      "back": "assets/shirts/malaga/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/malaga-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sabor-a-malaga",
@@ -1185,6 +1422,35 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "malaga-turismo",
+        "placement": "front",
+        "source": {
+          "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
+          "date": "2026-08-10",
+          "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
+          "note": "second vertical logo (Malaga) on the shirt front"
+        }
+      },
+      {
+        "sponsorId": "mgs-seguros",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "ayuntamiento-de-benahavis",
+        "placement": "back",
+        "source": {
+          "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
+          "date": "2026-08-10",
+          "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
+          "note": "Ayuntamiento de Benahavis on the lower back of the shirt"
         }
       }
     ],
@@ -1200,11 +1466,34 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/racing-santander/2026-27-home-front.jpg",
+      "back": "assets/shirts/racing-santander/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/racing-santander-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "plenitude",
         "placement": "front",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "digi",
+        "placement": "front",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+          "note": "second vertical logo (Digi) on the shirt front"
+        }
+      },
+      {
+        "sponsorId": "mgs-seguros",
+        "placement": "sleeve",
         "source": {
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
@@ -1224,11 +1513,24 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/rayo-vallecano/2026-27-home-front.jpg",
+      "back": "assets/shirts/rayo-vallecano/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/rayo-vallecano-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "digi",
         "placement": "front",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "gcs",
+        "placement": "sleeve",
         "source": {
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
@@ -1248,7 +1550,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/deportivo-la-coruna/2026-27-home-front.jpg",
+      "back": "assets/shirts/deportivo-la-coruna/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/deportivo-la-coruna-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "estrella-galicia",
@@ -1257,6 +1563,16 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "abanca",
+        "placement": "back",
+        "source": {
+          "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+          "date": "2025-10-08",
+          "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+          "note": "Abanca back of shirt; the promoted club is the likely second Abanca back"
         }
       }
     ],
@@ -1272,7 +1588,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/espanyol/2026-27-home-front.jpg",
+      "back": "assets/shirts/espanyol/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/espanyol-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "arctempus",
@@ -1296,7 +1616,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/real-betis/2026-27-home-front.jpg",
+      "back": "assets/shirts/real-betis/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/real-betis-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "gree",
@@ -1305,6 +1629,25 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "revel",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "trainline",
+        "placement": "back",
+        "source": {
+          "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+          "date": "2025-10-08",
+          "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+          "note": "Trainline back of shirt per the 2025-26 guide"
         }
       }
     ],
@@ -1320,7 +1663,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/real-sociedad/2026-27-home-front.jpg",
+      "back": "assets/shirts/real-sociedad/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/real-sociedad-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "baghdadi-capital",
@@ -1329,6 +1676,16 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "kutxabank",
+        "placement": "back",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+          "note": "Kutxabank backs the Basque clubs Alaves and Real Sociedad"
         }
       }
     ],
@@ -1344,7 +1701,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sevilla/2026-27-home-front.jpg",
+      "back": "assets/shirts/sevilla/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sevilla-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "fundacion-1890",
@@ -1368,11 +1729,24 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/valencia/2026-27-home-front.jpg",
+      "back": "assets/shirts/valencia/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/valencia-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "tm-real-estate-group",
         "placement": "front",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "divina-seguros",
+        "placement": "sleeve",
         "source": {
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
@@ -1392,7 +1766,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/villarreal/2026-27-home-front.jpg",
+      "back": "assets/shirts/villarreal/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/villarreal-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "pamesa-ceramica",
@@ -1401,6 +1779,25 @@
           "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
           "date": "2026-09-06",
           "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "gac",
+        "placement": "sleeve",
+        "source": {
+          "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+          "date": "2026-09-06",
+          "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+        }
+      },
+      {
+        "sponsorId": "ascale",
+        "placement": "back",
+        "source": {
+          "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+          "date": "2025-10-08",
+          "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+          "note": "Ascale back of shirt per the 2025-26 guide"
         }
       }
     ],
@@ -1416,7 +1813,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fc-augsburg/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-augsburg/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-augsburg-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "wwk",
@@ -1425,6 +1826,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "siegmund",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1440,7 +1851,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/union-berlin/2026-27-home-front.jpg",
+      "back": "assets/shirts/union-berlin/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/union-berlin-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "raisin",
@@ -1449,6 +1864,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "kermi",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1464,7 +1889,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/werder-bremen/2026-27-home-front.jpg",
+      "back": "assets/shirts/werder-bremen/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/werder-bremen-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "matthaei",
@@ -1473,6 +1902,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "harald-pihl",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1488,7 +1927,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/borussia-dortmund/2026-27-home-front.jpg",
+      "back": "assets/shirts/borussia-dortmund/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/borussia-dortmund-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "vodafone",
@@ -1497,6 +1940,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "polestar",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "433FC, Bundesliga 2026/27 shirt sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/bundesliga-2026-27-shirt-sponsors/"
         }
       }
     ],
@@ -1512,7 +1965,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sv-elversberg/2026-27-home-front.jpg",
+      "back": "assets/shirts/sv-elversberg/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sv-elversberg-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "reuter",
@@ -1521,6 +1978,16 @@
           "name": "Football Kit Archive, Bundesliga 2026-27 kits",
           "date": "2026-09-24",
           "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+        }
+      },
+      {
+        "sponsorId": "hylo",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+          "date": "2026-08",
+          "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
         }
       }
     ],
@@ -1536,7 +2003,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/eintracht-frankfurt/2026-27-home-front.jpg",
+      "back": "assets/shirts/eintracht-frankfurt/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/eintracht-frankfurt-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "indeed",
@@ -1545,6 +2016,16 @@
           "name": "Football Kit Archive, Bundesliga 2026-27 kits",
           "date": "2026-09-24",
           "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+        }
+      },
+      {
+        "sponsorId": "deutsche-vermoegensberatung",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1560,7 +2041,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sc-freiburg/2026-27-home-front.jpg",
+      "back": "assets/shirts/sc-freiburg/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sc-freiburg-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "lexware",
@@ -1584,7 +2069,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/hamburger-sv/2026-27-home-front.jpg",
+      "back": "assets/shirts/hamburger-sv/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/hamburger-sv-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "hansemerkur",
@@ -1593,6 +2082,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "helm-ag",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1608,7 +2107,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/tsg-hoffenheim/2026-27-home-front.jpg",
+      "back": "assets/shirts/tsg-hoffenheim/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/tsg-hoffenheim-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sap",
@@ -1617,6 +2120,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "prominent",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1632,7 +2145,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fc-koln/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-koln/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-koln-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "rewe",
@@ -1641,6 +2158,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "devk",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1656,7 +2183,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/rb-leipzig/2026-27-home-front.jpg",
+      "back": "assets/shirts/rb-leipzig/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/rb-leipzig-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "red-bull",
@@ -1665,6 +2196,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "kraken",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1680,7 +2221,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/bayer-leverkusen/2026-27-home-front.jpg",
+      "back": "assets/shirts/bayer-leverkusen/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/bayer-leverkusen-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "barmenia",
@@ -1689,6 +2234,16 @@
           "name": "Football Kit Archive, Bundesliga 2026-27 kits",
           "date": "2026-09-24",
           "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+        }
+      },
+      {
+        "sponsorId": "niedax",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1704,7 +2259,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/mainz-05/2026-27-home-front.jpg",
+      "back": "assets/shirts/mainz-05/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/mainz-05-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "koemmerling",
@@ -1713,6 +2272,16 @@
           "name": "Football Kit Archive, Bundesliga 2026-27 kits",
           "date": "2026-09-24",
           "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+        }
+      },
+      {
+        "sponsorId": "idm-energiesysteme",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1728,7 +2297,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/borussia-monchengladbach/2026-27-home-front.jpg",
+      "back": "assets/shirts/borussia-monchengladbach/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/borussia-monchengladbach-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "hylo",
@@ -1737,6 +2310,26 @@
           "name": "Football Kit Archive, Bundesliga 2026-27 kits",
           "date": "2026-09-24",
           "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
+        }
+      },
+      {
+        "sponsorId": "reuter",
+        "placement": "front",
+        "side": "front",
+        "source": {
+          "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+          "date": "2026-08",
+          "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+        }
+      },
+      {
+        "sponsorId": "sonepar",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1752,7 +2345,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sc-paderborn-07/2026-27-home-front.jpg",
+      "back": "assets/shirts/sc-paderborn-07/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sc-paderborn-07-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "c-hedenkamp",
@@ -1776,7 +2373,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/vfb-stuttgart/2026-27-home-front.jpg",
+      "back": "assets/shirts/vfb-stuttgart/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/vfb-stuttgart-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "lbbw",
@@ -1785,6 +2386,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "hep-solar",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1800,7 +2411,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/bayern-munich/2026-27-home-front.jpg",
+      "back": "assets/shirts/bayern-munich/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/bayern-munich-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "deutsche-telekom",
@@ -1809,6 +2424,16 @@
           "name": "Deutsches Institut fuer Marketing, Trikotsponsoren der Bundesliga (stand 4 Aug 2026)",
           "date": "2026-08-04",
           "url": "https://www.marketinginstitut.biz/blog/trikotsponsoren-bundesliga/"
+        }
+      },
+      {
+        "sponsorId": "allianz",
+        "placement": "sleeve",
+        "side": "front",
+        "source": {
+          "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+          "date": "2025-26",
+          "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
         }
       }
     ],
@@ -1824,7 +2449,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/schalke-04/2026-27-home-front.jpg",
+      "back": "assets/shirts/schalke-04/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/schalke-04-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "beumer-group",
@@ -1848,7 +2477,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/atalanta/2026-27-home-front.jpg",
+      "back": "assets/shirts/atalanta/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/atalanta-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "lete",
@@ -1872,7 +2505,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/bologna/2026-27-home-front.jpg",
+      "back": "assets/shirts/bologna/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/bologna-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "saputo",
@@ -1896,7 +2533,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/cagliari/2026-27-home-front.jpg",
+      "back": "assets/shirts/cagliari/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/cagliari-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sardegna-turismo",
@@ -1920,7 +2561,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/como/2026-27-home-front.jpg",
+      "back": "assets/shirts/como/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/como-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "revolut",
@@ -1944,7 +2589,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fiorentina/2026-27-home-front.jpg",
+      "back": "assets/shirts/fiorentina/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fiorentina-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "mediacom",
@@ -1992,7 +2641,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/genoa/2026-27-home-front.jpg",
+      "back": "assets/shirts/genoa/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/genoa-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "pulsee-luce-e-gas",
@@ -2016,7 +2669,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/inter-milan/2026-27-home-front.jpg",
+      "back": "assets/shirts/inter-milan/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/inter-milan-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "betsson-sport",
@@ -2040,7 +2697,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/juventus/2026-27-home-front.jpg",
+      "back": "assets/shirts/juventus/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/juventus-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "jeep",
@@ -2064,7 +2725,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/lecce/2026-27-home-front.jpg",
+      "back": "assets/shirts/lecce/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/lecce-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "deghi",
@@ -2088,7 +2753,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/ac-milan/2026-27-home-front.jpg",
+      "back": "assets/shirts/ac-milan/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/ac-milan-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "emirates",
@@ -2112,7 +2781,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/monza/2026-27-home-front.jpg",
+      "back": "assets/shirts/monza/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/monza-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "dazn-bet-club",
@@ -2136,7 +2809,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/napoli/2026-27-home-front.jpg",
+      "back": "assets/shirts/napoli/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/napoli-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "msc-cruises",
@@ -2160,7 +2837,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/parma/2026-27-home-front.jpg",
+      "back": "assets/shirts/parma/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/parma-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "prometeon",
@@ -2184,7 +2865,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/as-roma/2026-27-home-front.jpg",
+      "back": "assets/shirts/as-roma/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/as-roma-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "eurobet-live",
@@ -2208,7 +2893,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sassuolo/2026-27-home-front.jpg",
+      "back": "assets/shirts/sassuolo/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sassuolo-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "mapei",
@@ -2232,7 +2921,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/torino/2026-27-home-front.jpg",
+      "back": "assets/shirts/torino/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/torino-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "suzuki",
@@ -2256,7 +2949,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/udinese/2026-27-home-front.jpg",
+      "back": "assets/shirts/udinese/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/udinese-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "io-sono-friuli-venezia-giulia",
@@ -2280,7 +2977,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/venezia/2026-27-home-front.jpg",
+      "back": "assets/shirts/venezia/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/venezia-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "cynar-spritz",
@@ -2304,7 +3005,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/atlanta-united/2026-27-home-front.jpg",
+      "back": "assets/shirts/atlanta-united/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/atlanta-united-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "american-family-insurance",
@@ -2328,7 +3033,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/austin-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/austin-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/austin-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "yeti",
@@ -2376,7 +3085,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/chicago-fire/2026-27-home-front.jpg",
+      "back": "assets/shirts/chicago-fire/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/chicago-fire-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "carvana",
@@ -2400,7 +3113,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fc-cincinnati/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-cincinnati/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-cincinnati-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "mercy-health",
@@ -2448,7 +3165,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/columbus-crew/2026-27-home-front.jpg",
+      "back": "assets/shirts/columbus-crew/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/columbus-crew-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "nationwide",
@@ -2472,7 +3193,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/fc-dallas/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-dallas/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-dallas-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "childrens-health",
@@ -2520,7 +3245,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/houston-dynamo/2026-27-home-front.jpg",
+      "back": "assets/shirts/houston-dynamo/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/houston-dynamo-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "md-anderson-cancer-center",
@@ -2544,7 +3273,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sporting-kansas-city/2026-27-home-front.jpg",
+      "back": "assets/shirts/sporting-kansas-city/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sporting-kansas-city-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "compass-minerals",
@@ -2616,7 +3349,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/inter-miami/2026-27-home-front.jpg",
+      "back": "assets/shirts/inter-miami/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/inter-miami-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "royal-caribbean",
@@ -2664,7 +3401,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/cf-montreal/2026-27-home-front.jpg",
+      "back": "assets/shirts/cf-montreal/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/cf-montreal-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "bmo-bank",
@@ -2712,7 +3453,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-england-revolution/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-england-revolution/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-england-revolution-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "gillette",
@@ -2736,7 +3481,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-york-red-bulls/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-york-red-bulls/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-york-red-bulls-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "red-bull",
@@ -2760,7 +3509,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-york-city-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-york-city-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-york-city-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "etihad-airways",
@@ -2784,7 +3537,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/orlando-city/2026-27-home-front.jpg",
+      "back": "assets/shirts/orlando-city/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/orlando-city-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "orlando-health",
@@ -2832,7 +3589,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/portland-timbers/2026-27-home-front.jpg",
+      "back": "assets/shirts/portland-timbers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/portland-timbers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "bank-of-america",
@@ -2856,7 +3617,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/real-salt-lake/2026-27-home-front.jpg",
+      "back": "assets/shirts/real-salt-lake/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/real-salt-lake-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "select-health",
@@ -2880,7 +3645,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/san-diego-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/san-diego-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/san-diego-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "directv",
@@ -2904,7 +3673,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/san-jose-earthquakes/2026-27-home-front.jpg",
+      "back": "assets/shirts/san-jose-earthquakes/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/san-jose-earthquakes-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "el-camino-health",
@@ -2928,7 +3701,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/seattle-sounders/2026-27-home-front.jpg",
+      "back": "assets/shirts/seattle-sounders/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/seattle-sounders-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "providence",
@@ -2952,7 +3729,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/st-louis-city/2026-27-home-front.jpg",
+      "back": "assets/shirts/st-louis-city/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/st-louis-city-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "purina",
@@ -2976,7 +3757,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/toronto-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/toronto-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/toronto-fc-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "bmo-bank",
@@ -3000,7 +3785,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/vancouver-whitecaps/2026-27-home-front.jpg",
+      "back": "assets/shirts/vancouver-whitecaps/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/vancouver-whitecaps-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "telus",
@@ -3985,6 +4774,3244 @@
     "summary": "2026 car. N"
   },
   {
+    "id": "angers-sco-2026-27-home",
+    "clubId": "angers-sco",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/angers-sco/2026-27-home-front.jpg",
+      "back": "assets/shirts/angers-sco/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/angers-sco-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "ecole-noir-et-blanc",
+        "placement": "front",
+        "source": {
+          "name": "Angers SCO — Partenaires",
+          "date": "2026",
+          "url": "https://angers-sco.fr/club/partenaires/"
+        }
+      },
+      {
+        "sponsorId": "maison-de-l-atoll",
+        "placement": "front",
+        "source": {
+          "name": "Angers SCO — Partenaires",
+          "date": "2026",
+          "url": "https://angers-sco.fr/club/partenaires/"
+        }
+      },
+      {
+        "sponsorId": "ville-d-angers",
+        "placement": "front",
+        "source": {
+          "name": "Angers SCO — Partenaires",
+          "date": "2026",
+          "url": "https://angers-sco.fr/club/partenaires/"
+        }
+      },
+      {
+        "sponsorId": "systeme-u",
+        "placement": "shorts",
+        "source": {
+          "name": "Angers SCO — Partenaires",
+          "date": "2026",
+          "url": "https://angers-sco.fr/club/partenaires/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Nike kit. École Noir&Blanc front, with Maison de l'Atoll and the city of Angers; Système U on the shorts.",
+    "change": null
+  },
+  {
+    "id": "aj-auxerre-2026-27-home",
+    "clubId": "aj-auxerre",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/aj-auxerre/2026-27-home-front.jpg",
+      "back": "assets/shirts/aj-auxerre/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/aj-auxerre-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "x1-xi-wang",
+        "placement": "front",
+        "source": {
+          "name": "AJ Auxerre — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.aja.fr/nos-partenaires-2/"
+        }
+      },
+      {
+        "sponsorId": "sppe",
+        "placement": "front",
+        "source": {
+          "name": "AJ Auxerre — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.aja.fr/nos-partenaires-2/"
+        }
+      },
+      {
+        "sponsorId": "jussieu-secours",
+        "placement": "front",
+        "source": {
+          "name": "AJ Auxerre — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.aja.fr/nos-partenaires-2/"
+        }
+      },
+      {
+        "sponsorId": "les-constructeurs-reunis",
+        "placement": "back",
+        "source": {
+          "name": "AJ Auxerre — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.aja.fr/nos-partenaires-2/"
+        }
+      },
+      {
+        "sponsorId": "acadomia",
+        "placement": "back",
+        "source": {
+          "name": "AJ Auxerre — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.aja.fr/nos-partenaires-2/"
+        }
+      },
+      {
+        "sponsorId": "groupama",
+        "placement": "sleeve",
+        "source": {
+          "name": "AJ Auxerre — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.aja.fr/nos-partenaires-2/"
+        }
+      },
+      {
+        "sponsorId": "ville-d-auxerre",
+        "placement": "shorts",
+        "source": {
+          "name": "AJ Auxerre — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.aja.fr/nos-partenaires-2/"
+        }
+      },
+      {
+        "sponsorId": "advise-energie",
+        "placement": "shorts",
+        "source": {
+          "name": "AJ Auxerre — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.aja.fr/nos-partenaires-2/"
+        }
+      },
+      {
+        "sponsorId": "cichy-manutention",
+        "placement": "shorts",
+        "source": {
+          "name": "AJ Auxerre — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.aja.fr/nos-partenaires-2/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Macron kit. X1 on the front; Groupama on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "stade-brestois-29-2026-27-home",
+    "clubId": "stade-brestois-29",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/stade-brestois-29/2026-27-home-front.jpg",
+      "back": "assets/shirts/stade-brestois-29/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/stade-brestois-29-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "queguiner-materiaux",
+        "placement": "front",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "sill",
+        "placement": "front",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "breizh-cola",
+        "placement": "front",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "oceania-hotels",
+        "placement": "front",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "le-football-a-la-pointe",
+        "placement": "front",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "oriance",
+        "placement": "back",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "j-bervas-automobiles",
+        "placement": "back",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "le-rond-central",
+        "placement": "sleeve",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "e-leclerc",
+        "placement": "shorts",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "groupe-soft",
+        "placement": "shorts",
+        "source": {
+          "name": "Stade Brestois 29 — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.sb29.bzh/"
+        }
+      },
+      {
+        "sponsorId": "yaourt-malo",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier per the target research."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas kit. Quéquiner Matériaux front on the home shirt.",
+    "change": null
+  },
+  {
+    "id": "le-havre-ac-2026-27-home",
+    "clubId": "le-havre-ac",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/le-havre-ac/2026-27-home-front.jpg",
+      "back": "assets/shirts/le-havre-ac/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/le-havre-ac-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "seafrigo",
+        "placement": "front",
+        "source": {
+          "name": "Le Havre AC — site officiel (partenaires)",
+          "date": "2026",
+          "url": "http://www.hac-foot.com/"
+        }
+      },
+      {
+        "sponsorId": "sim-agences-d-emploi",
+        "placement": "front",
+        "source": {
+          "name": "Le Havre AC — site officiel (partenaires)",
+          "date": "2026",
+          "url": "http://www.hac-foot.com/"
+        }
+      },
+      {
+        "sponsorId": "df-industrie",
+        "placement": "sleeve",
+        "source": {
+          "name": "Le Havre AC — site officiel (partenaires)",
+          "date": "2026",
+          "url": "http://www.hac-foot.com/"
+        }
+      },
+      {
+        "sponsorId": "zeturf",
+        "placement": "shorts",
+        "source": {
+          "name": "Le Havre AC — site officiel (partenaires)",
+          "date": "2026",
+          "url": "http://www.hac-foot.com/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Hummel kit. Seafrigo front.",
+    "change": null
+  },
+  {
+    "id": "le-mans-fc-2026-27-home",
+    "clubId": "le-mans-fc",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/le-mans-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/le-mans-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/le-mans-fc-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "hexaom",
+        "placement": "front",
+        "source": {
+          "name": "Le Mans FC — site officiel (partenaires)",
+          "date": "2026",
+          "url": "https://www.lemansfc.fr/"
+        }
+      },
+      {
+        "sponsorId": "groupe-ej",
+        "placement": "front",
+        "source": {
+          "name": "Le Mans FC — site officiel (partenaires)",
+          "date": "2026",
+          "url": "https://www.lemansfc.fr/"
+        }
+      },
+      {
+        "sponsorId": "oeufs-matines",
+        "placement": "front",
+        "source": {
+          "name": "Le Mans FC — site officiel (partenaires)",
+          "date": "2026",
+          "url": "https://www.lemansfc.fr/"
+        }
+      },
+      {
+        "sponsorId": "passenaud-recyclage",
+        "placement": "back",
+        "source": {
+          "name": "Le Mans FC — site officiel (partenaires)",
+          "date": "2026",
+          "url": "https://www.lemansfc.fr/"
+        }
+      },
+      {
+        "sponsorId": "of-course-le-mans",
+        "placement": "sleeve",
+        "source": {
+          "name": "Le Mans FC — site officiel (partenaires)",
+          "date": "2026",
+          "url": "https://www.lemansfc.fr/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas kit. Hexaom front.",
+    "change": null
+  },
+  {
+    "id": "rc-lens-2026-27-home",
+    "clubId": "rc-lens",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/rc-lens/2026-27-home-front.jpg",
+      "back": "assets/shirts/rc-lens/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/rc-lens-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "auchan",
+        "placement": "front",
+        "source": {
+          "name": "RC Lens — Les partenaires du Racing",
+          "date": "2026",
+          "url": "https://www.rclens.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "groupe-lempereur",
+        "placement": "front",
+        "source": {
+          "name": "RC Lens — Les partenaires du Racing",
+          "date": "2026",
+          "url": "https://www.rclens.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "nexans",
+        "placement": "front",
+        "source": {
+          "name": "RC Lens — Les partenaires du Racing",
+          "date": "2026",
+          "url": "https://www.rclens.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "murprotec",
+        "placement": "back",
+        "source": {
+          "name": "RC Lens — Les partenaires du Racing",
+          "date": "2026",
+          "url": "https://www.rclens.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "winamax",
+        "placement": "back",
+        "source": {
+          "name": "RC Lens — Les partenaires du Racing",
+          "date": "2026",
+          "url": "https://www.rclens.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "aushopping",
+        "placement": "sleeve",
+        "source": {
+          "name": "RC Lens — Les partenaires du Racing",
+          "date": "2026",
+          "url": "https://www.rclens.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "molinel",
+        "placement": "shorts",
+        "source": {
+          "name": "RC Lens — Les partenaires du Racing",
+          "date": "2026",
+          "url": "https://www.rclens.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "mcdonalds",
+        "placement": "shorts",
+        "source": {
+          "name": "RC Lens — Les partenaires du Racing",
+          "date": "2026",
+          "url": "https://www.rclens.fr/fr/club/partenaires"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas kit. Auchan front; Aushopping (Auchan's mall brand) on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "lille-osc-2026-27-home",
+    "clubId": "lille-osc",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/lille-osc/2026-27-home-front.jpg",
+      "back": "assets/shirts/lille-osc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/lille-osc-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "boulanger",
+        "placement": "front",
+        "source": {
+          "name": "LOSC — Partenaires",
+          "date": "2026",
+          "url": "https://www.losc.fr/partenaires"
+        }
+      },
+      {
+        "sponsorId": "actual-group",
+        "placement": "front",
+        "source": {
+          "name": "LOSC — Partenaires",
+          "date": "2026",
+          "url": "https://www.losc.fr/partenaires"
+        }
+      },
+      {
+        "sponsorId": "toyota",
+        "placement": "back",
+        "source": {
+          "name": "LOSC — Partenaires",
+          "date": "2026",
+          "url": "https://www.losc.fr/partenaires"
+        }
+      },
+      {
+        "sponsorId": "aushopping",
+        "placement": "back",
+        "source": {
+          "name": "LOSC — Partenaires",
+          "date": "2026",
+          "url": "https://www.losc.fr/partenaires"
+        }
+      },
+      {
+        "sponsorId": "etoro",
+        "placement": "sleeve",
+        "source": {
+          "name": "LOSC — Partenaires",
+          "date": "2026",
+          "url": "https://www.losc.fr/partenaires"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "New Balance kit. Boulanger front; eToro on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "olympique-lyonnais-2026-27-home",
+    "clubId": "olympique-lyonnais",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/olympique-lyonnais/2026-27-home-front.jpg",
+      "back": "assets/shirts/olympique-lyonnais/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/olympique-lyonnais-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "emirates",
+        "placement": "front",
+        "source": {
+          "name": "Emirates, 'Emirates renews partnership with Olympique Lyonnais until 2030'",
+          "date": "2025-04-25",
+          "url": "https://www.emirates.com/media-centre/emirates-renews-partnership-with-olympique-lyonnais-until-2030/"
+        }
+      },
+      {
+        "sponsorId": "winamax",
+        "placement": "back",
+        "source": {
+          "name": "Olympique Lyonnais — Partenaires",
+          "date": "2026",
+          "url": "https://www.ol.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "xtb",
+        "placement": "back",
+        "source": {
+          "name": "Olympique Lyonnais — Partenaires",
+          "date": "2026",
+          "url": "https://www.ol.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "mg-motor",
+        "placement": "sleeve",
+        "source": {
+          "name": "Olympique Lyonnais — Partenaires",
+          "date": "2026",
+          "url": "https://www.ol.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "trainline",
+        "placement": "shorts",
+        "source": {
+          "name": "Olympique Lyonnais — Partenaires",
+          "date": "2026",
+          "url": "https://www.ol.fr/fr/club/partenaires"
+        }
+      },
+      {
+        "sponsorId": "staffmatch",
+        "placement": "shorts",
+        "source": {
+          "name": "Olympique Lyonnais — Partenaires",
+          "date": "2026",
+          "url": "https://www.ol.fr/fr/club/partenaires"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas kit. Emirates (Dubai state-owned) on the front until 2030.",
+    "change": null
+  },
+  {
+    "id": "fc-lorient-2026-27-home",
+    "clubId": "fc-lorient",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/fc-lorient/2026-27-home-front.jpg",
+      "back": "assets/shirts/fc-lorient/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/fc-lorient-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "jean-floch",
+        "placement": "front",
+        "source": {
+          "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+          "date": "2026",
+          "url": "https://www.fclorient.bzh/"
+        }
+      },
+      {
+        "sponsorId": "acadomia",
+        "placement": "front",
+        "source": {
+          "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+          "date": "2026",
+          "url": "https://www.fclorient.bzh/"
+        }
+      },
+      {
+        "sponsorId": "breizh-cola",
+        "placement": "front",
+        "source": {
+          "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+          "date": "2026",
+          "url": "https://www.fclorient.bzh/"
+        }
+      },
+      {
+        "sponsorId": "world-of-tanks",
+        "placement": "back",
+        "source": {
+          "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+          "date": "2026",
+          "url": "https://www.fclorient.bzh/"
+        }
+      },
+      {
+        "sponsorId": "aniel-pieces-auto",
+        "placement": "back",
+        "source": {
+          "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+          "date": "2026",
+          "url": "https://www.fclorient.bzh/"
+        }
+      },
+      {
+        "sponsorId": "actual-group",
+        "placement": "sleeve",
+        "source": {
+          "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+          "date": "2026",
+          "url": "https://www.fclorient.bzh/"
+        }
+      },
+      {
+        "sponsorId": "cite-marine",
+        "placement": "shorts",
+        "source": {
+          "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+          "date": "2026",
+          "url": "https://www.fclorient.bzh/"
+        }
+      },
+      {
+        "sponsorId": "b-and-b-hotels",
+        "placement": "shorts",
+        "source": {
+          "name": "FC Lorient — Parrains et partenaires officiels (site officiel)",
+          "date": "2026",
+          "url": "https://www.fclorient.bzh/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Joma kit. Jean Floc'h front.",
+    "change": null
+  },
+  {
+    "id": "olympique-de-marseille-2026-27-home",
+    "clubId": "olympique-de-marseille",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/olympique-de-marseille/2026-27-home-front.jpg",
+      "back": "assets/shirts/olympique-de-marseille/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/olympique-de-marseille-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "cma-cgm",
+        "placement": "front",
+        "source": {
+          "name": "Olympique de Marseille — Nos partenaires (CMA CGM 'partenaire principal ... présent sur la face avant des maillots')",
+          "date": "2026",
+          "url": "https://www.om.fr/fr/partenaires"
+        }
+      },
+      {
+        "sponsorId": "unibet",
+        "placement": "front",
+        "source": {
+          "name": "Olympique de Marseille — Nos partenaires",
+          "date": "2026",
+          "url": "https://www.om.fr/fr/partenaires"
+        }
+      },
+      {
+        "sponsorId": "sublime-cote-divoire",
+        "placement": "sleeve",
+        "source": {
+          "name": "Olympique de Marseille — Nos partenaires (Sublime Côte d'Ivoire, Ministère du Tourisme de Côte d'Ivoire)",
+          "date": "2026",
+          "url": "https://www.om.fr/fr/partenaires"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Puma kit. CMA CGM front; Sublime Côte d'Ivoire (state tourism brand) on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "as-monaco-2026-27-home",
+    "clubId": "as-monaco",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/as-monaco/2026-27-home-front.jpg",
+      "back": "assets/shirts/as-monaco/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/as-monaco-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "apm-monaco",
+        "placement": "front",
+        "source": {
+          "name": "AS Monaco — Les partenaires de l'AS Monaco",
+          "date": "2026",
+          "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+        }
+      },
+      {
+        "sponsorId": "triangle-interim",
+        "placement": "front",
+        "source": {
+          "name": "AS Monaco — Les partenaires de l'AS Monaco",
+          "date": "2026",
+          "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+        }
+      },
+      {
+        "sponsorId": "bang-and-olufsen",
+        "placement": "back",
+        "source": {
+          "name": "AS Monaco — Les partenaires de l'AS Monaco",
+          "date": "2026",
+          "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+        }
+      },
+      {
+        "sponsorId": "teddy-smith",
+        "placement": "back",
+        "source": {
+          "name": "AS Monaco — Les partenaires de l'AS Monaco",
+          "date": "2026",
+          "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+        }
+      },
+      {
+        "sponsorId": "rd-congo-coeur-d-afrique",
+        "placement": "sleeve",
+        "source": {
+          "name": "AS Monaco — Les partenaires ('le logo R.D.Congo sera présent sur la manche du maillot')",
+          "date": "2026",
+          "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+        }
+      },
+      {
+        "sponsorId": "vbet",
+        "placement": "shorts",
+        "source": {
+          "name": "AS Monaco — Les partenaires de l'AS Monaco",
+          "date": "2026",
+          "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+        }
+      },
+      {
+        "sponsorId": "simplicicar",
+        "placement": "shorts",
+        "source": {
+          "name": "AS Monaco — Les partenaires de l'AS Monaco",
+          "date": "2026",
+          "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Mizuno kit. APM Monaco front; R.D.Congo (state brand) on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "ogc-nice-2026-27-home",
+    "clubId": "ogc-nice",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/ogc-nice/2026-27-home-front.jpg",
+      "back": "assets/shirts/ogc-nice/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/ogc-nice-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "robinhood-markets",
+        "placement": "front",
+        "source": {
+          "name": "OGC Nice — Nos partenaires 2026/2027",
+          "date": "2026",
+          "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        }
+      },
+      {
+        "sponsorId": "actual-group",
+        "placement": "front",
+        "source": {
+          "name": "OGC Nice — Nos partenaires 2026/2027",
+          "date": "2026",
+          "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        }
+      },
+      {
+        "sponsorId": "limova-ai",
+        "placement": "back",
+        "source": {
+          "name": "OGC Nice — Nos partenaires 2026/2027",
+          "date": "2026",
+          "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        }
+      },
+      {
+        "sponsorId": "ineos-s",
+        "placement": "sleeve",
+        "source": {
+          "name": "OGC Nice — Nos partenaires 2026/2027",
+          "date": "2026",
+          "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        }
+      },
+      {
+        "sponsorId": "vbet",
+        "placement": "shorts",
+        "source": {
+          "name": "OGC Nice — Nos partenaires 2026/2027",
+          "date": "2026",
+          "url": "https://www.ogcnice.com/fr/partenaires/nos-partenaires.html"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Kappa kit. Robinhood front; INEOS, the club's owner, on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "paris-fc-2026-27-home",
+    "clubId": "paris-fc",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/paris-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/paris-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/paris-fc-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "bahrain-victorious",
+        "placement": "front",
+        "source": {
+          "name": "The Daily Tribune (Bahrain), 'Victorious Bahrain goes European: Shaikh Nasser visits Paris FC'",
+          "date": "2026-02-08",
+          "url": "https://www.newsofbahrain.com/sports/126544.html"
+        }
+      },
+      {
+        "sponsorId": "google-pixel",
+        "placement": "front",
+        "source": {
+          "name": "Paris FC — site officiel",
+          "date": "2026",
+          "url": "https://parisfc.fr/"
+        }
+      },
+      {
+        "sponsorId": "vinci",
+        "placement": "back",
+        "source": {
+          "name": "Paris FC — site officiel",
+          "date": "2026",
+          "url": "https://parisfc.fr/"
+        }
+      },
+      {
+        "sponsorId": "renault",
+        "placement": "sleeve",
+        "source": {
+          "name": "Paris FC — site officiel",
+          "date": "2026",
+          "url": "https://parisfc.fr/"
+        }
+      },
+      {
+        "sponsorId": "bwin",
+        "placement": "shorts",
+        "source": {
+          "name": "Paris FC — site officiel",
+          "date": "2026",
+          "url": "https://parisfc.fr/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas kit. Bahrain Victorious (Bahrain state brand) front.",
+    "change": null
+  },
+  {
+    "id": "paris-saint-germain-2026-27-home",
+    "clubId": "paris-saint-germain",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/paris-saint-germain/2026-27-home-front.jpg",
+      "back": "assets/shirts/paris-saint-germain/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/paris-saint-germain-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "qatar-airways",
+        "placement": "front",
+        "source": {
+          "name": "SportsPro, 'PSG renew Qatar Airways shirt sponsorship on same terms'",
+          "date": "2025-01-27",
+          "url": "https://www.sportspro.com/news/psg-qatar-airways-shirt-sponsor-contract-extension-2028-january-2025/"
+        }
+      },
+      {
+        "sponsorId": "snipes",
+        "placement": "back",
+        "source": {
+          "name": "Paris Saint-Germain — site officiel",
+          "date": "2026",
+          "url": "https://www.psg.fr/"
+        }
+      },
+      {
+        "sponsorId": "beyond-developments",
+        "placement": "sleeve",
+        "source": {
+          "name": "Paris Saint-Germain — site officiel",
+          "date": "2026",
+          "url": "https://www.psg.fr/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Nike kit. Qatar Airways (state-owned) front through 2028; Snipes on the back and Dubai developer BEYOND Developments on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "stade-rennais-2026-27-home",
+    "clubId": "stade-rennais",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/stade-rennais/2026-27-home-front.jpg",
+      "back": "assets/shirts/stade-rennais/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/stade-rennais-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "samsic",
+        "placement": "front",
+        "source": {
+          "name": "Stade Rennais FC — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.staderennais.com/"
+        }
+      },
+      {
+        "sponsorId": "hellowork",
+        "placement": "front",
+        "source": {
+          "name": "Stade Rennais FC — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.staderennais.com/"
+        }
+      },
+      {
+        "sponsorId": "association-ela",
+        "placement": "front",
+        "source": {
+          "name": "Stade Rennais FC — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.staderennais.com/"
+        }
+      },
+      {
+        "sponsorId": "winamax",
+        "placement": "back",
+        "source": {
+          "name": "Stade Rennais FC — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.staderennais.com/"
+        }
+      },
+      {
+        "sponsorId": "blot-immobilier",
+        "placement": "back",
+        "source": {
+          "name": "Stade Rennais FC — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.staderennais.com/"
+        }
+      },
+      {
+        "sponsorId": "bwt",
+        "placement": "shorts",
+        "source": {
+          "name": "Stade Rennais FC — Partenaires (site officiel)",
+          "date": "2026",
+          "url": "https://www.staderennais.com/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Puma kit. Samsic front; BWT on the shorts.",
+    "change": null
+  },
+  {
+    "id": "rc-strasbourg-2026-27-home",
+    "clubId": "rc-strasbourg",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/rc-strasbourg/2026-27-home-front.jpg",
+      "back": "assets/shirts/rc-strasbourg/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/rc-strasbourg-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "winamax",
+        "placement": "front",
+        "source": {
+          "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+          "date": "2026",
+          "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        }
+      },
+      {
+        "sponsorId": "hager-group",
+        "placement": "front",
+        "source": {
+          "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+          "date": "2026",
+          "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        }
+      },
+      {
+        "sponsorId": "electricite-de-strasbourg",
+        "placement": "front",
+        "source": {
+          "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+          "date": "2026",
+          "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        }
+      },
+      {
+        "sponsorId": "soprema",
+        "placement": "back",
+        "source": {
+          "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+          "date": "2026",
+          "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        }
+      },
+      {
+        "sponsorId": "wurth",
+        "placement": "sleeve",
+        "source": {
+          "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+          "date": "2026",
+          "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        }
+      },
+      {
+        "sponsorId": "atheo-ingenierie",
+        "placement": "shorts",
+        "source": {
+          "name": "RC Strasbourg Alsace — Les sponsors du Racing",
+          "date": "2026",
+          "url": "https://www.rcstrasbourgalsace.fr/le-club/les-partenaires-du-racing/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas kit. Winamax front; Würth on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "toulouse-fc-2026-27-home",
+    "clubId": "toulouse-fc",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/toulouse-fc/2026-27-home-front.jpg",
+      "back": "assets/shirts/toulouse-fc/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/toulouse-fc-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "casadora",
+        "placement": "front",
+        "source": {
+          "name": "Toulouse FC — site officiel",
+          "date": "2026",
+          "url": "https://www.toulousefc.com/"
+        }
+      },
+      {
+        "sponsorId": "lp-promotion",
+        "placement": "front",
+        "source": {
+          "name": "Toulouse FC — site officiel",
+          "date": "2026",
+          "url": "https://www.toulousefc.com/"
+        }
+      },
+      {
+        "sponsorId": "winamax",
+        "placement": "back",
+        "source": {
+          "name": "Toulouse FC — site officiel",
+          "date": "2026",
+          "url": "https://www.toulousefc.com/"
+        }
+      },
+      {
+        "sponsorId": "newrest",
+        "placement": "back",
+        "source": {
+          "name": "Toulouse FC — site officiel",
+          "date": "2026",
+          "url": "https://www.toulousefc.com/"
+        }
+      },
+      {
+        "sponsorId": "starbucks",
+        "placement": "sleeve",
+        "source": {
+          "name": "Toulouse FC — site officiel",
+          "date": "2026",
+          "url": "https://www.toulousefc.com/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Nike kit. Casadora front; Starbucks on the sleeve.",
+    "change": null
+  },
+  {
+    "id": "es-troyes-ac-2026-27-home",
+    "clubId": "es-troyes-ac",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/es-troyes-ac/2026-27-home-front.jpg",
+      "back": "assets/shirts/es-troyes-ac/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/es-troyes-ac-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "etihad-airways",
+        "placement": "front",
+        "source": {
+          "name": "ESTAC Troyes, 'Etihad élargit son engagement et devient Partenaire Majeur de l'ESTAC'",
+          "date": "2026-07-23",
+          "url": "https://www.estac.fr/etihad-elargit-son-engagement-et-devient-partenaire-majeur-de-lestac/"
+        }
+      },
+      {
+        "sponsorId": "ville-de-troyes",
+        "placement": "front",
+        "source": {
+          "name": "ESTAC Troyes — Partenaires",
+          "date": "2026",
+          "url": "https://www.estac.fr/le-club/partenaires/"
+        }
+      },
+      {
+        "sponsorId": "norelem",
+        "placement": "front",
+        "source": {
+          "name": "ESTAC Troyes — Partenaires",
+          "date": "2026",
+          "url": "https://www.estac.fr/le-club/partenaires/"
+        }
+      },
+      {
+        "sponsorId": "mcarthurglen-troyes",
+        "placement": "front",
+        "source": {
+          "name": "ESTAC Troyes — Partenaires",
+          "date": "2026",
+          "url": "https://www.estac.fr/le-club/partenaires/"
+        }
+      },
+      {
+        "sponsorId": "b-partner",
+        "placement": "back",
+        "source": {
+          "name": "ESTAC Troyes — Partenaires",
+          "date": "2026",
+          "url": "https://www.estac.fr/le-club/partenaires/"
+        }
+      },
+      {
+        "sponsorId": "century-21-groupe-martinot",
+        "placement": "sleeve",
+        "source": {
+          "name": "ESTAC Troyes — Partenaires",
+          "date": "2026",
+          "url": "https://www.estac.fr/le-club/partenaires/"
+        }
+      },
+      {
+        "sponsorId": "amplitude-groupe-automobile",
+        "placement": "shorts",
+        "source": {
+          "name": "ESTAC Troyes — Partenaires",
+          "date": "2026",
+          "url": "https://www.estac.fr/le-club/partenaires/"
+        }
+      },
+      {
+        "sponsorId": "les-constructeurs-reunis",
+        "placement": "shorts",
+        "source": {
+          "name": "ESTAC Troyes — Partenaires",
+          "date": "2026",
+          "url": "https://www.estac.fr/le-club/partenaires/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Puma kit. Etihad Airways (Abu Dhabi state-owned) 'Partenaire Majeur'; club itself owned by City Football Group (Abu Dhabi).",
+    "change": null
+  },
+  {
+    "id": "abha-2026-27-home",
+    "clubId": "abha",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "yelo",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "offside",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Abha, Al-Fateh and Al-Shabab."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Offside home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-ahli-2026-27-home",
+    "clubId": "al-ahli",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-ahli/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-ahli/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-ahli-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "red-sea-global",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "saudi-investment-recycling-company",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "neoleap",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "kayanee",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "cenomi",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-ettifaq-2026-27-home",
+    "clubId": "al-ettifaq",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-ettifaq/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-ettifaq/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-ettifaq-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "kammelna",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "aldyar-alarabiya",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "tameeni-insurance",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "mouwasat-hospital",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "xplere",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "enterprise-rent-a-car",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "saudi-qaid-transport",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "castore",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Ettifaq (2026/27 per 433FC)."
+        }
+      },
+      {
+        "sponsorId": "jako",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Ettifaq."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Jako home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-faisaly-2026-27-home",
+    "clubId": "al-faisaly",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-faisaly/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-faisaly/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-faisaly-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "aldrees",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "yelo",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-fateh-2026-27-home",
+    "clubId": "al-fateh",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "fuchsia-bakery",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "tameeni-insurance",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "tamweel-aloula",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "dallah-hospitals",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "orinex",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "freshly-kitchen",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "offside",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Abha, Al-Fateh and Al-Shabab."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Offside home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-fayha-2026-27-home",
+    "clubId": "al-fayha",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-fayha/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-fayha/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-fayha-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "basic-electronics",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "tameeni-insurance",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "al-romaih-investment",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "morabaha-marina",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "hh-sports",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Fayha."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "HH Sports home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-hazem-2026-27-home",
+    "clubId": "al-hazem",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-hazem/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-hazem/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-hazem-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "yelo",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "hattrick",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Hazem."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Hattrick home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-hilal-2026-27-home",
+    "clubId": "al-hilal",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-hilal/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-hilal/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-hilal-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "nhc",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "flynas",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "riyad-bank",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "tree-digital",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Puma home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-ittihad-2026-27-home",
+    "clubId": "al-ittihad",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "flow-progressive-logistics",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "tcl",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Ittihad and Al-Qadsiah."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Nike home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-khaleej-2026-27-home",
+    "clubId": "al-khaleej",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "yelo",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "fisher-electronics",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "tameeni-insurance",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "almana-hospital",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "shemagh-al-bassam",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "florina-shoes",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "candy",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "locate",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "saudi-qaid-transport",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "sayyar",
+        "placement": "shorts",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "laser",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Khaleej."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Laser home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-kholood-2026-27-home",
+    "clubId": "al-kholood",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "yelo",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "tameeni-insurance",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "mezaj-maghribhi",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "florina-shoes",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "elba-cookers",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "saudi-qaid-transport",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "kappa",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Kholood."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Kappa home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-nassr-2026-27-home",
+    "clubId": "al-nassr",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-nassr/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-nassr/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-nassr-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "humain",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "shg",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "gathern",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "aroya-cruises",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-qadsiah-2026-27-home",
+    "clubId": "al-qadsiah",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-qadsiah/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-qadsiah/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-qadsiah-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "aloula-aviation",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "bestebit",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "iz",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "alinma-bank",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "zoho-corporation",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "sixt",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "dar-wa-emaar",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "batook-nova",
+        "placement": "shorts",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "nike",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Ittihad and Al-Qadsiah."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Nike home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-riyadh-2026-27-home",
+    "clubId": "al-riyadh",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-riyadh/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-riyadh/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-riyadh-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "science-technology",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "tameeni-insurance",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "stars-smile",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "black-panther",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Riyadh."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Black Panther home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-shabab-2026-27-home",
+    "clubId": "al-shabab",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "jetour",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "theeb-rent-a-car",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "tameeni-insurance",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "mezaj-maghribhi",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "direct-for-travel",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "offside",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Abha, Al-Fateh and Al-Shabab."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Offside home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "al-taawoun-2026-27-home",
+    "clubId": "al-taawoun",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {
+      "front": "assets/shirts/al-taawoun/2026-27-home-front.jpg",
+      "back": "assets/shirts/al-taawoun/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/al-taawoun-2026-27-home-front-square.jpg"
+    },
+    "sponsors": [
+      {
+        "sponsorId": "aldyar-alarabiya",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "gree",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "dr-tooth-clinics",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "al-dahayan",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "al-saif-trading",
+        "placement": "back",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "direct-ksa",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "duvet-mattresses",
+        "placement": "sleeve",
+        "source": {
+          "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+          "date": "2026-08-24",
+          "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+          "note": "Official league gallery of the 2026-27 kits."
+        }
+      },
+      {
+        "sponsorId": "macron",
+        "placement": "partner",
+        "source": {
+          "name": "Sponsor note (kit supplier)",
+          "date": "2026-09",
+          "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+          "note": "Kit supplier to Al-Diriyah and Al-Taawoun."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Macron home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "diriyah-2026-27-home",
+    "clubId": "diriyah",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "yelo",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "rassen",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Macron home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "neom-2026-27-home",
+    "clubId": "neom",
+    "season": "2026-27",
+    "kitType": "home",
+    "periodLabel": "2026/27",
+    "periodFrom": "2026-27",
+    "periodTo": "2026-27",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "oxagon",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      },
+      {
+        "sponsorId": "shg",
+        "placement": "front",
+        "source": {
+          "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+          "date": "2026-06-15",
+          "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+          "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "Adidas home kit. Front/back/sleeve sponsors for 2026/27; full placement breakdown from the season's kit listings, not yet confirmed against a single club announcement.",
+    "change": null
+  },
+  {
+    "id": "alpecin-premier-tech-2026-home",
+    "clubId": "alpecin-premier-tech",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "alpecin",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "premier-tech",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Alpecin-Premier Tech's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "bahrain-victorious-2026-home",
+    "clubId": "bahrain-victorious",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "bahrain-economic-development-board",
+        "placement": "front",
+        "source": {
+          "name": "Team Bahrain Victorious — About Us",
+          "date": "unknown",
+          "url": "https://bahraincyclingteam.com/about/"
+        }
+      },
+      {
+        "sponsorId": "mumtalakat",
+        "placement": "front",
+        "source": {
+          "name": "Team Bahrain Victorious — About Us",
+          "date": "unknown",
+          "url": "https://bahraincyclingteam.com/about/"
+        }
+      },
+      {
+        "sponsorId": "bapco-energies",
+        "placement": "front",
+        "source": {
+          "name": "Team Bahrain Victorious — About Us",
+          "date": "unknown",
+          "url": "https://bahraincyclingteam.com/about/"
+        }
+      },
+      {
+        "sponsorId": "beyon",
+        "placement": "back",
+        "source": {
+          "name": "Team Bahrain Victorious — Partners",
+          "date": "unknown",
+          "url": "https://bahraincyclingteam.com/partners/"
+        }
+      },
+      {
+        "sponsorId": "national-bank-of-bahrain",
+        "placement": "back",
+        "source": {
+          "name": "Team Bahrain Victorious — Partners",
+          "date": "unknown",
+          "url": "https://bahraincyclingteam.com/partners/"
+        }
+      },
+      {
+        "sponsorId": "al-salam-bank",
+        "placement": "back",
+        "source": {
+          "name": "Team Bahrain Victorious — Partners",
+          "date": "unknown",
+          "url": "https://bahraincyclingteam.com/partners/"
+        }
+      },
+      {
+        "sponsorId": "alba",
+        "placement": "back",
+        "source": {
+          "name": "Team Bahrain Victorious — Partners",
+          "date": "unknown",
+          "url": "https://bahraincyclingteam.com/partners/"
+        }
+      },
+      {
+        "sponsorId": "omniyat",
+        "placement": "partner",
+        "source": {
+          "name": "Team Bahrain Victorious — OMNIYAT supports Team Bahrain Victorious in 2026 WorldTour Cycling season",
+          "date": "2025-11-24",
+          "url": "https://bahraincyclingteam.com/omniyat-supports-team-bahrain-victorious-in-2026-worldtour-cycling-season/"
+        }
+      },
+      {
+        "sponsorId": "bianchi",
+        "placement": "partner",
+        "source": {
+          "name": "Team Bahrain Victorious — Partners",
+          "date": "unknown",
+          "url": "https://bahraincyclingteam.com/partners/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Bahrain Victorious's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "decathlon-cma-cgm-2026-home",
+    "clubId": "decathlon-cma-cgm",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "decathlon",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "cma-cgm",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Decathlon CMA CGM Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "ef-education-easypost-2026-home",
+    "clubId": "ef-education-easypost",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ef-education-first",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "easypost",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. EF Education-EasyPost's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "groupama-fdj-united-2026-home",
+    "clubId": "groupama-fdj-united",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "groupama",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring — Pro Team Sponsors Explained",
+          "date": "2026-07-10",
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+        }
+      },
+      {
+        "sponsorId": "fdj",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring — Pro Team Sponsors Explained",
+          "date": "2026-07-10",
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Groupama-FDJ United's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "ineos-grenadiers-2026-home",
+    "clubId": "ineos-grenadiers",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "ineos",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "netcompany",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. INEOS Grenadiers's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "lidl-trek-2026-home",
+    "clubId": "lidl-trek",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lidl",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "trek",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Lidl-Trek's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "lotto-intermarche-2026-home",
+    "clubId": "lotto-intermarche",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "lotto",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "intermarche",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Lotto Intermarché's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "movistar-2026-home",
+    "clubId": "movistar",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "movistar",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Movistar Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "nsn-cycling-team-2026-home",
+    "clubId": "nsn-cycling-team",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "nsn",
+        "placement": "front",
+        "source": {
+          "name": "NSN Cycling Team — homepage / partner logos",
+          "date": "unknown",
+          "url": "https://nsncyclingteam.com/"
+        }
+      },
+      {
+        "sponsorId": "stoneweg",
+        "placement": "front",
+        "source": {
+          "name": "NSN Cycling Team — homepage / partner logos",
+          "date": "unknown",
+          "url": "https://nsncyclingteam.com/"
+        }
+      },
+      {
+        "sponsorId": "scott",
+        "placement": "partner",
+        "source": {
+          "name": "NSN Cycling Team — homepage / partner logos",
+          "date": "unknown",
+          "url": "https://nsncyclingteam.com/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. NSN Cycling Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "red-bull-bora-hansgrohe-2026-home",
+    "clubId": "red-bull-bora-hansgrohe",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "red-bull",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "bora",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring — Pro Team Sponsors Explained",
+          "date": "2026-07-10",
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+        }
+      },
+      {
+        "sponsorId": "hansgrohe",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring — Pro Team Sponsors Explained",
+          "date": "2026-07-10",
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Red Bull-Bora-Hansgrohe's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "soudal-quick-step-2026-home",
+    "clubId": "soudal-quick-step",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "soudal",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "quick-step",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Soudal Quick-Step's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "team-jayco-alula-2026-home",
+    "clubId": "team-jayco-alula",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "jayco",
+        "placement": "front",
+        "source": {
+          "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+          "date": "unknown",
+          "url": "https://greenedgecycling.com/2026/2025partners/"
+        }
+      },
+      {
+        "sponsorId": "alula",
+        "placement": "front",
+        "source": {
+          "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+          "date": "unknown",
+          "url": "https://greenedgecycling.com/2026/2025partners/"
+        }
+      },
+      {
+        "sponsorId": "giant",
+        "placement": "partner",
+        "source": {
+          "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+          "date": "unknown",
+          "url": "https://greenedgecycling.com/2026/2025partners/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Team Jayco AlUla's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "team-picnic-postnl-2026-home",
+    "clubId": "team-picnic-postnl",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "picnic",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "postnl",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Team Picnic PostNL's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "team-visma-lease-a-bike-2026-home",
+    "clubId": "team-visma-lease-a-bike",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "visma",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "lease-a-bike",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring — Pro Team Sponsors Explained",
+          "date": "2026-07-10",
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Team Visma | Lease a Bike's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "uae-team-emirates-xrg-2026-home",
+    "clubId": "uae-team-emirates-xrg",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "emirates",
+        "placement": "front",
+        "source": {
+          "name": "Cyclist — Who actually are the 2026 Tour de France team sponsors? (Will Strickson / Ewan Wilson)",
+          "date": "2026-07-14",
+          "url": "https://www.cyclist.co.uk/in-depth/pro-cycling-sponsors"
+        }
+      },
+      {
+        "sponsorId": "xrg",
+        "placement": "front",
+        "source": {
+          "name": "UAE Team Emirates — XRG Named as Co-title Partner and Official Energy Partner",
+          "date": "2024-12-17",
+          "url": "https://www.uaeteamemirates.com/xrg-named-co-title-partner-official-energy-partner-uae-team-emirates/"
+        }
+      },
+      {
+        "sponsorId": "g42",
+        "placement": "partner",
+        "source": {
+          "name": "The Inner Ring — Pro Team Sponsors Explained",
+          "date": "2026-07-10",
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+        }
+      },
+      {
+        "sponsorId": "colnago",
+        "placement": "partner",
+        "source": {
+          "name": "The Inner Ring — Pro Team Sponsors Explained",
+          "date": "2026-07-10",
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. UAE Team Emirates XRG's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "uno-x-mobility-2026-home",
+    "clubId": "uno-x-mobility",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "uno-x",
+        "placement": "front",
+        "source": {
+          "name": "The Inner Ring — Pro Team Sponsors Explained",
+          "date": "2026-07-10",
+          "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. Uno-X Mobility's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
+    "id": "xds-astana-team-2026-home",
+    "clubId": "xds-astana-team",
+    "season": "2026",
+    "kitType": "home",
+    "periodLabel": "2026 season",
+    "periodFrom": "2026",
+    "periodTo": "2026",
+    "photos": {},
+    "sponsors": [
+      {
+        "sponsorId": "xds",
+        "placement": "front",
+        "source": {
+          "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+          "date": "2025-12-28",
+          "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+        }
+      },
+      {
+        "sponsorId": "samruk-kazyna",
+        "placement": "front",
+        "source": {
+          "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+          "date": "2025-12-28",
+          "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+        }
+      },
+      {
+        "sponsorId": "sportqory",
+        "placement": "front",
+        "source": {
+          "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+          "date": "2025-12-28",
+          "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+        }
+      }
+    ],
+    "sponsorsComplete": false,
+    "summary": "2026 UCI WorldTeam. XDS Astana Team's name and jersey carry its title sponsor(s); full kit placements not yet all checked.",
+    "change": null
+  },
+  {
     "id": "atlanta-hawks-2026-27-home",
     "clubId": "atlanta-hawks",
     "season": "2026-27",
@@ -3992,7 +8019,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/atlanta-hawks/2026-27-home-front.jpg",
+      "back": "assets/shirts/atlanta-hawks/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/atlanta-hawks-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "paze",
@@ -4016,7 +8047,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/dallas-mavericks/2026-27-home-front.jpg",
+      "back": "assets/shirts/dallas-mavericks/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/dallas-mavericks-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "jpmorganchase",
@@ -4040,7 +8075,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/los-angeles-lakers/2026-27-home-front.jpg",
+      "back": "assets/shirts/los-angeles-lakers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/los-angeles-lakers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "albert",
@@ -4064,7 +8103,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-york-knicks/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-york-knicks/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-york-knicks-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "experience-abu-dhabi",
@@ -4088,7 +8131,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/sacramento-kings/2026-27-home-front.jpg",
+      "back": "assets/shirts/sacramento-kings/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/sacramento-kings-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sutter-health",
@@ -4332,7 +8379,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/boston-celtics/2026-27-home-front.jpg",
+      "back": "assets/shirts/boston-celtics/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/boston-celtics-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "amica-mutual-insurance",
@@ -4356,7 +8407,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/denver-nuggets/2026-27-home-front.jpg",
+      "back": "assets/shirts/denver-nuggets/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/denver-nuggets-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "ibotta",
@@ -4380,7 +8435,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/memphis-grizzlies/2026-27-home-front.jpg",
+      "back": "assets/shirts/memphis-grizzlies/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/memphis-grizzlies-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "robinhood",
@@ -4404,7 +8463,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/oklahoma-city-thunder/2026-27-home-front.jpg",
+      "back": "assets/shirts/oklahoma-city-thunder/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/oklahoma-city-thunder-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "loves-travel-stops",
@@ -4428,7 +8491,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/san-antonio-spurs/2026-27-home-front.jpg",
+      "back": "assets/shirts/san-antonio-spurs/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/san-antonio-spurs-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "ledger",
@@ -4692,7 +8759,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/brooklyn-nets/2026-27-home-front.jpg",
+      "back": "assets/shirts/brooklyn-nets/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/brooklyn-nets-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "all-in-won",
@@ -4716,7 +8787,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/detroit-pistons/2026-27-home-front.jpg",
+      "back": "assets/shirts/detroit-pistons/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/detroit-pistons-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "stockx",
@@ -4740,7 +8815,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/miami-heat/2026-27-home-front.jpg",
+      "back": "assets/shirts/miami-heat/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/miami-heat-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "robinhood",
@@ -4764,7 +8843,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/orlando-magic/2026-27-home-front.jpg",
+      "back": "assets/shirts/orlando-magic/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/orlando-magic-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "walt-disney-world",
@@ -4788,7 +8871,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/toronto-raptors/2026-27-home-front.jpg",
+      "back": "assets/shirts/toronto-raptors/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/toronto-raptors-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sun-life",
@@ -5052,7 +9139,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/charlotte-hornets/2026-27-home-front.jpg",
+      "back": "assets/shirts/charlotte-hornets/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/charlotte-hornets-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "judi-health",
@@ -5076,7 +9167,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/golden-state-warriors/2026-27-home-front.jpg",
+      "back": "assets/shirts/golden-state-warriors/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/golden-state-warriors-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "iren",
@@ -5100,7 +9195,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/milwaukee-bucks/2026-27-home-front.jpg",
+      "back": "assets/shirts/milwaukee-bucks/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/milwaukee-bucks-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "uline",
@@ -5124,7 +9223,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/philadelphia-76ers/2026-27-home-front.jpg",
+      "back": "assets/shirts/philadelphia-76ers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/philadelphia-76ers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "crypto-com",
@@ -5148,7 +9251,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/utah-jazz/2026-27-home-front.jpg",
+      "back": "assets/shirts/utah-jazz/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/utah-jazz-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "healthequity",
@@ -5402,7 +9509,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/chicago-bulls/2026-27-home-front.jpg",
+      "back": "assets/shirts/chicago-bulls/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/chicago-bulls-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "motorola-mobility",
@@ -5426,7 +9537,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/houston-rockets/2026-27-home-front.jpg",
+      "back": "assets/shirts/houston-rockets/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/houston-rockets-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "memorial-hermann",
@@ -5450,7 +9565,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/minnesota-timberwolves/2026-27-home-front.jpg",
+      "back": "assets/shirts/minnesota-timberwolves/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/minnesota-timberwolves-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "sezzle",
@@ -5474,7 +9593,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/phoenix-suns/2026-27-home-front.jpg",
+      "back": "assets/shirts/phoenix-suns/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/phoenix-suns-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "paypal",
@@ -5498,7 +9621,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/washington-wizards/2026-27-home-front.jpg",
+      "back": "assets/shirts/washington-wizards/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/washington-wizards-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "robinhood",
@@ -5762,7 +9889,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/cleveland-cavaliers/2026-27-home-front.jpg",
+      "back": "assets/shirts/cleveland-cavaliers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/cleveland-cavaliers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "cleveland-cliffs",
@@ -5786,7 +9917,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/indiana-pacers/2026-27-home-front.jpg",
+      "back": "assets/shirts/indiana-pacers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/indiana-pacers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "lucas-oil",
@@ -5810,7 +9945,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/new-orleans-pelicans/2026-27-home-front.jpg",
+      "back": "assets/shirts/new-orleans-pelicans/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/new-orleans-pelicans-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "newage-products",
@@ -5834,7 +9973,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/portland-trail-blazers/2026-27-home-front.jpg",
+      "back": "assets/shirts/portland-trail-blazers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/portland-trail-blazers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [],
     "sponsorsComplete": false,
     "summary": "No patch partner for 2026-27.",
@@ -6112,7 +10255,11 @@
     "periodLabel": "2026/27",
     "periodFrom": "2026-27",
     "periodTo": "2026-27",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/la-clippers/2026-27-home-front.jpg",
+      "back": "assets/shirts/la-clippers/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/la-clippers-2026-27-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "visit-rwanda",
@@ -6153,30 +10300,6 @@
     "change": null
   },
   {
-    "id": "paris-saint-germain-2026-27-home",
-    "clubId": "paris-saint-germain",
-    "season": "2026-27",
-    "kitType": "home",
-    "periodLabel": "2026-27",
-    "periodFrom": "2026",
-    "periodTo": "2027",
-    "photos": {},
-    "sponsors": [
-      {
-        "sponsorId": "qatar-airways",
-        "placement": "front",
-        "source": {
-          "name": "Qatar Airways, official front of shirt sponsor of Paris Saint-Germain",
-          "date": "2022-06-29",
-          "url": "https://www.qatarairways.com/press-releases/en-WW/218264-qatar-airways-takes-paris-saint-germain-partnership-to-new-heights-as-the-official-front-of-shirt-sponsor/"
-        }
-      }
-    ],
-    "sponsorsComplete": false,
-    "change": null,
-    "summary": "Ligue 1. Qatar Airways front, state-owned airline."
-  },
-  {
     "id": "bayern-munich-2022-23-home",
     "clubId": "bayern-munich",
     "season": "2022-23",
@@ -6184,7 +10307,9 @@
     "periodLabel": "2022-23",
     "periodFrom": "2022",
     "periodTo": "2023",
-    "photos": {},
+    "photos": {
+      "square": "assets/shirts/grid/bayern-munich-2022-23-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "deutsche-telekom",
@@ -6208,7 +10333,9 @@
     "periodLabel": "2021-22",
     "periodFrom": "2021",
     "periodTo": "2022",
-    "photos": {},
+    "photos": {
+      "square": "assets/shirts/grid/schalke-04-2021-22-home-front-square.jpg"
+    },
     "sponsors": [
       {
         "sponsorId": "gazprom",
@@ -6236,7 +10363,11 @@
     "periodLabel": "2026-27",
     "periodFrom": "2026",
     "periodTo": "2027",
-    "photos": {},
+    "photos": {
+      "front": "assets/shirts/lazio/2026-27-home-front.jpg",
+      "back": "assets/shirts/lazio/2026-27-home-back.jpg",
+      "square": "assets/shirts/grid/lazio-2026-27-home-front-square.jpg"
+    },
     "sponsors": [],
     "sponsorsComplete": false,
     "change": {

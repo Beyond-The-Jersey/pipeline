@@ -22,10 +22,42 @@
         "date": "2026-09-24",
         "url": "https://www.footballkitarchive.com/bundesliga-kits-2026-27-l34/"
       }
+    },
+    {
+      "id": "reuter",
+      "name": "Reuter",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "reuter-gruppe",
+      "owner": "Reuter Gruppe",
+      "verdict": "Owned by REUTER Gruppe (Reuter family). Nothing found.",
+      "source": {
+        "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+        "date": "2026-08",
+        "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+      }
+    },
+    {
+      "id": "sonepar",
+      "name": "Sonepar",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "sonepar",
+      "owner": "Sonepar",
+      "verdict": null,
+      "source": {
+        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+        "date": "2025-26",
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+      }
     }
   ],
   "worstTier": "none",
   "owners": [
+    "reuter-gruppe",
+    "sonepar",
     "ursapharm-arzneimittel-gmbh"
   ],
   "lastUpdated": "2026-09-24"

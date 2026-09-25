@@ -1,0 +1,91 @@
+{
+  "id": "lille-osc",
+  "team": "Lille OSC",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "actual-group",
+      "name": "Actual Group",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    },
+    {
+      "id": "aushopping",
+      "name": "Aushopping",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    },
+    {
+      "id": "boulanger",
+      "name": "Boulanger",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    },
+    {
+      "id": "etoro",
+      "name": "eToro",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "etoro",
+      "owner": "eToro Group Ltd.",
+      "verdict": "Owned by eToro Group Ltd.. Nothing found.",
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "toyota-owner",
+      "owner": "Toyota LLC",
+      "verdict": "Owned by Toyota LLC. Nothing found.",
+      "source": {
+        "name": "LOSC — Partenaires",
+        "date": "2026",
+        "url": "https://www.losc.fr/partenaires"
+      }
+    }
+  ],
+  "worstTier": "none",
+  "owners": [
+    "etoro",
+    "toyota-owner"
+  ],
+  "lastUpdated": "2026-09-24"
+}

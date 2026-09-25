@@ -1,0 +1,63 @@
+{
+  "id": "diriyah",
+  "team": "Diriyah Club",
+  "sport": "soccer",
+  "league": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "diriyah-gate-development-authority",
+      "name": "Diriyah Gate Development Authority",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "diriyah-gate-development-authority",
+      "owner": "Diriyah Gate Development Authority",
+      "verdict": null,
+      "source": {
+        "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+        "date": "2023-06-06",
+        "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+        "note": "Diriyah Gate invested in Diriyah Club."
+      }
+    },
+    {
+      "id": "rassen",
+      "name": "Rassin",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "yelo",
+      "name": "Yelo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "diriyah-gate-development-authority"
+  ],
+  "lastUpdated": "2026-09-24"
+}

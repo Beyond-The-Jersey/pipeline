@@ -12,6 +12,22 @@
   },
   "sponsors": [
     {
+      "id": "abanca",
+      "name": "Abanca",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "abanca",
+      "owner": "Abanca Corporacion Bancaria, S.A.",
+      "verdict": null,
+      "source": {
+        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+        "date": "2025-10-08",
+        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+        "note": "Abanca back of shirt; one of the two Abanca backs the 2026-27 overview names, not identified there"
+      }
+    },
+    {
       "id": "estrella-galicia",
       "name": "Estrella Galicia",
       "placement": "front",
@@ -25,11 +41,28 @@
         "date": "2026-09-06",
         "url": "https://www.scoreandchange.com/la-liga-sponsors/"
       }
+    },
+    {
+      "id": "jp-financial",
+      "name": "JP Financial",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "jp-financial",
+      "owner": "JP Financial",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
     }
   ],
   "worstTier": "none",
   "owners": [
-    "corporacion-hijos-de-rivera"
+    "abanca",
+    "corporacion-hijos-de-rivera",
+    "jp-financial"
   ],
   "lastUpdated": "2026-09-24"
 }

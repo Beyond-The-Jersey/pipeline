@@ -13,6 +13,21 @@
   },
   "sponsors": [
     {
+      "id": "beyond-developments",
+      "name": "BEYOND Developments",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Paris Saint-Germain — site officiel",
+        "date": "2026",
+        "url": "https://www.psg.fr/"
+      }
+    },
+    {
       "id": "qatar-airways",
       "name": "Qatar Airways",
       "placement": "front",
@@ -22,9 +37,24 @@
       "owner": "Government of the State of Qatar (Qatar Airways Group Q.C.S.C.)",
       "verdict": "Qatar Airways Group Q.C.S.C.",
       "source": {
-        "name": "Qatar Airways, official front of shirt sponsor of Paris Saint-Germain",
-        "date": "2022-06-29",
-        "url": "https://www.qatarairways.com/press-releases/en-WW/218264-qatar-airways-takes-paris-saint-germain-partnership-to-new-heights-as-the-official-front-of-shirt-sponsor/"
+        "name": "SportsPro, 'PSG renew Qatar Airways shirt sponsorship on same terms'",
+        "date": "2025-01-27",
+        "url": "https://www.sportspro.com/news/psg-qatar-airways-shirt-sponsor-contract-extension-2028-january-2025/"
+      }
+    },
+    {
+      "id": "snipes",
+      "name": "Snipes",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Paris Saint-Germain — site officiel",
+        "date": "2026",
+        "url": "https://www.psg.fr/"
       }
     },
     {

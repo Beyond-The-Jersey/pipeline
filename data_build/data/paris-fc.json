@@ -1,0 +1,90 @@
+{
+  "id": "paris-fc",
+  "team": "Paris FC",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "bahrain-victorious",
+      "name": "Bahrain Victorious",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "government-of-bahrain",
+      "owner": "Government of Bahrain",
+      "verdict": null,
+      "source": {
+        "name": "The Daily Tribune (Bahrain), 'Victorious Bahrain goes European: Shaikh Nasser visits Paris FC'",
+        "date": "2026-02-08",
+        "url": "https://www.newsofbahrain.com/sports/126544.html"
+      }
+    },
+    {
+      "id": "bwin",
+      "name": "Bwin",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Paris FC — site officiel",
+        "date": "2026",
+        "url": "https://parisfc.fr/"
+      }
+    },
+    {
+      "id": "google-pixel",
+      "name": "Google Pixel",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Paris FC — site officiel",
+        "date": "2026",
+        "url": "https://parisfc.fr/"
+      }
+    },
+    {
+      "id": "renault",
+      "name": "Renault",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Paris FC — site officiel",
+        "date": "2026",
+        "url": "https://parisfc.fr/"
+      }
+    },
+    {
+      "id": "vinci",
+      "name": "Vinci",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Paris FC — site officiel",
+        "date": "2026",
+        "url": "https://parisfc.fr/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "government-of-bahrain"
+  ],
+  "lastUpdated": "2026-09-24"
+}

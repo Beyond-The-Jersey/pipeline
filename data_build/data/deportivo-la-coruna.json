@@ -11,6 +11,22 @@
   },
   "sponsors": [
     {
+      "id": "abanca",
+      "name": "Abanca",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "abanca",
+      "owner": "Abanca Corporacion Bancaria, S.A.",
+      "verdict": null,
+      "source": {
+        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+        "date": "2025-10-08",
+        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+        "note": "Abanca back of shirt; the promoted club is the likely second Abanca back"
+      }
+    },
+    {
       "id": "estrella-galicia",
       "name": "Estrella Galicia",
       "placement": "front",
@@ -28,6 +44,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "abanca",
     "corporacion-hijos-de-rivera"
   ],
   "lastUpdated": "2026-09-24"

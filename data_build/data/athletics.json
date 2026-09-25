@@ -16,7 +16,7 @@
       "name": "Las Vegas Convention and Visitors Authority (LVCVA) - 'Las Vegas' patch",
       "placement": "patch",
       "season": "2026-27",
-      "tier": "serious",
+      "tier": "unrated",
       "ownerId": "lvcva-owner",
       "owner": "Las Vegas Convention and Visitors Authority",
       "verdict": "The Las Vegas Convention and Visitors Authority (LVCVA) was founded by the Nevada Legislature in 1955 as a governmental entity to serve this destination.",
@@ -42,7 +42,7 @@
       }
     }
   ],
-  "worstTier": "serious",
+  "worstTier": "none",
   "owners": [
     "lvcva-owner",
     "sutter-health-owner"

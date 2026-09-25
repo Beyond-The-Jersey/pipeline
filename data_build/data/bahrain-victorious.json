@@ -1,0 +1,151 @@
+{
+  "id": "bahrain-victorious",
+  "team": "Bahrain Victorious",
+  "sport": "cycling",
+  "league": "uci-worldtour",
+  "country": "Bahrain",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "al-salam-bank",
+      "name": "Al Salam Bank",
+      "placement": "back",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    },
+    {
+      "id": "alba",
+      "name": "Alba (Aluminium Bahrain)",
+      "placement": "back",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "mumtalakat",
+      "owner": "Bahrain Mumtalakat Holding Company",
+      "verdict": null,
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    },
+    {
+      "id": "bahrain-economic-development-board",
+      "name": "Bahrain Economic Development Board",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "government-of-bahrain",
+      "owner": "Government of Bahrain",
+      "verdict": null,
+      "source": {
+        "name": "Team Bahrain Victorious — About Us",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/about/"
+      }
+    },
+    {
+      "id": "bapco-energies",
+      "name": "Bapco Energies",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "government-of-bahrain",
+      "owner": "Government of Bahrain",
+      "verdict": null,
+      "source": {
+        "name": "Team Bahrain Victorious — About Us",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/about/"
+      }
+    },
+    {
+      "id": "beyon",
+      "name": "Beyon",
+      "placement": "back",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "government-of-bahrain",
+      "owner": "Government of Bahrain",
+      "verdict": null,
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    },
+    {
+      "id": "bianchi",
+      "name": "Bianchi",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    },
+    {
+      "id": "mumtalakat",
+      "name": "Mumtalakat",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "mumtalakat",
+      "owner": "Bahrain Mumtalakat Holding Company",
+      "verdict": null,
+      "source": {
+        "name": "Team Bahrain Victorious — About Us",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/about/"
+      }
+    },
+    {
+      "id": "national-bank-of-bahrain",
+      "name": "National Bank of Bahrain",
+      "placement": "back",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "government-of-bahrain",
+      "owner": "Government of Bahrain",
+      "verdict": null,
+      "source": {
+        "name": "Team Bahrain Victorious — Partners",
+        "date": "unknown",
+        "url": "https://bahraincyclingteam.com/partners/"
+      }
+    },
+    {
+      "id": "omniyat",
+      "name": "OMNIYAT",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Team Bahrain Victorious — OMNIYAT supports Team Bahrain Victorious in 2026 WorldTour Cycling season",
+        "date": "2025-11-24",
+        "url": "https://bahraincyclingteam.com/omniyat-supports-team-bahrain-victorious-in-2026-worldtour-cycling-season/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "government-of-bahrain",
+    "mumtalakat"
+  ],
+  "lastUpdated": "2026-09-24"
+}

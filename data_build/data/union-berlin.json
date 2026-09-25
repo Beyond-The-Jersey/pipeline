@@ -10,6 +10,21 @@
   },
   "sponsors": [
     {
+      "id": "kermi",
+      "name": "Kermi",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "kermi",
+      "owner": "Kermi GmbH",
+      "verdict": null,
+      "source": {
+        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+        "date": "2025-26",
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+      }
+    },
+    {
       "id": "raisin",
       "name": "Raisin",
       "placement": "front",
@@ -27,6 +42,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "kermi",
     "raisin-gmbh"
   ],
   "lastUpdated": "2026-09-24"

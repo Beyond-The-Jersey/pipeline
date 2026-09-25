@@ -1,0 +1,60 @@
+{
+  "id": "team-jayco-alula",
+  "team": "Team Jayco AlUla",
+  "sport": "cycling",
+  "league": "uci-worldtour",
+  "country": "Australia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "alula",
+      "name": "AlUla",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "royal-commission-for-alula",
+      "owner": "Royal Commission for AlUla (RCU)",
+      "verdict": null,
+      "source": {
+        "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+        "date": "unknown",
+        "url": "https://greenedgecycling.com/2026/2025partners/"
+      }
+    },
+    {
+      "id": "giant",
+      "name": "Giant",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+        "date": "unknown",
+        "url": "https://greenedgecycling.com/2026/2025partners/"
+      }
+    },
+    {
+      "id": "jayco",
+      "name": "Jayco",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Team Jayco AlUla (GreenEDGE) — Partners 2026",
+        "date": "unknown",
+        "url": "https://greenedgecycling.com/2026/2025partners/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "royal-commission-for-alula"
+  ],
+  "lastUpdated": "2026-09-24"
+}

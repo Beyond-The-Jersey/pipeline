@@ -1,0 +1,60 @@
+{
+  "id": "xds-astana-team",
+  "team": "XDS Astana Team",
+  "sport": "cycling",
+  "league": "uci-worldtour",
+  "country": "Kazakhstan",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "samruk-kazyna",
+      "name": "Samruk-Kazyna",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "samruk-kazyna",
+      "owner": "Samruk-Kazyna (Kazakhstan sovereign wealth fund)",
+      "verdict": null,
+      "source": {
+        "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+        "date": "2025-12-28",
+        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+      }
+    },
+    {
+      "id": "sportqory",
+      "name": "SportQory Sports Support Fund",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+        "date": "2025-12-28",
+        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+      }
+    },
+    {
+      "id": "xds",
+      "name": "XDS",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Kazinform — XDS Astana Team ready for the 2026 season",
+        "date": "2025-12-28",
+        "url": "https://qazinform.com/news/xds-astana-team-ready-for-the-2026-season-a1abf2"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "samruk-kazyna"
+  ],
+  "lastUpdated": "2026-09-24"
+}

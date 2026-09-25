@@ -11,6 +11,37 @@
   },
   "sponsors": [
     {
+      "id": "digi",
+      "name": "Digi",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "digi-communications-nv",
+      "owner": "Digi Communications N.V.",
+      "verdict": "Owned by Digi Communications N.V.. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "note": "second vertical logo (Digi) on the shirt front"
+      }
+    },
+    {
+      "id": "mgs-seguros",
+      "name": "MGS Seguros",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "mgs-seguros",
+      "owner": "MGS Seguros y Reaseguros, S.A.",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
       "id": "plenitude",
       "name": "Plenitude",
       "placement": "front",
@@ -28,7 +59,9 @@
   ],
   "worstTier": "concern",
   "owners": [
-    "eni"
+    "digi-communications-nv",
+    "eni",
+    "mgs-seguros"
   ],
   "lastUpdated": "2026-09-24"
 }

@@ -13,6 +13,21 @@
   },
   "sponsors": [
     {
+      "id": "harald-pihl",
+      "name": "Harald Pihl",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "harald-pihl",
+      "owner": "Harald Pihl GmbH",
+      "verdict": null,
+      "source": {
+        "name": "11+ Media, Sponsoring in der Bundesliga (Ärmelpartner, 2025/26 season)",
+        "date": "2025-26",
+        "url": "https://www.11plusmedia.com/blog/sponsoring-in-der-bundesliga/"
+      }
+    },
+    {
       "id": "matthaei",
       "name": "Matthaei",
       "placement": "front",
@@ -30,6 +45,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "harald-pihl",
     "matthaei-gruppe"
   ],
   "lastUpdated": "2026-09-24"

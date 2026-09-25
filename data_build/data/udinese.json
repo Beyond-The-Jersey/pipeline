@@ -16,7 +16,7 @@
       "name": "Io sono Friuli Venezia Giulia",
       "placement": "front",
       "season": "2026-27",
-      "tier": "serious",
+      "tier": "unrated",
       "ownerId": "friuli-venezia-giulia-region",
       "owner": "Regione Autonoma Friuli Venezia Giulia (via PromoTurismoFVG)",
       "verdict": "The Udinese front brand 'Io sono Friuli Venezia Giulia' is bought by the Friuli Venezia Giulia regional government through PromoTurismoFVG, the region's public….",
@@ -27,7 +27,7 @@
       }
     }
   ],
-  "worstTier": "serious",
+  "worstTier": "unrated",
   "owners": [
     "friuli-venezia-giulia-region"
   ],

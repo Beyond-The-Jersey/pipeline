@@ -1,0 +1,45 @@
+{
+  "id": "groupama-fdj-united",
+  "team": "Groupama-FDJ United",
+  "sport": "cycling",
+  "league": "uci-worldtour",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "fdj",
+      "name": "FDJ United",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": "french-state",
+      "owner": "French State via APE",
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring — Pro Team Sponsors Explained",
+        "date": "2026-07-10",
+        "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+      }
+    },
+    {
+      "id": "groupama",
+      "name": "Groupama",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "The Inner Ring — Pro Team Sponsors Explained",
+        "date": "2026-07-10",
+        "url": "https://inrng.com/2026/07/pro-team-sponsors-2026/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "french-state"
+  ],
+  "lastUpdated": "2026-09-24"
+}

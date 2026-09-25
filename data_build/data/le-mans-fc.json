@@ -1,0 +1,88 @@
+{
+  "id": "le-mans-fc",
+  "team": "Le Mans FC",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "groupe-ej",
+      "name": "Groupe EJ",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    },
+    {
+      "id": "hexaom",
+      "name": "Hexaom",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    },
+    {
+      "id": "oeufs-matines",
+      "name": "Oeufs Matines",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    },
+    {
+      "id": "of-course-le-mans",
+      "name": "Of course Le Mans",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    },
+    {
+      "id": "passenaud-recyclage",
+      "name": "Passenaud Recyclage",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Le Mans FC — site officiel (partenaires)",
+        "date": "2026",
+        "url": "https://www.lemansfc.fr/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

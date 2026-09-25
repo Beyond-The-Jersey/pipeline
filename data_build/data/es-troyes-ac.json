@@ -1,0 +1,135 @@
+{
+  "id": "es-troyes-ac",
+  "team": "ES Troyes AC",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "amplitude-groupe-automobile",
+      "name": "Amplitude Groupe Automobile",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "id": "b-partner",
+      "name": "B-Partner",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "id": "century-21-groupe-martinot",
+      "name": "Century 21 Groupe Martinot",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "id": "etihad-airways",
+      "name": "Etihad Airways",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "serious",
+      "ownerId": "government-of-abu-dhabi",
+      "owner": "Government of Abu Dhabi",
+      "verdict": "The airline is owned by the Government of Abu Dhabi.",
+      "source": {
+        "name": "ESTAC Troyes, 'Etihad élargit son engagement et devient Partenaire Majeur de l'ESTAC'",
+        "date": "2026-07-23",
+        "url": "https://www.estac.fr/etihad-elargit-son-engagement-et-devient-partenaire-majeur-de-lestac/"
+      }
+    },
+    {
+      "id": "les-constructeurs-reunis",
+      "name": "Les Constructeurs Réunis",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "id": "mcarthurglen-troyes",
+      "name": "McArthurGlen Troyes",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "id": "norelem",
+      "name": "Norelem",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    },
+    {
+      "id": "ville-de-troyes",
+      "name": "Ville de Troyes",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "ESTAC Troyes — Partenaires",
+        "date": "2026",
+        "url": "https://www.estac.fr/le-club/partenaires/"
+      }
+    }
+  ],
+  "worstTier": "serious",
+  "owners": [
+    "government-of-abu-dhabi"
+  ],
+  "lastUpdated": "2026-09-24"
+}

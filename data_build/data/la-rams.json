@@ -16,8 +16,8 @@
       "placement": "training-kit",
       "season": "2026-27",
       "tier": "concern",
-      "ownerId": "hyundai-owner",
-      "owner": "Hyundai Motor Company",
+      "ownerId": "hyundai-motor-group",
+      "owner": "Hyundai Motor Group",
       "verdict": "Hyundai Motor America is the US sales subsidiary of Hyundai Motor Company (KRX: 005380), and Hyundai's own shareholder register for the end of 2025 lists Hyundai….",
       "source": {
         "name": "Zoomph (2026 NFL practice-jersey patch guide)",
@@ -55,7 +55,7 @@
   "worstTier": "severe",
   "owners": [
     "government-of-rwanda",
-    "hyundai-owner",
+    "hyundai-motor-group",
     "sofi-owner"
   ],
   "lastUpdated": "2026-09-24"

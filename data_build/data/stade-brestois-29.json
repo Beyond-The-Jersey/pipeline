@@ -1,0 +1,179 @@
+{
+  "id": "stade-brestois-29",
+  "team": "Stade Brestois 29",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "breizh-cola",
+      "name": "Breizh Cola",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "e-leclerc",
+      "name": "E.Leclerc",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "groupe-soft",
+      "name": "Groupe SOFT",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "j-bervas-automobiles",
+      "name": "J.Bervas Automobiles",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "le-football-a-la-pointe",
+      "name": "Le Football à la Pointe",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "le-rond-central",
+      "name": "Le Rond Central",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "oceania-hotels",
+      "name": "Oceania Hotels",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "oriance",
+      "name": "Oriance",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "queguiner-materiaux",
+      "name": "Quéguiner Matériaux",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "sill",
+      "name": "SILL",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Stade Brestois 29 — Partenaires (site officiel)",
+        "date": "2026",
+        "url": "https://www.sb29.bzh/"
+      }
+    },
+    {
+      "id": "yaourt-malo",
+      "name": "Yaourt Malo",
+      "placement": "partner",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Sponsor note (kit supplier)",
+        "date": "2026-09",
+        "url": "https://github.com/Beyond-The-Jersey/data/issues/243",
+        "note": "Kit supplier per the target research."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

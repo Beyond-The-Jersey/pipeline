@@ -23,11 +23,27 @@
         "date": "2026-09-06",
         "url": "https://www.scoreandchange.com/la-liga-sponsors/"
       }
+    },
+    {
+      "id": "mgs-seguros",
+      "name": "MGS Seguros",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "mgs-seguros",
+      "owner": "MGS Seguros y Reaseguros, S.A.",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
     }
   ],
   "worstTier": "none",
   "owners": [
-    "flexicar-internacional"
+    "flexicar-internacional",
+    "mgs-seguros"
   ],
   "lastUpdated": "2026-09-24"
 }

@@ -11,6 +11,37 @@
   },
   "sponsors": [
     {
+      "id": "ascale",
+      "name": "Ascale",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "ascale",
+      "owner": "Ascale",
+      "verdict": null,
+      "source": {
+        "name": "Blinkfire, Guia de los patrocinadores de la LALIGA 2025-26",
+        "date": "2025-10-08",
+        "url": "https://patrocinio-en-redes.blinkfire.com/inicio/articulos/guia-de-los-patrocinadores-de-la-laliga-2025-26-la-diversidad-manda-en-las-equipaciones/",
+        "note": "Ascale back of shirt per the 2025-26 guide"
+      }
+    },
+    {
+      "id": "gac",
+      "name": "GAC",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "gac-group",
+      "owner": "Guangzhou Automobile Group Co., Ltd. (Guangzhou SASAC)",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
       "id": "pamesa-ceramica",
       "name": "Pamesa Ceramica",
       "placement": "front",
@@ -28,6 +59,8 @@
   ],
   "worstTier": "none",
   "owners": [
+    "ascale",
+    "gac-group",
     "pamesa-grupo-empresarial"
   ],
   "lastUpdated": "2026-09-24"

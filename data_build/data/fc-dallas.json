@@ -18,7 +18,7 @@
       "name": "Children's Health (home) / UT Southwestern Medical Center (away)",
       "placement": "front",
       "season": "2026-27",
-      "tier": "serious",
+      "tier": "unrated",
       "ownerId": "ut-southwestern-medical-center",
       "owner": "The University of Texas Southwestern Medical Center",
       "verdict": "This is a split patch sponsor: Children's Health (home kit) is a private 501(c)(3) non-profit - Children's Health System of Texas, EIN 75-0800628 - while UT….",
@@ -29,7 +29,7 @@
       }
     }
   ],
-  "worstTier": "serious",
+  "worstTier": "unrated",
   "owners": [
     "ut-southwestern-medical-center"
   ],

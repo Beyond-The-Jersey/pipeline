@@ -13,13 +13,28 @@
   },
   "sponsors": [
     {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "microsoft-corporation",
+      "owner": "Microsoft Corporation (Nasdaq-listed)",
+      "verdict": "Owned by Microsoft Corporation. Nothing found.",
+      "source": {
+        "name": "Manchester United, Microsoft Surface to feature on United shirts",
+        "date": "2026-08",
+        "url": "https://www.manutd.com/en/news/microsoft-surface-to-feature-on-back-of-united-shirts-v1"
+      }
+    },
+    {
       "id": "snapdragon",
       "name": "Snapdragon",
       "placement": "front",
       "season": "2026-27",
       "tier": "none",
       "ownerId": "qualcomm",
-      "owner": "Qualcomm",
+      "owner": "Qualcomm Incorporated (Nasdaq-listed)",
       "verdict": "Owned by Qualcomm Incorporated (Nasdaq-listed) — Snapdragon is its brand. Nothing found.",
       "source": {
         "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
@@ -45,6 +60,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "microsoft-corporation",
     "qualcomm",
     "sumup-ltd"
   ],

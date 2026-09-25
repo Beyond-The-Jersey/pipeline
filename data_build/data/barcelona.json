@@ -13,6 +13,37 @@
   },
   "sponsors": [
     {
+      "id": "fundacio-fc-barcelona",
+      "name": "Fundacio FC Barcelona",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "fundacio-fc-barcelona",
+      "owner": "Fundacio FC Barcelona",
+      "verdict": null,
+      "source": {
+        "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
+        "date": "2026-08-10",
+        "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
+        "note": "Fundacio FC Barcelona replaces UNHCR/ACNUR on the back"
+      }
+    },
+    {
+      "id": "midea",
+      "name": "Midea",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "midea-group",
+      "owner": "Midea Group Co., Ltd.",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
       "id": "spotify",
       "name": "Spotify",
       "placement": "front",
@@ -30,6 +61,8 @@
   ],
   "worstTier": "none",
   "owners": [
+    "fundacio-fc-barcelona",
+    "midea-group",
     "spotify-technology"
   ],
   "lastUpdated": "2026-09-24"

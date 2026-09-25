@@ -1,0 +1,60 @@
+{
+  "id": "olympique-de-marseille",
+  "team": "Olympique de Marseille",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "cma-cgm",
+      "name": "CMA CGM",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Olympique de Marseille — Nos partenaires (CMA CGM 'partenaire principal ... présent sur la face avant des maillots')",
+        "date": "2026",
+        "url": "https://www.om.fr/fr/partenaires"
+      }
+    },
+    {
+      "id": "sublime-cote-divoire",
+      "name": "Sublime Côte d'Ivoire",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "government-of-cote-divoire",
+      "owner": "Government of Côte d'Ivoire",
+      "verdict": null,
+      "source": {
+        "name": "Olympique de Marseille — Nos partenaires (Sublime Côte d'Ivoire, Ministère du Tourisme de Côte d'Ivoire)",
+        "date": "2026",
+        "url": "https://www.om.fr/fr/partenaires"
+      }
+    },
+    {
+      "id": "unibet",
+      "name": "Unibet",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Olympique de Marseille — Nos partenaires",
+        "date": "2026",
+        "url": "https://www.om.fr/fr/partenaires"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "government-of-cote-divoire"
+  ],
+  "lastUpdated": "2026-09-24"
+}

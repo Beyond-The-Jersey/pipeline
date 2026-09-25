@@ -52,5 +52,16 @@
     "aliases": [
       "mlb"
     ]
+  },
+  {
+    "id": "cycling",
+    "label": "Cycling",
+    "status": "not-mapped",
+    "aliases": [
+      "road cycling",
+      "pro cycling",
+      "uci",
+      "worldtour"
+    ]
   }
 ]

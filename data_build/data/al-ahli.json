@@ -1,0 +1,115 @@
+{
+  "id": "al-ahli",
+  "team": "Al-Ahli",
+  "sport": "soccer",
+  "league": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "cenomi",
+      "name": "Cenomi",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "kayanee",
+      "name": "Kayanee",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "kayanee",
+      "owner": "Kayanee",
+      "verdict": null,
+      "source": {
+        "name": "Saudi Pro League – Fresh Fit: Kits of 2026-27 RSL",
+        "date": "2026-08-24",
+        "url": "https://www.spl.com.sa/en/galleries/fresh-fits-kits-of-the-2026-27-rsl",
+        "note": "Official league gallery of the 2026-27 kits."
+      }
+    },
+    {
+      "id": "neoleap",
+      "name": "neoleap",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "stc",
+      "owner": "stc (Saudi Telecom Company)",
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "pif",
+      "name": "Public Investment Fund (PIF)",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "saudi-pif",
+      "owner": "Public Investment Fund (Saudi Arabia)",
+      "verdict": null,
+      "source": {
+        "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+        "date": "2023-06-06",
+        "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+        "note": "PIF took 75% in 2023."
+      }
+    },
+    {
+      "id": "red-sea-global",
+      "name": "Red Sea Global",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "red-sea-global",
+      "owner": "Red Sea Global (RSG)",
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "saudi-investment-recycling-company",
+      "name": "Saudi Investment Recycling Company (SIRC)",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "sirc",
+      "owner": "Saudi Investment Recycling Company (SIRC)",
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "kayanee",
+    "red-sea-global",
+    "saudi-pif",
+    "sirc",
+    "stc"
+  ],
+  "lastUpdated": "2026-09-24"
+}

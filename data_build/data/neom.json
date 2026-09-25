@@ -1,0 +1,64 @@
+{
+  "id": "neom",
+  "team": "NEOM SC",
+  "sport": "soccer",
+  "league": "saudi-pro-league",
+  "country": "Saudi Arabia",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "neom",
+      "name": "NEOM",
+      "placement": "partner",
+      "season": null,
+      "tier": "unrated",
+      "ownerId": "neom",
+      "owner": "NEOM",
+      "verdict": null,
+      "source": {
+        "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+        "date": "2023-06-06",
+        "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+        "note": "NEOM took over Al-Suqoor (now NEOM SC)."
+      }
+    },
+    {
+      "id": "oxagon",
+      "name": "Oxagon",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "oxagon",
+      "owner": "Oxagon",
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    },
+    {
+      "id": "shg",
+      "name": "SHG",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "433FC – Saudi Pro League 2026/27 Shirt Sponsors",
+        "date": "2026-06-15",
+        "url": "https://433fc.com/saudi-pro-league-2026-27-shirt-sponsors/",
+        "note": "Main-sponsor and kit-maker list (published pre-season; superseded in places by in-season announcements)."
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [
+    "neom",
+    "oxagon"
+  ],
+  "lastUpdated": "2026-09-24"
+}

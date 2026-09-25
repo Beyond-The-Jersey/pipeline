@@ -12,6 +12,53 @@
   },
   "sponsors": [
     {
+      "id": "ayuntamiento-de-benahavis",
+      "name": "Ayuntamiento de Benahavis",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "ayuntamiento-de-benahavis",
+      "owner": "Ayuntamiento de Benahavis",
+      "verdict": null,
+      "source": {
+        "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
+        "date": "2026-08-10",
+        "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
+        "note": "Ayuntamiento de Benahavis on the lower back of the shirt"
+      }
+    },
+    {
+      "id": "malaga-turismo",
+      "name": "Malaga Turismo",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "ayuntamiento-de-malaga",
+      "owner": "Ayuntamiento de Malaga",
+      "verdict": null,
+      "source": {
+        "name": "2Playbook, El 'mercato' del patrocinio en LaLiga 2026-2027",
+        "date": "2026-08-10",
+        "url": "https://www.2playbook.com/patrocinio/mercato-patrocinio-en-laliga-marcas-entran-salen-equipaciones-en-2026-2027_23233_102.html",
+        "note": "second vertical logo (Malaga) on the shirt front"
+      }
+    },
+    {
+      "id": "mgs-seguros",
+      "name": "MGS Seguros",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": "mgs-seguros",
+      "owner": "MGS Seguros y Reaseguros, S.A.",
+      "verdict": null,
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+      }
+    },
+    {
       "id": "sabor-a-malaga",
       "name": "Sabor a Malaga",
       "placement": "front",
@@ -29,7 +76,10 @@
   ],
   "worstTier": "concern",
   "owners": [
-    "diputacion-de-malaga"
+    "ayuntamiento-de-benahavis",
+    "ayuntamiento-de-malaga",
+    "diputacion-de-malaga",
+    "mgs-seguros"
   ],
   "lastUpdated": "2026-09-24"
 }

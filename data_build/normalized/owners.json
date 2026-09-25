@@ -15,11 +15,19 @@
     "country": "US"
   },
   {
-    "id": "access-industries",
-    "name": "Access Industries, Inc.",
+    "id": "abanca",
+    "name": "Abanca Corporacion Bancaria, S.A.",
     "type": "private-company",
     "parentId": null,
-    "country": "US"
+    "country": "Spain"
+  },
+  {
+    "id": "access-industries",
+    "name": "Access Industries",
+    "type": "private-company",
+    "country": "United States",
+    "parentId": null,
+    "note": "Majority owner of DAZN; vehicle of Sir Leonard Blavatnik."
   },
   {
     "id": "acrisure-owner",
@@ -33,8 +41,15 @@
     "id": "adidas-ag",
     "name": "adidas AG",
     "type": "listed-company",
+    "country": "Germany",
+    "parentId": null
+  },
+  {
+    "id": "adobe-inc",
+    "name": "Adobe Inc. (Nasdaq-listed)",
+    "type": "listed-company",
     "parentId": null,
-    "country": "DE"
+    "country": "US"
   },
   {
     "id": "adt-owner",
@@ -61,10 +76,17 @@
   },
   {
     "id": "aia-group",
-    "name": "AIA Group",
+    "name": "AIA Group Limited (HKEX: 1299)",
     "type": "listed-company",
     "parentId": null,
-    "country": "Hong Kong"
+    "country": "HK"
+  },
+  {
+    "id": "airbnb-inc",
+    "name": "Airbnb, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
   },
   {
     "id": "airwallex-owner",
@@ -99,6 +121,14 @@
     "country": "USA"
   },
   {
+    "id": "allianz-se",
+    "name": "Allianz SE",
+    "type": "listed-company",
+    "country": "Germany",
+    "note": "Allianz is a DAX-listed insurer with no state owner. https://www.allianz.com/en/about-us/corporate-structure/",
+    "parentId": null
+  },
+  {
     "id": "ally-financial",
     "name": "Ally Financial Inc.",
     "type": "listed-company",
@@ -118,6 +148,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "IT"
+  },
+  {
+    "id": "amazon-com-inc",
+    "name": "Amazon.com, Inc.",
+    "type": "listed-company",
+    "country": "USA",
+    "parentId": null
   },
   {
     "id": "america-movil",
@@ -207,6 +244,13 @@
     "country": "Japan"
   },
   {
+    "id": "ascale",
+    "name": "Ascale",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "ascension-st-vincent-owner",
     "name": "Ascension St. Vincent's",
     "type": "private-company",
@@ -237,6 +281,13 @@
     "country": "US"
   },
   {
+    "id": "atos-se",
+    "name": "Atos SE",
+    "type": "listed-company",
+    "country": "France",
+    "parentId": null
+  },
+  {
     "id": "atrium-health-owner",
     "name": "Atrium Health",
     "type": "private-company",
@@ -257,6 +308,13 @@
     "type": "listed-company",
     "country": "Germany",
     "parentId": "volkswagen-ag"
+  },
+  {
+    "id": "avery-dennison",
+    "name": "Avery Dennison Corporation",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
   },
   {
     "id": "avnet-owner",
@@ -282,6 +340,20 @@
     "country": "CH"
   },
   {
+    "id": "ayuntamiento-de-benahavis",
+    "name": "Ayuntamiento de Benahavis",
+    "type": "state",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "ayuntamiento-de-malaga",
+    "name": "Ayuntamiento de Malaga",
+    "type": "state",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "baghdadi-capital-sa",
     "name": "Baghdadi Capital, S.A. (family office of Baihas Baghdadi)",
     "type": "private-company",
@@ -294,6 +366,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "balkrishna-industries",
+    "name": "Balkrishna Industries Ltd. (BKT)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "India"
   },
   {
     "id": "ball-corporation-owner",
@@ -325,6 +404,15 @@
     "country": "CA"
   },
   {
+    "id": "banque-saudi-fransi",
+    "name": "Banque Saudi Fransi (BSF)",
+    "type": "listed-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "Listed bank; PIF stake reported at ~16.19% (2026).",
+    "parentId": "saudi-pif"
+  },
+  {
     "id": "baptist-health-owner",
     "name": "Baptist Health South Florida",
     "type": "private-company",
@@ -335,6 +423,13 @@
   {
     "id": "barclays",
     "name": "Barclays PLC",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
+    "id": "barclays-plc",
+    "name": "Barclays plc (LSE/NYSE-listed)",
     "type": "listed-company",
     "parentId": null,
     "country": "GB"
@@ -359,6 +454,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "bet365-group",
+    "name": "bet365 Group Ltd",
+    "type": "private-company",
+    "country": "United Kingdom",
+    "parentId": null,
+    "note": "Controlled by the Coates family."
   },
   {
     "id": "betsson",
@@ -469,6 +572,13 @@
     "country": "US"
   },
   {
+    "id": "carlsberg-group",
+    "name": "Carlsberg Group",
+    "type": "listed-company",
+    "country": "Denmark",
+    "parentId": null
+  },
+  {
     "id": "carlyle-group-and-gic",
     "name": "The Carlyle Group and GIC (joint owners)",
     "type": "state-fund",
@@ -481,6 +591,13 @@
     "type": "listed-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "celer-lighting",
+    "name": "Celer Lighting",
+    "type": "private-company",
+    "parentId": "grupo-saltoki",
+    "country": "Spain"
   },
   {
     "id": "childrens-hospital-colorado-owner",
@@ -521,6 +638,14 @@
     "country": "US"
   },
   {
+    "id": "city-football-group",
+    "name": "City Football Group",
+    "type": "private-company",
+    "country": "UAE",
+    "parentId": "government-of-abu-dhabi",
+    "note": "Majority owned by Abu Dhabi United Group; owner of ES Troyes AC since September 2020."
+  },
+  {
     "id": "cleveland-cliffs-owner",
     "name": "Cleveland-Cliffs LLC",
     "type": "listed-company",
@@ -537,7 +662,7 @@
   },
   {
     "id": "cmc-markets-plc",
-    "name": "CMC Markets Plc (London-listed; Cruddas family significant holder)",
+    "name": "CMC Markets plc (London-listed; Cruddas family significant holder)",
     "type": "listed-company",
     "parentId": null,
     "country": "GB"
@@ -549,6 +674,21 @@
     "parentId": null,
     "note": "jersey patch partner of chicago-white-sox (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "coca-cola-company",
+    "name": "The Coca-Cola Company",
+    "type": "listed-company",
+    "country": "United States",
+    "parentId": null
+  },
+  {
+    "id": "cofco",
+    "name": "COFCO Corporation",
+    "type": "state",
+    "country": "China",
+    "parentId": null,
+    "note": "Central state-owned enterprise under China's SASAC."
   },
   {
     "id": "cognizant",
@@ -602,7 +742,7 @@
   },
   {
     "id": "corendon-tourism-group",
-    "name": "Corendon Tourism Group (Corendon Holdings)",
+    "name": "Corendon Tourism Group",
     "type": "private-company",
     "parentId": null,
     "country": "NL"
@@ -620,6 +760,15 @@
     "type": "listed-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "cruise-saudi",
+    "name": "Cruise Saudi",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "PIF-owned; operates AROYA Cruises.",
+    "parentId": "saudi-pif"
   },
   {
     "id": "cvc-capital-partners",
@@ -709,6 +858,29 @@
     "country": "Germany"
   },
   {
+    "id": "deutsche-vermoegensberatung-ag",
+    "name": "Deutsche Vermögensberatung AG (DVAG)",
+    "type": "private-company",
+    "country": "Germany",
+    "note": "DVAG is a private German financial-advisory firm owned by the founder Pohl family. dvag.de",
+    "parentId": null
+  },
+  {
+    "id": "devk",
+    "name": "DEVK Deutsche Eisenbahn Versicherung",
+    "type": "private-company",
+    "country": "Germany",
+    "note": "DEVK is a German mutual insurance association. devk.de",
+    "parentId": null
+  },
+  {
+    "id": "diageo-plc",
+    "name": "Diageo plc (LSE/NYSE-listed)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "GB"
+  },
+  {
     "id": "digi-communications-nv",
     "name": "Digi Communications N.V.",
     "type": "listed-company",
@@ -723,11 +895,33 @@
     "country": "ES"
   },
   {
+    "id": "diputacion-foral-de-alava",
+    "name": "Diputacion Foral de Alava",
+    "type": "state",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "diriyah-gate-development-authority",
+    "name": "Diriyah Gate Development Authority",
+    "type": "state",
+    "country": "Saudi Arabia",
+    "note": "Government authority behind Diriyah Company; runs Diriyah Club.",
+    "parentId": "government-of-saudi-arabia"
+  },
+  {
     "id": "discovery-limited",
     "name": "Discovery Limited (Johannesburg-listed)",
     "type": "listed-company",
     "parentId": null,
     "country": "ZA"
+  },
+  {
+    "id": "divina-pastora",
+    "name": "Grupo Divina Pastora (Divina Seguros)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
     "id": "dorilton",
@@ -760,6 +954,12 @@
     "country": "US"
   },
   {
+    "id": "ebpay",
+    "name": "EBpay",
+    "type": "private-company",
+    "parentId": null
+  },
+  {
     "id": "ed-sheeran",
     "name": "Ed Sheeran / 'Play' tour (private individual)",
     "type": "private-company",
@@ -772,6 +972,20 @@
     "type": "private-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "el-corte-ingles",
+    "name": "El Corte Ingles, S.A.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "electronic-arts",
+    "name": "Electronic Arts Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
   },
   {
     "id": "empower-owner",
@@ -818,6 +1032,14 @@
     "country": "IL"
   },
   {
+    "id": "euronics-international",
+    "name": "Euronics International",
+    "type": "private-company",
+    "country": "Netherlands",
+    "parentId": null,
+    "note": "Buying group of independent electrical retailers."
+  },
+  {
     "id": "everbank-owner",
     "name": "EverBank",
     "type": "private-company",
@@ -854,11 +1076,25 @@
     "country": "US"
   },
   {
+    "id": "fanatics",
+    "name": "Fanatics, Inc. (private; owns Topps)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "US"
+  },
+  {
     "id": "federal-republic-of-germany",
     "name": "Federal Republic of Germany (direct stake + KfW) with the remainder free float",
     "type": "state",
     "parentId": null,
     "country": "DE"
+  },
+  {
+    "id": "fedex-corporation",
+    "name": "FedEx Corporation",
+    "type": "listed-company",
+    "country": "USA",
+    "parentId": null
   },
   {
     "id": "fedex-owner",
@@ -882,6 +1118,14 @@
     "parentId": null,
     "note": "jersey patch partner of tampa-bay-buccaneers (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "finstreet-ltd",
+    "name": "Finstreet Ltd",
+    "type": "private-company",
+    "country": "United Arab Emirates",
+    "parentId": "international-holding-company",
+    "note": "Finstreet is named as ADI Predictstreet's parent, owned by IHC."
   },
   {
     "id": "fiserv-owner",
@@ -950,11 +1194,25 @@
     "country": "US"
   },
   {
+    "id": "fundacio-fc-barcelona",
+    "name": "Fundacio FC Barcelona",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "fundacion-1890",
     "name": "Fundacion 1890",
     "type": "private-company",
     "parentId": null,
     "country": "Spain"
+  },
+  {
+    "id": "gac-group",
+    "name": "Guangzhou Automobile Group Co., Ltd. (Guangzhou SASAC)",
+    "type": "state",
+    "parentId": null,
+    "country": "China"
   },
   {
     "id": "gainbridge-group-1001-owner",
@@ -965,11 +1223,25 @@
     "country": "USA"
   },
   {
+    "id": "gana-energia",
+    "name": "Gana Energia",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "gate-group",
     "name": "Gate Group / Gate Technology Inc.",
     "type": "private-company",
     "parentId": null,
     "country": "Cayman Islands"
+  },
+  {
+    "id": "gcs",
+    "name": "GCS",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
   },
   {
     "id": "gene-haas",
@@ -1023,12 +1295,52 @@
     "parentId": "uae"
   },
   {
+    "id": "government-of-bahrain",
+    "name": "Government of Bahrain",
+    "type": "state",
+    "country": "Bahrain",
+    "parentId": null,
+    "note": "The 'Victorious Bahrain' brand is used by the Kingdom to promote Bahrain abroad; fronted by Shaikh Nasser bin Hamad Al Khalifa."
+  },
+  {
+    "id": "government-of-belgium",
+    "name": "Belgian Federal State (Lotto is the state National Lottery)",
+    "type": "state",
+    "country": "Belgium",
+    "parentId": null
+  },
+  {
+    "id": "government-of-cote-divoire",
+    "name": "Government of Côte d'Ivoire",
+    "type": "state",
+    "country": "Côte d'Ivoire",
+    "via": "Ministry of Tourism",
+    "parentId": null,
+    "note": "'Sublime Côte d'Ivoire' is the state's tourism-promotion brand."
+  },
+  {
+    "id": "government-of-dr-congo",
+    "name": "Government of the Democratic Republic of the Congo",
+    "type": "state",
+    "country": "DR Congo",
+    "via": "Ministry of Sports and Leisure",
+    "parentId": null,
+    "note": "'R.D.Congo : Cœur de l'Afrique' is the state's sports/tourism-promotion brand."
+  },
+  {
     "id": "government-of-dubai",
     "name": "Government of Dubai",
     "type": "state",
     "country": "UAE",
     "via": "Investment Corporation of Dubai",
     "parentId": "uae"
+  },
+  {
+    "id": "government-of-kazakhstan",
+    "name": "Government of Kazakhstan",
+    "type": "state",
+    "country": "Kazakhstan",
+    "parentId": null
   },
   {
     "id": "government-of-qatar",
@@ -1111,8 +1423,23 @@
     "parentId": "gene-haas"
   },
   {
+    "id": "haier-group",
+    "name": "Haier Group Corporation",
+    "type": "private-company",
+    "country": "China",
+    "parentId": null,
+    "note": "Collectively owned; parent of listed Haier Smart Home."
+  },
+  {
+    "id": "haier-smart-home",
+    "name": "Haier Smart Home Co., Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "China"
+  },
+  {
     "id": "halo-lifestyle-llc",
-    "name": "Halo Lifestyle LLC (HALO Hydration)",
+    "name": "HALO Lifestyle LLC (HALO Hydration)",
     "type": "private-company",
     "parentId": null,
     "country": "US"
@@ -1139,6 +1466,14 @@
     "country": "DE"
   },
   {
+    "id": "harald-pihl",
+    "name": "Harald Pihl GmbH",
+    "type": "private-company",
+    "country": "Germany",
+    "note": "Harald Pihl GmbH is a private German special-metals trader. harald-pihl.com",
+    "parentId": null
+  },
+  {
     "id": "hard-rock-international-owner",
     "name": "Hard Rock International LLC",
     "type": "private-company",
@@ -1160,6 +1495,29 @@
     "parentId": null,
     "note": "jersey patch partner of utah-jazz (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "heineken-nv",
+    "name": "Heineken N.V.",
+    "type": "listed-company",
+    "country": "Netherlands",
+    "parentId": null
+  },
+  {
+    "id": "helm-ag",
+    "name": "HELM AG",
+    "type": "private-company",
+    "country": "Germany",
+    "note": "HELM AG is a Hamburg family-owned chemical-trading company. helm-ag.com",
+    "parentId": null
+  },
+  {
+    "id": "hep-global",
+    "name": "hep global GmbH",
+    "type": "private-company",
+    "country": "Germany",
+    "note": "hep global is a private German solar-project developer. hep.global",
+    "parentId": null
   },
   {
     "id": "herbalife-ltd",
@@ -1191,6 +1549,14 @@
     "country": "GB"
   },
   {
+    "id": "hisense-group",
+    "name": "Hisense Group",
+    "type": "unknown",
+    "country": "China",
+    "parentId": null,
+    "note": "Qingdao-based television and appliance group. Widely reported Qingdao state-linked (SASAC) but not confirmed against a primary filing in this pass."
+  },
+  {
     "id": "honda-motor-co-ltd",
     "name": "Honda Motor Co., Ltd.",
     "type": "listed-company",
@@ -1212,6 +1578,15 @@
     "country": "Germany"
   },
   {
+    "id": "humain",
+    "name": "HUMAIN",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "Launched May 2025 under PIF; chaired by Crown Prince Mohammed bin Salman.",
+    "parentId": "saudi-pif"
+  },
+  {
     "id": "huntington-national-bank-huntington-bancshares-owner",
     "name": "Huntington National Bank (Huntington Bancshares)",
     "type": "listed-company",
@@ -1220,12 +1595,12 @@
     "country": "US"
   },
   {
-    "id": "hyundai-owner",
-    "name": "Hyundai Motor Company",
+    "id": "hyundai-motor-group",
+    "name": "Hyundai Motor Group",
     "type": "listed-company",
+    "country": "South Korea",
     "parentId": null,
-    "note": "jersey patch partner of la-rams (2026-27).",
-    "country": "South Korea"
+    "note": "Kia Corporation is a Hyundai Motor Group affiliate, so Hyundai and Kia act together under one group."
   },
   {
     "id": "ibm-corp",
@@ -1241,6 +1616,14 @@
     "parentId": null,
     "note": "jersey patch partner of denver-nuggets (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "idm-energiesysteme",
+    "name": "IDM Energiesysteme GmbH",
+    "type": "private-company",
+    "country": "Austria",
+    "note": "IDM is a private Austrian heat-pump manufacturer (Matrei in Osttirol). idm-energie.at",
+    "parentId": null
   },
   {
     "id": "ifs-ab",
@@ -1293,6 +1676,14 @@
     "country": "Australia"
   },
   {
+    "id": "international-holding-company",
+    "name": "International Holding Company (IHC)",
+    "type": "listed-company",
+    "country": "United Arab Emirates",
+    "parentId": null,
+    "note": "Abu Dhabi royal-family-linked holding company chaired by Sheikh Tahnoon bin Zayed Al Nahyan, brother of the UAE president."
+  },
+  {
     "id": "intuit-intuit-inc-nasdaq-intu-owner",
     "name": "Intuit Inc.",
     "type": "listed-company",
@@ -1324,6 +1715,13 @@
     "country": "US"
   },
   {
+    "id": "jp-financial",
+    "name": "JP Financial",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "jpmorgan-chase-owner",
     "name": "JPMorgan Chase & Co.",
     "type": "listed-company",
@@ -1346,6 +1744,13 @@
     "parentId": null,
     "note": "jersey patch partner of charlotte-hornets (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "just-eat-takeaway",
+    "name": "Just Eat Takeaway.com N.V.",
+    "type": "listed-company",
+    "country": "Netherlands",
+    "parentId": null
   },
   {
     "id": "kaizen-gaming",
@@ -1371,12 +1776,37 @@
     "country": "US"
   },
   {
+    "id": "kayanee",
+    "name": "Kayanee",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "PIF-backed wellbeing company.",
+    "parentId": "saudi-pif"
+  },
+  {
+    "id": "kermi",
+    "name": "Kermi GmbH",
+    "type": "private-company",
+    "country": "Germany",
+    "note": "Kermi is a private German heating/radiator manufacturer. kermi.de",
+    "parentId": null
+  },
+  {
     "id": "kia-america-owner",
     "name": "Kia America",
     "type": "listed-company",
     "parentId": null,
     "note": "arena naming-rights holder of orlando-magic (2026-27).",
     "country": "KOR"
+  },
+  {
+    "id": "kingdom-holding",
+    "name": "Kingdom Holding Company (KHC)",
+    "type": "listed-company",
+    "country": "Saudi Arabia",
+    "note": "78.1% held by Prince Alwaleed bin Talal; PIF holds 16.9%. Acquired 70% of Al-Hilal from PIF (Sep 2026).",
+    "parentId": null
   },
   {
     "id": "knox-hydrate-pty-ltd",
@@ -1452,6 +1882,29 @@
     "country": "US"
   },
   {
+    "id": "legend-holdings",
+    "name": "Legend Holdings Corporation",
+    "type": "listed-company",
+    "country": "China",
+    "parentId": null,
+    "note": "Largest shareholder of Lenovo Group Limited at 31.41% as of 31 Mar 2025. Legend's own largest shareholder is reported to be Chinese Academy of Sciences Holdings (CAS), a state entity - to confirm from a Legend filing."
+  },
+  {
+    "id": "legends",
+    "name": "Legends",
+    "type": "private-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
+    "id": "lenovo-group-limited",
+    "name": "Lenovo Group Limited",
+    "type": "listed-company",
+    "country": "Hong Kong",
+    "parentId": "legend-holdings",
+    "note": "Listed on the Hong Kong Stock Exchange (HKSE: 992)."
+  },
+  {
     "id": "lenovo-group-ltd",
     "name": "Lenovo Group Limited",
     "type": "listed-company",
@@ -1521,6 +1974,13 @@
     "country": "USA"
   },
   {
+    "id": "luckia",
+    "name": "Luckia Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "lumen-technologies-owner",
     "name": "Lumen Technologies Corporation",
     "type": "listed-company",
@@ -1552,6 +2012,20 @@
     "country": "USA"
   },
   {
+    "id": "mahou-san-miguel",
+    "name": "Mahou San Miguel",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
+    "id": "malaga-turismo",
+    "name": "Malaga Turismo",
+    "type": "state",
+    "parentId": "ayuntamiento-de-malaga",
+    "country": "Spain"
+  },
+  {
     "id": "mapei-spa",
     "name": "Mapei S.p.A.",
     "type": "private-company",
@@ -1575,7 +2049,7 @@
   },
   {
     "id": "marex-group-plc",
-    "name": "Marex Group plc (Nasdaq-listed) — public and former PE sponsors",
+    "name": "Marex Group plc (Nasdaq-listed)",
     "type": "listed-company",
     "parentId": null,
     "country": "GB"
@@ -1654,6 +2128,14 @@
     "country": "USA"
   },
   {
+    "id": "mengniu-dairy",
+    "name": "China Mengniu Dairy Company Limited",
+    "type": "listed-company",
+    "country": "China",
+    "parentId": "cofco",
+    "note": "Listed in Hong Kong; part of the COFCO group."
+  },
+  {
     "id": "mercedes-benz-group",
     "name": "Mercedes-Benz Group AG",
     "type": "listed-company",
@@ -1676,11 +2158,25 @@
     "country": "United States"
   },
   {
+    "id": "mgs-seguros",
+    "name": "MGS Seguros y Reaseguros, S.A.",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "microsoft-corporation",
-    "name": "Microsoft Corporation",
+    "name": "Microsoft Corporation (Nasdaq-listed)",
     "type": "listed-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "midea-group",
+    "name": "Midea Group Co., Ltd.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "China"
   },
   {
     "id": "mk-sports-news",
@@ -1705,6 +2201,20 @@
     "country": "US"
   },
   {
+    "id": "moeve",
+    "name": "Moeve (Compania Espanola de Petroleos, S.A.U.)",
+    "type": "private-company",
+    "parentId": "mubadala",
+    "country": "Spain"
+  },
+  {
+    "id": "mondelez-international",
+    "name": "Mondelez International, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
+  },
+  {
     "id": "mondofix-inc",
     "name": "Mondofix Inc. (dba Fix Network World)",
     "type": "private-company",
@@ -1713,7 +2223,7 @@
   },
   {
     "id": "monzo-bank-limited",
-    "name": "Monzo Bank Limited (private, VC-backed)",
+    "name": "Monzo Bank Limited (UK; private, VC-backed)",
     "type": "private-company",
     "parentId": null,
     "country": "GB"
@@ -1784,6 +2294,15 @@
     "country": "CW"
   },
   {
+    "id": "neom",
+    "name": "NEOM",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "PIF giga-project; owns NEOM SC.",
+    "parentId": "saudi-pif"
+  },
+  {
     "id": "nestle-sa",
     "name": "Nestle S.A.",
     "type": "listed-company",
@@ -1812,6 +2331,23 @@
     "parentId": null,
     "note": "jersey patch partner of new-york-mets (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "nhc",
+    "name": "NHC (National Housing Company)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "Ministry of Municipal and Rural Affairs and Housing",
+    "note": "Set up by the ministry as its real-estate investment arm; state-owned.",
+    "parentId": "government-of-saudi-arabia"
+  },
+  {
+    "id": "niedax-group",
+    "name": "Niedax Gruppe",
+    "type": "private-company",
+    "country": "Germany",
+    "note": "Niedax Group is a family-owned German cable-management manufacturer. niedax.com company page",
+    "parentId": null
   },
   {
     "id": "nintendo-owner",
@@ -1862,6 +2398,12 @@
     "country": "US"
   },
   {
+    "id": "odty-news",
+    "name": "ODTY News",
+    "type": "private-company",
+    "parentId": null
+  },
+  {
     "id": "okx-group",
     "name": "OKX / Aux Cayes FinTech Co. Ltd (OK Group)",
     "type": "private-company",
@@ -1890,11 +2432,27 @@
     "country": "US"
   },
   {
+    "id": "oshee",
+    "name": "Oshee Polska",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Poland"
+  },
+  {
     "id": "otro-capital",
     "name": "Otro Capital",
     "type": "private-company",
     "country": "United States",
     "parentId": null
+  },
+  {
+    "id": "oxagon",
+    "name": "Oxagon",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "NEOM",
+    "note": "Industrial city/region of NEOM.",
+    "parentId": "neom"
   },
   {
     "id": "pamesa-ceramica",
@@ -1909,6 +2467,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "ES"
+  },
+  {
+    "id": "panini-group",
+    "name": "Panini Group",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Italy"
   },
   {
     "id": "paycom-owner",
@@ -1988,6 +2553,14 @@
     "country": "US"
   },
   {
+    "id": "polestar-automotive",
+    "name": "Polestar Automotive Holding UK PLC",
+    "type": "listed-company",
+    "country": "Sweden",
+    "note": "Swedish premium EV maker, listed on Nasdaq; controlled by Li Shufu/PSD Investment and Volvo Car Group. Parent: Geely. geely.com",
+    "parentId": null
+  },
+  {
     "id": "procter-and-gamble",
     "name": "The Procter & Gamble Company",
     "type": "listed-company",
@@ -2010,6 +2583,14 @@
     "country": "US"
   },
   {
+    "id": "prominent-group",
+    "name": "ProMinent Group",
+    "type": "private-company",
+    "country": "Germany",
+    "note": "ProMinent is a private German dosing/metering technology company (Heidelberg). prominent.com",
+    "parentId": null
+  },
+  {
     "id": "providence-health-system",
     "name": "Providence (Providence Health & Services / Providence Swedish)",
     "type": "private-company",
@@ -2017,11 +2598,27 @@
     "country": "US"
   },
   {
+    "id": "puma-se",
+    "name": "PUMA SE (Frankfurt-listed)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "DE"
+  },
+  {
     "id": "pvh-corp",
     "name": "PVH Corp.",
     "type": "listed-company",
     "parentId": null,
     "country": "United States"
+  },
+  {
+    "id": "qatar-sports-investments",
+    "name": "Qatar Sports Investments (QSI)",
+    "type": "state-fund",
+    "country": "Qatar",
+    "via": "Qatar Investment Authority",
+    "parentId": "qia",
+    "note": "Wholly owned by the Qatar Investment Authority (QIA); chaired by Nasser Al-Khelaifi; controlling owner of Paris Saint-Germain since 2011."
   },
   {
     "id": "qia",
@@ -2032,14 +2629,7 @@
   },
   {
     "id": "qualcomm",
-    "name": "Qualcomm",
-    "type": "listed-company",
-    "parentId": null,
-    "country": "USA"
-  },
-  {
-    "id": "qualcomm-incorporated",
-    "name": "QUALCOMM Incorporated",
+    "name": "Qualcomm Incorporated (Nasdaq-listed)",
     "type": "listed-company",
     "parentId": null,
     "country": "US"
@@ -2113,6 +2703,15 @@
     "parentId": "mateschitz-yoovidhya-families"
   },
   {
+    "id": "red-sea-global",
+    "name": "Red Sea Global (RSG)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "Listed in PIF's portfolio; RSG governance 'reflects the values of the PIF'.",
+    "parentId": "saudi-pif"
+  },
+  {
     "id": "regione-autonoma-della-sardegna",
     "name": "Regione Autonoma della Sardegna (Assessorato del Turismo)",
     "type": "state",
@@ -2141,6 +2740,13 @@
     "country": "Germany"
   },
   {
+    "id": "revel",
+    "name": "REVEL",
+    "type": "private-company",
+    "parentId": null,
+    "country": "Spain"
+  },
+  {
     "id": "revolut-group-holdings",
     "name": "Revolut Group Holdings Ltd",
     "type": "private-company",
@@ -2153,6 +2759,13 @@
     "type": "private-company",
     "parentId": null,
     "country": "Germany"
+  },
+  {
+    "id": "rezzil",
+    "name": "Rezzil (private)",
+    "type": "private-company",
+    "parentId": null,
+    "country": "GB"
   },
   {
     "id": "robinhood-owner",
@@ -2186,6 +2799,15 @@
     "country": "Switzerland"
   },
   {
+    "id": "roshn",
+    "name": "ROSHN Group",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "Describes itself as 'a Public Investment Fund (PIF) company'.",
+    "parentId": "saudi-pif"
+  },
+  {
     "id": "rouses-markets-owner",
     "name": "Rouses Markets",
     "type": "private-company",
@@ -2199,6 +2821,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "US"
+  },
+  {
+    "id": "royal-commission-for-alula",
+    "name": "Royal Commission for AlUla (RCU)",
+    "type": "state",
+    "country": "Saudi Arabia",
+    "note": "Saudi government agency running the Experience AlUla tourist board.",
+    "parentId": "government-of-saudi-arabia"
   },
   {
     "id": "russian-federation",
@@ -2220,6 +2850,13 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United States"
+  },
+  {
+    "id": "samruk-kazyna",
+    "name": "Samruk-Kazyna (Kazakhstan sovereign wealth fund)",
+    "type": "state-fund",
+    "country": "Kazakhstan",
+    "parentId": "government-of-kazakhstan"
   },
   {
     "id": "sap-se",
@@ -2251,6 +2888,23 @@
     "parentId": "government-of-saudi-arabia"
   },
   {
+    "id": "saudia",
+    "name": "Saudia (Saudi Arabian Airlines)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "PIF holds the controlling stake in parent Saudi Arabian Airlines Corporation.",
+    "parentId": "saudi-pif"
+  },
+  {
+    "id": "schwarz-group",
+    "name": "Schwarz Group",
+    "type": "private-company",
+    "country": "Germany",
+    "parentId": null,
+    "note": "Parent of Lidl and PreZero."
+  },
+  {
     "id": "scotiabank-owner",
     "name": "Scotiabank",
     "type": "listed-company",
@@ -2265,6 +2919,13 @@
     "parentId": null,
     "note": "jersey patch partner of minnesota-twins (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "sega-sammy",
+    "name": "Sega Sammy Holdings Inc. (Tokyo-listed; owns Football Manager studio)",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "JP"
   },
   {
     "id": "seminole-tribe-of-florida",
@@ -2296,6 +2957,14 @@
     "country": "IT"
   },
   {
+    "id": "shaikh-nasser-bin-hamad-al-khalifa",
+    "name": "Shaikh Nasser bin Hamad Al Khalifa",
+    "type": "private-company",
+    "country": "Bahrain",
+    "note": "Son of the King of Bahrain; founder of Team Bahrain Victorious (owner, not a sponsor on the jersey).",
+    "parentId": "government-of-bahrain"
+  },
+  {
     "id": "sheetz-owner",
     "name": "Sheetz",
     "type": "private-company",
@@ -2309,6 +2978,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "United Kingdom"
+  },
+  {
+    "id": "siegmund",
+    "name": "Siegmund GmbH & Co. KG",
+    "type": "private-company",
+    "country": "Germany",
+    "note": "Siegmund is a private German welding-table manufacturer. siegmund.com",
+    "parentId": null
   },
   {
     "id": "siemens-ag",
@@ -2325,6 +3002,15 @@
     "country": "CN"
   },
   {
+    "id": "sirc",
+    "name": "Saudi Investment Recycling Company (SIRC)",
+    "type": "private-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "PIF-owned recycling company.",
+    "parentId": "saudi-pif"
+  },
+  {
     "id": "smoothie-king-owner",
     "name": "Smoothie King",
     "type": "private-company",
@@ -2339,6 +3025,29 @@
     "parentId": null,
     "note": "arena naming-rights holder of los-angeles-chargers (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "sonepar",
+    "name": "Sonepar",
+    "type": "private-company",
+    "country": "France",
+    "note": "Sonepar is a family-owned French electrical-equipment distributor. sonepar.com company page",
+    "parentId": null
+  },
+  {
+    "id": "sony-group",
+    "name": "Sony Group Corporation",
+    "type": "listed-company",
+    "country": "Japan",
+    "parentId": null,
+    "note": "Parent of Sony Interactive Entertainment (PlayStation)."
+  },
+  {
+    "id": "sorare",
+    "name": "Sorare",
+    "type": "private-company",
+    "parentId": null,
+    "country": "France"
   },
   {
     "id": "spectrum-charter-communications-owner",
@@ -2360,7 +3069,7 @@
     "name": "Standard Chartered plc",
     "type": "listed-company",
     "parentId": null,
-    "country": "United Kingdom"
+    "country": "GB"
   },
   {
     "id": "standard-general",
@@ -2400,6 +3109,15 @@
     "country": "QA"
   },
   {
+    "id": "stc",
+    "name": "stc (Saudi Telecom Company)",
+    "type": "listed-company",
+    "country": "Saudi Arabia",
+    "via": "PIF",
+    "note": "PIF is the majority shareholder; parent of neoleap.",
+    "parentId": "saudi-pif"
+  },
+  {
     "id": "stellantis-nv",
     "name": "Stellantis N.V.",
     "type": "listed-company",
@@ -2421,6 +3139,13 @@
     "parentId": null,
     "note": "jersey patch partner of detroit-pistons (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "strauss-gmbh",
+    "name": "Strauss GmbH (STRAUSS)",
+    "type": "private-company",
+    "country": "Germany",
+    "parentId": null
   },
   {
     "id": "sumup-ltd",
@@ -2450,6 +3175,14 @@
     "type": "listed-company",
     "parentId": null,
     "country": "Guernsey"
+  },
+  {
+    "id": "surj-sports-investment",
+    "name": "SURJ Sports Investment",
+    "type": "state-fund",
+    "country": "Saudi Arabia",
+    "parentId": "saudi-pif",
+    "note": "PIF subsidiary that took a reported ~US$1bn minority stake in DAZN and set up DAZN MENA."
   },
   {
     "id": "sutter-health-owner",
@@ -2583,6 +3316,13 @@
     "country": "US"
   },
   {
+    "id": "trainline-plc",
+    "name": "Trainline plc",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United Kingdom"
+  },
+  {
     "id": "tropicana-tropicana-brands-group-owner",
     "name": "Tropicana Brands Group",
     "type": "private-company",
@@ -2618,6 +3358,13 @@
     "type": "state",
     "country": "UAE",
     "parentId": null
+  },
+  {
+    "id": "uber-technologies",
+    "name": "Uber Technologies, Inc.",
+    "type": "listed-company",
+    "parentId": null,
+    "country": "United States"
   },
   {
     "id": "ubs-group-ag",
@@ -2735,8 +3482,8 @@
     "id": "visa-inc",
     "name": "Visa Inc.",
     "type": "listed-company",
-    "parentId": null,
-    "country": "US"
+    "country": "United States",
+    "parentId": null
   },
   {
     "id": "vodafone-group",
@@ -2811,6 +3558,14 @@
     "parentId": null,
     "note": "jersey patch partner of houston-texans (2026-27).",
     "country": "US"
+  },
+  {
+    "id": "xrg",
+    "name": "XRG (international energy and chemicals investment company)",
+    "type": "private-company",
+    "country": "United Arab Emirates",
+    "note": "Wholly owned by ADNOC; headquartered in Abu Dhabi.",
+    "parentId": "government-of-abu-dhabi"
   },
   {
     "id": "yeti-holdings-inc",

@@ -17,7 +17,7 @@
       "name": "UW Health",
       "placement": "training-kit",
       "season": "2026-27",
-      "tier": "serious",
+      "tier": "unrated",
       "ownerId": "uw-health-owner",
       "owner": "UW Health",
       "verdict": "UW Health is a public hospital system organized under Wisconsin state law as the University of Wisconsin Hospitals and Clinics Authority, a state agency.",
@@ -28,7 +28,7 @@
       }
     }
   ],
-  "worstTier": "serious",
+  "worstTier": "unrated",
   "owners": [
     "uw-health-owner"
   ],

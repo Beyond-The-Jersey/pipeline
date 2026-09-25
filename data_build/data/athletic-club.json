@@ -13,6 +13,22 @@
   },
   "sponsors": [
     {
+      "id": "digi",
+      "name": "Digi",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "none",
+      "ownerId": "digi-communications-nv",
+      "owner": "Digi Communications N.V.",
+      "verdict": "Owned by Digi Communications N.V.. Nothing found.",
+      "source": {
+        "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+        "date": "2026-09-06",
+        "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+        "note": "back of shirt; B2BinPay did not renew the sleeve, left free"
+      }
+    },
+    {
       "id": "kutxabank",
       "name": "Kutxabank",
       "placement": "front",
@@ -30,6 +46,7 @@
   ],
   "worstTier": "none",
   "owners": [
+    "digi-communications-nv",
     "kutxabank-sa"
   ],
   "lastUpdated": "2026-09-24"

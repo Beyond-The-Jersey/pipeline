@@ -1040,6 +1040,2245 @@
     }
   },
   {
+    "id": "borussia-monchengladbach-reuter",
+    "clubId": "borussia-monchengladbach",
+    "orgName": null,
+    "sponsorId": "reuter",
+    "placement": "front",
+    "from": null,
+    "to": "2026-27",
+    "value": {
+      "amount": 8,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 9
+    },
+    "source": {
+      "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+      "date": "2026-08",
+      "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+    },
+    "note": "Two-year deal from 2024 with option (now exercised) to 2027; reported ~EUR8m, plus success bonuses."
+  },
+  {
+    "id": "sv-elversberg-hylo",
+    "clubId": "sv-elversberg",
+    "orgName": null,
+    "sponsorId": "hylo",
+    "placement": "front",
+    "from": null,
+    "to": "2028-29",
+    "value": {
+      "amount": 3,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 3
+    },
+    "source": {
+      "name": "ran.de, Was die Hauptsponsoren den 18 klubs in der Saison 2026/27 bezahlen (Quelle: kicker.de)",
+      "date": "2026-08",
+      "url": "https://ran.joyn.de/sports/fussball/bundesliga/bundesliga-was-die-hauptsponsoren-den18-klubs-in-der-saison202627-bezahlen-160665"
+    },
+    "note": "URSAPHARM (brand HYLO) since 1990 to 2029; estimated EUR3-5m; also URSAPHARM Arena naming rights."
+  },
+  {
+    "id": "fifa-adidas",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "adidas",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Partners (adidas page)",
+      "date": "2026-01-12",
+      "url": "https://inside.fifa.com/tournament-organisation/partners/adidas"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-adi-predictstreet",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "adi-predictstreet",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - ADI Predictstreet named official prediction market partner of the FIFA World Cup 2026",
+      "date": "2026-04-02",
+      "url": "https://inside.fifa.com/tournament-organisation/commercial/news/adi-predictstreet-official-prediction-market-partner-fifa-world-cup-2026"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-aramco",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "aramco",
+    "placement": "league-partner",
+    "from": "2024",
+    "to": "2027",
+    "value": null,
+    "source": {
+      "name": "FIFA - Aramco and FIFA announce global partnership",
+      "date": "2024-04-25",
+      "url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/aramco-and-fifa-announce-global-partnership"
+    },
+    "leagueId": "fifa",
+    "note": "Major Worldwide Partner, exclusive energy category; runs to end 2027."
+  },
+  {
+    "id": "fifa-coca-cola",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "coca-cola",
+    "placement": "league-partner",
+    "from": null,
+    "to": "2030",
+    "value": null,
+    "source": {
+      "name": "FIFA - Partners (Coca-Cola page)",
+      "date": "2023-11-01",
+      "url": "https://inside.fifa.com/tournament-organisation/partners/coca-cola"
+    },
+    "leagueId": "fifa",
+    "note": "Partnership through 2030."
+  },
+  {
+    "id": "fifa-hyundai-kia",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "hyundai-kia",
+    "placement": "league-partner",
+    "from": "2023",
+    "to": "2030",
+    "value": null,
+    "source": {
+      "name": "FIFA - Hyundai and Kia renew FIFA partnerships until 2030",
+      "date": "2023-05-25",
+      "url": "https://inside.fifa.com/about-fifa/commercial/media-releases/hyundai-and-kia-renew-fifa-partnerships-until-2030"
+    },
+    "leagueId": "fifa",
+    "note": "Official mobility partners; Boston Dynamics and Supernal included."
+  },
+  {
+    "id": "fifa-lenovo",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "lenovo",
+    "placement": "league-partner",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Lenovo named Official FIFA Technology Partner",
+      "date": "2024-10-15",
+      "url": "https://inside.fifa.com/about-fifa/commercial/media-releases/lenovo-named-official-fifa-technology-partner"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-qatar-airways",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "qatar-airways",
+    "placement": "league-partner",
+    "from": "2023",
+    "to": "2030",
+    "value": null,
+    "source": {
+      "name": "FIFA - FIFA renews longstanding partnership with Qatar Airways, extending through to 2030",
+      "date": "2023-11-22",
+      "url": "https://inside.fifa.com/media-releases/fifa-renews-longstanding-partnership-with-qatar-airways-extending-through-to-2030"
+    },
+    "leagueId": "fifa",
+    "note": "Global Airline Partner, top-tier FIFA Partner since 2017."
+  },
+  {
+    "id": "fifa-visa",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "visa",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Partners (Visa page)",
+      "date": "2025-02-17",
+      "url": "https://inside.fifa.com/tournament-organisation/partners/visa"
+    },
+    "leagueId": "fifa",
+    "note": "Official Payment Technology Partner; page text still says 'through 2022' but Visa is listed as a current partner."
+  },
+  {
+    "id": "fifa-pif",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "pif",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - PIF named as Official Tournament Supporter of FIFA World Cup 2026",
+      "date": "2026-05-14",
+      "url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/origin1904-p.cxm.fifa.com/pif-official-tournament-supporter-world-cup-2026"
+    },
+    "leagueId": "fifa",
+    "note": "North America and Asia regions."
+  },
+  {
+    "id": "fifa-mengniu",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "mengniu",
+    "placement": "league-partner",
+    "from": "2023",
+    "to": "2030",
+    "value": null,
+    "source": {
+      "name": "FIFA - Mengniu extends FIFA Women's World Cup and FIFA World Cup sponsorship until 2030",
+      "date": "2023-08-04",
+      "url": "https://inside.fifa.com/about-fifa/commercial/media-releases/origin1904-p.cxm.fifa.com/mengniu-extends-fifa-womens-world-cup-tm-and-fifa-world-cup-tm-sponsorship"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-hisense",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "hisense",
+    "placement": "league-partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Hisense continues long-standing partnership with FIFA by becoming FIFA World Cup 26 Sponsor",
+      "date": "2025-09-05",
+      "url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/origin1904-p.cxm.fifa.com/hisense-continues-long-standing-partnership-world-cup-26-sponsor"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-ab-inbev",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "ab-inbev",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - FIFA announces AB InBev as official beer sponsor of FIFA Women's World Cup 2023 and FIFA World Cup 2026",
+      "date": "2023",
+      "url": null
+    },
+    "leagueId": "fifa",
+    "note": "URL from the FIFA sponsors list; not re-opened."
+  },
+  {
+    "id": "fifa-bank-of-america",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "bank-of-america",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - FIFA announces Bank of America as Official Bank Sponsor of FIFA World Cup 26",
+      "date": "2024-08-15",
+      "url": "https://inside.fifa.com/about-fifa/commercial/media-releases/fifa-announces-bank-of-america-as-official-bank-sponsor-of-fifa-world-cup-26"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-frito-lay",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "frito-lay",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Lay's named Official Sponsor of FIFA World Cup 26 and FIFA Women's World Cup 2027",
+      "date": "2024-09-12",
+      "url": "https://inside.fifa.com/about-fifa/commercial/media-releases/lays-named-official-sponsor-of-fifa-world-cup-26-tm-and-fifa-womens-world-cup-2027"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-mcdonalds",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "mcdonalds",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - FIFA and McDonald's renew long-standing partnership",
+      "date": "2023",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-unilever",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "unilever",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Unilever personal care brands unveiled as Official Sponsors of FIFA Women's World Cup 2023",
+      "date": "2023-05-12",
+      "url": "https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023/articles/unilever-personal-care-brands-official-sponsors-of-fifa-womens-world-cup-2023"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-verizon",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "verizon",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Verizon named Official Telecommunication Services Sponsor for FIFA World Cup 26",
+      "date": "2024-09-24",
+      "url": "https://inside.fifa.com/tournaments/mens/worldcup/canadamexicousa2026/media-releases/verizon-named-official-telecommunication-services-sponsor-for-fifa-world-cup"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-doordash",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "doordash",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - DoorDash named Official Tournament Supporter of the FIFA World Cup 2026 and FIFA Women's World Cup 2027",
+      "date": "2025-11-18",
+      "url": "https://inside.fifa.com/tournament-organisation/commercial/news/doordash-tournament-supporter-world-cup-2026-womens-2027"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-marriott-bonvoy",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "marriott-bonvoy",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Marriott Bonvoy to provide unmatched fan access to FIFA World Cup 2026",
+      "date": "2025-01-06",
+      "url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/marriott-bonvoy-unmatched-fan-access-world-cup-2026-hotel-supporter"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-rock-it-cargo",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "rock-it-cargo",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - FIFA announces multi-year agreement with Rock-it Cargo as Official Logistics Provider of FIFA World Cup 26",
+      "date": "2024",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-valvoline",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "valvoline",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Valvoline Global confirmed as Official FIFA World Cup 26 Supporter",
+      "date": "2025",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-home-depot",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "home-depot",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - FIFA welcomes The Home Depot as Official Home Improvement Retail Supporter for FIFA World Cup 26 in North America",
+      "date": "2024",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-airbnb",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "airbnb",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Airbnb and FIFA announce major multi-tournament partnership",
+      "date": "2025-06-12",
+      "url": "https://inside.fifa.com/tournament-organisation/commercial/media-releases/origin1904-p.cxm.fifa.com/airbnb-and-fifa-announce-major-multi-tournament-partnership"
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-american-airlines",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "american-airlines",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - American Airlines joins as Official North American Airline Supplier of FIFA World Cup 26",
+      "date": "2024",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-diageo",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "diageo",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Diageo named Official Spirits Supporter in North, Central and South America for FIFA World Cup 26",
+      "date": "2025",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-expressvpn",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "expressvpn",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "ExpressVPN - ExpressVPN Named Official Supporter of FIFA World Cup 2026",
+      "date": "2026",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-globant",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "globant",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - FIFA and Globant sign expanded partnership to deliver innovative digital services",
+      "date": "2025-11-25",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-kraken",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "kraken",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - FIFA announces Kraken as Official Crypto Exchange Supporter of the FIFA World Cup 2026",
+      "date": "2026",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-salesforce",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "salesforce",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - FIFA announces Salesforce as Official Tournament Supporter of FIFA World Cup 2026 and FIFA Women's World Cup 2027",
+      "date": "2026",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-betano",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "betano",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA - Betano unveiled as Tournament Supporter of FIFA World Cup 2026 for Europe and South America",
+      "date": "2026",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-pepsi",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "pepsi",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA sponsors list (North American regional supporter)",
+      "date": "2026",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-grupo-caliente",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "grupo-caliente",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "FIFA sponsors list (North American regional supporter)",
+      "date": "2026",
+      "url": null
+    },
+    "leagueId": "fifa"
+  },
+  {
+    "id": "fifa-dazn",
+    "clubId": null,
+    "orgName": "FIFA",
+    "sponsorId": "dazn",
+    "placement": "league-partner",
+    "from": "2025",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro - Saudi Arabia's SURJ takes 'US$1bn' stake in DAZN",
+      "date": "2025-02-17",
+      "url": "https://www.sportspro.com/news/dazn-saudi-arabia-pif-surj-sports-investment-february-2025/"
+    },
+    "leagueId": "fifa",
+    "note": "DAZN bought the global broadcast rights to the FIFA Club World Cup 2025 for a reported US$1bn; broadcaster rather than sponsor."
+  },
+  {
+    "id": "laliga-partner-ea-sports",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "ea-sports",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Title Partner"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-puma",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "puma",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Ball"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-mahou-san-miguel",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "mahou-san-miguel",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Beer"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-riyadh-season",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "riyadh-season",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Partner"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-duracell",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "duracell",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Partner of Added Time"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-sorare",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "sorare",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Global Licensee"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-panini",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "panini",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Global Licensee"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-moeve",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "moeve",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Partner"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-volkswagen",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "volkswagen",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Car"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-uber-eats",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "uber-eats",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Delivery Official"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-mondelez",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "mondelez",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Flavor"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-airbnb",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "airbnb",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official platform rental reservations"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-luckia",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "luckia",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Partner"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-el-corte-ingles",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "el-corte-ingles",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Retailer"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-haier",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "haier",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Partner"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-solan-de-cabras",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "solan-de-cabras",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Water"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-oshee",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "oshee",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Partner"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-bkt",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "bkt",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Official Tire"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-microsoft",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "microsoft",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Technology Partner"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-avery-dennison",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "avery-dennison",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Global Licensee"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "laliga-partner-legends",
+    "clubId": null,
+    "orgName": "LaLiga",
+    "sponsorId": "legends",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "Legends experience"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "athletic-club-kutxabank",
+    "clubId": "athletic-club",
+    "orgName": null,
+    "sponsorId": "kutxabank",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "atletico-de-madrid-riyadh-air",
+    "clubId": "atletico-de-madrid",
+    "orgName": null,
+    "sponsorId": "riyadh-air",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "sevilla-fundacion-1890",
+    "clubId": "sevilla",
+    "orgName": null,
+    "sponsorId": "fundacion-1890",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 La Liga sponsors",
+      "date": "2026-09-06",
+      "url": "https://www.scoreandchange.com/la-liga-sponsors/",
+      "note": "club charity Fundacion 1890, announced for the start of the season"
+    },
+    "leagueId": "la-liga"
+  },
+  {
+    "id": "ligue-1-mcdonalds-title",
+    "clubId": null,
+    "orgName": "Ligue 1 McDonald's",
+    "sponsorId": "mcdonalds",
+    "placement": "league-partner",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "leagueId": "ligue-1",
+    "source": {
+      "name": "Ligue 1 McDonald's / LFP official site",
+      "date": "2026",
+      "url": "https://ligue1.com/"
+    },
+    "note": "Title sponsorship of Ligue 1; the competition is branded Ligue 1 McDonald's."
+  },
+  {
+    "id": "psg-qatar-airways-front",
+    "clubId": "paris-saint-germain",
+    "orgName": null,
+    "sponsorId": "qatar-airways",
+    "placement": "front",
+    "from": "2022",
+    "to": "2028",
+    "value": {
+      "amount": 60,
+      "currency": "EUR",
+      "unit": "m",
+      "per": "year",
+      "upTo": true,
+      "usdApprox": 70
+    },
+    "source": {
+      "name": "SportsPro, 'PSG renew Qatar Airways shirt sponsorship on same terms'",
+      "date": "2025-01-27",
+      "url": "https://www.sportspro.com/news/psg-qatar-airways-shirt-sponsor-contract-extension-2028-january-2025/"
+    },
+    "note": "Reported €60–70m a season (Le Parisien, via SportsPro); playing, training and warm-up kits. Sponsor and club owner both Qatari state-linked."
+  },
+  {
+    "id": "lyon-emirates-front",
+    "clubId": "olympique-lyonnais",
+    "orgName": null,
+    "sponsorId": "emirates",
+    "placement": "front",
+    "from": "2020",
+    "to": "2030",
+    "value": null,
+    "source": {
+      "name": "Emirates, 'Emirates renews partnership with Olympique Lyonnais until 2030'",
+      "date": "2025-04-25",
+      "url": "https://www.emirates.com/media-centre/emirates-renews-partnership-with-olympique-lyonnais-until-2030/"
+    },
+    "note": "Shirt sponsor and Groupama Stadium branding; deal runs to 30 June 2030."
+  },
+  {
+    "id": "troyes-etihad-major",
+    "clubId": "es-troyes-ac",
+    "orgName": null,
+    "sponsorId": "etihad-airways",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "ESTAC Troyes, 'Etihad élargit son engagement et devient Partenaire Majeur de l'ESTAC'",
+      "date": "2026-07-23",
+      "url": "https://www.estac.fr/etihad-elargit-son-engagement-et-devient-partenaire-majeur-de-lestac/"
+    },
+    "note": "'Partenaire Majeur' from 2026-27."
+  },
+  {
+    "id": "paris-fc-bahrain-front",
+    "clubId": "paris-fc",
+    "orgName": null,
+    "sponsorId": "bahrain-victorious",
+    "placement": "front",
+    "from": "2020",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "The Daily Tribune (Bahrain), 'Victorious Bahrain goes European: Shaikh Nasser visits Paris FC'",
+      "date": "2026-02-08",
+      "url": "https://www.newsofbahrain.com/sports/126544.html"
+    },
+    "note": "Paris FC compete 'under the banner of Victorious Bahrain'; Bahrain took a 20% stake in 2020."
+  },
+  {
+    "id": "om-cma-cgm-front",
+    "clubId": "olympique-de-marseille",
+    "orgName": null,
+    "sponsorId": "cma-cgm",
+    "placement": "front",
+    "from": "2023",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Olympique de Marseille — Nos partenaires (CMA CGM 'partenaire principal ... présent sur la face avant des maillots')",
+      "date": "2026",
+      "url": "https://www.om.fr/fr/partenaires"
+    },
+    "note": "Main partner since 2023, logo on the front of the shirts."
+  },
+  {
+    "id": "monaco-rdc-sleeve",
+    "clubId": "as-monaco",
+    "orgName": null,
+    "sponsorId": "rd-congo-coeur-d-afrique",
+    "placement": "sleeve",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "AS Monaco — Les partenaires ('le logo R.D.Congo sera présent sur la manche du maillot')",
+      "date": "2026",
+      "url": "https://www.asmonaco.com/fr/les-partenaires-de-l-as-monaco"
+    },
+    "note": "DR Congo state brand on the sleeve of the professional team."
+  },
+  {
+    "id": "om-sublime-sleeve",
+    "clubId": "olympique-de-marseille",
+    "orgName": null,
+    "sponsorId": "sublime-cote-divoire",
+    "placement": "sleeve",
+    "from": "2024",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Olympique de Marseille — Nos partenaires (Sublime Côte d'Ivoire, Ministère du Tourisme de Côte d'Ivoire)",
+      "date": "2026",
+      "url": "https://www.om.fr/fr/partenaires"
+    },
+    "note": "With the Côte d'Ivoire Ministry of Tourism."
+  },
+  {
+    "id": "afc-bournemouth-vitality",
+    "clubId": "afc-bournemouth",
+    "orgName": null,
+    "sponsorId": "vitality",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    },
+    "note": "Front moved from the club's existing partner after the betting ban."
+  },
+  {
+    "id": "brentford-indeed",
+    "clubId": "brentford",
+    "orgName": null,
+    "sponsorId": "indeed",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    },
+    "note": "Existing partner expanded to the front after the betting ban."
+  },
+  {
+    "id": "coventry-city-monzo",
+    "clubId": "coventry-city",
+    "orgName": null,
+    "sponsorId": "monzo",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    },
+    "note": "Promoted club, continues a non-gambling front."
+  },
+  {
+    "id": "crystal-palace-temporal",
+    "clubId": "crystal-palace",
+    "orgName": null,
+    "sponsorId": "temporal",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro, Crystal Palace partner with AI-sector shirt sponsor after betting ban",
+      "date": "2026-07",
+      "url": "https://www.sportspro.com/news/sponsorship-marketing/crystal-palace-ai-sector-shirt-sponsor-betting-ban/"
+    }
+  },
+  {
+    "id": "everton-cmc-markets",
+    "clubId": "everton",
+    "orgName": null,
+    "sponsorId": "cmc-markets",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    }
+  },
+  {
+    "id": "fulham-clickhouse",
+    "clubId": "fulham",
+    "orgName": null,
+    "sponsorId": "clickhouse",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro, The business of the 2026/27 Premier League season",
+      "date": "2026-08-19",
+      "url": "https://www.sportspro.com/analysis/finance-investment/premier-league-2026-27-season-tv-rights-sponsors-finances-valuations/"
+    }
+  },
+  {
+    "id": "liverpool-standard-chartered",
+    "clubId": "liverpool",
+    "orgName": null,
+    "sponsorId": "standard-chartered",
+    "placement": "front",
+    "from": null,
+    "to": "2026-27",
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    },
+    "note": "Last season of the deal; Turkish Airlines takes over from 1 June 2027."
+  },
+  {
+    "id": "nottingham-forest-marex",
+    "clubId": "nottingham-forest",
+    "orgName": null,
+    "sponsorId": "marex",
+    "placement": "front",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    }
+  },
+  {
+    "id": "tottenham-hotspur-aia",
+    "clubId": "tottenham-hotspur",
+    "orgName": null,
+    "sponsorId": "aia",
+    "placement": "front",
+    "from": null,
+    "to": "2026-27",
+    "value": null,
+    "source": {
+      "name": "Score and Change, Overview of the 2026/2027 Premier League sponsors",
+      "date": "2026-09-17",
+      "url": "https://www.scoreandchange.com/overview-of-the-2026-2027-premier-league-sponsors/"
+    },
+    "note": "Current deal runs out after 2026/27."
+  },
+  {
+    "id": "premier-league-ea-sports",
+    "clubId": null,
+    "orgName": "EA Sports",
+    "sponsorId": "ea-sports",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Lead Partner"
+  },
+  {
+    "id": "premier-league-adobe",
+    "clubId": null,
+    "orgName": "Adobe",
+    "sponsorId": "adobe",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Creativity Partner"
+  },
+  {
+    "id": "premier-league-barclays",
+    "clubId": null,
+    "orgName": "Barclays",
+    "sponsorId": "barclays",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Bank"
+  },
+  {
+    "id": "premier-league-coca-cola",
+    "clubId": null,
+    "orgName": "Coca-Cola",
+    "sponsorId": "coca-cola",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Soft Drink"
+  },
+  {
+    "id": "premier-league-guinness",
+    "clubId": null,
+    "orgName": "Guinness",
+    "sponsorId": "guinness",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Beer"
+  },
+  {
+    "id": "premier-league-microsoft",
+    "clubId": null,
+    "orgName": "Microsoft",
+    "sponsorId": "microsoft",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Cloud and AI Partner"
+  },
+  {
+    "id": "premier-league-puma",
+    "clubId": null,
+    "orgName": "PUMA",
+    "sponsorId": "puma",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Ball"
+  },
+  {
+    "id": "premier-league-avery-dennison",
+    "clubId": null,
+    "orgName": "Avery Dennison",
+    "sponsorId": "avery-dennison",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Licensee"
+  },
+  {
+    "id": "premier-league-football-manager",
+    "clubId": null,
+    "orgName": "Football Manager",
+    "sponsorId": "football-manager",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Licensee"
+  },
+  {
+    "id": "premier-league-rezzil",
+    "clubId": null,
+    "orgName": "Rezzil",
+    "sponsorId": "rezzil",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Licensee"
+  },
+  {
+    "id": "premier-league-topps",
+    "clubId": null,
+    "orgName": "Topps",
+    "sponsorId": "topps",
+    "placement": "league-partner",
+    "from": "2026-27",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Premier League, official commercial partners and licensees",
+      "date": "2026-09-24",
+      "url": "https://www.premierleague.com/en/about/partners"
+    },
+    "note": "Premier League Official Licensee"
+  },
+  {
+    "id": "saudi-pro-league-roshn",
+    "clubId": null,
+    "orgName": "Roshn Saudi League",
+    "sponsorId": "roshn",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "ROSHN – ROSHN Saudi League sponsorship",
+      "date": "2026-09-24",
+      "url": "https://www.roshn.sa/sponsorships/roshn-saudi-league",
+      "note": "ROSHN (a PIF company) names the league. No contract term shown."
+    },
+    "leagueId": "saudi-pro-league",
+    "note": "League-wide partner, attached to no single club."
+  },
+  {
+    "id": "saudi-pro-league-saudia",
+    "clubId": null,
+    "orgName": "Roshn Saudi League",
+    "sponsorId": "saudia",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Inside World Football – Saudi Pro League adds national airline Saudia",
+      "date": "2025-10-20",
+      "url": "https://www.insideworldfootball.com/2025/10/20/saudi-pro-league-adds-another-pif-owned-sponsor-national-airline-saudia/"
+    },
+    "leagueId": "saudi-pro-league",
+    "note": "League-wide partner, attached to no single club."
+  },
+  {
+    "id": "saudi-pro-league-maaden",
+    "clubId": null,
+    "orgName": "Roshn Saudi League",
+    "sponsorId": "maaden",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Saudi Pro League official site – partner strip",
+      "date": "2026-09-24",
+      "url": "https://www.spl.com.sa/en",
+      "note": "Ma'aden logo in the league's partner strip."
+    },
+    "leagueId": "saudi-pro-league",
+    "note": "League-wide partner, attached to no single club."
+  },
+  {
+    "id": "saudi-pro-league-bsf",
+    "clubId": null,
+    "orgName": "Roshn Saudi League",
+    "sponsorId": "banque-saudi-fransi",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Saudi Pro League official site – partner strip / BSF Goal of the Week",
+      "date": "2026-09-24",
+      "url": "https://www.spl.com.sa/en"
+    },
+    "leagueId": "saudi-pro-league",
+    "note": "League-wide partner, attached to no single club."
+  },
+  {
+    "id": "saudi-pro-league-ea-sports",
+    "clubId": null,
+    "orgName": "Roshn Saudi League",
+    "sponsorId": "ea-sports",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Saudi Pro League official site – partner strip",
+      "date": "2026-09-24",
+      "url": "https://www.spl.com.sa/en"
+    },
+    "leagueId": "saudi-pro-league",
+    "note": "League-wide partner, attached to no single club."
+  },
+  {
+    "id": "saudi-pro-league-sun-cola",
+    "clubId": null,
+    "orgName": "Roshn Saudi League",
+    "sponsorId": "sun-cola",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Saudi Pro League official site – partner strip",
+      "date": "2026-09-24",
+      "url": "https://www.spl.com.sa/en"
+    },
+    "leagueId": "saudi-pro-league",
+    "note": "League-wide partner, attached to no single club."
+  },
+  {
+    "id": "saudi-pro-league-address-coffee",
+    "clubId": null,
+    "orgName": "Roshn Saudi League",
+    "sponsorId": "address-coffee",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Saudi Pro League official site – partner strip",
+      "date": "2026-09-24",
+      "url": "https://www.spl.com.sa/en"
+    },
+    "leagueId": "saudi-pro-league",
+    "note": "League-wide partner, attached to no single club."
+  },
+  {
+    "id": "saudi-pro-league-bcare",
+    "clubId": null,
+    "orgName": "Roshn Saudi League",
+    "sponsorId": "bcare",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Saudi Pro League official site – partner strip",
+      "date": "2026-09-24",
+      "url": "https://www.spl.com.sa/en"
+    },
+    "leagueId": "saudi-pro-league",
+    "note": "League-wide partner, attached to no single club."
+  },
+  {
+    "id": "saudi-pro-league-baja",
+    "clubId": null,
+    "orgName": "Roshn Saudi League",
+    "sponsorId": "baja",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Saudi Pro League official site – partner strip",
+      "date": "2026-09-24",
+      "url": "https://www.spl.com.sa/en"
+    },
+    "leagueId": "saudi-pro-league",
+    "note": "League-wide partner, attached to no single club."
+  },
+  {
+    "id": "al-hilal-kingdom-holding",
+    "clubId": "al-hilal",
+    "orgName": null,
+    "sponsorId": "kingdom-holding",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Inside World Football – PIF sells stake in Al-Hilal to Kingdom Holding",
+      "date": "2026-09-02",
+      "url": "https://www.insideworldfootball.com/2026/09/02/pif-sells-224m-stake-in-al-hilal-to-kingdom-holding",
+      "note": "Kingdom Holding completed the SAR840m purchase of 70% of Al-Hilal on 1 Sep 2026."
+    },
+    "note": "Club owner (or part-owner)."
+  },
+  {
+    "id": "al-hilal-pif",
+    "clubId": "al-hilal",
+    "orgName": null,
+    "sponsorId": "pif",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "Inside World Football – PIF sells stake in Al-Hilal to Kingdom Holding",
+      "date": "2026-09-02",
+      "url": "https://www.insideworldfootball.com/2026/09/02/pif-sells-224m-stake-in-al-hilal-to-kingdom-holding",
+      "note": "PIF retains 30% of Al-Hilal after the sale."
+    },
+    "note": "Club owner (or part-owner)."
+  },
+  {
+    "id": "al-nassr-pif",
+    "clubId": "al-nassr",
+    "orgName": null,
+    "sponsorId": "pif",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+      "date": "2023-06-06",
+      "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+      "note": "PIF took 75% in 2023; reported to be absorbing the remaining foundation stakes in 2026."
+    },
+    "note": "Club owner (or part-owner)."
+  },
+  {
+    "id": "al-ittihad-pif",
+    "clubId": "al-ittihad",
+    "orgName": null,
+    "sponsorId": "pif",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+      "date": "2023-06-06",
+      "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+      "note": "PIF took 75% in 2023."
+    },
+    "note": "Club owner (or part-owner)."
+  },
+  {
+    "id": "al-ahli-pif",
+    "clubId": "al-ahli",
+    "orgName": null,
+    "sponsorId": "pif",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+      "date": "2023-06-06",
+      "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+      "note": "PIF took 75% in 2023."
+    },
+    "note": "Club owner (or part-owner)."
+  },
+  {
+    "id": "al-qadsiah-aramco",
+    "clubId": "al-qadsiah",
+    "orgName": null,
+    "sponsorId": "aramco",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+      "date": "2023-06-06",
+      "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+      "note": "Aramco took over Al-Qadsiah."
+    },
+    "note": "Club owner (or part-owner)."
+  },
+  {
+    "id": "neom-neom",
+    "clubId": "neom",
+    "orgName": null,
+    "sponsorId": "neom",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+      "date": "2023-06-06",
+      "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+      "note": "NEOM took over Al-Suqoor (now NEOM SC)."
+    },
+    "note": "Club owner (or part-owner)."
+  },
+  {
+    "id": "diriyah-dgda",
+    "clubId": "diriyah",
+    "orgName": null,
+    "sponsorId": "diriyah-gate-development-authority",
+    "placement": "partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "SportsPro – PIF takes ownership of four Saudi Pro League clubs",
+      "date": "2023-06-06",
+      "url": "https://www.sportspro.com/news/saudi-pro-league-pif-al-nassr-hilal-ittihad-ahli-takeover-privatisation-aramco-neom/",
+      "note": "Diriyah Gate invested in Diriyah Club."
+    },
+    "note": "Club owner (or part-owner)."
+  },
+  {
+    "id": "uci-worldtour-shimano",
+    "clubId": null,
+    "orgName": "UCI WorldTour",
+    "sponsorId": "shimano",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UCI — Allocation of the 14 UCI Women's WorldTour licences and 18 UCI WorldTour licences for the 2026-2028 period",
+      "date": "unknown",
+      "url": "https://www.uci.org/pressrelease/allocation-of-the-14-uci-womens-worldtour-licences-and-18-uci-worldtour/6QRootu0WfaZVcXXJVQerE"
+    },
+    "leagueId": "uci-worldtour"
+  },
+  {
+    "id": "uci-worldtour-tissot",
+    "clubId": null,
+    "orgName": "UCI WorldTour",
+    "sponsorId": "tissot",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UCI — Allocation of the 14 UCI Women's WorldTour licences and 18 UCI WorldTour licences for the 2026-2028 period",
+      "date": "unknown",
+      "url": "https://www.uci.org/pressrelease/allocation-of-the-14-uci-womens-worldtour-licences-and-18-uci-worldtour/6QRootu0WfaZVcXXJVQerE"
+    },
+    "leagueId": "uci-worldtour"
+  },
+  {
+    "id": "uci-worldtour-santini",
+    "clubId": null,
+    "orgName": "UCI WorldTour",
+    "sponsorId": "santini",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UCI — Allocation of the 14 UCI Women's WorldTour licences and 18 UCI WorldTour licences for the 2026-2028 period",
+      "date": "unknown",
+      "url": "https://www.uci.org/pressrelease/allocation-of-the-14-uci-womens-worldtour-licences-and-18-uci-worldtour/6QRootu0WfaZVcXXJVQerE"
+    },
+    "leagueId": "uci-worldtour"
+  },
+  {
+    "id": "uefa-qatar-airways-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "qatar-airways",
+    "placement": "league-partner",
+    "from": "2024-09",
+    "to": "2030",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2024-09-19",
+      "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+    },
+    "leagueId": "uefa",
+    "note": "Official airline partner. Also covers the UEFA Super Cup, UEFA Youth League and UEFA Futsal Champions League, and rights include in-game perimeter LED boards, interview backdrops and broadcast sponsorship. Replaced Turkish Airlines. Reported at about EUR 500m over six years (SportBusiness, search result not fetched)."
+  },
+  {
+    "id": "uefa-hyundai-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "hyundai-kia",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": "2031",
+    "value": null,
+    "source": {
+      "name": "SportsPro",
+      "date": "2026-09-08",
+      "url": "https://www.sportspro.com/sponsorship-marketing/uefa-champions-league-sponsorship-just-eat-hyundai-haier-september-2026/"
+    },
+    "leagueId": "uefa",
+    "note": "Official automotive partner. Replaces Just Eat one year early. SportsPro headline says four years while the article body says five years running to 2031 - the length disagrees between sources."
+  },
+  {
+    "id": "uefa-haier-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "haier",
+    "placement": "league-partner",
+    "from": "2027-28",
+    "to": "2030-31",
+    "value": null,
+    "source": {
+      "name": "PR Newswire (Haier)",
+      "date": "2026-09-04",
+      "url": "https://www.prnewswire.com/news-releases/haier-announces-global-partnership-with-uefa-champions-league-302869814.html"
+    },
+    "leagueId": "uefa",
+    "note": "Global Partner from the 2027/28 season via UC3; also covers the UEFA Super Cup, UEFA Youth League Finals and UEFA Futsal Champions League Finals. Exclusive worldwide rights in home appliances, televisions and commercial display screens."
+  },
+  {
+    "id": "uefa-strauss-refereeing",
+    "clubId": null,
+    "orgName": "UEFA refereeing (all competitions)",
+    "sponsorId": "strauss",
+    "placement": "league-partner",
+    "from": "2026-09",
+    "to": "2029",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-09-04",
+      "url": "https://www.uefa.com/news-media/news/02a9-21828b4cd787-b50cab064e71-1000--uefa-and-strauss-partner-to-elevate-refereeing-across-eu/"
+    },
+    "leagueId": "uefa",
+    "note": "First-ever official partner of UEFA refereeing, a three-year deal. Logo on UEFA referee match and training kit, on VAR monitors and in the Video Operations Room."
+  },
+  {
+    "id": "uefa-bet365-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "bet365",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2024-09-19",
+      "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-crypto-com-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "crypto-com",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2024-09-19",
+      "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-fedex-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "fedex",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2024-09-19",
+      "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-heineken-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "heineken",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2024-09-19",
+      "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-just-eat-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "just-eat",
+    "placement": "league-partner",
+    "from": null,
+    "to": "2026",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2024-09-19",
+      "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+    },
+    "leagueId": "uefa",
+    "note": "Listed as a UCL sponsor in UEFA's September 2024 announcement; exited one year early, citing changing priorities (SportsPro, 2026-09-08)."
+  },
+  {
+    "id": "uefa-mastercard-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "mastercard",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2024-09-19",
+      "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-pepsi-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "pepsi",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2024-09-19",
+      "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-playstation-ucl",
+    "clubId": null,
+    "orgName": "UEFA Champions League",
+    "sponsorId": "playstation",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2024-09-19",
+      "url": "https://www.uefa.com/news-media/news/0291-1be4662a44e0-b6385c6139f8-1000--qatar-airways-becomes-official-airline-partner-of-the-uefa-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-lidl-uel-uecl",
+    "clubId": null,
+    "orgName": "UEFA Europa League and UEFA Conference League",
+    "sponsorId": "lidl",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-03-17",
+      "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+    },
+    "leagueId": "uefa",
+    "note": "Lidl has been an official partner of both competitions since 2024 (stated in UEFA's Schwarz Group announcement)."
+  },
+  {
+    "id": "uefa-lidl-mens-nt",
+    "clubId": null,
+    "orgName": "UEFA men's national team competitions",
+    "sponsorId": "lidl",
+    "placement": "league-partner",
+    "from": "2026",
+    "to": "2030",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-03-17",
+      "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+    },
+    "leagueId": "uefa",
+    "note": "Lidl becomes a sponsor of UEFA men's national team competitions until 2030, building on its women's national team and club-competition deals; includes UEFA EURO 2028."
+  },
+  {
+    "id": "uefa-prezero",
+    "clubId": null,
+    "orgName": "UEFA",
+    "sponsorId": "prezero",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-03-17",
+      "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+    },
+    "leagueId": "uefa",
+    "note": "PreZero (Schwarz Group) supports UEFA's circular-economy work across competitions, stadiums and operations as part of UEFA's first strategic corporate partnership."
+  },
+  {
+    "id": "uefa-euronics-uwcl",
+    "clubId": null,
+    "orgName": "UEFA Women's Champions League",
+    "sponsorId": "euronics",
+    "placement": "league-partner",
+    "from": "2025-12",
+    "to": "2029",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2025-12-17",
+      "url": "https://www.uefa.com/news-media/news/02a0-1f75c472f4d9-77c69b2201ef-1000--uefa-and-euronics-group-sign-uefa-women-s-champions-league/"
+    },
+    "leagueId": "uefa",
+    "note": "Official partner of the UEFA Women's Champions League for three seasons; also a partner of UEFA Women's EURO 2029."
+  },
+  {
+    "id": "uefa-adidas-uwcl",
+    "clubId": null,
+    "orgName": "UEFA Women's Champions League",
+    "sponsorId": "adidas",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2025-12-17",
+      "url": "https://www.uefa.com/news-media/news/02a0-1f75c472f4d9-77c69b2201ef-1000--uefa-and-euronics-group-sign-uefa-women-s-champions-league/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-amazon-uwcl",
+    "clubId": null,
+    "orgName": "UEFA Women's Champions League",
+    "sponsorId": "amazon",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2025-12-17",
+      "url": "https://www.uefa.com/news-media/news/02a0-1f75c472f4d9-77c69b2201ef-1000--uefa-and-euronics-group-sign-uefa-women-s-champions-league/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-heineken-uwcl",
+    "clubId": null,
+    "orgName": "UEFA Women's Champions League",
+    "sponsorId": "heineken",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2025-12-17",
+      "url": "https://www.uefa.com/news-media/news/02a0-1f75c472f4d9-77c69b2201ef-1000--uefa-and-euronics-group-sign-uefa-women-s-champions-league/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-pepsi-uwcl",
+    "clubId": null,
+    "orgName": "UEFA Women's Champions League",
+    "sponsorId": "pepsi",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2025-12-17",
+      "url": "https://www.uefa.com/news-media/news/02a0-1f75c472f4d9-77c69b2201ef-1000--uefa-and-euronics-group-sign-uefa-women-s-champions-league/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-vodafone-uwcl",
+    "clubId": null,
+    "orgName": "UEFA Women's Champions League",
+    "sponsorId": "vodafone",
+    "placement": "league-partner",
+    "from": null,
+    "to": null,
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2025-12-17",
+      "url": "https://www.uefa.com/news-media/news/02a0-1f75c472f4d9-77c69b2201ef-1000--uefa-and-euronics-group-sign-uefa-women-s-champions-league/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-qatar-airways-euro-2028",
+    "clubId": null,
+    "orgName": "UEFA EURO 2028",
+    "sponsorId": "qatar-airways",
+    "placement": "league-partner",
+    "from": null,
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-03-17",
+      "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+    },
+    "leagueId": "uefa",
+    "note": "Named an official sponsor of UEFA EURO 2028 in UEFA's Schwarz Group announcement."
+  },
+  {
+    "id": "uefa-visit-qatar-euro-2028",
+    "clubId": null,
+    "orgName": "UEFA EURO 2028",
+    "sponsorId": "visit-qatar",
+    "placement": "league-partner",
+    "from": null,
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-03-17",
+      "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+    },
+    "leagueId": "uefa",
+    "note": "Named an official sponsor of UEFA EURO 2028."
+  },
+  {
+    "id": "uefa-adidas-euro-2028",
+    "clubId": null,
+    "orgName": "UEFA EURO 2028",
+    "sponsorId": "adidas",
+    "placement": "league-partner",
+    "from": null,
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-03-17",
+      "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-atos-euro-2028",
+    "clubId": null,
+    "orgName": "UEFA EURO 2028",
+    "sponsorId": "atos",
+    "placement": "league-partner",
+    "from": null,
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-03-17",
+      "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-carlsberg-euro-2028",
+    "clubId": null,
+    "orgName": "UEFA EURO 2028",
+    "sponsorId": "carlsberg",
+    "placement": "league-partner",
+    "from": null,
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-03-17",
+      "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-coca-cola-euro-2028",
+    "clubId": null,
+    "orgName": "UEFA EURO 2028",
+    "sponsorId": "coca-cola",
+    "placement": "league-partner",
+    "from": null,
+    "to": "2028",
+    "value": null,
+    "source": {
+      "name": "UEFA.com",
+      "date": "2026-03-17",
+      "url": "https://www.uefa.com/news-media/news/02a3-202a8f624e95-645f8d48f865-1000--uefa-announces-first-strategic-corporate-partnership-with-c/"
+    },
+    "leagueId": "uefa"
+  },
+  {
+    "id": "uefa-riyadh-air-2027-final",
+    "clubId": null,
+    "orgName": "UEFA Champions League 2027 final (Estadio Metropolitano, Madrid)",
+    "sponsorId": "riyadh-air",
+    "placement": "stadium",
+    "from": "2024-10",
+    "to": "2033",
+    "value": null,
+    "source": {
+      "name": "SportsPro",
+      "date": "2024-10-09",
+      "url": "https://www.sportspro.com/news/atletico-madrid-riyadh-air-stadium-naming-rights-metropolitano-laliga/"
+    },
+    "leagueId": "uefa",
+    "note": "Nine-year stadium naming-rights deal (Riyadh Air Metropolitano, worth a reported EUR 250-300m) that brands the 2027 UCL final venue. Indirect: UEFA uses the non-commercial name 'Estadio Metropolitano' and clean-venue rules hide naming rights during matches. The same company is Atletico de Madrid's front-of-shirt sponsor."
+  },
+  {
     "id": "atlanta-hawks-paze-patch",
     "clubId": "atlanta-hawks",
     "orgName": "Paze (Early Warning Services)",

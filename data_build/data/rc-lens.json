@@ -1,0 +1,133 @@
+{
+  "id": "rc-lens",
+  "team": "RC Lens",
+  "sport": "soccer",
+  "league": "ligue-1",
+  "country": "France",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "auchan",
+      "name": "Auchan",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "aushopping",
+      "name": "Aushopping",
+      "placement": "sleeve",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "groupe-lempereur",
+      "name": "Groupe Lempereur",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "mcdonalds",
+      "name": "McDonald's",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "molinel",
+      "name": "Molinel",
+      "placement": "shorts",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "murprotec",
+      "name": "Murprotec",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "nexans",
+      "name": "Nexans",
+      "placement": "front",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    },
+    {
+      "id": "winamax",
+      "name": "Winamax",
+      "placement": "back",
+      "season": "2026-27",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "RC Lens — Les partenaires du Racing",
+        "date": "2026",
+        "url": "https://www.rclens.fr/fr/club/partenaires"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}

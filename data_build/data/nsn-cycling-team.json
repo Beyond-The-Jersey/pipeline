@@ -1,0 +1,58 @@
+{
+  "id": "nsn-cycling-team",
+  "team": "NSN Cycling Team",
+  "sport": "cycling",
+  "league": "uci-worldtour",
+  "country": "Switzerland",
+  "contact": {},
+  "sponsors": [
+    {
+      "id": "nsn",
+      "name": "NSN (Never Say Never)",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "NSN Cycling Team — homepage / partner logos",
+        "date": "unknown",
+        "url": "https://nsncyclingteam.com/"
+      }
+    },
+    {
+      "id": "scott",
+      "name": "Scott",
+      "placement": "partner",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "NSN Cycling Team — homepage / partner logos",
+        "date": "unknown",
+        "url": "https://nsncyclingteam.com/"
+      }
+    },
+    {
+      "id": "stoneweg",
+      "name": "Stoneweg",
+      "placement": "front",
+      "season": "2026",
+      "tier": "unrated",
+      "ownerId": null,
+      "owner": null,
+      "verdict": null,
+      "source": {
+        "name": "NSN Cycling Team — homepage / partner logos",
+        "date": "unknown",
+        "url": "https://nsncyclingteam.com/"
+      }
+    }
+  ],
+  "worstTier": "unrated",
+  "owners": [],
+  "lastUpdated": "2026-09-24"
+}
