@@ -14,7 +14,7 @@ SRC = ["/tmp/ratings.json", "/tmp/ratings2.json",
        "/tmp/rate_batch_3_out.json",
        "/tmp/rate_us_1_out.json", "/tmp/rate_us_2_out.json",
        "/tmp/rate_us_3_out.json", "/tmp/rate_us_4_out.json",
-       "/tmp/rate_us_5_out.json", "/tmp/rate_us_6_out.json"]
+       "/tmp/rate_us_5_out.json", "/tmp/rate_us_6_out.json", "/tmp/rate_us_7_out.json"]
 OUT = "/tmp/data/ratings_data.py"
 
 # sponsorId -> ownership on the shirt's owner chain
@@ -27,6 +27,13 @@ PART_OWNED = {"turkish-airlines", "deutsche-telekom", "lbbw"}
 # Uralkali: no state stake, but the ultimate owner sits in a belligerent state
 # and was itself sanctioned -> concern.
 OVERRIDE = {
+    # an earlier pass rated this none and called the parent "privately held conglomerate";
+    # it shares the hyundai chain (HMC holds 35.17% of Kia) and the same NPS stake, so the
+    # two records disagreed on identical evidence. Set explicitly so order cannot win.
+    "kia-america": (
+        "concern",
+        "same chain as hyundai - Hyundai Motor Company holds 35.17% of Kia and the NPS 7.76% stake sits behind it",
+    ),
     "standard-chartered": (
         "concern",
         "Raised from none: the 2012 and 2019 forfeitures are a sustained structural "

@@ -181,6 +181,14 @@ for r in R.RATINGS + RES["ratings"]:
     if o["id"] not in owner_ids:
         owners.append(A._o(o["id"], o["name"], o["type"], o["country"]))
         owner_ids.add(o["id"])
+        oid[o["id"]] = owners[-1]
+    elif oid.get(o["id"], {}).get("type") == "unknown" and o.get("type"):
+        # an owner first created as a placeholder is type 'unknown' with a stubby name.
+        # The rating carries the researched name and type, so upgrade instead of discarding.
+        oid[o["id"]]["name"] = o["name"]
+        oid[o["id"]]["type"] = o["type"]
+        if o.get("country"):
+            oid[o["id"]]["country"] = o["country"]
     cid = o["id"] + "-record"
     if cid not in claim_ids:
         claims.append({
@@ -257,6 +265,15 @@ for dup, keep in OWNER_MERGE.items():
 if _merged:
     sponsors = list(sid.values())
     print("owners: merged duplicates:", "; ".join(_merged))
+
+# a couple of owners survive as stubs because the rating pass used a different owner id for
+# the same company; name and type them rather than leaving them 'unknown'
+OWNER_FIX = {
+    "jpmorgan-chase-owner": ("JPMorgan Chase & Co.", "listed-company", "USA"),
+}
+for _o in owners:
+    if _o["id"] in OWNER_FIX:
+        _o["name"], _o["type"], _o["country"] = OWNER_FIX[_o["id"]]
 
 
 for o in owners:
