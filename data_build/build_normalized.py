@@ -235,6 +235,7 @@ OWNER_MERGE = {
     "mercedes-benz-owner": "mercedes-benz-group",
     "u-s-bank-owner": "us-bank-owner",
     "jpmorgan-chase-chase-owner": "jpmorgan-chase-owner",
+    "intuit-intuit-inc-nasdaq-intu-owner": "intuit-owner",
 }
 _here = {o["id"] for o in owners}
 _merged = []
