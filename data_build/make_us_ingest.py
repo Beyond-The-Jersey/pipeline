@@ -60,7 +60,9 @@ def main():
                 org = (entry or {}).get("orgName")
                 if not org:
                     return None
-                hint = slug(entry.get("sponsorIdHint") or org)
+                # drop the parenthetical a child may have added ("SoFi (Social Finance, Inc.)")
+                bare = re.sub(r"\s*\(.*?\)", "", org).strip()
+                hint = slug(entry.get("sponsorIdHint") or bare)
                 # reuse the owner record whenever this company already has one under any id,
                 # so one company never lands twice (the owner check fires on exactly that)
                 if hint in existing_sp:

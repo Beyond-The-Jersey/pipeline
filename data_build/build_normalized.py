@@ -234,6 +234,7 @@ OWNER_MERGE = {
     "lucas-oil-owner": "lucas-oil-products-owner",
     "mercedes-benz-owner": "mercedes-benz-group",
     "u-s-bank-owner": "us-bank-owner",
+    "jpmorgan-chase-chase-owner": "jpmorgan-chase-owner",
 }
 _here = {o["id"] for o in owners}
 _merged = []
