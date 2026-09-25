@@ -6,6 +6,7 @@ record the exact URL each channel came from. Nothing is generated from the slug.
 import json
 import os
 import re
+from urllib.parse import urljoin
 import concurrent.futures as cf
 
 import requests
@@ -176,14 +177,87 @@ SITES = {
     "washington-nationals": ["https://www.mlb.com/nationals"],
 }
 
+# --- clubs added with Serie A, MLS and the 2026 F1 grid (sites curl-verified 200) ---
+SITES.update({
+    "ac-milan": "https://www.acmilan.com/it",
+    "alpine": "https://www.alpinef1.com",
+    "as-roma": "https://www.asroma.com/en",
+    "aston-martin": "https://www.astonmartinf1.com/en-GB",
+    "atalanta": "https://www.atalanta.it",
+    "atlanta-united": "https://www.atlutd.com",
+    "audi": "https://www.audif1.com/en",
+    "austin-fc": "https://www.austinfc.com",
+    "bologna": "https://www.bolognafc.it",
+    "cadillac": "https://www.cadillacf1team.com",
+    "cagliari": "https://cagliaricalcio.com",
+    "cf-montreal": "https://www.cfmontreal.com",
+    "charlotte-fc": "https://www.charlottefootballclub.com",
+    "chicago-fire": "https://www.chicagofirefc.com",
+    "colorado-rapids": "https://www.coloradorapids.com",
+    "columbus-crew": "https://www.columbuscrew.com",
+    "como": "https://www.comofootball.com",
+    "cremonese": "https://uscremonese.it",
+    "dc-united": "https://www.dcunited.com",
+    "fc-cincinnati": "https://www.fccincinnati.com",
+    "fc-dallas": "https://www.fcdallas.com",
+    "ferrari": "https://www.ferrari.com/en-EN/formula1",
+    "fiorentina": "https://www.acffiorentina.com",
+    "frosinone": "https://www.frosinonecalcio.com",
+    "genoa": "https://genoacfc.it",
+    "haas": "https://www.haasf1team.com",
+    "hellas-verona": "https://www.hellasverona.it",
+    "houston-dynamo": "https://www.houstondynamofc.com",
+    "inter-miami": "https://www.intermiamicf.com",
+    "inter-milan": "https://www.inter.it/it",
+    "juventus": "https://www.juventus.com/it",
+    "la-galaxy": "https://www.lagalaxy.com",
+    "lazio": "https://www.sslazio.it/it",
+    "lecce": "https://uslecce.it",
+    "los-angeles-fc": "https://www.lafc.com",
+    "mclaren": "https://www.mclaren.com/racing",
+    "mercedes": "https://www.mercedesamgf1.com",
+    "minnesota-united": "https://www.mnufc.com",
+    "monza": "https://www.acmonza.com",
+    "napoli": "https://sscnapoli.it",
+    "nashville-sc": "https://www.nashvillesc.com",
+    "new-england-revolution": "https://www.revolutionsoccer.net",
+    "new-york-city-fc": "https://www.newyorkcityfc.com",
+    "new-york-red-bulls": "https://www.newyorkredbulls.com",
+    "orlando-city": "https://www.orlandocitysc.com",
+    "parma": "https://www.parmacalcio1913.com",
+    "philadelphia-union": "https://www.philadelphiaunion.com",
+    "pisa": "https://pisasportingclub.com",
+    "portland-timbers": "https://www.timbers.com",
+    "racing-bulls": "https://www.visacashapprb.com/int-en",
+    "real-salt-lake": "https://www.rsl.com",
+    "red-bull-racing": "https://www.redbullracing.com/int-en",
+    "san-diego-fc": "https://www.sandiegofc.com",
+    "san-jose-earthquakes": "https://www.sjearthquakes.com",
+    "sassuolo": "https://www.sassuolocalcio.it",
+    "seattle-sounders": "https://www.soundersfc.com",
+    "sporting-kansas-city": "https://www.sportingkc.com",
+    "st-louis-city": "https://www.stlcitysc.com",
+    "torino": "https://www.torinofc.it",
+    "toronto-fc": "https://www.torontofc.ca",
+    "udinese": "https://www.udinese.it",
+    "vancouver-whitecaps": "https://www.whitecapsfc.com",
+    "venezia": "https://www.veneziafc.it",
+    "williams": "https://www.williamsf1.com",
+})
+
 CONTACT_PATHS = [
     "/contact", "/contact-us", "/contacto", "/kontakt", "/en/contact",
     "/contactos", "/the-club/contact-us", "/clubs/contact", "/about/contact",
     "/kontakt/", "/contact.html", "/contact/index.html",
     "/impressum", "/en/kontakt", "/aviso-legal", "/legal-notice", "/rgpd",
     "/club/contacto", "/en/contact-us", "/about-us/contact", "/kontakt/kontakt",
+    # Italian
+    "/contatti", "/it/contatti", "/club/contatti", "/societa/contatti", "/contattaci",
+    # MLS / F1 team sites
+    "/contact-us/", "/contacts", "/contacto/", "/club/contact", "/fans/contact-us",
+    "/about/contact-us", "/en/contact/", "/it/contact",
 ]
-CONTACT_HINT = ("contact", "kontakt", "contacto", "impressum", "aviso-legal",
+CONTACT_HINT = ("contact", "kontakt", "contacto", "contatti", "impressum", "aviso-legal",
                 "legal-notice", "rgpd")
 
 EMAIL_RE = re.compile(r'mailto:([A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,})')
@@ -230,28 +304,58 @@ def pick(regex, html, skip, normalize=None):
         v = m.group(1)
         if normalize:
             v = normalize(v)
+        if v is None:
+            continue
         if v.lower() in skip or v in seen:
             continue
         seen.append(v)
     return seen
 
 
-def contact_page(root):
-    """Return (url, html) of the club's own contact page."""
+CONTACT_LINK_RE = re.compile(r"contact|contatt|kontakt|contacto|contatti|impressum|"
+                              r"supporter-liaison|aviso-legal", re.I)
+
+
+def contact_page(root, home_html=None):
+    """Return (url, html) of the club's own contact page.
+
+    Tries the links the homepage actually publishes first - club sites do not agree on
+    a path, and a fixed list misses most Italian, MLS and motorsport sites. Falls back
+    to the conventional paths.
+    """
+    cands, seen = [], set()
+    if home_html:
+        for href in re.findall(r'href="([^"]+)"', home_html):
+            if href.startswith(("mailto:", "tel:", "#")):
+                continue
+            if CONTACT_LINK_RE.search(href):
+                cands.append((urljoin(root, href), True))
     for p in CONTACT_PATHS:
-        if p in root:
+        if p not in root:
+            cands.append((root.rstrip("/") + p, False))
+
+    fallback = None
+    for cand, discovered in cands:
+        if cand in seen:
             continue
-        url, html = get(root.rstrip("/") + p)
+        seen.add(cand)
+        url, html = get(cand)
         if not url:
             continue
         low = url.lower()
         if any(k in low for k in ("404", "not-found")):
             continue
-        # only accept if it looks like a contact page
-        if EMAIL_RE.search(html) or TEL_RE.search(html) or "<form" in html.lower():
-            if any(k in low for k in CONTACT_HINT):
-                return url, html
-    return None, None
+        if not (discovered or any(k in low for k in CONTACT_HINT)):
+            continue
+        looks_like_contact = (EMAIL_RE.search(html) or TEL_RE.search(html)
+                              or "<form" in html.lower())
+        if looks_like_contact:
+            return url, html
+        # a real contact page whose details are rendered by JS: keep it as a fallback
+        # rather than discarding a page the club itself calls "contact"
+        if fallback is None:
+            fallback = (url, html)
+    return fallback if fallback else (None, None)
 
 
 def src_of(url):
@@ -324,13 +428,47 @@ OVERRIDES = {
         {"type": "instagram", "value": "@fcbarcelona",
          "source": src_of("https://www.fcbarcelona.com/")},
     ],
+    # club site serves a 404 shell to fetch clients; details read in a browser / from the club's own pages
+    "bayer-leverkusen": [
+        {"type": "phone", "value": "+4921450001904",
+         "source": src_of("https://www.bayer04.de/de-de")},
+        {"type": "x", "value": "@bayer04fussball",
+         "source": src_of("https://www.bayer04.de/de-de")},
+        {"type": "instagram", "value": "@bayer04fussball",
+         "source": src_of("https://www.bayer04.de/de-de")},
+    ],
+    "brooklyn-nets": [
+        {"type": "email", "value": "fans@brooklynnets.com",
+         "source": src_of("https://www.nba.com/nets/news/2020/03/13/a-letter-to-our-valued-fans")},
+        {"type": "phone", "value": "+19176186100",
+         "source": src_of("https://www.barclayscenter.com/connect-with-us/contact-us")},
+        {"type": "contact-form", "value": "https://www.barclayscenter.com/connect-with-us/contact-us",
+         "label": "Contact form", "source": src_of("https://www.barclayscenter.com/connect-with-us/contact-us")},
+        {"type": "x", "value": "@BrooklynNets",
+         "source": src_of("https://www.nba.com/nets/")},
+        {"type": "instagram", "value": "@brooklynnets",
+         "source": src_of("https://www.nba.com/nets/")},
+    ],
+    "houston-rockets": [
+        {"type": "phone", "value": "+17136273865",
+         "source": src_of("https://www.toyotacenter.com/connect-with-us/contact-us")},
+        {"type": "contact-form", "value": "https://www.toyotacenter.com/connect-with-us/contact-us",
+         "label": "Contact form", "source": src_of("https://www.toyotacenter.com/connect-with-us/contact-us")},
+        {"type": "x", "value": "@HoustonRockets",
+         "source": src_of("https://www.nba.com/rockets/")},
+        {"type": "instagram", "value": "@houstonrockets",
+         "source": src_of("https://www.nba.com/rockets/")},
+    ],
 }
 
 
 def build(club):
     pages = []
     home = None
-    for cand in SITES.get(club, []):
+    site = SITES.get(club, [])
+    if isinstance(site, str):
+        site = [site]
+    for cand in site:
         url, html = get(cand)
         if url:
             home = (url, html)
@@ -340,7 +478,7 @@ def build(club):
             return club, {"clubId": club, "channels": OVERRIDES[club], "lastChecked": DATE}
         return club, None
     pages.append(home)
-    cpage = contact_page(home[0])
+    cpage = contact_page(home[0], home[1])
     if cpage[0]:
         pages.append(cpage)
 

@@ -15,6 +15,15 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pipeline_data as A
 
+# ------------------------------------------------------------------ research additions
+# Output of convert_research.py: Serie A + MLS clubs, Premier League sleeve sponsors,
+# the 2026 F1 grid and its ratings. Anything already in normalized/ wins.
+RES = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                  "research_additions.json"), encoding="utf-8"))
+print("research additions: %d clubs, %d sponsors, %d owners, %d kits, %d ratings"
+      % (len(RES["clubs"]), len(RES["sponsors"]), len(RES["owners"]),
+         len(RES["kits"]), len(RES["ratings"])))
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 SEED = os.environ.get("BTJ_SEED", "/tmp/website/data/seed")
 OUT = os.path.join(HERE, "normalized")
@@ -76,7 +85,7 @@ write("tiers", load("tiers"))
 # ------------------------------------------------------------------ clubs
 clubs = load("clubs")
 by_id = {c["id"]: c for c in clubs}
-for c in A.NEW_CLUBS:
+for c in A.NEW_CLUBS + RES["clubs"]:
     by_id.setdefault(c["id"], c)
 if "schalke-04" in by_id:
     by_id["schalke-04"]["leagueId"] = "bundesliga"
@@ -88,7 +97,7 @@ print("clubs:", len(clubs))
 # ------------------------------------------------------------------ owners / sponsors
 owners = load("owners")
 oid = {o["id"]: o for o in owners}
-for o in A.NEW_OWNERS:
+for o in A.NEW_OWNERS + RES["owners"]:
     oid.setdefault(o["id"], o)
 # a few owners for existing seed sponsors
 for extra in [
@@ -108,8 +117,9 @@ write("owners", owners)
 
 ssponsors = load("sponsors")
 sid = {s["id"]: s for s in ssponsors}
-for s in A.NEW_SPONSORS:
-    sid.setdefault(s["id"], s)
+for s in A.NEW_SPONSORS + RES["sponsors"]:
+    sp = {k: v for k, v in s.items() if k != "ownerGuess"}
+    sid.setdefault(sp["id"], sp)
 for name, owner in [
     ("snapdragon", "qualcomm"),
     ("aia", "aia-group"),
@@ -136,7 +146,121 @@ for c in claims:
         if note:
             c["source"]["note"] = note
 claims += A.EXTRA_CLAIMS
+claims += [c for c in A.SEED_CLAIMS if c["id"] not in {x["id"] for x in claims}]
+for spn, cids in A.SEED_CLAIM_FIX.items():
+    if spn in sid and not sid[spn]["claimIds"]:
+        sid[spn]["claimIds"] = list(cids)
+
+# ---------------------------------------------------------------- researched ratings
+# Owner chain, evidence and tier for sponsors that were unrated. Nothing above
+# 'unrated' earns a tier without a claim, and every claim carries a source URL.
+import ratings_data as R  # noqa: E402
+
+claim_ids = {c["id"] for c in claims}
+owner_ids = {o["id"] for o in owners}
+rated = 0
+for r in R.RATINGS + RES["ratings"]:
+    s = sid.get(r["sponsorId"])
+    if s is None:
+        print("ratings: NO SPONSOR", r["sponsorId"])
+        continue
+    o = r["owner"]
+    if o["id"] not in owner_ids:
+        owners.append(A._o(o["id"], o["name"], o["type"], o["country"]))
+        owner_ids.add(o["id"])
+    cid = o["id"] + "-record"
+    if cid not in claim_ids:
+        claims.append({
+            "id": cid,
+            "ownerIds": [o["id"]],
+            "text": r["claim"]["text"],
+            "short": r["claim"]["short"],
+            "source": dict(r["claim"]["source"]),
+            "reviewed": False,
+        })
+        claim_ids.add(cid)
+    s["ownerId"] = o["id"]
+    s["ownership"] = r["ownership"]
+    s["tier"] = r["tier"]
+    s["status"] = "rated" if r["tier"] != "unrated" else "unrated"
+    s["verdict"] = r["verdict"]
+    ids = [cid]
+    for old in s.get("claimIds") or []:
+        if old not in ids and old in claim_ids:
+            ids.append(old)
+    s["claimIds"] = ids
+    if r.get("note"):
+        s["note"] = "Rating note: " + r["note"]
+    rated += 1
+print("ratings applied:", rated)
+
+# ------------------------------------------------- duplicate owner records
+# The same owner existed under two ids, each used by a different sponsor, so owner chains
+# and claims could split across them and no two records agreed on the parent. A cross-check
+# against the website caught Qatar, Saudi Arabia and Spotify. Keep the seed/website id,
+# repoint every reference, drop the stray.
+OWNER_MERGE = {
+    "gov-qatar": "government-of-qatar",
+    "gov-saudi-arabia": "government-of-saudi-arabia",
+    "spotify-technology-sa": "spotify-technology",
+    "baghdadi-capital": "baghdadi-capital-sa",
+    "barmenia-versicherungen": "barmenia-versicherungen-ag",
+    "c-hedenkamp": "c-hedenkamp-gmbh",
+    "digi-communications": "digi-communications-nv",
+    "land-baden-wuerttemberg": "lbbw",
+    "red-bull-gmbh": "mateschitz-yoovidhya-families",
+    "estrella-galicia": "corporacion-hijos-de-rivera",
+    "sesame-hr": "sesame-hr-sl",
+    "ursapharm": "ursapharm-arzneimittel-gmbh",
+    "pif": "saudi-pif",
+}
+_here = {o["id"] for o in owners}
+_merged = []
+for dup, keep in OWNER_MERGE.items():
+    if dup not in _here or keep not in _here:
+        continue
+    for _sp in sid.values():
+        if _sp.get("ownerId") == dup:
+            _sp["ownerId"] = keep
+    for _o in owners:
+        if _o.get("parentId") == dup:
+            _o["parentId"] = keep
+    for _c in claims:
+        if dup in (_c.get("ownerIds") or []):
+            _c["ownerIds"] = [keep if x == dup else x for x in _c["ownerIds"]]
+    owners = [_o for _o in owners if _o["id"] != dup]
+    _here.discard(dup)
+    _merged.append("%s -> %s" % (dup, keep))
+if _merged:
+    sponsors = list(sid.values())
+    print("owners: merged duplicates:", "; ".join(_merged))
+
+
+for o in owners:
+    for k in ("country", "via"):
+        if o.get(k) is None:
+            o.pop(k, None)
+# the owners schema allows only five types; fold the research vocabulary into them
+OWNER_TYPES = {"state", "state-fund", "listed-company", "private-company", "unknown"}
+TYPE_MAP = {
+    "individual": "private-company",
+    "family": "private-company",
+    "private-equity": "private-company",
+    "non-profit": "private-company",
+    "government": "state",
+    "sovereign-wealth-fund": "state-fund",
+    "fund": "state-fund",
+}
+for o in owners:
+    if o.get("type") not in OWNER_TYPES:
+        o["type"] = TYPE_MAP.get(o.get("type"), "private-company")
+owners.sort(key=lambda o: o["id"])
+write("owners", owners)
+sponsors = list(sid.values())
+sponsors.sort(key=lambda s: s["id"])
+write("sponsors", sponsors)
 write("claims", claims)
+print("claims:", len(claims), "| rated sponsors:", sum(1 for s in sponsors if s["tier"] != "unrated"))
 
 # ------------------------------------------------------------------ kits
 kits = load("kits")
@@ -288,6 +412,123 @@ for d in deals:
             "url": "https://visitrwanda.com/basketball-africa-league/",
         }
 
+# ------------------------------------------------------------------ research kits
+for k in RES["kits"]:
+    if k["id"] not in {x["id"] for x in kits}:
+        kits.append(dict(k))
+
+# sleeve / shorts placements from the research pass
+sleeved = 0
+for k in kits:
+    for extra in RES["sleeves"].get(k["clubId"], []):
+        if k["season"] != "2026-27" and k["clubId"] not in {c["id"] for c in RES["clubs"]}:
+            continue
+        if any(p["sponsorId"] == extra["sponsorId"] and p["placement"] == extra["placement"]
+               for p in k["sponsors"]):
+            continue
+        k["sponsors"].append({"sponsorId": extra["sponsorId"],
+                              "placement": extra["placement"],
+                              "source": extra["source"]})
+        sleeved += 1
+print("sleeve placements attached:", sleeved)
+
+# ------------------------------------------------- clubs research left without a shirt
+# Both of these clubs were added by the coverage pass without a kit, so their front
+# sponsor sat in sponsors.json attached to nothing.
+_EXTRA_KITS = [
+    ("lazio", "polymarket",
+     "Lazio lands Polymarket as shirt sponsor until 2028", "2026-04-20",
+     "https://www.sportcal.com/news/lazio-lands-polymarket-as-shirt-sponsor-until-2028/",
+     "Serie A. Prediction-market front, first Lazio front-of-shirt partner since Binance ended in 2023."),
+]
+for _club, _spn, _nm, _dt, _url, _sum in _EXTRA_KITS:
+    _kid = "%s-2026-27-home" % _club
+    if _kid not in {k["id"] for k in kits} and _spn in {x["id"] for x in sponsors}:
+        kits.append({
+            "id": _kid, "clubId": _club, "season": "2026-27", "kitType": "home",
+            "periodLabel": "2026-27", "periodFrom": "2026", "periodTo": "2027", "photos": {},
+            "sponsors": [{"sponsorId": _spn, "placement": "front",
+                          "source": {"name": _nm, "date": _dt, "url": _url}}],
+            "sponsorsComplete": False, "change": None, "summary": _sum,
+        })
+        print("kits: added", _kid)
+
+# ---------------------------------------------------------------- a kit for PSG
+# PSG is the only Ligue 1 club in the data and had no kit at all, so its Qatar Airways
+# front sponsor was not on any shirt. Qatar Airways has held the PSG front since 2022.
+if "paris-saint-germain-2026-27-home" not in {k["id"] for k in kits}:
+    kits.append({
+        "id": "paris-saint-germain-2026-27-home", "clubId": "paris-saint-germain",
+        "season": "2026-27", "kitType": "home", "periodLabel": "2026-27",
+        "periodFrom": "2026", "periodTo": "2027", "photos": {},
+        "sponsors": [{
+            "sponsorId": "qatar-airways", "placement": "front",
+            "source": {
+                "name": "Qatar Airways, official front of shirt sponsor of Paris Saint-Germain",
+                "date": "2022-06-29",
+                "url": "https://www.qatarairways.com/press-releases/en-WW/218264-qatar-airways-takes-paris-saint-germain-partnership-to-new-heights-as-the-official-front-of-shirt-sponsor/",
+            },
+        }],
+        "sponsorsComplete": False, "change": None,
+        "summary": "Ligue 1. Qatar Airways front, state-owned airline.",
+    })
+    print("kits: added paris-saint-germain-2026-27-home")
+
+# --------------------------------------------------------------- orphan kits
+# Two shirt images in the design manifest had no kit pointing at them.
+for k in A.ORPHAN_KITS:
+    if k["id"] not in {x["id"] for x in kits}:
+        kits.append(dict(k))
+
+# ------------------------------------------------- harness assets from the manifest
+# The website publishes assets/manifest.json listing every crest and shirt image it
+# holds. Attach them by club/season/kitType so a photo is never lost and a kit is
+# never pointed at a file that does not exist.
+import re
+
+PUBLIC = os.environ.get("BTJ_PUBLIC", os.path.join(os.path.dirname(SEED), os.pardir, "public"))
+PUBLIC = os.path.abspath(PUBLIC)
+MANIFEST = os.path.join(PUBLIC, "assets", "manifest.json")
+if os.path.exists(MANIFEST):
+    man = json.load(open(MANIFEST, encoding="utf-8"))
+    have_files = {a["file"] for a in man}
+    bykey = {}
+    crests = {}
+    for a in man:
+        base = os.path.basename(a["file"])
+        if a["kind"] == "crest":
+            crests[a["club"]] = a["file"]
+            continue
+        if not a.get("season") or a["kind"] not in ("shirt-photo", "shirt-square"):
+            continue
+        mt = re.search(r"-(home|away|third)-", base)
+        if not mt:
+            continue
+        side = "square" if a["kind"] == "shirt-square" else a.get("side")
+        if not side:
+            continue
+        bykey.setdefault((a["club"], a["season"], mt.group(1)), {})[side] = a["file"]
+    attached = 0
+    for k in kits:
+        key = (k["clubId"], k["season"], k["kitType"])
+        if key not in bykey:
+            continue
+        for side, f in bykey[key].items():
+            if k["photos"].get(side) != f:
+                k["photos"][side] = f
+                attached += 1
+    for c in clubs:
+        f = crests.get(c["id"])
+        if f and c.get("crest") != f:
+            c["crest"] = f
+    write("clubs", clubs)
+    print("assets: %d image refs attached, %d crests available" % (attached, len(crests)))
+    # anything on disk the kits still do not reference
+    used = {p for k in kits for p in k["photos"].values()}
+    orphans = sorted(f for f in have_files if f.startswith("assets/shirts/") and f not in used)
+    if orphans:
+        print("assets: UNREFERENCED shirt images:", orphans)
+
 write("kits", kits)
 print("kits:", len(kits))
 write("deals", deals)
@@ -295,6 +536,7 @@ write("deals", deals)
 # ------------------------------------------------------------------ changes / dropped
 changes = load("changes")
 changes += [c for c in A.EXTRA_CHANGES if c["id"] not in {x["id"] for x in changes}]
+changes += [c for c in A.ORPHAN_CHANGES if c["id"] not in {x["id"] for x in changes}]
 changes.sort(key=lambda c: c["id"], reverse=True)
 write("changes", changes)
 
@@ -312,17 +554,121 @@ cpath = os.path.join(HERE, "contacts_build.json")
 contacts = json.load(open(cpath, encoding="utf-8")) if os.path.exists(cpath) else []
 import build_contacts as BC  # noqa: E402
 
-have = {c["clubId"] for c in contacts}
 club_ids = {c["id"] for c in clubs}
+# the contact sweep is driven by a SITES map that can hold ids no longer in clubs.json
+contacts = [c for c in contacts if c["clubId"] in club_ids]
+have = {c["clubId"] for c in contacts}
 for cid in sorted(club_ids - have):
     if cid in BC.OVERRIDES:
         contacts.append({"clubId": cid, "channels": BC.OVERRIDES[cid], "lastChecked": A.D})
         print("contacts: override for", cid)
     else:
         print("contacts: STILL MISSING", cid)
+# merge the hand-checked channels into records that only got a partial scrape
+for c in contacts:
+    extra = BC.OVERRIDES.get(c["clubId"])
+    if not extra:
+        continue
+    seen = {(x["type"], x["value"]) for x in c["channels"]}
+    for ch in extra:
+        if (ch["type"], ch["value"]) not in seen:
+            c["channels"].append(ch)
 contacts.sort(key=lambda c: c["clubId"])
+# dedupe channels inside a record, keeping the first (which carries the earliest source)
+for c in contacts:
+    seen, keep = set(), []
+    for ch in c["channels"]:
+        k = (ch["type"], ch["value"])
+        if k in seen:
+            continue
+        seen.add(k)
+        keep.append(ch)
+    c["channels"] = keep
 write("contacts", contacts)
 print("contacts:", len(contacts))
+
+# ------------------------------------------------------- data/ mirror (legacy tree)
+# The handover shipped a per-club data/ tree in an older shape and said to regenerate
+# or drop it. The website reads normalized/ only, but other consumers may still read
+# these, and leaving them stale meant two id spaces for the same club. Regenerated
+# here so the two trees can no longer disagree.
+tier_rank = {"severe": 3, "serious": 2, "concern": 1, "none": 0, "unrated": -1}
+deals_by_club = {}
+for d in deals:
+    deals_by_club.setdefault(d["clubId"], []).append(d)
+kits_by_club = {}
+for k in kits:
+    kits_by_club.setdefault(k["clubId"], []).append(k)
+cont_by_club = {c["clubId"]: c for c in contacts}
+owners_by_id = {o["id"]: o for o in owners}
+sponsors_by_id = {s["id"]: s for s in sponsors}
+
+mirror_dir = os.path.join(os.path.dirname(OUT), "data")
+os.makedirs(mirror_dir, exist_ok=True)
+index = []
+for c in clubs:
+    cid = c["id"]
+    ch = cont_by_club.get(cid, {}).get("channels", [])
+    flat = {}
+    for x in ch:
+        flat.setdefault(x["type"], x["value"])
+    spns = []
+    for k in kits_by_club.get(cid, []):
+        for p in k["sponsors"]:
+            s = sponsors_by_id.get(p["sponsorId"])
+            if not s:
+                continue
+            rec = {
+                "id": s["id"],
+                "name": s["name"],
+                "placement": p["placement"],
+                "season": k["season"],
+                "tier": s["tier"],
+                "ownerId": s.get("ownerId"),
+                "owner": (owners_by_id.get(s.get("ownerId")) or {}).get("name"),
+                "verdict": s.get("verdict"),
+                "source": p.get("source"),
+            }
+            if not any(e["id"] == s["id"] and e["placement"] == p["placement"] for e in spns):
+                spns.append(rec)
+    for d in deals_by_club.get(cid, []):
+        s = sponsors_by_id.get(d.get("sponsorId") or "")
+        if s and not any(e["id"] == s["id"] for e in spns):
+            spns.append({"id": s["id"], "name": s["name"], "placement": d.get("placement"),
+                         "season": None, "tier": s["tier"], "ownerId": s.get("ownerId"),
+                         "owner": (owners_by_id.get(s.get("ownerId")) or {}).get("name"),
+                         "verdict": s.get("verdict"), "source": d.get("source")})
+    worst = max((tier_rank.get(e["tier"], -1) for e in spns), default=-1)
+    doc = {
+        "id": cid,
+        "team": c["name"],
+        "sport": c["sportId"],
+        "league": c["leagueId"],
+        "country": c.get("country"),
+        "contact": flat,
+        "sponsors": sorted(spns, key=lambda e: e["id"]),
+        "worstTier": [t for t, v in tier_rank.items() if v == worst][0] if worst >= 0 else "unrated",
+        "owners": sorted({e["ownerId"] for e in spns if e.get("ownerId")}),
+        "lastUpdated": meta.get("updatedAt"),
+    }
+    with open(os.path.join(mirror_dir, cid + ".json"), "w", encoding="utf-8") as f:
+        json.dump(doc, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    index.append({"id": cid, "name": c["name"], "sport": c["sportId"],
+                  "league": c["leagueId"], "file": cid + ".json"})
+with open(os.path.join(mirror_dir, "index.json"), "w", encoding="utf-8") as f:
+    json.dump({"version": "0.2", "canonical": "normalized/",
+               "last_updated": meta.get("updatedAt"), "teams": index},
+              f, indent=2, ensure_ascii=False)
+    f.write("\n")
+# drop files left over from the old naming (unicode slugs, renamed clubs)
+keep = {x["file"] for x in index} | {"index.json"}
+removed = []
+for fn in sorted(os.listdir(mirror_dir)):
+    if fn.endswith(".json") and fn not in keep:
+        os.remove(os.path.join(mirror_dir, fn))
+        removed.append(fn)
+print("data/ mirror: %d club files, %d stale removed" % (len(index), len(removed)))
 
 # ------------------------------------------------------------------ validate
 r = subprocess.run([sys.executable, VALIDATE, OUT, "--assets", "/tmp/website/public"],
