@@ -143,6 +143,15 @@ chk("no club is missing a shirt in a league that has shirts", not _short,
     "missing: " + ", ".join(sorted(_short))[:70])
 
 
+# 13 every sponsor is on something: a shirt or a deal, never floating
+_kit_sp = {p["sponsorId"] for k in kits for p in k["sponsors"]}
+_deal_sp = {d["sponsorId"] for d in deals}
+_dropped_sp = {d["sponsorId"] for d in dropped if d.get("sponsorId")}
+_floating = sorted(s["id"] for s in sponsors
+                   if s["id"] not in _kit_sp and s["id"] not in _deal_sp and s["id"] not in _dropped_sp)
+chk("no sponsor is attached to nothing", not _floating, ", ".join(_floating)[:80])
+
+
 fails = [r for r in out if r[0] == "FAIL"]
 for s, l, d in out:
     print(f"{s}  {l}" + (f"   -> {d}" if d else ""))

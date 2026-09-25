@@ -435,12 +435,7 @@ print("sleeve placements attached:", sleeved)
 # ------------------------------------------------- clubs research left without a shirt
 # Both of these clubs were added by the coverage pass without a kit, so their front
 # sponsor sat in sponsors.json attached to nothing.
-_EXTRA_KITS = [
-    ("lazio", "polymarket",
-     "Lazio lands Polymarket as shirt sponsor until 2028", "2026-04-20",
-     "https://www.sportcal.com/news/lazio-lands-polymarket-as-shirt-sponsor-until-2028/",
-     "Serie A. Prediction-market front, first Lazio front-of-shirt partner since Binance ended in 2023."),
-]
+_EXTRA_KITS = []
 for _club, _spn, _nm, _dt, _url, _sum in _EXTRA_KITS:
     _kid = "%s-2026-27-home" % _club
     if _kid not in {k["id"] for k in kits} and _spn in {x["id"] for x in sponsors}:
@@ -539,6 +534,62 @@ changes += [c for c in A.EXTRA_CHANGES if c["id"] not in {x["id"] for x in chang
 changes += [c for c in A.ORPHAN_CHANGES if c["id"] not in {x["id"] for x in changes}]
 changes.sort(key=lambda c: c["id"], reverse=True)
 write("changes", changes)
+
+# ------------------------------------------------------------------ Lazio's blank front
+# Lazio signed Polymarket in April 2026, Italy's ADM blacklisted the company in July for
+# taking bets without a licence, and the club terminated in August 2026 before the season
+# started. The shirt has no front, so the kit carries none and the short deal is recorded
+# here as a deal plus a change rather than as a live placement.
+_LAZIO_SRC = {"name": "SBC News", "date": "2026-08-12",
+              "url": "https://sbcnews.co.uk/europe/italy/2026/08/12/lazio-polymarket-2026/"}
+if "lazio-2026-27-home" not in {k["id"] for k in kits}:
+    kits.append({
+        "id": "lazio-2026-27-home", "clubId": "lazio", "season": "2026-27",
+        "kitType": "home", "periodLabel": "2026-27", "periodFrom": "2026",
+        "periodTo": "2027", "photos": {}, "sponsors": [],
+        "sponsorsComplete": False,
+        "change": {"kind": "worse", "badge": "Polymarket gone",
+                   "text": "Lazio start 2026-27 with a blank front: Polymarket signed in April, Italy's ADM blacklisted it in July, and the club terminated in August."},
+        "summary": "Serie A. No front sponsor. Polymarket signed in April 2026 and the deal was terminated on 11 August, before the season began.",
+    })
+    print("kits: added lazio-2026-27-home (blank front)")
+
+if "lazio-polymarket" not in {d["id"] for d in deals}:
+    deals.append({
+        "id": "lazio-polymarket", "clubId": "lazio", "orgName": None,
+        "sponsorId": "polymarket", "placement": "front",
+        "from": "2026-27", "to": None, "value": None, "source": _LAZIO_SRC,
+        "note": "Announced April 2026 as a record deal worth over $22m to 2028, then terminated on 11 August 2026 after four months because Polymarket held no ADM licence. The club kept the 2026-27 sum.",
+    })
+    print("deals: added lazio-polymarket (terminated)")
+
+if "2026-08-11-lazio-polymarket" not in {c["id"] for c in changes}:
+    changes.append({
+        "id": "2026-08-11-lazio-polymarket", "date": "2026-08-11", "datePrecision": "day",
+        "clubId": "lazio", "sponsorId": "polymarket", "kind": "worse",
+        "levelAfter": "not-rated",
+        "title": "Polymarket front ends after four months",
+        "text": "Italy's ADM blacklisted Polymarket in July 2026 for taking bets without a licence. Lazio removed the branding and terminated on 11 August, leaving the shirt blank for the new season.",
+        "source": _LAZIO_SRC,
+    })
+    print("changes: added 2026-08-11-lazio-polymarket")
+
+# F1 deals: the eleven teams had no deal records at all, so every one of their sponsors
+# floated with nothing to hang off. Placement mapped from the research vocabulary onto the
+# schema's.
+_rdf = os.path.join(HERE, "research_deals.json")
+if os.path.exists(_rdf):
+    _have_d = {d["id"] for d in deals}
+    _add = [d for d in json.load(open(_rdf, encoding="utf-8")) if d["id"] not in _have_d]
+    deals += _add
+    if _add:
+        print("deals: added %d from research (F1 grid, league-wide partners)" % len(_add))
+
+write("kits", kits)
+write("deals", deals)
+changes.sort(key=lambda c: c["id"], reverse=True)
+write("changes", changes)
+
 
 dropped = load("dropped")
 for d in dropped:

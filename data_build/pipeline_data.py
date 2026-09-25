@@ -285,6 +285,7 @@ def _o(oid, name, otype, country, parent=None, via=None, note=None):
 
 # owner chains for the new front sponsors (owners are entities, not page facts)
 NEW_OWNERS = [
+    _o("3m-company", "3M Company", "listed-company", "USA"),
     _o("blockratize", "Blockratize, Inc. (dba Polymarket)", "private-company", "USA"),
     _o("recruit-holdings", "Recruit Holdings", "listed-company", "Japan"),
     _o("indeed-inc", "Indeed, Inc.", "private-company", "USA", parent="recruit-holdings"),
@@ -347,6 +348,7 @@ def _s(sid, name, owner, ownership, aliases=None, note=None):
 
 
 NEW_SPONSORS = [
+    _s("3m", "3M", "3m-company", "owned", note="Cadillac F1 team partner."),
     _s("polymarket", "Polymarket", "blockratize", "owned",
        note="Crypto prediction market. Not an ADM-licensed operator in Italy, so the Lazio deal is branded on its information site."),
     # Bundesliga 2026/27 fronts

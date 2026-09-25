@@ -1,0 +1,1527 @@
+[
+ {
+  "id": "red-bull-racing-oracle",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "oracle",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.redbullracing.com/int-en/partners"
+  },
+  "note": "Oracle Red Bull Racing title partner on the 2026 car."
+ },
+ {
+  "id": "red-bull-racing-ford",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "ford",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.redbullracing.com/int-en/partners"
+  },
+  "note": "Oracle Red Bull Racing front partner on the 2026 car."
+ },
+ {
+  "id": "red-bull-racing-visa",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "visa",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
+   "date": "2026-02-21",
+   "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams"
+  },
+  "note": "Oracle Red Bull Racing sleeve partner on the 2026 car."
+ },
+ {
+  "id": "red-bull-racing-att",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "att",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "AT&T – AT&T turbocharges partnership with Oracle Red Bull Racing",
+   "date": "2024-06-06",
+   "url": "https://about.att.com/story/2024/oracle-red-bull-racing.html"
+  },
+  "note": "Oracle Red Bull Racing sleeve partner on the 2026 car."
+ },
+ {
+  "id": "red-bull-racing-hard-rock",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "hard-rock",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.redbullracing.com/int-en/partners"
+  },
+  "note": "Oracle Red Bull Racing other partner on the 2026 car."
+ },
+ {
+  "id": "red-bull-racing-siemens",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "siemens",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.redbullracing.com/int-en/partners"
+  },
+  "note": "Oracle Red Bull Racing other partner on the 2026 car."
+ },
+ {
+  "id": "red-bull-racing-mobil-1",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "mobil-1",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.redbullracing.com/int-en/partners"
+  },
+  "note": "Oracle Red Bull Racing other partner on the 2026 car."
+ },
+ {
+  "id": "red-bull-racing-gate",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "gate",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.redbullracing.com/int-en/partners"
+  },
+  "note": "Oracle Red Bull Racing other partner on the 2026 car."
+ },
+ {
+  "id": "red-bull-racing-damac",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "damac",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.redbullracing.com/int-en/partners"
+  },
+  "note": "Oracle Red Bull Racing other partner on the 2026 car."
+ },
+ {
+  "id": "red-bull-racing-tag-heuer",
+  "clubId": "red-bull-racing",
+  "orgName": null,
+  "sponsorId": "tag-heuer",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Oracle Red Bull Racing – Our Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.redbullracing.com/int-en/partners"
+  },
+  "note": "Oracle Red Bull Racing other partner on the 2026 car."
+ },
+ {
+  "id": "ferrari-hp",
+  "clubId": "ferrari",
+  "orgName": null,
+  "sponsorId": "hp",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Ferrari – Ferrari and HP announce a title partnership",
+   "date": "2024-04-24",
+   "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-hp-announce-a-title-partnership-corporate"
+  },
+  "note": "Scuderia Ferrari HP title partner on the 2026 car."
+ },
+ {
+  "id": "ferrari-shell",
+  "clubId": "ferrari",
+  "orgName": null,
+  "sponsorId": "shell",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Ferrari – Ferrari and Shell renew their partnership",
+   "date": "2026",
+   "url": "https://www.ferrari.com/en-EN/corporate/articles/ferrari-and-shell-renew-their-partnership"
+  },
+  "note": "Scuderia Ferrari HP front partner on the 2026 car."
+ },
+ {
+  "id": "ferrari-unicredit",
+  "clubId": "ferrari",
+  "orgName": null,
+  "sponsorId": "unicredit",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "UniCredit – Scuderia Ferrari partnership",
+   "date": "2026",
+   "url": "https://www.unicreditgroup.eu/en/unicredit-at-a-glance/art-culture-sport/sport/scuderia-ferrari.html"
+  },
+  "note": "Scuderia Ferrari HP sleeve partner on the 2026 car."
+ },
+ {
+  "id": "ferrari-ibm",
+  "clubId": "ferrari",
+  "orgName": null,
+  "sponsorId": "ibm",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Ferrari – Scuderia Ferrari HP announces a multi-year agreement with IBM as a Premium Partner",
+   "date": "2026",
+   "url": "https://www.ferrari.com/en-EN/formula1/articles/scuderia-ferrari-hp-announces-a-multi-year-agreement-with-ibm-as-a-premium-partner"
+  },
+  "note": "Scuderia Ferrari HP other partner on the 2026 car."
+ },
+ {
+  "id": "ferrari-puma",
+  "clubId": "ferrari",
+  "orgName": null,
+  "sponsorId": "puma",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "PUMA – Ferrari and PUMA announce long-term partnership extension",
+   "date": "2026",
+   "url": "https://about.puma.com/en/newsroom/news/ferrari-and-puma-announce-long-term-partnership-extension"
+  },
+  "note": "Scuderia Ferrari HP other partner on the 2026 car."
+ },
+ {
+  "id": "ferrari-ray-ban",
+  "clubId": "ferrari",
+  "orgName": null,
+  "sponsorId": "ray-ban",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Ferrari – Scuderia Ferrari HP partners page",
+   "date": "2026-09-24",
+   "url": "https://www.ferrari.com/en-EN/formula1/partners"
+  },
+  "note": "Scuderia Ferrari HP other partner on the 2026 car."
+ },
+ {
+  "id": "ferrari-peroni",
+  "clubId": "ferrari",
+  "orgName": null,
+  "sponsorId": "peroni",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Ferrari – Scuderia Ferrari HP partners page",
+   "date": "2026-09-24",
+   "url": "https://www.ferrari.com/en-EN/formula1/partners"
+  },
+  "note": "Scuderia Ferrari HP other partner on the 2026 car."
+ },
+ {
+  "id": "mercedes-petronas",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "petronas",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Mercedes-AMG F1 – Mercedes-AMG F1 and PETRONAS power towards two decades of partnership",
+   "date": "2022-09-28",
+   "url": "https://www.mercedesamgf1.com/news/mercedes-amg-f1-and-petronas-power-towards-two-decades-of-partnership-and-embrace-f1s-sustainable-future"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team title partner on the 2026 car."
+ },
+ {
+  "id": "mercedes-ineos-s",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "ineos-s",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.mercedesamgf1.com/partners"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team front partner on the 2026 car."
+ },
+ {
+  "id": "mercedes-crowdstrike",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "crowdstrike",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "CrowdStrike – Global partnership with Mercedes-AMG Petronas Motorsport",
+   "date": "2019-02-07",
+   "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-announces-global-partnership-with-mercedes-amg-petronas-motorsport-to-protect-the-formula-one-team-in-the-paddock-and-beyond/"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team sleeve partner on the 2026 car."
+ },
+ {
+  "id": "mercedes-qualcomm",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "qualcomm",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.mercedesamgf1.com/partners"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "mercedes-microsoft",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "microsoft",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.mercedesamgf1.com/partners"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "mercedes-ubs",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "ubs",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.mercedesamgf1.com/partners"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "mercedes-teamviewer",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "teamviewer",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.mercedesamgf1.com/partners"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "mercedes-g42",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "g42",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "G42 (Abu Dhabi) – Mercedes-AMG PETRONAS F1 Team announces G42 as an Official Partner",
+   "date": "2023-02-15",
+   "url": "https://www.g42.ai/resources/news/mercedes-amg-petronas-f1-team-announces-g42-official-partner"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "mercedes-adidas",
+  "clubId": "mercedes",
+  "orgName": null,
+  "sponsorId": "adidas",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Mercedes-AMG PETRONAS F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.mercedesamgf1.com/partners"
+  },
+  "note": "Mercedes-AMG PETRONAS F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "mclaren-mastercard",
+  "clubId": "mclaren",
+  "orgName": null,
+  "sponsorId": "mastercard",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "McLaren Racing – McLaren Racing announces Mastercard as Official Naming Partner from 2026",
+   "date": "2025-08-27",
+   "url": "https://www.mclaren.com/racing/formula-1/2025/mastercard-official-naming-partner-mclaren-formula-1-team-from-2026/"
+  },
+  "note": "McLaren Mastercard F1 Team title partner on the 2026 car."
+ },
+ {
+  "id": "mclaren-google",
+  "clubId": "mclaren",
+  "orgName": null,
+  "sponsorId": "google",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "McLaren Racing – McLaren Racing and Google announce partnership expansion",
+   "date": "2024-02-26",
+   "url": "https://www.mclaren.com/racing/formula-1/2024/mclaren-racing-and-google-announce-partnership-expansion/"
+  },
+  "note": "McLaren Mastercard F1 Team front partner on the 2026 car."
+ },
+ {
+  "id": "mclaren-okx",
+  "clubId": "mclaren",
+  "orgName": null,
+  "sponsorId": "okx",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "McLaren Racing – McLaren Racing announces expansion with Official Primary Partner OKX",
+   "date": "2023",
+   "url": "https://www.mclaren.com/racing/formula-1/2023/mclaren-racing-announces-expansion-with-official-primary-partner-okx"
+  },
+  "note": "McLaren Mastercard F1 Team sleeve partner on the 2026 car."
+ },
+ {
+  "id": "mclaren-cisco",
+  "clubId": "mclaren",
+  "orgName": null,
+  "sponsorId": "cisco",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "McLaren Racing – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.mclaren.com/racing/partners/"
+  },
+  "note": "McLaren Mastercard F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "mclaren-dell",
+  "clubId": "mclaren",
+  "orgName": null,
+  "sponsorId": "dell",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "McLaren Racing – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.mclaren.com/racing/partners/"
+  },
+  "note": "McLaren Mastercard F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "mclaren-gulf-oil",
+  "clubId": "mclaren",
+  "orgName": null,
+  "sponsorId": "gulf-oil",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "McLaren Racing – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.mclaren.com/racing/partners/"
+  },
+  "note": "McLaren Mastercard F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "aston-martin-aramco",
+  "clubId": "aston-martin",
+  "orgName": null,
+  "sponsorId": "aramco",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Aramco – Aston Martin Cognizant F1 Team and Aramco enter a long-term strategic partnership",
+   "date": "2022-02-03",
+   "url": "https://www.aramco.com/en/news-media/news/2022/aston-martin-cognizant-formula-one-team-and-aramco-enter-a--long-term-strategic-partnership"
+  },
+  "note": "Aston Martin Aramco F1 Team title partner on the 2026 car."
+ },
+ {
+  "id": "aston-martin-honda",
+  "clubId": "aston-martin",
+  "orgName": null,
+  "sponsorId": "honda",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Aston Martin Aramco Formula One Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.astonmartinf1.com/en-GB/partners"
+  },
+  "note": "Aston Martin Aramco F1 Team front partner on the 2026 car."
+ },
+ {
+  "id": "aston-martin-maaden",
+  "clubId": "aston-martin",
+  "orgName": null,
+  "sponsorId": "maaden",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Ma'aden (Saudi Arabian Mining Company) – Aston Martin Aramco and principal partner Ma'aden announce multi-year programme",
+   "date": "2026",
+   "url": "https://maaden.com/news-insights/latest-news/aston-martin-aramco-formula-one-team-and-principal-partner-maaden-announce-multi-year-youth-development-programme"
+  },
+  "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "aston-martin-coinbase",
+  "clubId": "aston-martin",
+  "orgName": null,
+  "sponsorId": "coinbase",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Coinbase – Coinbase brand partnership with Aston Martin Aramco Formula One Team",
+   "date": "2023-11-16",
+   "url": "https://www.coinbase.com/blog/coinbase-waves-the-green-flag-on-global-expansion-in-brand-partnership-with-Aston-Martin-Aramco-Formula-One-Team"
+  },
+  "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "aston-martin-cognizant",
+  "clubId": "aston-martin",
+  "orgName": null,
+  "sponsorId": "cognizant",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Aston Martin Aramco Formula One Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.astonmartinf1.com/en-GB/partners"
+  },
+  "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "aston-martin-valvoline",
+  "clubId": "aston-martin",
+  "orgName": null,
+  "sponsorId": "valvoline",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Aston Martin Aramco – AMF1 Team and Valvoline Global Operations announce strategic partnership",
+   "date": "2026",
+   "url": "https://www.astonmartinf1.com/en-GB/news/announcement/amf1-team-and-valvoline-global-operations-announce-strategic-partnership"
+  },
+  "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "aston-martin-netapp",
+  "clubId": "aston-martin",
+  "orgName": null,
+  "sponsorId": "netapp",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Aston Martin Aramco – Aston Martin Aramco and NetApp renew data-driven partnership",
+   "date": "2026",
+   "url": "https://www.astonmartinf1.com/en-GB/news/announcement/aston-martin-aramco-and-netapp-renew-data-driven-partnership"
+  },
+  "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "aston-martin-puma-am",
+  "clubId": "aston-martin",
+  "orgName": null,
+  "sponsorId": "puma-am",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Aston Martin Aramco Formula One Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.astonmartinf1.com/en-GB/partners"
+  },
+  "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "aston-martin-breitling",
+  "clubId": "aston-martin",
+  "orgName": null,
+  "sponsorId": "breitling",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Aston Martin Aramco Formula One Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.astonmartinf1.com/en-GB/partners"
+  },
+  "note": "Aston Martin Aramco F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "alpine-bwt",
+  "clubId": "alpine",
+  "orgName": null,
+  "sponsorId": "bwt",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.alpinef1.com/partners"
+  },
+  "note": "BWT Alpine F1 Team title partner on the 2026 car."
+ },
+ {
+  "id": "alpine-eni",
+  "clubId": "alpine",
+  "orgName": null,
+  "sponsorId": "eni",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Eni – Eni, Renault Group and BWT Alpine Formula One Team new strategic partnership (PDF)",
+   "date": "2025-02-13",
+   "url": "https://www.eni.com/content/dam/enicom/documents/press-release/migrated/2025-en/02/pr-eni-renault-group-bwt-alpine-formula-one-team-new-strategic-partnership.pdf"
+  },
+  "note": "BWT Alpine F1 Team front partner on the 2026 car."
+ },
+ {
+  "id": "alpine-qatar-airways",
+  "clubId": "alpine",
+  "orgName": null,
+  "sponsorId": "qatar-airways",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Qatar Airways – Qatar Airways and BWT Alpine Formula One Team unite with Carmen Jordá",
+   "date": "2026",
+   "url": "https://www.qatarairways.com/press-releases/en-WW/258365-qatar-airways-and-bwt-alpine-formula-one-team-unite-with-carmen-jorda-to-champion-female-empowerment-in-motorsport-and-aviation/"
+  },
+  "note": "BWT Alpine F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "alpine-msc-cruises",
+  "clubId": "alpine",
+  "orgName": null,
+  "sponsorId": "msc-cruises",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.alpinef1.com/partners"
+  },
+  "note": "BWT Alpine F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "alpine-etoro",
+  "clubId": "alpine",
+  "orgName": null,
+  "sponsorId": "etoro",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.alpinef1.com/partners"
+  },
+  "note": "BWT Alpine F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "alpine-boeing",
+  "clubId": "alpine",
+  "orgName": null,
+  "sponsorId": "boeing",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "BWT Alpine Formula One Team – Partners (title partner and partner tiers)",
+   "date": "2026-09-24",
+   "url": "https://www.alpinef1.com/partners"
+  },
+  "note": "BWT Alpine F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "williams-atlassian",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "atlassian",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Atlassian – Announcing Atlassian Williams Racing",
+   "date": "2025-02-11",
+   "url": "https://www.atlassian.com/blog/company-news/atlassian-williams-partnership"
+  },
+  "note": "Atlassian Williams F1 Team title partner on the 2026 car."
+ },
+ {
+  "id": "williams-komatsu",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "komatsu",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Atlassian Williams F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.williamsf1.com/partners"
+  },
+  "note": "Atlassian Williams F1 Team front partner on the 2026 car."
+ },
+ {
+  "id": "williams-barclays",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "barclays",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Atlassian Williams F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.williamsf1.com/partners"
+  },
+  "note": "Atlassian Williams F1 Team sleeve partner on the 2026 car."
+ },
+ {
+  "id": "williams-claude",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "claude",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Atlassian Williams F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.williamsf1.com/partners"
+  },
+  "note": "Atlassian Williams F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "williams-kraken",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "kraken",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Kraken – Williams Racing and Kraken announce global crypto partnership",
+   "date": "2026",
+   "url": "https://www.kraken.com/press/releases/williams-racing-and-kraken-announce-global-crypto-partnership-ahead-of-australian-grand-prix"
+  },
+  "note": "Atlassian Williams F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "williams-gulf-oil-w",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "gulf-oil-w",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Atlassian Williams F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.williamsf1.com/partners"
+  },
+  "note": "Atlassian Williams F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "williams-duracell",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "duracell",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Atlassian Williams F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.williamsf1.com/partners"
+  },
+  "note": "Atlassian Williams F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "williams-betway",
+  "clubId": "williams",
+  "orgName": null,
+  "sponsorId": "betway",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Atlassian Williams F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.williamsf1.com/partners"
+  },
+  "note": "Atlassian Williams F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "racing-bulls-visa-rb",
+  "clubId": "racing-bulls",
+  "orgName": null,
+  "sponsorId": "visa-rb",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Investor Relations – Visa renews partnership across Red Bull Formula One teams",
+   "date": "2026-02-21",
+   "url": "https://investor.visa.com/news/news-details/2026/Visa-Renews-Partnership-Across-Red-Bull-Formula-One-Teams"
+  },
+  "note": "Visa Cash App Racing Bulls F1 Team title partner on the 2026 car."
+ },
+ {
+  "id": "racing-bulls-cash-app",
+  "clubId": "racing-bulls",
+  "orgName": null,
+  "sponsorId": "cash-app",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.visacashapprb.com/en/partners"
+  },
+  "note": "Visa Cash App Racing Bulls F1 Team title partner on the 2026 car."
+ },
+ {
+  "id": "racing-bulls-red-bull-rb",
+  "clubId": "racing-bulls",
+  "orgName": null,
+  "sponsorId": "red-bull",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.visacashapprb.com/en/partners"
+  },
+  "note": "Visa Cash App Racing Bulls F1 Team front partner on the 2026 car."
+ },
+ {
+  "id": "racing-bulls-ford-rb",
+  "clubId": "racing-bulls",
+  "orgName": null,
+  "sponsorId": "ford-rb",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.visacashapprb.com/en/partners"
+  },
+  "note": "Visa Cash App Racing Bulls F1 Team sleeve partner on the 2026 car."
+ },
+ {
+  "id": "racing-bulls-tudor",
+  "clubId": "racing-bulls",
+  "orgName": null,
+  "sponsorId": "tudor",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.visacashapprb.com/en/partners"
+  },
+  "note": "Visa Cash App Racing Bulls F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "racing-bulls-hugo",
+  "clubId": "racing-bulls",
+  "orgName": null,
+  "sponsorId": "hugo",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.visacashapprb.com/en/partners"
+  },
+  "note": "Visa Cash App Racing Bulls F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "racing-bulls-mobil-1-rb",
+  "clubId": "racing-bulls",
+  "orgName": null,
+  "sponsorId": "mobil-1-rb",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.visacashapprb.com/en/partners"
+  },
+  "note": "Visa Cash App Racing Bulls F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "racing-bulls-salesforce",
+  "clubId": "racing-bulls",
+  "orgName": null,
+  "sponsorId": "salesforce",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.visacashapprb.com/en/partners"
+  },
+  "note": "Visa Cash App Racing Bulls F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "racing-bulls-nouryon",
+  "clubId": "racing-bulls",
+  "orgName": null,
+  "sponsorId": "nouryon",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visa Cash App Racing Bulls F1 Team – Our Partners",
+   "date": "2026-09-24",
+   "url": "https://www.visacashapprb.com/en/partners"
+  },
+  "note": "Visa Cash App Racing Bulls F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "haas-tgr",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "tgr",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Haas F1 Team – Toyota Gazoo Racing set for title partnership with Haas F1 Team in 2026",
+   "date": "2025-12-04",
+   "url": "https://www.haasf1team.com/news/toyota-gazoo-racing-set-title-partnership-haas-f1-team-2026"
+  },
+  "note": "TGR Haas F1 Team title partner on the 2026 car."
+ },
+ {
+  "id": "haas-ic-markets",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "ic-markets",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+   "date": "2026-01-19",
+   "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+  },
+  "note": "TGR Haas F1 Team front partner on the 2026 car."
+ },
+ {
+  "id": "haas-singha",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "singha",
+  "placement": "back",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+   "date": "2026-01-19",
+   "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+  },
+  "note": "TGR Haas F1 Team rear partner on the 2026 car."
+ },
+ {
+  "id": "haas-commscope",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "commscope",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+   "date": "2026-01-19",
+   "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+  },
+  "note": "TGR Haas F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "haas-fix-network",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "fix-network",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Sector – Haas 2026 F1 car launch reveals new partners (livery positions)",
+   "date": "2026-01-19",
+   "url": "https://sector.world/2026/01/haas-2026-f1-car-launch-reveals-new-partners/"
+  },
+  "note": "TGR Haas F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "haas-mgm-rewards",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "mgm-rewards",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
+   "date": "2026-01-19",
+   "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+  },
+  "note": "TGR Haas F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "haas-zoomex",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "zoomex",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
+   "date": "2026-01-19",
+   "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+  },
+  "note": "TGR Haas F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "haas-alpinestars-h",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "alpinestars-h",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "TGR Haas F1 Team – Partners / VF-26 livery reveal",
+   "date": "2026-01-19",
+   "url": "https://www.haasf1team.com/news/tgr-haas-f1-team-reveals-vf-26-design-livery"
+  },
+  "note": "TGR Haas F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "audi-revolut",
+  "clubId": "audi",
+  "orgName": null,
+  "sponsorId": "revolut",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Revolut – Revolut becomes title partner of the future Audi F1 Team",
+   "date": "2025-07-30",
+   "url": "https://www.revolut.com/en-US/news/revolut_becomes_title_partner_of_the_future_audi_f1_team/"
+  },
+  "note": "Audi Revolut F1 Team title partner on the 2026 car."
+ },
+ {
+  "id": "audi-bp",
+  "clubId": "audi",
+  "orgName": null,
+  "sponsorId": "bp",
+  "placement": "front",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Audi Revolut F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.audif1.com/en/partners"
+  },
+  "note": "Audi Revolut F1 Team front partner on the 2026 car."
+ },
+ {
+  "id": "audi-castrol",
+  "clubId": "audi",
+  "orgName": null,
+  "sponsorId": "castrol",
+  "placement": "sleeve",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Castrol – Castrol to power the Audi Revolut F1 Team through new era",
+   "date": "2026",
+   "url": "https://www.castrol.com/en/global/corporate/about-castrol/newsroom/castrol-to-power-the-audi-revolut-f1-team-through-the-new-era.html"
+  },
+  "note": "Audi Revolut F1 Team sleeve partner on the 2026 car."
+ },
+ {
+  "id": "audi-visit-qatar",
+  "clubId": "audi",
+  "orgName": null,
+  "sponsorId": "visit-qatar",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Audi AG – Visit Qatar welcomed by the future Audi F1 Team as a new principal partner",
+   "date": "2025-11-29",
+   "url": "https://www.audi.com/en/press-releases/visit-qatar-welcomed-by-the-future-audi-f1-team-as-a-new-principal-partner-16923"
+  },
+  "note": "Audi Revolut F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "audi-adidas-a",
+  "clubId": "audi",
+  "orgName": null,
+  "sponsorId": "adidas-a",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Audi Revolut F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.audif1.com/en/partners"
+  },
+  "note": "Audi Revolut F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "audi-extreme-networks",
+  "clubId": "audi",
+  "orgName": null,
+  "sponsorId": "extreme-networks",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Audi Revolut F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.audif1.com/en/partners"
+  },
+  "note": "Audi Revolut F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "audi-liberty-broker",
+  "clubId": "audi",
+  "orgName": null,
+  "sponsorId": "liberty-broker",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Audi Revolut F1 Team – Partners",
+   "date": "2026-09-24",
+   "url": "https://www.audif1.com/en/partners"
+  },
+  "note": "Audi Revolut F1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "cadillac-twg-ai",
+  "clubId": "cadillac",
+  "orgName": null,
+  "sponsorId": "twg-ai",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Cadillac Formula 1 Team – Official Partners",
+   "date": "2026-09-24",
+   "url": "https://www.cadillacf1team.com/partners"
+  },
+  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "cadillac-3m",
+  "clubId": "cadillac",
+  "orgName": null,
+  "sponsorId": "3m",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Cadillac Formula 1 Team – Official Partners",
+   "date": "2026-09-24",
+   "url": "https://www.cadillacf1team.com/partners"
+  },
+  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "cadillac-claro",
+  "clubId": "cadillac",
+  "orgName": null,
+  "sponsorId": "claro",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Cadillac Formula 1 Team – Official Partners",
+   "date": "2026-09-24",
+   "url": "https://www.cadillacf1team.com/partners"
+  },
+  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "cadillac-core-scientific",
+  "clubId": "cadillac",
+  "orgName": null,
+  "sponsorId": "core-scientific",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Cadillac Formula 1 Team – Official Partners",
+   "date": "2026-09-24",
+   "url": "https://www.cadillacf1team.com/partners"
+  },
+  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "cadillac-ifs",
+  "clubId": "cadillac",
+  "orgName": null,
+  "sponsorId": "ifs",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Cadillac Formula 1 Team – Official Partners",
+   "date": "2026-09-24",
+   "url": "https://www.cadillacf1team.com/partners"
+  },
+  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "cadillac-jim-beam",
+  "clubId": "cadillac",
+  "orgName": null,
+  "sponsorId": "jim-beam",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Cadillac Formula 1 Team – Official Partners",
+   "date": "2026-09-24",
+   "url": "https://www.cadillacf1team.com/partners"
+  },
+  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "cadillac-tenneco",
+  "clubId": "cadillac",
+  "orgName": null,
+  "sponsorId": "tenneco",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Cadillac Formula 1 Team – Official Partners",
+   "date": "2026-09-24",
+   "url": "https://www.cadillacf1team.com/partners"
+  },
+  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "cadillac-tommy-hilfiger",
+  "clubId": "cadillac",
+  "orgName": null,
+  "sponsorId": "tommy-hilfiger",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Cadillac Formula 1 Team – Official Partners",
+   "date": "2026-09-24",
+   "url": "https://www.cadillacf1team.com/partners"
+  },
+  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "cadillac-alpinestars-c",
+  "clubId": "cadillac",
+  "orgName": null,
+  "sponsorId": "alpinestars-c",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Cadillac Formula 1 Team – Official Partners",
+   "date": "2026-09-24",
+   "url": "https://www.cadillacf1team.com/partners"
+  },
+  "note": "Cadillac Formula 1 Team other partner on the 2026 car."
+ },
+ {
+  "id": "formula-1-crypto-com",
+  "clubId": null,
+  "orgName": "Formula 1",
+  "sponsorId": "crypto-com",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Formula 1 – Crypto.com and Formula 1 extend partnership through to 2030",
+   "date": "2026",
+   "url": "https://www.formula1.com/en/latest/article/crypto-com-and-formula-1-extend-partnership-through-to-2030.1fN9lgaYJ3crSITENVLBwc"
+  },
+  "note": "Formula 1 league-wide partner, so attached to no single team.",
+  "leagueId": "formula-1"
+ },
+ {
+  "id": "formula-1-qatar-airways-global",
+  "clubId": null,
+  "orgName": "Formula 1",
+  "sponsorId": "qatar-airways-global",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Qatar Airways – Qatar Airways hits the circuit as the Official Airline and Global Partner of Formula 1",
+   "date": "2023-02-22",
+   "url": "https://www.qatarairways.com/press-releases/en-WW/223444-qatar-airways-hits-the-circuit-as-the-official-airline-and-global-partner-of-formula-1"
+  },
+  "note": "Formula 1 league-wide partner, so attached to no single team.",
+  "leagueId": "formula-1"
+ },
+ {
+  "id": "formula-1-lenovo",
+  "clubId": null,
+  "orgName": "Formula 1",
+  "sponsorId": "lenovo",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Lenovo – Formula 1 partnership",
+   "date": "2026",
+   "url": "https://lenovo.com/us/en/sports-partners/formula1"
+  },
+  "note": "Formula 1 league-wide partner, so attached to no single team.",
+  "leagueId": "formula-1"
+ },
+ {
+  "id": "formula-1-dhl",
+  "clubId": null,
+  "orgName": "Formula 1",
+  "sponsorId": "dhl",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "DHL Group – DHL renews partnership with Formula 1",
+   "date": "2024-11-25",
+   "url": "https://group.dhl.com/en/media-relations/press-releases/2024/dhl-renews-partnership-with-formula-1.html"
+  },
+  "note": "Formula 1 league-wide partner, so attached to no single team.",
+  "leagueId": "formula-1"
+ },
+ {
+  "id": "formula-1-pirelli",
+  "clubId": null,
+  "orgName": "Formula 1",
+  "sponsorId": "pirelli",
+  "placement": "league-partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "FIA/Wikipedia – Pirelli sole tyre supplier for all teams",
+   "date": "2026",
+   "url": "https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship"
+  },
+  "note": "Formula 1 league-wide partner, so attached to no single team.",
+  "leagueId": "formula-1"
+ },
+ {
+  "id": "haas-uralkali",
+  "clubId": "haas",
+  "orgName": null,
+  "sponsorId": "uralkali",
+  "placement": "front",
+  "from": "2021",
+  "to": "2022",
+  "value": null,
+  "source": {
+   "name": "Uralkali was Haas title sponsor until the 2022 split",
+   "date": "2026",
+   "url": "https://www.formula1.com/en/latest/article.haas-part-ways-with-title-sponsor-uralkali.4k1m4eFTTTRHEbDwKjHkOs.html"
+  },
+  "note": "Title sponsor until the 2022 split; recorded so the owner chain is reachable."
+ },
+ {
+  "id": "newcastle-united-visit-saudi",
+  "clubId": "newcastle-united",
+  "orgName": null,
+  "sponsorId": "visit-saudi",
+  "placement": "partner",
+  "from": "2026",
+  "to": null,
+  "value": null,
+  "source": {
+   "name": "Visit Saudi, Newcastle United partner",
+   "date": "2026",
+   "url": "https://www.visitvisitsaudi.com/"
+  },
+  "note": "Saudi state tourism body; club is majority-owned by the Saudi PIF."
+ }
+]
