@@ -6184,9 +6184,7 @@
     "periodLabel": "2022-23",
     "periodFrom": "2022",
     "periodTo": "2023",
-    "photos": {
-      "square": "assets/shirts/grid/bayern-munich-2022-23-home-front-square.jpg"
-    },
+    "photos": {},
     "sponsors": [
       {
         "sponsorId": "deutsche-telekom",
@@ -6210,9 +6208,7 @@
     "periodLabel": "2021-22",
     "periodFrom": "2021",
     "periodTo": "2022",
-    "photos": {
-      "square": "assets/shirts/grid/schalke-04-2021-22-home-front-square.jpg"
-    },
+    "photos": {},
     "sponsors": [
       {
         "sponsorId": "gazprom",

@@ -334,7 +334,7 @@
     "sportId": "soccer",
     "leagueId": "ligue-1",
     "country": "France",
-    "crest": null,
+    "crest": "assets/crests/paris-saint-germain.png",
     "aliases": [
       "psg",
       "paris"
@@ -349,7 +349,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/la-clippers.png",
     "aliases": [
       "clippers",
       "nba"
@@ -364,7 +364,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/la-rams.png",
     "aliases": [
       "rams",
       "nfl"
@@ -379,7 +379,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/athletic-club.png",
     "aliases": [
       "athletic bilbao",
       "bilbao"
@@ -394,7 +394,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/osasuna.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -406,7 +406,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/celta-vigo.png",
     "aliases": [
       "celta"
     ],
@@ -420,7 +420,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/deportivo-alaves.png",
     "aliases": [
       "alaves"
     ],
@@ -434,7 +434,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/elche.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -446,7 +446,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/barcelona.png",
     "aliases": [
       "barca",
       "fcb"
@@ -461,7 +461,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/getafe.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -473,7 +473,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/levante.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -485,7 +485,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/malaga.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -497,7 +497,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/racing-santander.png",
     "aliases": [
       "racing"
     ],
@@ -511,7 +511,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/rayo-vallecano.png",
     "aliases": [
       "rayo"
     ],
@@ -525,7 +525,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/deportivo-la-coruna.png",
     "aliases": [
       "deportivo"
     ],
@@ -539,7 +539,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/espanyol.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -551,7 +551,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/real-betis.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -563,7 +563,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/real-sociedad.png",
     "aliases": [
       "la real"
     ],
@@ -577,7 +577,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/sevilla.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -589,7 +589,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/valencia.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -601,7 +601,7 @@
     "sportId": "soccer",
     "leagueId": "la-liga",
     "country": "Spain",
-    "crest": null,
+    "crest": "assets/crests/villarreal.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -613,7 +613,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/fc-augsburg.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -625,7 +625,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/union-berlin.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -637,7 +637,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/werder-bremen.png",
     "aliases": [
       "bremen"
     ],
@@ -651,7 +651,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/borussia-dortmund.png",
     "aliases": [
       "bvb"
     ],
@@ -665,7 +665,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/sv-elversberg.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -677,7 +677,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/eintracht-frankfurt.png",
     "aliases": [
       "sge"
     ],
@@ -691,7 +691,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/sc-freiburg.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -703,7 +703,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/hamburger-sv.png",
     "aliases": [
       "hsv"
     ],
@@ -717,7 +717,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/tsg-hoffenheim.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -729,7 +729,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/fc-koln.png",
     "aliases": [
       "koln",
       "cologne"
@@ -744,7 +744,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/rb-leipzig.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -756,7 +756,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/bayer-leverkusen.png",
     "aliases": [
       "leverkusen"
     ],
@@ -770,7 +770,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/mainz-05.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -782,7 +782,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/borussia-monchengladbach.png",
     "aliases": [
       "gladbach"
     ],
@@ -796,7 +796,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/sc-paderborn-07.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -808,7 +808,7 @@
     "sportId": "soccer",
     "leagueId": "bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/vfb-stuttgart.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -820,7 +820,7 @@
     "sportId": "soccer",
     "leagueId": "2-bundesliga",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/vfl-wolfsburg.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -832,7 +832,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/atlanta-hawks.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -844,7 +844,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/boston-celtics.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -856,7 +856,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/brooklyn-nets.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -868,7 +868,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/charlotte-hornets.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -880,7 +880,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/chicago-bulls.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -892,7 +892,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/cleveland-cavaliers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -904,7 +904,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/dallas-mavericks.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -916,7 +916,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/denver-nuggets.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -928,7 +928,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/detroit-pistons.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -940,7 +940,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/golden-state-warriors.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -952,7 +952,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/houston-rockets.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -964,7 +964,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/indiana-pacers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -976,7 +976,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/los-angeles-lakers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -988,7 +988,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/memphis-grizzlies.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1000,7 +1000,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/miami-heat.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1012,7 +1012,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/milwaukee-bucks.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1024,7 +1024,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/minnesota-timberwolves.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1036,7 +1036,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-orleans-pelicans.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1048,7 +1048,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-york-knicks.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1060,7 +1060,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/oklahoma-city-thunder.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1072,7 +1072,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/orlando-magic.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1084,7 +1084,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/philadelphia-76ers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1096,7 +1096,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/phoenix-suns.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1108,7 +1108,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/portland-trail-blazers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1120,7 +1120,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/sacramento-kings.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1132,7 +1132,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/san-antonio-spurs.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1144,7 +1144,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "Canada",
-    "crest": null,
+    "crest": "assets/crests/toronto-raptors.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1156,7 +1156,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/utah-jazz.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1168,7 +1168,7 @@
     "sportId": "basketball",
     "leagueId": "nba",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/washington-wizards.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1180,7 +1180,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/arizona-cardinals.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1192,7 +1192,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/atlanta-falcons.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1204,7 +1204,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/baltimore-ravens.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1216,7 +1216,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/buffalo-bills.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1228,7 +1228,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/carolina-panthers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1240,7 +1240,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/chicago-bears.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1252,7 +1252,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/cincinnati-bengals.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1264,7 +1264,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/cleveland-browns.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1276,7 +1276,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/dallas-cowboys.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1288,7 +1288,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/denver-broncos.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1300,7 +1300,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/detroit-lions.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1312,7 +1312,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/green-bay-packers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1324,7 +1324,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/houston-texans.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1336,7 +1336,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/indianapolis-colts.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1348,7 +1348,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/jacksonville-jaguars.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1360,7 +1360,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/kansas-city-chiefs.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1372,7 +1372,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/las-vegas-raiders.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1384,7 +1384,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/los-angeles-chargers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1396,7 +1396,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/miami-dolphins.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1408,7 +1408,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/minnesota-vikings.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1420,7 +1420,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-england-patriots.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1432,7 +1432,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-orleans-saints.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1444,7 +1444,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-york-giants.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1456,7 +1456,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-york-jets.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1468,7 +1468,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/philadelphia-eagles.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1480,7 +1480,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/pittsburgh-steelers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1492,7 +1492,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/san-francisco-49ers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1504,7 +1504,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/seattle-seahawks.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1516,7 +1516,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/tampa-bay-buccaneers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1528,7 +1528,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/tennessee-titans.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1540,7 +1540,7 @@
     "sportId": "american-football",
     "leagueId": "nfl",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/washington-commanders.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1552,7 +1552,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/arizona-diamondbacks.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1564,7 +1564,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/athletics.png",
     "aliases": [
       "a's",
       "oakland athletics"
@@ -1579,7 +1579,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/atlanta-braves.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1591,7 +1591,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/baltimore-orioles.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1603,7 +1603,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/boston-red-sox.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1615,7 +1615,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/chicago-cubs.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1627,7 +1627,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/chicago-white-sox.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1639,7 +1639,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/cincinnati-reds.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1651,7 +1651,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/cleveland-guardians.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1663,7 +1663,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/colorado-rockies.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1675,7 +1675,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/detroit-tigers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1687,7 +1687,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/houston-astros.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1699,7 +1699,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/kansas-city-royals.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1711,7 +1711,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/los-angeles-angels.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1723,7 +1723,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/los-angeles-dodgers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1735,7 +1735,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/miami-marlins.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1747,7 +1747,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/milwaukee-brewers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1759,7 +1759,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/minnesota-twins.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1771,7 +1771,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-york-mets.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1783,7 +1783,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-york-yankees.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1795,7 +1795,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/philadelphia-phillies.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1807,7 +1807,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/pittsburgh-pirates.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1819,7 +1819,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/san-diego-padres.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1831,7 +1831,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/san-francisco-giants.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1843,7 +1843,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/seattle-mariners.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1855,7 +1855,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/st-louis-cardinals.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1867,7 +1867,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/tampa-bay-rays.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1879,7 +1879,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/texas-rangers.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1891,7 +1891,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "Canada",
-    "crest": null,
+    "crest": "assets/crests/toronto-blue-jays.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1903,7 +1903,7 @@
     "sportId": "baseball",
     "leagueId": "mlb",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/washington-nationals.png",
     "aliases": [],
     "hasTeamPageDesign": false
   },
@@ -1915,7 +1915,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/ac-milan.png",
     "aliases": []
   },
   {
@@ -1926,7 +1926,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "United Kingdom",
-    "crest": null,
+    "crest": "assets/crests/alpine.png",
     "aliases": []
   },
   {
@@ -1937,7 +1937,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/as-roma.png",
     "aliases": []
   },
   {
@@ -1948,7 +1948,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "United Kingdom",
-    "crest": null,
+    "crest": "assets/crests/aston-martin.png",
     "aliases": []
   },
   {
@@ -1959,7 +1959,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/atalanta.png",
     "aliases": []
   },
   {
@@ -1970,7 +1970,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/atlanta-united.png",
     "aliases": []
   },
   {
@@ -1981,7 +1981,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "Germany",
-    "crest": null,
+    "crest": "assets/crests/audi.png",
     "aliases": []
   },
   {
@@ -1992,7 +1992,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/austin-fc.png",
     "aliases": []
   },
   {
@@ -2003,7 +2003,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/bologna.png",
     "aliases": []
   },
   {
@@ -2014,7 +2014,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "United States",
-    "crest": null,
+    "crest": "assets/crests/cadillac.png",
     "aliases": []
   },
   {
@@ -2025,7 +2025,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/cagliari.png",
     "aliases": []
   },
   {
@@ -2036,7 +2036,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "Canada",
-    "crest": null,
+    "crest": "assets/crests/cf-montreal.png",
     "aliases": []
   },
   {
@@ -2047,7 +2047,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/charlotte-fc.png",
     "aliases": []
   },
   {
@@ -2058,7 +2058,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/chicago-fire.png",
     "aliases": []
   },
   {
@@ -2069,7 +2069,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/colorado-rapids.png",
     "aliases": []
   },
   {
@@ -2080,7 +2080,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/columbus-crew.png",
     "aliases": []
   },
   {
@@ -2091,7 +2091,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/como.png",
     "aliases": []
   },
   {
@@ -2102,7 +2102,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/dc-united.png",
     "aliases": []
   },
   {
@@ -2113,7 +2113,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/fc-cincinnati.png",
     "aliases": []
   },
   {
@@ -2124,7 +2124,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/fc-dallas.png",
     "aliases": []
   },
   {
@@ -2135,7 +2135,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/ferrari.png",
     "aliases": []
   },
   {
@@ -2146,7 +2146,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/fiorentina.png",
     "aliases": []
   },
   {
@@ -2157,7 +2157,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/frosinone.png",
     "aliases": []
   },
   {
@@ -2168,7 +2168,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/genoa.png",
     "aliases": []
   },
   {
@@ -2179,7 +2179,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "United States",
-    "crest": null,
+    "crest": "assets/crests/haas.png",
     "aliases": []
   },
   {
@@ -2190,7 +2190,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/houston-dynamo.png",
     "aliases": []
   },
   {
@@ -2201,7 +2201,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/inter-miami.png",
     "aliases": []
   },
   {
@@ -2212,7 +2212,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/inter-milan.png",
     "aliases": []
   },
   {
@@ -2223,7 +2223,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/juventus.png",
     "aliases": []
   },
   {
@@ -2234,7 +2234,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/la-galaxy.png",
     "aliases": []
   },
   {
@@ -2245,7 +2245,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/lazio.png",
     "aliases": []
   },
   {
@@ -2256,7 +2256,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/lecce.png",
     "aliases": []
   },
   {
@@ -2267,7 +2267,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/los-angeles-fc.png",
     "aliases": []
   },
   {
@@ -2278,7 +2278,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "United Kingdom",
-    "crest": null,
+    "crest": "assets/crests/mclaren.png",
     "aliases": []
   },
   {
@@ -2289,7 +2289,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "United Kingdom",
-    "crest": null,
+    "crest": "assets/crests/mercedes.png",
     "aliases": []
   },
   {
@@ -2300,7 +2300,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/minnesota-united.png",
     "aliases": []
   },
   {
@@ -2311,7 +2311,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/monza.png",
     "aliases": []
   },
   {
@@ -2322,7 +2322,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/napoli.png",
     "aliases": []
   },
   {
@@ -2333,7 +2333,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/nashville-sc.png",
     "aliases": []
   },
   {
@@ -2344,7 +2344,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-england-revolution.png",
     "aliases": []
   },
   {
@@ -2355,7 +2355,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-york-city-fc.png",
     "aliases": []
   },
   {
@@ -2366,7 +2366,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/new-york-red-bulls.png",
     "aliases": []
   },
   {
@@ -2377,7 +2377,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/orlando-city.png",
     "aliases": []
   },
   {
@@ -2388,7 +2388,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/parma.png",
     "aliases": []
   },
   {
@@ -2399,7 +2399,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/philadelphia-union.png",
     "aliases": []
   },
   {
@@ -2410,7 +2410,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/portland-timbers.png",
     "aliases": []
   },
   {
@@ -2421,7 +2421,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/racing-bulls.png",
     "aliases": []
   },
   {
@@ -2432,7 +2432,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/real-salt-lake.png",
     "aliases": []
   },
   {
@@ -2443,7 +2443,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "United Kingdom",
-    "crest": null,
+    "crest": "assets/crests/red-bull-racing.png",
     "aliases": []
   },
   {
@@ -2454,7 +2454,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/san-diego-fc.png",
     "aliases": []
   },
   {
@@ -2465,7 +2465,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/san-jose-earthquakes.png",
     "aliases": []
   },
   {
@@ -2476,7 +2476,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/sassuolo.png",
     "aliases": []
   },
   {
@@ -2487,7 +2487,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/seattle-sounders.png",
     "aliases": []
   },
   {
@@ -2498,7 +2498,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/sporting-kansas-city.png",
     "aliases": []
   },
   {
@@ -2509,7 +2509,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "USA",
-    "crest": null,
+    "crest": "assets/crests/st-louis-city.png",
     "aliases": []
   },
   {
@@ -2520,7 +2520,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/torino.png",
     "aliases": []
   },
   {
@@ -2531,7 +2531,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "Canada",
-    "crest": null,
+    "crest": "assets/crests/toronto-fc.png",
     "aliases": []
   },
   {
@@ -2542,7 +2542,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/udinese.png",
     "aliases": []
   },
   {
@@ -2553,7 +2553,7 @@
     "sportId": "soccer",
     "leagueId": "mls",
     "country": "Canada",
-    "crest": null,
+    "crest": "assets/crests/vancouver-whitecaps.png",
     "aliases": []
   },
   {
@@ -2564,7 +2564,7 @@
     "sportId": "soccer",
     "leagueId": "serie-a",
     "country": "Italy",
-    "crest": null,
+    "crest": "assets/crests/venezia.png",
     "aliases": []
   },
   {
@@ -2575,7 +2575,7 @@
     "sportId": "motorsport",
     "leagueId": "formula-1",
     "country": "United Kingdom",
-    "crest": null,
+    "crest": "assets/crests/williams.png",
     "aliases": []
   }
 ]
