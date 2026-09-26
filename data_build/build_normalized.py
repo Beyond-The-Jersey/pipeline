@@ -287,6 +287,9 @@ OWNER_MERGE = {
     "abu-dhabi-united-group": "government-of-abu-dhabi",
     # xrg's researched chain: XRG is ADNOC's investment arm, ADNOC is state-owned
     "adnoc": "government-of-abu-dhabi",
+    # main's US ratings pass vs the seed's Korean/EPL owners: same companies
+    "hyundai-owner": "hyundai-motor-group",
+    "qualcomm-incorporated": "qualcomm",
 }
 _here = {o["id"] for o in owners}
 _merged = []
@@ -314,6 +317,25 @@ if os.environ.get("BTJ_DEBUG_MERGE"):
             print("DEBUG skip (dup absent):", _d)
         elif _k not in _here:
             print("DEBUG skip (keep absent):", _d, "->", _k)
+
+# a couple of owners survive as stubs because the rating pass used a different owner id for
+# the same company; name and type them rather than leaving them 'unknown'
+OWNER_FIX = {
+    "jpmorgan-chase-owner": ("JPMorgan Chase & Co.", "listed-company", "USA"),
+}
+
+# 25 owners came back typed 'private-company' with an 'LLC' appended, but FedEx, Delta,
+# PayPal, MetLife, T-Mobile, Toyota, Nintendo and co are listed. Correct the listed ones;
+# the genuinely private (Acrisure, QuikTrip, Hard Rock, Ledger) and the mutuals stay.
+LISTED_OWNERS = ['cleveland-cliffs-owner', 'delta-air-lines-owner', 'empower-owner', 'fedex-owner', 'ibotta-owner', 'metlife-owner', 'motorola-owner', 'nintendo-owner', 'nrg-energy-reliant-brand-owner', 'paypal-owner', 'rocket-rocket-companies-owner', 'sofi-owner', 't-mobile-owner', 'toyota-owner', 'webull-owner']
+LISTED_OWNERS += ['allegiant-travel-company-owner', 'dream-finders-homes-owner']
+for _o in owners:
+    if _o["id"] in LISTED_OWNERS and _o.get("type") == "private-company":
+        _o["type"] = "listed-company"
+
+for _o in owners:
+    if _o["id"] in OWNER_FIX:
+        _o["name"], _o["type"], _o["country"] = OWNER_FIX[_o["id"]]
 
 # a couple of owners survive as stubs because the rating pass used a different owner id for
 # the same company; name and type them rather than leaving them 'unknown'
@@ -376,11 +398,8 @@ print("claims:", len(claims), "| rated sponsors:", sum(1 for s in sponsors if s[
 
 # ------------------------------------------------------------------ kits
 kits = load("kits")
-# the seed handover carried free-text headline/shortLine fields the schema never
-# had; the schema is authoritative, so drop them here rather than in the seed
-for _k in kits:
-    _k.pop("headline", None)
-    _k.pop("shortLine", None)
+# The seed's kit headline/shortLine are part of the website schema since the v3 team page
+# (website data/schema/kits.schema.json), so they are kept.
 have = {k["id"] for k in kits}
 for club, sponsor, srckey in A.FRONTS:
     kid = f"{club}-2026-27-home"
@@ -589,6 +608,11 @@ for sup, club_ids_ in KIT_MAKER_PLACEMENT.items():
                        "note": (sp_.get("note") or "Kit supplier per the target research.").strip()},
         })
         kit_["sponsorsComplete"] = False
+
+# US league jerseys: the patch is on the kit, the arena right is a deal below
+for k in U.NEW_KITS:
+    if k["id"] not in {x["id"] for x in kits}:
+        kits.append(dict(k))
 
 # US league jerseys: the patch is on the kit, the arena right is a deal below
 for k in U.NEW_KITS:
@@ -900,7 +924,7 @@ for fn in sorted(os.listdir(mirror_dir)):
 print("data/ mirror: %d club files, %d stale removed" % (len(index), len(removed)))
 
 # ------------------------------------------------------------------ validate
-r = subprocess.run([sys.executable, VALIDATE, OUT, "--assets", "/tmp/website/public"],
+r = subprocess.run([sys.executable, VALIDATE, OUT, "--assets", PUBLIC],
                    capture_output=True, text=True, errors="replace")
 out = r.stdout.strip()
 errs = [l for l in out.splitlines() if l.startswith("error:")]
